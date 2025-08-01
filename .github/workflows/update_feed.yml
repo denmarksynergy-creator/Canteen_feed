@@ -1,0 +1,37 @@
+name: Opdater Canteen RSS Feed
+
+on:
+  schedule:
+    - cron: "0 8 * * *"  
+  workflow_dispatch:
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Installer afhængigheder
+        run: |
+          pip install selenium beautifulsoup4 feedgen pytz
+
+      - name: Kør scraper-script
+        run: python canteen-rss-scraper.py
+
+      - name: Commit og push opdateret feed.xml
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          git commit -m "Opdateret RSS feed" || echo "Ingen ændringer at committe"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/arctoz00/canteen-rss-feed.git HEAD:main
+
