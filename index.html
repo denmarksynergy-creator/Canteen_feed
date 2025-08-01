@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta charset="UTF-8">
+  <title>Raw RSS Feed</title>
+</head>
+<body>
+  <pre id="rawFeed">Henter RSS-feed…</pre>
+  <script>
+    fetch('https://arctoz00.github.io/canteen-rss-feed/feed.xml')
+      .then(response => response.text())
+      .then(data => {
+        document.getElementById('rawFeed').textContent = data;
+      })
+      .catch(error => {
+        document.getElementById('rawFeed').textContent = 'Fejl ved hentning af feed: ' + error;
+      });
+  </script>
+</body>
+</html>
