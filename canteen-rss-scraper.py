@@ -13,7 +13,7 @@ from feedgen.feed import FeedGenerator  #RSS feed generation
 #URL to the canteen menu page
 MENU_URL = "https://hubnordic.madkastel.dk/"  
 #URL for the RSS feed  
-FEED_URL = "https://denmarksynergy-creator.github.io/canteen-rss-feed/feed.xml"
+FEED_URL = "https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml"
 #Local file in repo to save the RSS feed
 RSS_FILE = "feed.xml"
 
