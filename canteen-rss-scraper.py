@@ -285,7 +285,7 @@ def get_today_menus(menus_by_hub):
                         if i + 1 < len(unique_menu):
                             formatted_menu.append(f"   {unique_menu[i+1].strip()}")
                             i += 1  # skip next line since we already processed
-                        formatted_menu.append(" | ")  # break after the next line
+                        formatted_menu.append("")  # break after the next line
 
                     elif hub == "Globetrotter":  
                         # Globetrotter → break before veg line
