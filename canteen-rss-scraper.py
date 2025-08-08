@@ -281,9 +281,9 @@ def get_today_menus(menus_by_hub):
 
                     if hub in ["HUB2", "HUB3"]:  
                         # HUB2/3 → add veg line, then next line, then break
-                        formatted_menu.append(line)
+                        formatted_menu.append(line.upper())
                         if i + 1 < len(unique_menu):
-                            formatted_menu.append(f"   {unique_menu[i+1].strip().upper()}")
+                            formatted_menu.append(f"   {unique_menu[i+1].strip()}")
                             i += 1  # skip next line since we already processed
                         formatted_menu.append(" | ")  # break after the next line
 
