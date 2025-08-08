@@ -333,7 +333,11 @@ def generate_rss(menu_items):
     # Fill the feed with menu items 
     for i, item in enumerate(menu_items): 
         entry = fg.add_entry() # Add a new entry to the feed
-        entry.title(f"<![CDATA[{item}]]>") # Use CDATA to allow special characters in the title
+        #entry.title(f"<![CDATA[{item}]]>") # Use CDATA to allow special characters in the title
+        short_title = item.split(":")[0].strip()
+        if not short_title:
+            short_title = item[:50] + "..." if len(item) > 50 else item
+        entry.title(short_title)  # Short, SmartSign-friendly title
         entry.link(href=MENU_URL)  # Link to the canteen menu page
         entry.description(f"<![CDATA[{item}]]>")   # Use CDATA for the description to allow special characters
         entry.pubDate(datetime.datetime.now(pytz.utc)) 
