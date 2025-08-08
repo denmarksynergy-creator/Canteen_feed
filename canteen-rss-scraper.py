@@ -298,7 +298,7 @@ def get_today_menus(menus_by_hub):
                 i += 1                
 
 
-            menu_text = "\n".join(formatted_menu)
+            menu_text = "<br>".join(formatted_menu)
 
 
             
