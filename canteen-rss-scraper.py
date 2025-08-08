@@ -265,9 +265,9 @@ def get_today_menus(menus_by_hub):
                 if hub == "HUB1 – Kays" and (lower_line.startswith("vegetar:") or lower_line.startswith("vegetarian:")):
                     parts = line.split(":", 1)
                     if len(parts) > 1 and parts[1].strip():  # Has more text
-                        bolded_start = f"**{parts[0]}:** {parts[1].strip()}"
-                        formatted_menu.append(bolded_start)
-                        formatted_menu.append("")  # break after whole line
+                        caps_start = f"{parts[0].strip().upper()}: {parts[1].strip()}"
+                        formatted_menu.append(caps_start)
+                        formatted_menu.append(" | ")  # Use a visible separator instead of a line break
                     else:
                         formatted_menu.append(f"• {line}")
 
@@ -277,20 +277,15 @@ def get_today_menus(menus_by_hub):
                     if not line.endswith(":"):
                         line += ":"
                     # Bold the whole thing
-                    line = f"**{line.rstrip(':')}**:"
+                    line = f"{line.rstrip(':').upper()}:"
 
-                    if hub in ["HUB1 - Kays"]:  
-                        # HUB1 → break right after vegeter
-                        formatted_menu.append(line)
-                        formatted_menu.append("")  # break immediately
-
-                    elif hub in ["HUB2", "HUB3"]:  
+                    if hub in ["HUB2", "HUB3"]:  
                         # HUB2/3 → add veg line, then next line, then break
                         formatted_menu.append(line)
                         if i + 1 < len(unique_menu):
-                            formatted_menu.append(f"• {unique_menu[i+1].strip()}")
+                            formatted_menu.append(f"• {unique_menu[i+1].strip().upper()}")
                             i += 1  # skip next line since we already processed
-                        formatted_menu.append("")  # break after the next line
+                        formatted_menu.append(" | ")  # break after the next line
 
                     elif hub == "Globetrotter":  
                         # Globetrotter → break before veg line
@@ -298,9 +293,9 @@ def get_today_menus(menus_by_hub):
                         formatted_menu.append(line)
 
                 else:
-                    formatted_menu.append(f"• {line}")
+                    formatted_menu.append(f"• {line} | ")
 
-                i += 1
+                i += 1                
 
 
             menu_text = "\n".join(formatted_menu)
