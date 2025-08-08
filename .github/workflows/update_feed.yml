@@ -3,10 +3,10 @@ name: Update Canteen RSS Feed
 on:
   schedule:
     - cron: "0 7 * * 1"    # Monday at 09:00 Denmark time (07:00 UTC)
-    - cron: "0 6 * * 2"    # Tuesday at 08:00 Denmark time (06:00 UTC)
-    - cron: "0 6 * * 3"    # Wednesday at 08:00 Denmark time (06:00 UTC)
-    - cron: "0 6 * * 4"    # Thursday at 08:00 Denmark time (06:00 UTC)
-    - cron: "0 6 * * 5"    # Friday at 08:00 Denmark time (06:00 UTC)
+    - cron: "0 5 * * 2"    # Tuesday at 08:00 Denmark time (06:00 UTC)
+    - cron: "0 5 * * 3"    # Wednesday at 08:00 Denmark time (06:00 UTC)
+    - cron: "0 5 * * 4"    # Thursday at 08:00 Denmark time (06:00 UTC)
+    - cron: "0 5 * * 5"    # Friday at 08:00 Denmark time (06:00 UTC)
     - cron: "0 6 * * 6"    # Saturday at 08:00 Denmark time (06:00 UTC)
     - cron: "0 6 * * 0"    # Sunday at 08:00 Denmark time (06:00 UTC)
   workflow_dispatch:
