@@ -26,12 +26,16 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Installer libraries
+      - name: Install libraries
         run: |
           pip install selenium beautifulsoup4 feedgen pytz
 
-      - name: Excecute scraper-script
+      - name: Execute scraper-script
         run: python canteen-rss-scraper.py
+
+      - name: Enable Jekyll processing
+        run: |
+          rm -f .nojekyll
 
       - name: Commit and push to update feed.xml
         run: |
