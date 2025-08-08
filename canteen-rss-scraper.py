@@ -269,7 +269,7 @@ def get_today_menus(menus_by_hub):
                         formatted_menu.append(caps_start)
                         formatted_menu.append(" | ")  # Use a visible separator instead of a line break
                     else:
-                        formatted_menu.append(f"• {line}")
+                        formatted_menu.append(f"   {line}")
 
                 # Standalone vegetarians (just the word or word+colon)
                 elif lower_line in ["vegetar", "vegetarian", "vegetar:", "vegetarian:"]:
@@ -283,7 +283,7 @@ def get_today_menus(menus_by_hub):
                         # HUB2/3 → add veg line, then next line, then break
                         formatted_menu.append(line)
                         if i + 1 < len(unique_menu):
-                            formatted_menu.append(f"• {unique_menu[i+1].strip().upper()}")
+                            formatted_menu.append(f"   {unique_menu[i+1].strip().upper()}")
                             i += 1  # skip next line since we already processed
                         formatted_menu.append(" | ")  # break after the next line
 
@@ -293,7 +293,7 @@ def get_today_menus(menus_by_hub):
                         formatted_menu.append(line)
 
                 else:
-                    formatted_menu.append(f"• {line} | ")
+                    formatted_menu.append(f"   {line} | ")
 
                 i += 1                
 
@@ -303,9 +303,9 @@ def get_today_menus(menus_by_hub):
 
             
             if hub in ["Homebound", "Globetrotter", "Sprout"]:
-                today_menus.append(f"🍽 HUB1 - {hub} Lunch Menu:\n{menu_text}")
+                today_menus.append(f"🍽 HUB1 - {hub} Lunch Menu:  | \n{menu_text}")
             else:
-                today_menus.append(f"🍽 {hub} - Lunch Menu:\n{menu_text}")
+                today_menus.append(f"🍽 {hub} - Lunch Menu:  | \n{menu_text}")
     return today_menus
 
 def generate_rss(menu_items):
