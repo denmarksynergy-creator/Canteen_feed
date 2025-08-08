@@ -4,55 +4,55 @@
     <atom:link href="https://denmarksynergy-creator.github.io/canteen-rss-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Thursday, 07 August 2025]]></title>
+    <title><![CDATA[Canteen Menu - Friday, 08 August 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 07 Aug 2025 10:36:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 07:02:37 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title><![CDATA[HUB1 - Sprout : Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein.]]></title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[HUB1 - Sprout : Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein.]]></description>
-      <guid isPermaLink="false">urn:canteen:hub1-sprout:voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.-20250807-5</guid>
-      <pubDate>Thu, 07 Aug 2025 10:36:08 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:hub1-sprout:voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.-20250808-5</guid>
+      <pubDate>Fri, 08 Aug 2025 07:02:37 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[HUB1 - Homebound : Fiskefrikadeller med dampede kartofler, ærtepure og ristede gulerødder | Fishcakes with steamed potatoes, green pea puree and roasted carrots]]></title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[HUB1 - Homebound : Fiskefrikadeller med dampede kartofler, ærtepure og ristede gulerødder | Fishcakes with steamed potatoes, green pea puree and roasted carrots]]></description>
-      <guid isPermaLink="false">urn:canteen:hub1-homebound:fiskefrikadellermeddampedekartofler,ærtepureogristedegulerødder|fishcakeswithsteamedpotatoes,greenpeapureeandroastedcarrots-20250807-4</guid>
-      <pubDate>Thu, 07 Aug 2025 10:36:08 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:hub1-homebound:fiskefrikadellermeddampedekartofler,ærtepureogristedegulerødder|fishcakeswithsteamedpotatoes,greenpeapureeandroastedcarrots-20250808-4</guid>
+      <pubDate>Fri, 08 Aug 2025 07:02:37 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[HUB1 - Globetrotter : Kylling sharwarma med kålsalat, sumak, løg, tahin og harissa | Chicken sharwama, cabbage, sumak, onions, tahin and harissa | Vegetar: | Knoldselleri sharwarma med kålsalat, sumak, løg, tahin og harissa | Celeriac sharwama, cabbage, sumak, onions, tahin and harissa]]></title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[HUB1 - Globetrotter : Kylling sharwarma med kålsalat, sumak, løg, tahin og harissa | Chicken sharwama, cabbage, sumak, onions, tahin and harissa | Vegetar: | Knoldselleri sharwarma med kålsalat, sumak, løg, tahin og harissa | Celeriac sharwama, cabbage, sumak, onions, tahin and harissa]]></description>
-      <guid isPermaLink="false">urn:canteen:hub1-globetrotter:kyllingsharwarmamedkålsalat,sumak,løg,tahinogharissa|chickensharwama,cabbage,sumak,onions,tahinandharissa|vegetar:|knoldsellerisharwarmamedkålsalat,sumak,løg,tahinogharissa|celeriacsharwama,cabbage,sumak,onions,tahinandharissa-20250807-3</guid>
-      <pubDate>Thu, 07 Aug 2025 10:36:08 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:hub1-globetrotter:kyllingsharwarmamedkålsalat,sumak,løg,tahinogharissa|chickensharwama,cabbage,sumak,onions,tahinandharissa|vegetar:|knoldsellerisharwarmamedkålsalat,sumak,løg,tahinogharissa|celeriacsharwama,cabbage,sumak,onions,tahinandharissa-20250808-3</guid>
+      <pubDate>Fri, 08 Aug 2025 07:02:37 +0000</pubDate>
     </item>
     <item>
-      <title><![CDATA[HUB3: Sømandens livret – lavet med kærlighed og massere af tid. | Skipperlabskovs, lavet på Dansk sprængt oksetykkam, kartofler, frisk laurbær og sort peber. Serveret med syltede rødbeder, grov sennep, rugbrød og purløg | Vegetar | Gryderet a la Zanzibar med kokosmælk, søde kartofler, grønt, kikærter, sambal oelek, peanut butter og ris | The sailor’s favorite dish – made with love and lots of time. | “Skipper’s labskovs” made with Danish beef chuck, potatoes, fresh bay leaf and black pepper. Served with pickled beets mustard, rye bread and chives | Vegetarian | Zanzibar style stew with coconut milk, sweet potatoes, greens, chickpeas, sambal oelek, peanut butter and rice]]></title>
+      <title><![CDATA[HUB3: Besøg af pølsevognen med det hele | Vegetar | Han tager også veganske pølser med | Visit from the hot dog stand with everything | Vegetarian | ….And he also brings vegan sausages]]></title>
       <link>https://hubnordic.madkastel.dk/</link>
-      <description><![CDATA[HUB3: Sømandens livret – lavet med kærlighed og massere af tid. | Skipperlabskovs, lavet på Dansk sprængt oksetykkam, kartofler, frisk laurbær og sort peber. Serveret med syltede rødbeder, grov sennep, rugbrød og purløg | Vegetar | Gryderet a la Zanzibar med kokosmælk, søde kartofler, grønt, kikærter, sambal oelek, peanut butter og ris | The sailor’s favorite dish – made with love and lots of time. | “Skipper’s labskovs” made with Danish beef chuck, potatoes, fresh bay leaf and black pepper. Served with pickled beets mustard, rye bread and chives | Vegetarian | Zanzibar style stew with coconut milk, sweet potatoes, greens, chickpeas, sambal oelek, peanut butter and rice]]></description>
-      <guid isPermaLink="false">urn:canteen:hub3:sømandenslivret–lavetmedkærlighedogmassereaftid.|skipperlabskovs,lavetpådansksprængtoksetykkam,kartofler,frisklaurbærogsortpeber.serveretmedsyltederødbeder,grovsennep,rugbrødogpurløg|vegetar|gryderetalazanzibarmedkokosmælk,sødekartofler,grønt,kikærter,sambaloelek,peanutbutterogris|thesailor’sfavoritedish–madewithloveandlotsoftime.|“skipper’slabskovs”madewithdanishbeefchuck,potatoes,freshbayleafandblackpepper.servedwithpickledbeetsmustard,ryebreadandchives|vegetarian|zanzibarstylestewwithcoconutmilk,sweetpotatoes,greens,chickpeas,sambaloelek,peanutbutterandrice-20250807-2</guid>
-      <pubDate>Thu, 07 Aug 2025 10:36:08 +0000</pubDate>
+      <description><![CDATA[HUB3: Besøg af pølsevognen med det hele | Vegetar | Han tager også veganske pølser med | Visit from the hot dog stand with everything | Vegetarian | ….And he also brings vegan sausages]]></description>
+      <guid isPermaLink="false">urn:canteen:hub3:besøgafpølsevognenmeddethele|vegetar|hantagerogsåveganskepølsermed|visitfromthehotdogstandwitheverything|vegetarian|….andhealsobringsvegansausages-20250808-2</guid>
+      <pubDate>Fri, 08 Aug 2025 07:02:37 +0000</pubDate>
     </item>
     <item>
-      <title><![CDATA[HUB2: Harira – Nordafrikansk ret med braiseret lam, kikærter, bladkål, harissa og varme krydderier | Vegetar | Vegetarisk Harira – Nordafrikansk ret med auberginer kikærter, bladkål, harissa og varme krydderier og agurk | Harira – North African dish with braised lamb, chickpeas, kale, harissa and hot spices | Vegetarian | Vegetarian Harira – North African dish with eggplants, chickpeas, kale, harissa and hot spices]]></title>
+      <title><![CDATA[HUB2: Klassisk Flæskesteg sandwich  ( byg selv) | Vegetar | Stegt og marineret tofu sandwich  ( byg selv) | Classic Roast Pork Sandwich (Build Your Own) | Vegetarian | Fried and Marinated Tofu Sandwich (Build Your Own)]]></title>
       <link>https://hubnordic.madkastel.dk/</link>
-      <description><![CDATA[HUB2: Harira – Nordafrikansk ret med braiseret lam, kikærter, bladkål, harissa og varme krydderier | Vegetar | Vegetarisk Harira – Nordafrikansk ret med auberginer kikærter, bladkål, harissa og varme krydderier og agurk | Harira – North African dish with braised lamb, chickpeas, kale, harissa and hot spices | Vegetarian | Vegetarian Harira – North African dish with eggplants, chickpeas, kale, harissa and hot spices]]></description>
-      <guid isPermaLink="false">urn:canteen:hub2:harira–nordafrikanskretmedbraiseretlam,kikærter,bladkål,harissaogvarmekrydderier|vegetar|vegetariskharira–nordafrikanskretmedauberginerkikærter,bladkål,harissaogvarmekrydderierogagurk|harira–northafricandishwithbraisedlamb,chickpeas,kale,harissaandhotspices|vegetarian|vegetarianharira–northafricandishwitheggplants,chickpeas,kale,harissaandhotspices-20250807-1</guid>
-      <pubDate>Thu, 07 Aug 2025 10:36:08 +0000</pubDate>
+      <description><![CDATA[HUB2: Klassisk Flæskesteg sandwich  ( byg selv) | Vegetar | Stegt og marineret tofu sandwich  ( byg selv) | Classic Roast Pork Sandwich (Build Your Own) | Vegetarian | Fried and Marinated Tofu Sandwich (Build Your Own)]]></description>
+      <guid isPermaLink="false">urn:canteen:hub2:klassiskflæskestegsandwich(bygselv)|vegetar|stegtogmarinerettofusandwich(bygselv)|classicroastporksandwich(buildyourown)|vegetarian|friedandmarinatedtofusandwich(buildyourown)-20250808-1</guid>
+      <pubDate>Fri, 08 Aug 2025 07:02:37 +0000</pubDate>
     </item>
     <item>
-      <title><![CDATA[HUB1 – Kays: Pasta carbonara | En af de helt store italienske klassikere. | Vegetar: Grøntsags carbonara med ærter og zucchini | Classic italian | Vegetarian: Vegetable carbonara with green peas and zucchini]]></title>
+      <title><![CDATA[HUB1 – Kays: Spicy sprøde hotwings med mac’n’cheese og majs på kolben | Vegetar: Pakoras med mac’n’cheese og majs på kolben | Spicy crispy hot wings with mac’n’cheese and corn on the cob | Vegetarian: pakoras with mac’n’cheese and corn on the cob]]></title>
       <link>https://hubnordic.madkastel.dk/</link>
-      <description><![CDATA[HUB1 – Kays: Pasta carbonara | En af de helt store italienske klassikere. | Vegetar: Grøntsags carbonara med ærter og zucchini | Classic italian | Vegetarian: Vegetable carbonara with green peas and zucchini]]></description>
-      <guid isPermaLink="false">urn:canteen:hub1–kays:pastacarbonara|enafdeheltstoreitalienskeklassikere.|vegetar:grøntsagscarbonaramedærterogzucchini|classicitalian|vegetarian:vegetablecarbonarawithgreenpeasandzucchini-20250807-0</guid>
-      <pubDate>Thu, 07 Aug 2025 10:36:08 +0000</pubDate>
+      <description><![CDATA[HUB1 – Kays: Spicy sprøde hotwings med mac’n’cheese og majs på kolben | Vegetar: Pakoras med mac’n’cheese og majs på kolben | Spicy crispy hot wings with mac’n’cheese and corn on the cob | Vegetarian: pakoras with mac’n’cheese and corn on the cob]]></description>
+      <guid isPermaLink="false">urn:canteen:hub1–kays:spicysprødehotwingsmedmac’n’cheeseogmajspåkolben|vegetar:pakorasmedmac’n’cheeseogmajspåkolben|spicycrispyhotwingswithmac’n’cheeseandcornonthecob|vegetarian:pakoraswithmac’n’cheeseandcornonthecob-20250808-0</guid>
+      <pubDate>Fri, 08 Aug 2025 07:02:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
