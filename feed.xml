@@ -10,55 +10,81 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 08 Aug 2025 11:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 11:09:31 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
-   Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | &lt;br&gt;   Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|&lt;br&gt;ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250808-5</guid>
-      <pubDate>Fri, 08 Aug 2025 11:03:00 +0000</pubDate>
+   Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | 
+   Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250808-5</guid>
+      <pubDate>Fri, 08 Aug 2025 11:09:31 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Homebound Lunch Menu:  | 
-   Fiskefrikadeller med dampede kartofler, ærtepure og ristede gulerødder | &lt;br&gt;   Fishcakes with steamed potatoes, green pea puree and roasted carrots | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|fiskefrikadellermeddampedekartofler,ærtepureogristedegulerødder|&lt;br&gt;fishcakeswithsteamedpotatoes,greenpeapureeandroastedcarrots|-20250808-4</guid>
-      <pubDate>Fri, 08 Aug 2025 11:03:00 +0000</pubDate>
+   Fiskefrikadeller med dampede kartofler, ærtepure og ristede gulerødder | 
+   Fishcakes with steamed potatoes, green pea puree and roasted carrots | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|fiskefrikadellermeddampedekartofler,ærtepureogristedegulerødder|fishcakeswithsteamedpotatoes,greenpeapureeandroastedcarrots|-20250808-4</guid>
+      <pubDate>Fri, 08 Aug 2025 11:09:31 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
-   Kylling sharwarma med kålsalat, sumak, løg, tahin og harissa | &lt;br&gt;   Chicken sharwama, cabbage, sumak, onions, tahin and harissa | &lt;br&gt;&lt;br&gt;VEGETAR:&lt;br&gt;   Knoldselleri sharwarma med kålsalat, sumak, løg, tahin og harissa | &lt;br&gt;   Celeriac sharwama, cabbage, sumak, onions, tahin and harissa | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|kyllingsharwarmamedkålsalat,sumak,løg,tahinogharissa|&lt;br&gt;chickensharwama,cabbage,sumak,onions,tahinandharissa|&lt;br&gt;&lt;br&gt;vegetar:&lt;br&gt;knoldsellerisharwarmamedkålsalat,sumak,løg,tahinogharissa|&lt;br&gt;celeriacsharwama,cabbage,sumak,onions,tahinandharissa|-20250808-3</guid>
-      <pubDate>Fri, 08 Aug 2025 11:03:00 +0000</pubDate>
+   Kylling sharwarma med kålsalat, sumak, løg, tahin og harissa | 
+   Chicken sharwama, cabbage, sumak, onions, tahin and harissa | 
+
+VEGETAR:
+   Knoldselleri sharwarma med kålsalat, sumak, løg, tahin og harissa | 
+   Celeriac sharwama, cabbage, sumak, onions, tahin and harissa | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|kyllingsharwarmamedkålsalat,sumak,løg,tahinogharissa|chickensharwama,cabbage,sumak,onions,tahinandharissa|vegetar:knoldsellerisharwarmamedkålsalat,sumak,løg,tahinogharissa|celeriacsharwama,cabbage,sumak,onions,tahinandharissa|-20250808-3</guid>
+      <pubDate>Fri, 08 Aug 2025 11:09:31 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Besøg af pølsevognen med det hele | &lt;br&gt;VEGETAR:&lt;br&gt;   Han tager også veganske pølser med&lt;br&gt;&lt;br&gt;   Visit from the hot dog stand with everything | &lt;br&gt;VEGETARIAN:&lt;br&gt;   ….And he also brings vegan sausages&lt;br&gt;]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|besøgafpølsevognenmeddethele|&lt;br&gt;vegetar:&lt;br&gt;hantagerogsåveganskepølsermed&lt;br&gt;&lt;br&gt;visitfromthehotdogstandwitheverything|&lt;br&gt;vegetarian:&lt;br&gt;….andhealsobringsvegansausages&lt;br&gt;-20250808-2</guid>
-      <pubDate>Fri, 08 Aug 2025 11:03:00 +0000</pubDate>
+   Besøg af pølsevognen med det hele | 
+VEGETAR:
+   Han tager også veganske pølser med
+
+   Visit from the hot dog stand with everything | 
+VEGETARIAN:
+   ….And he also brings vegan sausages
+]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|besøgafpølsevognenmeddethele|vegetar:hantagerogsåveganskepølsermedvisitfromthehotdogstandwitheverything|vegetarian:….andhealsobringsvegansausages-20250808-2</guid>
+      <pubDate>Fri, 08 Aug 2025 11:09:31 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Klassisk Flæskesteg sandwich  ( byg selv) | &lt;br&gt;VEGETAR:&lt;br&gt;   Stegt og marineret tofu sandwich  ( byg selv)&lt;br&gt;&lt;br&gt;   Classic Roast Pork Sandwich (Build Your Own) | &lt;br&gt;VEGETARIAN:&lt;br&gt;   Fried and Marinated Tofu Sandwich (Build Your Own)&lt;br&gt;]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|klassiskflæskestegsandwich(bygselv)|&lt;br&gt;vegetar:&lt;br&gt;stegtogmarinerettofusandwich(bygselv)&lt;br&gt;&lt;br&gt;classicroastporksandwich(buildyourown)|&lt;br&gt;vegetarian:&lt;br&gt;friedandmarinatedtofusandwich(buildyourown)&lt;br&gt;-20250808-1</guid>
-      <pubDate>Fri, 08 Aug 2025 11:03:00 +0000</pubDate>
+   Klassisk Flæskesteg sandwich  ( byg selv) | 
+VEGETAR:
+   Stegt og marineret tofu sandwich  ( byg selv)
+
+   Classic Roast Pork Sandwich (Build Your Own) | 
+VEGETARIAN:
+   Fried and Marinated Tofu Sandwich (Build Your Own)
+]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|klassiskflæskestegsandwich(bygselv)|vegetar:stegtogmarinerettofusandwich(bygselv)classicroastporksandwich(buildyourown)|vegetarian:friedandmarinatedtofusandwich(buildyourown)-20250808-1</guid>
+      <pubDate>Fri, 08 Aug 2025 11:09:31 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Spicy sprøde hotwings med mac’n’cheese og majs på kolben | &lt;br&gt;VEGETAR: Pakoras med mac’n’cheese og majs på kolben&lt;br&gt; | &lt;br&gt;   Spicy crispy hot wings with mac’n’cheese and corn on the cob | &lt;br&gt;VEGETARIAN: pakoras with mac’n’cheese and corn on the cob&lt;br&gt; | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|spicysprødehotwingsmedmac’n’cheeseogmajspåkolben|&lt;br&gt;vegetar:pakorasmedmac’n’cheeseogmajspåkolben&lt;br&gt;|&lt;br&gt;spicycrispyhotwingswithmac’n’cheeseandcornonthecob|&lt;br&gt;vegetarian:pakoraswithmac’n’cheeseandcornonthecob&lt;br&gt;|-20250808-0</guid>
-      <pubDate>Fri, 08 Aug 2025 11:03:00 +0000</pubDate>
+   Spicy sprøde hotwings med mac’n’cheese og majs på kolben | 
+VEGETAR: Pakoras med mac’n’cheese og majs på kolben
+ | 
+   Spicy crispy hot wings with mac’n’cheese and corn on the cob | 
+VEGETARIAN: pakoras with mac’n’cheese and corn on the cob
+ | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|spicysprødehotwingsmedmac’n’cheeseogmajspåkolben|vegetar:pakorasmedmac’n’cheeseogmajspåkolben|spicycrispyhotwingswithmac’n’cheeseandcornonthecob|vegetarian:pakoraswithmac’n’cheeseandcornonthecob|-20250808-0</guid>
+      <pubDate>Fri, 08 Aug 2025 11:09:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
