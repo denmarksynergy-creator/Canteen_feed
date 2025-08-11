@@ -4,13 +4,91 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Sunday, 10 August 2025]]></title>
+    <title><![CDATA[Canteen Menu - Monday, 11 August 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Sun, 10 Aug 2025 06:54:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 07:43:55 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>🍽 HUB1 - Sprout Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
+   Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | 
+   Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250811-5</guid>
+      <pubDate>Mon, 11 Aug 2025 07:43:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Homebound Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB1 - Homebound Lunch Menu:  | 
+   Paneret rødspætte med persillesauce og dampede kartofler | 
+   Breaded plaice with parsleysauce and steamed potatoes | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|paneretrødspættemedpersillesauceogdampedekartofler|breadedplaicewithparsleysauceandsteamedpotatoes|-20250811-4</guid>
+      <pubDate>Mon, 11 Aug 2025 07:43:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
+   Grøn thai karry med kylling og kokosmælk. Masser grønt og urt. Serveret med ris | 
+   Thai green curry with chicken and coconut milk. With lots of greens and herbs. | 
+
+VEGETAR:
+   Grøn thai karry med tofu og kokosmælk. Masser grønt og urt. Serveret med ris | 
+   Thai green curry with tofu and coconut milk. With lots of greens and herbs. | 
+   Served with rice | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|grønthaikarrymedkyllingogkokosmælk.massergrøntogurt.serveretmedris|thaigreencurrywithchickenandcoconutmilk.withlotsofgreensandherbs.|vegetar:grønthaikarrymedtofuogkokosmælk.massergrøntogurt.serveretmedris|thaigreencurrywithtofuandcoconutmilk.withlotsofgreensandherbs.|servedwithrice|-20250811-3</guid>
+      <pubDate>Mon, 11 Aug 2025 07:43:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB3 - Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
+   Saftig kylling i cremet peanut-curry sauce, fyldt med peberfrugt, pak choy, kartofler og forårsløg. Serveret med brune ris, saltede peanuts og koriander til de modige. | 
+VEGETAR:
+   Cremet peanut-curry sauce, fyldt med bælgfrugter, peberfrugt, pak choy, kartofler og forårsløg. Serveret med brune ris, saltede peanuts og koriander til de modige.
+
+   Succulent chicken in a creamy peanut-curry sauce, filled with bell peppers, pak choy, potatoes and spring onions. Served with brown rice, salted peanuts and coriander for the brave. | 
+VEGETARIAN:
+   Creamy peanut-curry sauce, filled with legumes, bell peppers, pak choy, potatoes and spring onions. Served with brown rice, salted peanuts and coriander for the brave.
+]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|saftigkyllingicremetpeanut-currysauce,fyldtmedpeberfrugt,pakchoy,kartoflerogforårsløg.serveretmedbruneris,saltedepeanutsogkoriandertildemodige.|vegetar:cremetpeanut-currysauce,fyldtmedbælgfrugter,peberfrugt,pakchoy,kartoflerogforårsløg.serveretmedbruneris,saltedepeanutsogkoriandertildemodige.succulentchickeninacreamypeanut-currysauce,filledwithbellpeppers,pakchoy,potatoesandspringonions.servedwithbrownrice,saltedpeanutsandcorianderforthebrave.|vegetarian:creamypeanut-currysauce,filledwithlegumes,bellpeppers,pakchoy,potatoesandspringonions.servedwithbrownrice,saltedpeanutsandcorianderforthebrave.-20250811-2</guid>
+      <pubDate>Mon, 11 Aug 2025 07:43:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB2 - Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
+   Dansk sommergryde | 
+   Med stegt kylling, nye dansk økologiske kartofler og grønne asparges samt grønne urter. | 
+VEGETAR:
+   med nye dansk økologiske kartofler og grønne asparges hertil en grøntsags terrin on the side og en let og luftig ærtepure samt grønne urter.
+
+   Danish summer stew | 
+   With diced fried chicken, new Danish organic potatoes and green asparagus, as well as a summer mix of green herbs on top. | 
+VEGETARIAN:
+   with new Danish organic potatoes and green asparagus, a vegetable terrine on the side and a light and airy pea puree as well as a summer mix of green herbs on top.
+]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|dansksommergryde|medstegtkylling,nyedanskøkologiskekartofleroggrønneaspargessamtgrønneurter.|vegetar:mednyedanskøkologiskekartofleroggrønneaspargeshertilengrøntsagsterrinonthesideogenletogluftigærtepuresamtgrønneurter.danishsummerstew|withdicedfriedchicken,newdanishorganicpotatoesandgreenasparagus,aswellasasummermixofgreenherbsontop.|vegetarian:withnewdanishorganicpotatoesandgreenasparagus,avegetableterrineonthesideandalightandairypeapureeaswellasasummermixofgreenherbsontop.-20250811-1</guid>
+      <pubDate>Mon, 11 Aug 2025 07:43:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 – Kays - Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
+   Æble/timian medister, letstuvet kål med masser af friske sommer urter | 
+   Serveret med dampet kartofler og grov sennep. | 
+   Vegetar:
+   Vegetarisk pølse, letstuvet kål med masser af friske sommer urter | 
+   Apple/thyme “medister” sausage, creamy cabbage with lots of fresh summer herbs. Potatoes and mustard. | 
+   Vegetarian:
+   Vegetarian sausage,creamy cabbage with lots of fresh summer herbs. Potatoes and mustard. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|æble/timianmedister,letstuvetkålmedmasseraffriskesommerurter|serveretmeddampetkartofleroggrovsennep.|vegetar:vegetariskpølse,letstuvetkålmedmasseraffriskesommerurter|apple/thyme“medister”sausage,creamycabbagewithlotsoffreshsummerherbs.potatoesandmustard.|vegetarian:vegetariansausage,creamycabbagewithlotsoffreshsummerherbs.potatoesandmustard.|-20250811-0</guid>
+      <pubDate>Mon, 11 Aug 2025 07:43:55 +0000</pubDate>
+    </item>
   </channel>
 </rss>
