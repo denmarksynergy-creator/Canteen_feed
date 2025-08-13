@@ -4,13 +4,13 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Tuesday, 12 August 2025]]></title>
+    <title><![CDATA[Canteen Menu - Wednesday, 13 August 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 12 Aug 2025 05:41:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 05:44:17 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu</title>
@@ -18,83 +18,66 @@
       <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
    Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | 
    Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250812-5</guid>
-      <pubDate>Tue, 12 Aug 2025 05:41:05 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250813-5</guid>
+      <pubDate>Wed, 13 Aug 2025 05:44:17 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Homebound Lunch Menu:  | 
-   Paneret rødspætte med persillesauce og dampede kartofler | 
-   Breaded plaice with parsleysauce and steamed potatoes | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|paneretrødspættemedpersillesauceogdampedekartofler|breadedplaicewithparsleysauceandsteamedpotatoes|-20250812-4</guid>
-      <pubDate>Tue, 12 Aug 2025 05:41:05 +0000</pubDate>
+   Kartoffel/porre suppe med rodfrugt chips, sprøde kerner og friske urter | 
+   Potato and leeks soup with vegetable chips, crispy seeds and fresh herbs. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|kartoffel/porresuppemedrodfrugtchips,sprødekernerogfriskeurter|potatoandleekssoupwithvegetablechips,crispyseedsandfreshherbs.|-20250813-4</guid>
+      <pubDate>Wed, 13 Aug 2025 05:44:17 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
-   Grøn thai karry med kylling og kokosmælk. Masser grønt og urt. Serveret med ris | 
-   Thai green curry with chicken and coconut milk. With lots of greens and herbs. | 
 
 VEGETAR:
-   Grøn thai karry med tofu og kokosmælk. Masser grønt og urt. Serveret med ris | 
    Thai green curry with tofu and coconut milk. With lots of greens and herbs. | 
    Served with rice | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|grønthaikarrymedkyllingogkokosmælk.massergrøntogurt.serveretmedris|thaigreencurrywithchickenandcoconutmilk.withlotsofgreensandherbs.|vegetar:grønthaikarrymedtofuogkokosmælk.massergrøntogurt.serveretmedris|thaigreencurrywithtofuandcoconutmilk.withlotsofgreensandherbs.|servedwithrice|-20250812-3</guid>
-      <pubDate>Tue, 12 Aug 2025 05:41:05 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|vegetar:thaigreencurrywithtofuandcoconutmilk.withlotsofgreensandherbs.|servedwithrice|-20250813-3</guid>
+      <pubDate>Wed, 13 Aug 2025 05:44:17 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Braiseret okse inspireret af middelhavskysten. | 
-   Oksebov braiseret i hvidvin, tomater, oliven, rosmarin og andre kraftige aromatiske krydderurter. | 
-   Serveret med krydrede ovnstegte kartofler med citron og oregano. | 
-VEGETAR:
-   Gryderet inspireret af middelhavskysten fyldt med aubergine og kikærter
-
-   braiseret i hvidvin, tomater, oliven, rosmarin og andre kraftige aromatiske krydderurter. | 
-   Braised beef inspired by the Mediterranean coast. | 
-   Beef shoulder braised in white wine, tomatoes, olives, rosemary and aromatic herbs. | 
-   Served with spicy oven-roasted potatoes with lemon and oregano. | 
-VEGETARIAN:
-   Mediterranean-inspired stew filled with eggplant and chickpeas
-
-   braised in white wine, tomatoes, olives, rosemary and other strong aromatic herbs. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|braiseretokseinspireretafmiddelhavskysten.|oksebovbraiseretihvidvin,tomater,oliven,rosmarinogandrekraftigearomatiskekrydderurter.|serveretmedkrydredeovnstegtekartoflermedcitronogoregano.|vegetar:gryderetinspireretafmiddelhavskystenfyldtmedaubergineogkikærterbraiseretihvidvin,tomater,oliven,rosmarinogandrekraftigearomatiskekrydderurter.|braisedbeefinspiredbythemediterraneancoast.|beefshoulderbraisedinwhitewine,tomatoes,olives,rosemaryandaromaticherbs.|servedwithspicyoven-roastedpotatoeswithlemonandoregano.|vegetarian:mediterranean-inspiredstewfilledwitheggplantandchickpeasbraisedinwhitewine,tomatoes,olives,rosemaryandotherstrongaromaticherbs.|-20250812-2</guid>
-      <pubDate>Tue, 12 Aug 2025 05:41:05 +0000</pubDate>
+   Fuldkornspasta med rød pesto, lavet på solmodne tomater, røde peberfrugter, parmesan og mandler. Serveret med stegte portobello svampe, valnøddecrumble, parmesan og aromatisk salvie. | 
+   Dagens kage | 
+   Saftig solbærkage smagt til med tonkabønne og pisket creme fraiche | 
+   Whole grain pasta with red pesto, made with sun-ripened tomatoes, red peppers, parmesan and almonds. Served with roasted portobello mushrooms, walnut crumble, parmesan and aromatic sage. | 
+   Cake of the day | 
+   Blackcurrant cake flavored with tonka bean and whipped cream fraice | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|fuldkornspastamedrødpesto,lavetpåsolmodnetomater,rødepeberfrugter,parmesanogmandler.serveretmedstegteportobellosvampe,valnøddecrumble,parmesanogaromatisksalvie.|dagenskage|saftigsolbærkagesmagttilmedtonkabønneogpisketcremefraiche|wholegrainpastawithredpesto,madewithsun-ripenedtomatoes,redpeppers,parmesanandalmonds.servedwithroastedportobellomushrooms,walnutcrumble,parmesanandaromaticsage.|cakeoftheday|blackcurrantcakeflavoredwithtonkabeanandwhippedcreamfraice|-20250813-2</guid>
+      <pubDate>Wed, 13 Aug 2025 05:44:17 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Moussaka | 
-   En klassisk græsk ovn ret med lag af stegte aubergine og tynde skriver af kartofler, krydret oksekød og en cremet bechamelsauce, serveres varm og fyldig med smag af middelhavet. Hertil en frisk Tzatziki. | 
-VEGETAR:
-   En smagfuld græsk klassiker i grønt forklæde – lag af stegte aubergine, kartofler og krydrede linser, toppen med cremet bechamelsauce og gratineret gylden i ovnen.
-
-   Hertil frisk Tzatziki. | 
-   A classic Greek oven dish with layers of roasted eggplant and thin strips of potatoes, seasoned beef and a creamy bechamel sauce, served hot and full of Mediterranean flavors. Accompanied by a fresh Tzatziki a part. | 
-VEGETARIAN:
-   A flavorful Greek classic in a green apron – layers of roasted eggplant, potatoes and spicy lentils, topped with creamy béchamel sauce and gratinated golden in the oven.
-
-   To accompany this, there will be a fresh Tzatziki a part. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|moussaka|enklassiskgræskovnretmedlagafstegteaubergineogtyndeskriverafkartofler,krydretoksekødogencremetbechamelsauce,serveresvarmogfyldigmedsmagafmiddelhavet.hertilenfrisktzatziki.|vegetar:ensmagfuldgræskklassikerigrøntforklæde–lagafstegteaubergine,kartoflerogkrydredelinser,toppenmedcremetbechamelsauceoggratineretgyldeniovnen.hertilfrisktzatziki.|aclassicgreekovendishwithlayersofroastedeggplantandthinstripsofpotatoes,seasonedbeefandacreamybechamelsauce,servedhotandfullofmediterraneanflavors.accompaniedbyafreshtzatzikiapart.|vegetarian:aflavorfulgreekclassicinagreenapron–layersofroastedeggplant,potatoesandspicylentils,toppedwithcreamybéchamelsauceandgratinatedgoldenintheoven.toaccompanythis,therewillbeafreshtzatzikiapart.|-20250812-1</guid>
-      <pubDate>Tue, 12 Aug 2025 05:41:05 +0000</pubDate>
+   One Pot fuldkornspasta med grøntsager og cremet tomatsauce. | 
+   En smagfuld og mættende vegetarret med fuldkornspasta, sauterede grøntsager, stegt hallumi og en fløjlsblød tomatsauce. Alt tilberedt i én gryde for maksimalt smag. En ret fyldt med farver, fibre og kærlighed. Hertil chilisauce. | 
+   Dagens dessert: | 
+   Klassisk citronfromage | 
+   One Pot whole wheat pasta with vegetables and creamy tomato sauce. | 
+   A flavorful and filling vegetarian dish with whole grain pasta, sautéed vegetables, fried halloumi and a velvety tomato sauce. All cooked in one pot for maximum flavor. A dish full of colors, fibers and love. Served with chili sauce a part. | 
+   Cake of the day: Classic lemon cheese | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|onepotfuldkornspastamedgrøntsagerogcremettomatsauce.|ensmagfuldogmættendevegetarretmedfuldkornspasta,sauteredegrøntsager,stegthallumiogenfløjlsblødtomatsauce.alttilberedtiéngrydeformaksimaltsmag.enretfyldtmedfarver,fibreogkærlighed.hertilchilisauce.|dagensdessert:|klassiskcitronfromage|onepotwholewheatpastawithvegetablesandcreamytomatosauce.|aflavorfulandfillingvegetariandishwithwholegrainpasta,sautéedvegetables,friedhalloumiandavelvetytomatosauce.allcookedinonepotformaximumflavor.adishfullofcolors,fibersandlove.servedwithchilisauceapart.|cakeoftheday:classiclemoncheese|-20250813-1</guid>
+      <pubDate>Wed, 13 Aug 2025 05:44:17 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Kalkun med blød cremet polenta og kompot på tomat, capers og basilikum. | 
-   Vegetar:
-   Grillet aubergine med blød cremet polenta og kompot på tomat, capers og basilikum. | 
-   Turkey with soft creamy polenta and compote of tomatoes, capers and basil. | 
-   Vegetarian:
-   Grilled egg plant with soft creamy polenta and compote of tomatoes, capers and basil. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|kalkunmedblødcremetpolentaogkompotpåtomat,capersogbasilikum.|vegetar:grilletauberginemedblødcremetpolentaogkompotpåtomat,capersogbasilikum.|turkeywithsoftcreamypolentaandcompoteoftomatoes,capersandbasil.|vegetarian:grilledeggplantwithsoftcreamypolentaandcompoteoftomatoes,capersandbasil.|-20250812-0</guid>
-      <pubDate>Tue, 12 Aug 2025 05:41:05 +0000</pubDate>
+   Massaman karry | 
+   Mildt krydret thai karry serveret med ris. | 
+   Massaman curry | 
+   Mild spicy thai curry, served with rice. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|massamankarry|mildtkrydretthaikarryserveretmedris.|massamancurry|mildspicythaicurry,servedwithrice.|-20250813-0</guid>
+      <pubDate>Wed, 13 Aug 2025 05:44:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
