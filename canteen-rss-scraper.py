@@ -79,7 +79,7 @@ def scrape_weekly_menus():
             hub_name = "HUB2"
         elif "hub 3" in lower_header:
             hub_name = "HUB3"
-        elif "foodcore" in lower_header:
+        elif "food court" in lower_header:
             hub_name = "HUB1 – Foodcort"
         else:
             continue
