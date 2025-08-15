@@ -4,13 +4,13 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Thursday, 14 August 2025]]></title>
+    <title><![CDATA[Canteen Menu - Friday, 15 August 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 14 Aug 2025 06:21:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 05:44:01 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu</title>
@@ -18,8 +18,8 @@
       <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
    Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | 
    Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250814-5</guid>
-      <pubDate>Thu, 14 Aug 2025 06:21:13 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250815-5</guid>
+      <pubDate>Fri, 15 Aug 2025 05:44:01 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu</title>
@@ -27,8 +27,8 @@
       <description><![CDATA[🍽 HUB1 - Homebound Lunch Menu:  | 
    Braiseret spidsbryst med relish på rødbede og peberrod serveret med flødekartofler med spinat og urter | 
    Braised brisket with beetroot and horseradish relish. Served with cream potatoes with spinach and herbs. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|braiseretspidsbrystmedrelishpårødbedeogpeberrodserveretmedflødekartoflermedspinatogurter|braisedbrisketwithbeetrootandhorseradishrelish.servedwithcreampotatoeswithspinachandherbs.|-20250814-4</guid>
-      <pubDate>Thu, 14 Aug 2025 06:21:13 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|braiseretspidsbrystmedrelishpårødbedeogpeberrodserveretmedflødekartoflermedspinatogurter|braisedbrisketwithbeetrootandhorseradishrelish.servedwithcreampotatoeswithspinachandherbs.|-20250815-4</guid>
+      <pubDate>Fri, 15 Aug 2025 05:44:01 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
@@ -41,55 +41,59 @@ VEGETAR:
    Grøn thai karry med tofu og kokosmælk. Masser grønt og urt. Serveret med ris | 
    Thai green curry with tofu and coconut milk. With lots of greens and herbs. | 
    Served with rice | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|grønthaikarrymedkyllingogkokosmælk.massergrøntogurt.serveretmedris|thaigreencurrywithchickenandcoconutmilk.withlotsofgreensandherbs.|vegetar:grønthaikarrymedtofuogkokosmælk.massergrøntogurt.serveretmedris|thaigreencurrywithtofuandcoconutmilk.withlotsofgreensandherbs.|servedwithrice|-20250814-3</guid>
-      <pubDate>Thu, 14 Aug 2025 06:21:13 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|grønthaikarrymedkyllingogkokosmælk.massergrøntogurt.serveretmedris|thaigreencurrywithchickenandcoconutmilk.withlotsofgreensandherbs.|vegetar:grønthaikarrymedtofuogkokosmælk.massergrøntogurt.serveretmedris|thaigreencurrywithtofuandcoconutmilk.withlotsofgreensandherbs.|servedwithrice|-20250815-3</guid>
+      <pubDate>Fri, 15 Aug 2025 05:44:01 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Dejlige Danske sprødstegte kyllingeoverlår, hasselbagte kartofler, grøn salat og frisk creme fraice urtecreme fyldt med hakkede krydderurter | 
+   Smagen af det asiatiske gadekøkken | 
+   Stegt gris vendt i sticky soja-brun farin-sesam-chilimarinade | 
+   Serveret i fløjlsbløde dampede bao boller fyldt med sprød kål, spicy kimchi og goma-dressing | 
 VEGETAR:
-   Sprødstegt halloumi og bagte svampe, serveret med hasselbagte kartofler, grøn salat og frisk creme fraice urtecreme fyldt med hakkede krydderurter
+   Stegt tofu vendt i sticky soja-brun farin-sesam-chilimarinade
 
-   Delicious Danish fried chicken thighs, baked potatoes, green salad and fresh creme fraiche dressing filled with chopped herbs | 
+   Week 33 | 
+   The taste of Asian street cuisine | 
+   Roasted pork in sticky soy-brown sugar-sesame-chili marinade | 
+   Served in velvety soft steamed bao buns filled with crispy cabbage, spicy kimchi and goma dressing | 
 VEGETARIAN:
-   Crispy fried halloumi and baked mushrooms, served with hazelnut baked potatoes, green salad and fresh creme fraiche dressing filled with chopped herbs
+   Fried tofu in sticky soy-brown sugar-sesame-chili marinade
 ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|dejligedanskesprødstegtekyllingeoverlår,hasselbagtekartofler,grønsalatogfriskcremefraiceurtecremefyldtmedhakkedekrydderurter|vegetar:sprødstegthalloumiogbagtesvampe,serveretmedhasselbagtekartofler,grønsalatogfriskcremefraiceurtecremefyldtmedhakkedekrydderurterdeliciousdanishfriedchickenthighs,bakedpotatoes,greensaladandfreshcremefraichedressingfilledwithchoppedherbs|vegetarian:crispyfriedhalloumiandbakedmushrooms,servedwithhazelnutbakedpotatoes,greensaladandfreshcremefraichedressingfilledwithchoppedherbs-20250814-2</guid>
-      <pubDate>Thu, 14 Aug 2025 06:21:13 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|smagenafdetasiatiskegadekøkken|stegtgrisvendtistickysoja-brunfarin-sesam-chilimarinade|serveretifløjlsblødedampedebaobollerfyldtmedsprødkål,spicykimchioggoma-dressing|vegetar:stegttofuvendtistickysoja-brunfarin-sesam-chilimarinadeweek33|thetasteofasianstreetcuisine|roastedporkinstickysoy-brownsugar-sesame-chilimarinade|servedinvelvetysoftsteamedbaobunsfilledwithcrispycabbage,spicykimchiandgomadressing|vegetarian:friedtofuinstickysoy-brownsugar-sesame-chilimarinade-20250815-2</guid>
+      <pubDate>Fri, 15 Aug 2025 05:44:01 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Gyudon – Japansk oksekødsbowl | 
-   En klassisk japansk ret med tyndtskråret oksekød (nyretab) og løg, stegte shiitake svampe, simret i en smagfuld sauce af soja, mirin og dashi.  Serveres varm over dampende fuldkorns ris og toppes med forårsløg, syltet ingefær og et spejlæg. | 
+   Pulled Pork burger | 
+   Langtidsstegt og saftigt svinekød, marineret i røget BBQ-sauce og serveret i en blød briochebolle med cremet coleslaw, sprødsalat og syltede agurker. Hertil BBQ-sauce a part. | 
 VEGETAR:
-   Gyudon – Japansk marineret tofubowl
+   Pulled Jackfruit burger
 
-   En klassisk japansk ret med tern af tofu og løg, stegte shiitake svampe, simret i en smagfuld sauce af soja, mirin og dashi.  Serveres varm over dampende fuldkorns ris og toppes med forårsløg, syltet ingefær og et spejlæg. | 
-   Gyudon – Japanese beef bowl | 
-   A classic Japanese dish with thinly sliced beef (kidney) and onions, fried shiitake mushrooms, simmered in a flavorful sauce of soy, mirin and dashi. Served hot over steaming whole grain rice and topped with spring onions, pickled ginger and a fried egg. | 
+   Mør og krydret ¨pulled¨ Jackfruit, marineret i røget BBQ-sauce og serveret i en blød briochebolle med cremet coleslaw, sprødsalat og syltede agurker. Hertil BBQ-sauce a part. | 
+   Slow-roasted and juicy pork, marinated in smoked BBQ sauce and served in a soft brioche bun with creamy coleslaw, crisp lettuce and pickled cucumbers. Served with BBQ sauce a part. | 
 VEGETARIAN:
-   Gyudon – Japanese marinated tofu bowl
-
-   A classic Japanese dish with diced tofu and onions, fried shiitake mushrooms, simmered in a flavorful sauce of soy, mirin and dashi. Served hot over steaming whole grain rice and topped with spring onions, pickled ginger and a fried egg. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|gyudon–japanskoksekødsbowl|enklassiskjapanskretmedtyndtskråretoksekød(nyretab)ogløg,stegteshiitakesvampe,simretiensmagfuldsauceafsoja,mirinogdashi.serveresvarmoverdampendefuldkornsrisogtoppesmedforårsløg,syltetingefærogetspejlæg.|vegetar:gyudon–japanskmarinerettofubowlenklassiskjapanskretmedternaftofuogløg,stegteshiitakesvampe,simretiensmagfuldsauceafsoja,mirinogdashi.serveresvarmoverdampendefuldkornsrisogtoppesmedforårsløg,syltetingefærogetspejlæg.|gyudon–japanesebeefbowl|aclassicjapanesedishwiththinlyslicedbeef(kidney)andonions,friedshiitakemushrooms,simmeredinaflavorfulsauceofsoy,mirinanddashi.servedhotoversteamingwholegrainriceandtoppedwithspringonions,pickledgingerandafriedegg.|vegetarian:gyudon–japanesemarinatedtofubowlaclassicjapanesedishwithdicedtofuandonions,friedshiitakemushrooms,simmeredinaflavorfulsauceofsoy,mirinanddashi.servedhotoversteamingwholegrainriceandtoppedwithspringonions,pickledgingerandafriedegg.|-20250814-1</guid>
-      <pubDate>Thu, 14 Aug 2025 06:21:13 +0000</pubDate>
+   Tender and spicy ¨pulled¨ Jackfruit, marinated in smoked BBQ sauce and served in a soft brioche bun with creamy coleslaw, crispy lettuce and pickled cucumbers. Served with BBQ sauce a part.
+]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|pulledporkburger|langtidsstegtogsaftigtsvinekød,marineretirøgetbbq-sauceogserveretienblødbriochebollemedcremetcoleslaw,sprødsalatogsyltedeagurker.hertilbbq-sauceapart.|vegetar:pulledjackfruitburgermørogkrydret¨pulled¨jackfruit,marineretirøgetbbq-sauceogserveretienblødbriochebollemedcremetcoleslaw,sprødsalatogsyltedeagurker.hertilbbq-sauceapart.|slow-roastedandjuicypork,marinatedinsmokedbbqsauceandservedinasoftbriochebunwithcreamycoleslaw,crisplettuceandpickledcucumbers.servedwithbbqsauceapart.|vegetarian:tenderandspicy¨pulled¨jackfruit,marinatedinsmokedbbqsauceandservedinasoftbriochebunwithcreamycoleslaw,crispylettuceandpickledcucumbers.servedwithbbqsauceapart.-20250815-1</guid>
+      <pubDate>Fri, 15 Aug 2025 05:44:01 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Dagens fisk med bagte rodfrugter og sauce på blåmusling, spinat og persille.Serveret med kartoffel. | 
+   Pasta Bolognese | 
+   Som vor ikke-italienske mor lavede den. | 
    Vegetar:
-   Tempeh med bagte rodfrugter og sauce på blåmusling, spinat og persille. Serveret med kartoffel. | 
-   Fish of the day with roasted root vegetables and sauce on mussels, spinach and parsley. | 
+   Linse bolognese som vor ikke vegetariske, ikke-italienske stedmor lavede den. | 
+   As our non-italian mother made it. | 
    Vegetarian:
-   Tempeh with roasted root vegetables and sauce on mussels, spinach and parsley. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|dagensfiskmedbagterodfrugterogsaucepåblåmusling,spinatogpersille.serveretmedkartoffel.|vegetar:tempehmedbagterodfrugterogsaucepåblåmusling,spinatogpersille.serveretmedkartoffel.|fishofthedaywithroastedrootvegetablesandsauceonmussels,spinachandparsley.|vegetarian:tempehwithroastedrootvegetablesandsauceonmussels,spinachandparsley.|-20250814-0</guid>
-      <pubDate>Thu, 14 Aug 2025 06:21:13 +0000</pubDate>
+   Lentils bolognese as our vegetarian, non-italian stepmother made it. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|pastabolognese|somvorikke-italienskemorlavededen.|vegetar:linsebolognesesomvorikkevegetariske,ikke-italienskestedmorlavededen.|asournon-italianmothermadeit.|vegetarian:lentilsbologneseasourvegetarian,non-italianstepmothermadeit.|-20250815-0</guid>
+      <pubDate>Fri, 15 Aug 2025 05:44:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
