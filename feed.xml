@@ -4,13 +4,13 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Tuesday, 19 August 2025]]></title>
+    <title><![CDATA[Canteen Menu - Wednesday, 20 August 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 19 Aug 2025 05:38:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 05:40:22 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu</title>
@@ -18,74 +18,60 @@
       <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
    Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | 
    Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250819-5</guid>
-      <pubDate>Tue, 19 Aug 2025 05:38:54 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250820-5</guid>
+      <pubDate>Wed, 20 Aug 2025 05:40:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Homebound Lunch Menu:  | 
-   Bagt laks serveret med cremet spinat tagliatelle toppet med friteret capers og dild | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|bagtlaksserveretmedcremetspinattagliatelletoppetmedfriteretcapersogdild|-20250819-4</guid>
-      <pubDate>Tue, 19 Aug 2025 05:38:54 +0000</pubDate>
+   Vegetar: vegetar bøf lavet på danske ingrid ærter serveret med stuvet sommergrøntsager hertil sprøde urter | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|vegetar:vegetarbøflavetpådanskeingridærterserveretmedstuvetsommergrøntsagerhertilsprødeurter|-20250820-4</guid>
+      <pubDate>Wed, 20 Aug 2025 05:40:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
-   Kinisisk Char sui pork med dampet bao, syltet grøntsager og sprøde urter | 
    Vegetar: Kinisisk Char sui portebello med dampet bao, syltet grøntsager og sprøde urter | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|kinisiskcharsuiporkmeddampetbao,syltetgrøntsagerogsprødeurter|vegetar:kinisiskcharsuiportebellomeddampetbao,syltetgrøntsagerogsprødeurter|-20250819-3</guid>
-      <pubDate>Tue, 19 Aug 2025 05:38:54 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|vegetar:kinisiskcharsuiportebellomeddampetbao,syltetgrøntsagerogsprødeurter|-20250820-3</guid>
+      <pubDate>Wed, 20 Aug 2025 05:40:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Bolognese a la ragu lavet på Braiseret oksetykam og skønne fyldige grøntsager. | 
-   Serveret med fuldkornsspaghetti, parmesan, oregano og basilikum. | 
-VEGETAR:
-   Grøntsags bolognese lavet på beluga linser og skønne fyldige grøntsager.
-
-   Bolognese a la ragu made with braised beef chuck and lovely rich vegetables. | 
-   Served with whole grain spaghetti, parmesan, oregano and basil. | 
-VEGETARIAN:
-   Vegetable bolognese made with beluga lentils and lovely rich vegetables.
-]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|bolognesealaragulavetpåbraiseretoksetykamogskønnefyldigegrøntsager.|serveretmedfuldkornsspaghetti,parmesan,oreganoogbasilikum.|vegetar:grøntsagsbologneselavetpåbelugalinserogskønnefyldigegrøntsager.bolognesealaragumadewithbraisedbeefchuckandlovelyrichvegetables.|servedwithwholegrainspaghetti,parmesan,oreganoandbasil.|vegetarian:vegetablebolognesemadewithbelugalentilsandlovelyrichvegetables.-20250819-2</guid>
-      <pubDate>Tue, 19 Aug 2025 05:38:54 +0000</pubDate>
+   Burger med batter friterede zucchini bøffer, spicy agurke relish, hjertesalat, rødløg og brændt citron mayo. | 
+   Serveret med pommes frites og chipotle mayo. | 
+   Dagens kage | 
+   Courgettekage med brunet smør og kaffe creme | 
+   Burger with fried zucchini steaks, cucumber relish, lettuce, red onion and burnt lemon mayo. | 
+   Served with French fries and chipotle mayo. | 
+   Cake of the day | 
+   Courgetti cake with brown butter and coffee creme | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|burgermedbatterfriteredezucchinibøffer,spicyagurkerelish,hjertesalat,rødløgogbrændtcitronmayo.|serveretmedpommesfritesogchipotlemayo.|dagenskage|courgettekagemedbrunetsmørogkaffecreme|burgerwithfriedzucchinisteaks,cucumberrelish,lettuce,redonionandburntlemonmayo.|servedwithfrenchfriesandchipotlemayo.|cakeoftheday|courgetticakewithbrownbutterandcoffeecreme|-20250820-2</guid>
+      <pubDate>Wed, 20 Aug 2025 05:40:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Chili con carne | 
-   Med fuldkornsris og urter samt cremefraiche, chilisauce, jalapenos a part. | 
-VEGETAR:
-   Chili sin carne (bælgfrugter)
-
-   With whole grain rice and herbs as well as crème fraiche, chili sauce, jalapenos a part.. | 
-VEGETARIAN:
-   Chili sin carne (legumes)
-
-   With whole grain rice and herbs as well as crème fraiche, chili sauce, jalapenos a part. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|chiliconcarne|medfuldkornsrisogurtersamtcremefraiche,chilisauce,jalapenosapart.|vegetar:chilisincarne(bælgfrugter)withwholegrainriceandherbsaswellascrèmefraiche,chilisauce,jalapenosapart..|vegetarian:chilisincarne(legumes)withwholegrainriceandherbsaswellascrèmefraiche,chilisauce,jalapenosapart.|-20250819-1</guid>
-      <pubDate>Tue, 19 Aug 2025 05:38:54 +0000</pubDate>
+   Fransk landtærte med semi-dried tomater, karamelliserede løg og feta | 
+   Dagens dessert: Citron fromage | 
+   French country pie with semi-dried tomatoes, caramelized onions and feta | 
+   Cake of the day: Lemon curd | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|fransklandtærtemedsemi-driedtomater,karamelliseredeløgogfeta|dagensdessert:citronfromage|frenchcountrypiewithsemi-driedtomatoes,caramelizedonionsandfeta|cakeoftheday:lemoncurd|-20250820-1</guid>
+      <pubDate>Wed, 20 Aug 2025 05:40:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Dansk sommerkylling med kartofler | 
-   hvidvins pocheret kyllingebryst med danske grønne asparges, serveret med økologiske smør stegte kartofler og cremet kørvelsauce | 
-VEGETAR: Økologisk rødbede bøf med danske grønne asparges, serveret med økologiske smør stegte kartofler og cremet vegetar kørvelsauce
- | 
-   Danish summer chicken with potatoes | 
-   White wine poached chicken breast with Danish green asparagus, served with organic butter fried potatoes and creamy chervil sauce | 
-VEGETARIAN: Organic beetroot steak with Danish green asparagus, served with organic butter fried potatoes and creamy vegetarian chervil sauce
- | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|dansksommerkyllingmedkartofler|hvidvinspocheretkyllingebrystmeddanskegrønneasparges,serveretmedøkologiskesmørstegtekartoflerogcremetkørvelsauce|vegetar:økologiskrødbedebøfmeddanskegrønneasparges,serveretmedøkologiskesmørstegtekartoflerogcremetvegetarkørvelsauce|danishsummerchickenwithpotatoes|whitewinepoachedchickenbreastwithdanishgreenasparagus,servedwithorganicbutterfriedpotatoesandcreamychervilsauce|vegetarian:organicbeetrootsteakwithdanishgreenasparagus,servedwithorganicbutterfriedpotatoesandcreamyvegetarianchervilsauce|-20250819-0</guid>
-      <pubDate>Tue, 19 Aug 2025 05:38:54 +0000</pubDate>
+   Aloo gobi | 
+   Indisk mild krydret vegetar ret med blomkål, økologiske kartofler og tomater, basmati ris toppet med koriander | 
+   Indian mild spicy vegetarian dish with cauliflower, organic potatoes and tomatoes, basmati rice topped with coriander | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|aloogobi|indiskmildkrydretvegetarretmedblomkål,økologiskekartoflerogtomater,basmatiristoppetmedkoriander|indianmildspicyvegetariandishwithcauliflower,organicpotatoesandtomatoes,basmatiricetoppedwithcoriander|-20250820-0</guid>
+      <pubDate>Wed, 20 Aug 2025 05:40:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
