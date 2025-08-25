@@ -4,13 +4,92 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Saturday, 23 August 2025]]></title>
+    <title><![CDATA[Canteen Menu - Monday, 25 August 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Sat, 23 Aug 2025 06:48:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 07:32:15 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>🍽 HUB1 - Sprout Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
+   Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | 
+   Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250825-5</guid>
+      <pubDate>Mon, 25 Aug 2025 07:32:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Homebound Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB1 - Homebound Lunch Menu:  | 
+   Marineret Grill ribs af gris serveret med coleslaw, bagekartofler og krydre smør toppet med friske urter | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|marineretgrillribsafgrisserveretmedcoleslaw,bagekartoflerogkrydresmørtoppetmedfriskeurter|-20250825-4</guid>
+      <pubDate>Mon, 25 Aug 2025 07:32:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
+   Jamaican chicken stew med dampet ris og ærter, serveret med syltet kål hertil Habanero / ananas hotsauce | 
+   Jamaican chicken stew with steamed rice and peas, served with pickled cabbage and Habanero/pineapple hot sauce | 
+   Vegetar: Ghana dahl lavet på spinat, hokaido græskar serveret med syltet kål hertil Habanero / ananas hotsauce | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|jamaicanchickenstewmeddampetrisogærter,serveretmedsyltetkålhertilhabanero/ananashotsauce|jamaicanchickenstewwithsteamedriceandpeas,servedwithpickledcabbageandhabanero/pineapplehotsauce|vegetar:ghanadahllavetpåspinat,hokaidogræskarserveretmedsyltetkålhertilhabanero/ananashotsauce|-20250825-3</guid>
+      <pubDate>Mon, 25 Aug 2025 07:32:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB3 - Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
+   Phillipinsk kylling Adobo | 
+   Braiseret kyllingelår i eddike og varme krydderier | 
+   Brune ris og stegt aubergine – Myntesalat med friske grøntsager – | 
+   Forårsløg og frisk rød chili | 
+VEGETAR:
+   Phillipinsk svampe Adobo
+
+   Stegte østershatte og portobello i sauce og varme krydderier | 
+   Serveret med brune ris og stegt aubergine – Myntesalat med friske grøntsager – | 
+   Phillipino chicken Adobo | 
+   Braised chicken drumstick in vinegar and warm spices | 
+   Brown rice with roasted eggplant – Mint salad with fresh vegetables – Spring onion and fresh red chili | 
+VEGETARIAN:
+   Phillipino mushroom Adobo
+
+   Fried oysterhats and portobello in sauce with warm spices | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|phillipinskkyllingadobo|braiseretkyllingelårieddikeogvarmekrydderier|brunerisogstegtaubergine–myntesalatmedfriskegrøntsager–|forårsløgogfriskrødchili|vegetar:phillipinsksvampeadobostegteøstershatteogportobelloisauceogvarmekrydderier|serveretmedbrunerisogstegtaubergine–myntesalatmedfriskegrøntsager–|phillipinochickenadobo|braisedchickendrumstickinvinegarandwarmspices|brownricewithroastedeggplant–mintsaladwithfreshvegetables–springonionandfreshredchili|vegetarian:phillipinomushroomadobofriedoysterhatsandportobelloinsaucewithwarmspices|-20250825-2</guid>
+      <pubDate>Mon, 25 Aug 2025 07:32:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB2 - Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
+   Frikadeller som hvor mor lavede dem | 
+   Grøntsags frikassé og danske øko kartofler | 
+VEGETAR:
+   Grøntsags frikadelle med frikassé sauce og øko kartofler
+
+   Danish fried meatballs | 
+   Frikassé sauce og øko potatoes | 
+VEGETARIAN:
+]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|frikadellersomhvormorlavededem|grøntsagsfrikasséogdanskeøkokartofler|vegetar:grøntsagsfrikadellemedfrikassésauceogøkokartoflerdanishfriedmeatballs|frikassésauceogøkopotatoes|vegetarian:-20250825-1</guid>
+      <pubDate>Mon, 25 Aug 2025 07:32:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 – Kays - Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
+   laks med urtepesto serveret med romanesco kartofler og sauce vierge | 
+   Vegetar:
+   Grillet spidskål med urtepesto serveret med romanesco kartofler og sauce vierge | 
+   salmon with herb pesto served with romanesco potatoes and sauce vierge | 
+   Vegetarian:
+   Grilled cabbage with herb pesto served with romanesco potatoes and sauce vierge | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|laksmedurtepestoserveretmedromanescokartoflerogsaucevierge|vegetar:grilletspidskålmedurtepestoserveretmedromanescokartoflerogsaucevierge|salmonwithherbpestoservedwithromanescopotatoesandsaucevierge|vegetarian:grilledcabbagewithherbpestoservedwithromanescopotatoesandsaucevierge|-20250825-0</guid>
+      <pubDate>Mon, 25 Aug 2025 07:32:15 +0000</pubDate>
+    </item>
   </channel>
 </rss>
