@@ -4,13 +4,13 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Wednesday, 27 August 2025]]></title>
+    <title><![CDATA[Canteen Menu - Thursday, 28 August 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 27 Aug 2025 05:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 05:38:02 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu</title>
@@ -18,59 +18,72 @@
       <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
    Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | 
    Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250827-5</guid>
-      <pubDate>Wed, 27 Aug 2025 05:35:27 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250828-5</guid>
+      <pubDate>Thu, 28 Aug 2025 05:38:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Homebound Lunch Menu:  | 
-   Vegetar: Rigatoni pasta I cremet græskar pure med grillet savoykål, ristede kerner toppet med salvieparmesan | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|vegetar:rigatonipastaicremetgræskarpuremedgrilletsavoykål,ristedekernertoppetmedsalvieparmesan|-20250827-4</guid>
-      <pubDate>Wed, 27 Aug 2025 05:35:27 +0000</pubDate>
+   Krondyrs frikadeller med råsyltet ribs serveret med | 
+   Portvin / blåskimmelsauce hertil danske økologiske kartofler toppet med løvstikke | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|krondyrsfrikadellermedråsyltetribsserveretmed|portvin/blåskimmelsaucehertildanskeøkologiskekartoflertoppetmedløvstikke|-20250828-4</guid>
+      <pubDate>Thu, 28 Aug 2025 05:38:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
-   Ghana dahl lavet på spinat, hokaido græskar serveret med syltet kål hertil Habanero / ananas hotsauce | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|ghanadahllavetpåspinat,hokaidogræskarserveretmedsyltetkålhertilhabanero/ananashotsauce|-20250827-3</guid>
-      <pubDate>Wed, 27 Aug 2025 05:35:27 +0000</pubDate>
+   Jamaican chicken stew med dampet ris og ærter, serveret med syltet kål hertil Habanero / ananas hotsauce | 
+   Jamaican chicken stew with steamed rice and peas, served with pickled cabbage and Habanero/pineapple hot sauce | 
+   Vegetar: Ghana dahl lavet på spinat, hokaido græskar serveret med syltet kål hertil Habanero / ananas hotsauce | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|jamaicanchickenstewmeddampetrisogærter,serveretmedsyltetkålhertilhabanero/ananashotsauce|jamaicanchickenstewwithsteamedriceandpeas,servedwithpickledcabbageandhabanero/pineapplehotsauce|vegetar:ghanadahllavetpåspinat,hokaidogræskarserveretmedsyltetkålhertilhabanero/ananashotsauce|-20250828-3</guid>
+      <pubDate>Thu, 28 Aug 2025 05:38:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Indisk Tarka Dahl | 
-   Gule aromatiske ris – Frisk og cremet raita på tomater og urter – Dukkah | 
-   Dagens kage | 
-   Æblekage med mandelsplitter og flødeskum | 
-   Indian Tarka Dahl | 
-   Yellow aromatic rice – Fresh and creamy raita with tomatoes and herbs – Dukkah | 
-   Cake of the day | 
-   Apple cake with almonds and whipped cream | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|indisktarkadahl|gulearomatiskeris–friskogcremetraitapåtomaterogurter–dukkah|dagenskage|æblekagemedmandelsplitterogflødeskum|indiantarkadahl|yellowaromaticrice–freshandcreamyraitawithtomatoesandherbs–dukkah|cakeoftheday|applecakewithalmondsandwhippedcream|-20250827-2</guid>
-      <pubDate>Wed, 27 Aug 2025 05:35:27 +0000</pubDate>
+   Danske fiskefrikadeller | 
+   Urtekartofler, radiser og grønne ærter – Fiske remoulade – Citronbåde – Dild | 
+VEGETAR:
+   Sprøde grøntsagsdeller
+
+   Danish fish cakes | 
+   Herb potatoes, radish and green peas – Fish remoulade – Lemon wedges – Dill | 
+VEGETARIAN:
+   Crispy vegetable cakes
+]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|danskefiskefrikadeller|urtekartofler,radiseroggrønneærter–fiskeremoulade–citronbåde–dild|vegetar:sprødegrøntsagsdellerdanishfishcakes|herbpotatoes,radishandgreenpeas–fishremoulade–lemonwedges–dill|vegetarian:crispyvegetablecakes-20250828-2</guid>
+      <pubDate>Thu, 28 Aug 2025 05:38:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Cremet svampe pasta med svampe og basilikum | 
-   Dagens kage: Kardemomme og kanel æblekage | 
-   Creamy pasta dish with mushrooms and basil | 
-   Cake of the day : Apple and cinnamon cake | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|cremetsvampepastamedsvampeogbasilikum|dagenskage:kardemommeogkanelæblekage|creamypastadishwithmushroomsandbasil|cakeoftheday:appleandcinnamoncake|-20250827-1</guid>
-      <pubDate>Wed, 27 Aug 2025 05:35:27 +0000</pubDate>
+   Fransk krydret kylling med ristede grøntsager og kartofler og esdragon sauce | 
+VEGETAR:
+   Salt bagt knoldselleri med ristede grøntsager og kartofler og pesto.
+
+   French spiced chicken with roasted vegetables and potatoes and tarragon sauce | 
+VEGETARIAN:
+   French spiced celeriac with roasted vegetables and potatoes, topped with parsley.
+]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|franskkrydretkyllingmedristedegrøntsagerogkartoflerogesdragonsauce|vegetar:saltbagtknoldsellerimedristedegrøntsagerogkartoflerogpesto.frenchspicedchickenwithroastedvegetablesandpotatoesandtarragonsauce|vegetarian:frenchspicedceleriacwithroastedvegetablesandpotatoes,toppedwithparsley.-20250828-1</guid>
+      <pubDate>Thu, 28 Aug 2025 05:38:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Pasta pomodoro serveret med confiteret tomat, manchego flager, hvidløgs crouton og friske urter | 
-   Pasta pomodoro served with confit tomato, manchego flakes, garlic croutons and fresh herbs | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|pastapomodoroserveretmedconfiterettomat,manchegoflager,hvidløgscroutonogfriskeurter|pastapomodoroservedwithconfittomato,manchegoflakes,garliccroutonsandfreshherbs|-20250827-0</guid>
-      <pubDate>Wed, 27 Aug 2025 05:35:27 +0000</pubDate>
+   Kylling saute marengo med dampet brunet ris, og syltet ananas | 
+   Vegetar:
+   Bønnecassoulet med gulsyltet lima bønner | 
+   Chicken saute marengo with steamed brown rice, and pickled pineapple | 
+   Vegetarian:
+   Bean cassoulet with yellow pickled lima beans | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|kyllingsautemarengomeddampetbrunetris,ogsyltetananas|vegetar:bønnecassouletmedgulsyltetlimabønner|chickensautemarengowithsteamedbrownrice,andpickledpineapple|vegetarian:beancassouletwithyellowpickledlimabeans|-20250828-0</guid>
+      <pubDate>Thu, 28 Aug 2025 05:38:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
