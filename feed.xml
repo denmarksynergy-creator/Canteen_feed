@@ -4,13 +4,13 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Wednesday, 03 September 2025]]></title>
+    <title><![CDATA[Canteen Menu - Thursday, 04 September 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 03 Sep 2025 05:32:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 05:33:04 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu</title>
@@ -18,41 +18,47 @@
       <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
    Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | 
    Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250903-3</guid>
-      <pubDate>Wed, 03 Sep 2025 05:32:34 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250904-3</guid>
+      <pubDate>Thu, 04 Sep 2025 05:33:04 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Durum med falafel | 
-   Sprøde falafler i lun durumbrød, fyldt med syltet daikon og frisk salat af mynte, agurk og rødløg, toppet med en cremet, saltet yoghurtdressing. | 
-   Dagens kage: Friskbagt citron- og birkeskage. | 
-   Falafel Wrap | 
-   Crispy falafels in warm flatbread, filled with pickled daikon and a fresh salad of mint, cucumber, and red onion, topped with a creamy, salted yogurt dressing. | 
-   Cake of the Day: Freshly baked lemon and poppy seed cake. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|durummedfalafel|sprødefalaflerilundurumbrød,fyldtmedsyltetdaikonogfrisksalatafmynte,agurkogrødløg,toppetmedencremet,saltetyoghurtdressing.|dagenskage:friskbagtcitron-ogbirkeskage.|falafelwrap|crispyfalafelsinwarmflatbread,filledwithpickleddaikonandafreshsaladofmint,cucumber,andredonion,toppedwithacreamy,saltedyogurtdressing.|cakeoftheday:freshlybakedlemonandpoppyseedcake.|-20250903-2</guid>
-      <pubDate>Wed, 03 Sep 2025 05:32:34 +0000</pubDate>
+   Kylling i estragonsauce | 
+   Mør kylling i fyldig, cremet estragonsauce, serveret med ovnstegte kartofler og frisk grøn salat. | 
+   Vegetar: Ovnbagt aubergine fyldt med aromatiske tomater og bønner – serveret med den samme estragonsauce, ovnkartofler og frisk salat. | 
+   Chicken in Tarragon Sauce | 
+   Tender chicken in a rich, creamy tarragon sauce, served with oven-roasted potatoes and a fresh green salad. | 
+   Vegetarian: Oven-baked eggplant stuffed with aromatic tomatoes and beans – served with the same tarragon sauce, roasted potatoes, and fresh salad. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|kyllingiestragonsauce|mørkyllingifyldig,cremetestragonsauce,serveretmedovnstegtekartoflerogfriskgrønsalat.|vegetar:ovnbagtauberginefyldtmedaromatisketomaterogbønner–serveretmeddensammeestragonsauce,ovnkartoflerogfrisksalat.|chickenintarragonsauce|tenderchickeninarich,creamytarragonsauce,servedwithoven-roastedpotatoesandafreshgreensalad.|vegetarian:oven-bakedeggplantstuffedwitharomatictomatoesandbeans–servedwiththesametarragonsauce,roastedpotatoes,andfreshsalad.|-20250904-2</guid>
+      <pubDate>Thu, 04 Sep 2025 05:33:04 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Sprødt strejf af Middelhavet: Courgette fritters med frisk myntedip og spicy patatas bravas. | 
-   Dagens kage: Pære- og brombærkage med cremet vaniljeyoghurt. | 
-   A crispy taste of the Mediterranean: Courgette fritters with fresh mint dip and spicy patatas bravas. | 
-   Today’s cake: Pear and blackberry cake with creamy vanilla yogurt. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|sprødtstrejfafmiddelhavet:courgettefrittersmedfriskmyntedipogspicypatatasbravas.|dagenskage:pære-ogbrombærkagemedcremetvaniljeyoghurt.|acrispytasteofthemediterranean:courgettefritterswithfreshmintdipandspicypatatasbravas.|today’scake:pearandblackberrycakewithcreamyvanillayogurt.|-20250903-1</guid>
-      <pubDate>Wed, 03 Sep 2025 05:32:34 +0000</pubDate>
+   Vi drager til Nordafrika med en marokkansk kyllingeret fuld af varme krydderier, kikærter, rosiner og bulgur | 
+   Vegetar: En sanselig vegetarisk variant med linser, kikærter og alle de skønne smage. | 
+   We’re heading to North Africa with a Moroccan chicken dish full of warming spices, chickpeas, raisins, and bulgur. | 
+VEGETARIAN:
+   A sensual vegetarian version with lentils, chickpeas, and all the same wonderful flavors.
+]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|vidragertilnordafrikamedenmarokkanskkyllingeretfuldafvarmekrydderier,kikærter,rosinerogbulgur|vegetar:ensanseligvegetariskvariantmedlinser,kikærterogalledeskønnesmage.|we’reheadingtonorthafricawithamoroccanchickendishfullofwarmingspices,chickpeas,raisins,andbulgur.|vegetarian:asensualvegetarianversionwithlentils,chickpeas,andallthesamewonderfulflavors.-20250904-1</guid>
+      <pubDate>Thu, 04 Sep 2025 05:33:04 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Cremet Græskar farfalle med ristet kerner og svampe hertil granatæble kerner, parmesanost og friske urter | 
-   Creamy pumpkin risotto with roasted seeds and mushrooms, pomegranate seeds, parmesan cheese and fresh herbs | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|cremetgræskarfarfallemedristetkernerogsvampehertilgranatæblekerner,parmesanostogfriskeurter|creamypumpkinrisottowithroastedseedsandmushrooms,pomegranateseeds,parmesancheeseandfreshherbs|-20250903-0</guid>
-      <pubDate>Wed, 03 Sep 2025 05:32:34 +0000</pubDate>
+   Kaninragout med bagte rodfrugter toppet med frisk basilikum og syltet tomat | 
+   Vegetar:
+   Tofu ragout med bagte rodfrugter toppet med frisk basilikum og syltet tomat | 
+   Rabbit ragout with baked root vegetables topped with fresh basil and pickled tomato | 
+   Vegetarian:
+   Tofu ragout with baked root vegetables topped with fresh basil and pickled tomato | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|kaninragoutmedbagterodfrugtertoppetmedfriskbasilikumogsyltettomat|vegetar:tofuragoutmedbagterodfrugtertoppetmedfriskbasilikumogsyltettomat|rabbitragoutwithbakedrootvegetablestoppedwithfreshbasilandpickledtomato|vegetarian:tofuragoutwithbakedrootvegetablestoppedwithfreshbasilandpickledtomato|-20250904-0</guid>
+      <pubDate>Thu, 04 Sep 2025 05:33:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
