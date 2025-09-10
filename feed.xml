@@ -4,13 +4,13 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Tuesday, 09 September 2025]]></title>
+    <title><![CDATA[Canteen Menu - Wednesday, 10 September 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 09 Sep 2025 05:17:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 05:15:42 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu</title>
@@ -18,68 +18,60 @@
       <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
    Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | 
    Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250909-5</guid>
-      <pubDate>Tue, 09 Sep 2025 05:17:07 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250910-5</guid>
+      <pubDate>Wed, 10 Sep 2025 05:15:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Homebound Lunch Menu:  | 
-   Serveret med ristede kartofler | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|serveretmedristedekartofler|-20250909-4</guid>
-      <pubDate>Tue, 09 Sep 2025 05:17:07 +0000</pubDate>
+   Græskar suppe med sprød salvie og fennikel salat. | 
+   Serveret med nødder og kerner | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|græskarsuppemedsprødsalvieogfennikelsalat.|serveretmednødderogkerner|-20250910-4</guid>
+      <pubDate>Wed, 10 Sep 2025 05:15:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
-   Marrokansk kylling tagine | 
-   Serveret med couscous | 
-   Marrocan chicken tagine | 
-   Served with couscous | 
-
-VEGETAR:
    Marrokansk grøntsags tagine | 
-   Marrocan vegetable tagine | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|marrokanskkyllingtagine|serveretmedcouscous|marrocanchickentagine|servedwithcouscous|vegetar:marrokanskgrøntsagstagine|marrocanvegetabletagine|-20250909-3</guid>
-      <pubDate>Tue, 09 Sep 2025 05:17:07 +0000</pubDate>
+   Serveret med couscous | 
+   Marrocan vegetable tagine | 
+   Served with couscous | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|marrokanskgrøntsagstagine|serveretmedcouscous|marrocanvegetabletagine|servedwithcouscous|-20250910-3</guid>
+      <pubDate>Wed, 10 Sep 2025 05:15:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Ungarsk gullaschsuppe med mørt, langtidsbraiseret oksetykkam fra Himmerland, karamelliserede perleløg, svampe og bredbladet persille. En varm klassiker med dybde og kraft. | 
-   Vegetar : Samme fyldige gullaschsuppe, uden kød, men med fokus på de smagfulde svampe, rodfrugter, perleløg og urter. | 
-   Hungarian goulash soup with tender, slow-braised beef chuck from Himmerland, caramelised pearl onions, mushrooms, and flat-leaf parsley. A warm classic with depth and richness. | 
-   Vegetarian : The same hearty goulash soup, without meat – focusing on flavourful mushrooms, root vegetables, pearl onions, and fresh herbs. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|ungarskgullaschsuppemedmørt,langtidsbraiseretoksetykkamfrahimmerland,karamelliseredeperleløg,svampeogbredbladetpersille.envarmklassikermeddybdeogkraft.|vegetar:sammefyldigegullaschsuppe,udenkød,menmedfokuspådesmagfuldesvampe,rodfrugter,perleløgogurter.|hungariangoulashsoupwithtender,slow-braisedbeefchuckfromhimmerland,caramelisedpearlonions,mushrooms,andflat-leafparsley.awarmclassicwithdepthandrichness.|vegetarian:thesameheartygoulashsoup,withoutmeat–focusingonflavourfulmushrooms,rootvegetables,pearlonions,andfreshherbs.|-20250909-2</guid>
-      <pubDate>Tue, 09 Sep 2025 05:17:07 +0000</pubDate>
+   Cremet Cacio e Pepe – en italiensk pastafavorit med friskrevet parmesan, masser af sort peber og et strejf af blød oregano. Enkel, men rig på smag. | 
+   Dagens kage: Banankage med stykker af mørk chokolade. | 
+   Creamy Cacio e Pepe – an Italian pasta favourite with freshly grated Parmesan, plenty of black pepper, and a hint of soft oregano. Simple, yet full of flavour. | 
+   Today’s cake: Banana cake with chunks of dark chocolate. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|cremetcacioepepe–enitalienskpastafavoritmedfriskrevetparmesan,masserafsortpeberogetstrejfafblødoregano.enkel,menrigpåsmag.|dagenskage:banankagemedstykkerafmørkchokolade.|creamycacioepepe–anitalianpastafavouritewithfreshlygratedparmesan,plentyofblackpepper,andahintofsoftoregano.simple,yetfullofflavour.|today’scake:bananacakewithchunksofdarkchocolate.|-20250910-2</guid>
+      <pubDate>Wed, 10 Sep 2025 05:15:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Hjemmelavede fiskefrikadeller stegt gyldne og saftige, serveret med letdampet blomkål, sprød råkost af sæsonens grønt og en cremet persillesauce, der binder det hele sammen med friskhed og smag. | 
-VEGETAR:
-   Hjemmelavede ”Freds fisk” stegt gyldne og saftige, serveret med letdampet blomkål, sprød råkost af sæsonens grønt og en cremet persillesauce, der binder det hele sammen med friskhed og smag.
-
-   Homemade fish cakes, golden and juicy, served with lightly steamed cauliflower, crispy seasonal vegetable slaw, and a creamy parsley sauce that ties it all together with freshness and flavor. | 
-   Vegetarian Homemade “Fred’s fish”, golden and juicy, served with lightly steamed cauliflower, crispy seasonal vegetable slaw, and a creamy parsley sauce that ties it all together with freshness and flavor. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|hjemmelavedefiskefrikadellerstegtgyldneogsaftige,serveretmedletdampetblomkål,sprødråkostafsæsonensgrøntogencremetpersillesauce,derbinderdethelesammenmedfriskhedogsmag.|vegetar:hjemmelavede”fredsfisk”stegtgyldneogsaftige,serveretmedletdampetblomkål,sprødråkostafsæsonensgrøntogencremetpersillesauce,derbinderdethelesammenmedfriskhedogsmag.homemadefishcakes,goldenandjuicy,servedwithlightlysteamedcauliflower,crispyseasonalvegetableslaw,andacreamyparsleysaucethattiesitalltogetherwithfreshnessandflavor.|vegetarianhomemade“fred’sfish”,goldenandjuicy,servedwithlightlysteamedcauliflower,crispyseasonalvegetableslaw,andacreamyparsleysaucethattiesitalltogetherwithfreshnessandflavor.|-20250909-1</guid>
-      <pubDate>Tue, 09 Sep 2025 05:17:07 +0000</pubDate>
+   Klassisk spansk tortilla – blød og gylden, lavet med æg og nye kartofler. | 
+   Serveres med en sauteret blanding af karamelliserede løg, sorte oliven og rød piment, som tilføjer både farve og dybde til retten. | 
+   Gammeldags æblekage En ægte klassiker – lag af blød, krydret æblekompot, sprød æblekagerasp og flødeskum på toppen. Lavet med sæsonens æbler og et strejf af vanilje – nostalgisk, hjemlig og uimodståelig. | 
+   Classic Spanish tortilla – soft and golden, made with eggs and new potatoes. Served with a sautéed mix of caramelized onions, black olives, and red piment, adding both color and depth to the dish. | 
+   Traditional Apple Cake A true classic – layers of soft, spiced apple compote, crunchy apple crumble, and whipped cream on top. Made with seasonal apples and a touch of vanilla – nostalgic, homely, and irresistible. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|klassiskspansktortilla–blødoggylden,lavetmedægognyekartofler.|serveresmedensauteretblandingafkaramelliseredeløg,sorteolivenogrødpiment,somtilføjerbådefarveogdybdetilretten.|gammeldagsæblekageenægteklassiker–lagafblød,krydretæblekompot,sprødæblekageraspogflødeskumpåtoppen.lavetmedsæsonensæblerogetstrejfafvanilje–nostalgisk,hjemligoguimodståelig.|classicspanishtortilla–softandgolden,madewitheggsandnewpotatoes.servedwithasautéedmixofcaramelizedonions,blackolives,andredpiment,addingbothcoloranddepthtothedish.|traditionalapplecakeatrueclassic–layersofsoft,spicedapplecompote,crunchyapplecrumble,andwhippedcreamontop.madewithseasonalapplesandatouchofvanilla–nostalgic,homely,andirresistible.|-20250910-1</guid>
+      <pubDate>Wed, 10 Sep 2025 05:15:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Italienske kartoffel gnocchi vendt med løvstikke pesto, ærter, grillet zucchini, syltet artiskokker toppet med ristet løft tørret Ventricina og ricotta ost | 
-VEGETAR: Italienske kartoffel gnocchi vendt med løvstikke pesto, ærter, grillet zucchini syltet artiskokker toppet med ristet tempeh
- | 
-   Italian potato gnocchi tossed with lovage pesto, peas, grilled zucchini, pickled artichokes topped with toasted dried Ventricina and ricotta cheese | 
-VEGETARIAN: Italian potato gnocchi tossed with lovage pesto, peas, grilled zucchini pickled artichokes topped with toasted tempeh
- | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|italienskekartoffelgnocchivendtmedløvstikkepesto,ærter,grilletzucchini,syltetartiskokkertoppetmedristetløfttørretventricinaogricottaost|vegetar:italienskekartoffelgnocchivendtmedløvstikkepesto,ærter,grilletzucchinisyltetartiskokkertoppetmedristettempeh|italianpotatognocchitossedwithlovagepesto,peas,grilledzucchini,pickledartichokestoppedwithtoasteddriedventricinaandricottacheese|vegetarian:italianpotatognocchitossedwithlovagepesto,peas,grilledzucchinipickledartichokestoppedwithtoastedtempeh|-20250909-0</guid>
-      <pubDate>Tue, 09 Sep 2025 05:17:07 +0000</pubDate>
+   Indisk Dahl med varme krydderier hertil serveres hjemmelavet naanbrød, basmati ris/vilde ris og saltet yoghurt tilsagt med lime | 
+   Indian Dahl with warm spices served with homemade naan bread, basmati rice/wild rice and salted yogurt seasoned with lime | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|indiskdahlmedvarmekrydderierhertilservereshjemmelavetnaanbrød,basmatiris/vilderisogsaltetyoghurttilsagtmedlime|indiandahlwithwarmspicesservedwithhomemadenaanbread,basmatirice/wildriceandsaltedyogurtseasonedwithlime|-20250910-0</guid>
+      <pubDate>Wed, 10 Sep 2025 05:15:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
