@@ -4,13 +4,13 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Wednesday, 10 September 2025]]></title>
+    <title><![CDATA[Canteen Menu - Thursday, 11 September 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 10 Sep 2025 05:15:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 05:19:52 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu</title>
@@ -18,60 +18,76 @@
       <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
    Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | 
    Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250910-5</guid>
-      <pubDate>Wed, 10 Sep 2025 05:15:42 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250911-5</guid>
+      <pubDate>Thu, 11 Sep 2025 05:19:52 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Homebound Lunch Menu:  | 
-   Græskar suppe med sprød salvie og fennikel salat. | 
-   Serveret med nødder og kerner | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|græskarsuppemedsprødsalvieogfennikelsalat.|serveretmednødderogkerner|-20250910-4</guid>
-      <pubDate>Wed, 10 Sep 2025 05:15:42 +0000</pubDate>
+   Dagens fisk med braisseret porre, mandler og lima bønner | 
+   Serveret med langtidsbagte tomater i vinaigrette. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|dagensfiskmedbraisseretporre,mandleroglimabønner|serveretmedlangtidsbagtetomaterivinaigrette.|-20250911-4</guid>
+      <pubDate>Thu, 11 Sep 2025 05:19:52 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
-   Marrokansk grøntsags tagine | 
+   Marrokansk kylling tagine | 
    Serveret med couscous | 
-   Marrocan vegetable tagine | 
-   Served with couscous | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|marrokanskgrøntsagstagine|serveretmedcouscous|marrocanvegetabletagine|servedwithcouscous|-20250910-3</guid>
-      <pubDate>Wed, 10 Sep 2025 05:15:42 +0000</pubDate>
+   Marrocan chicken tagine | 
+   Served with couscous | 
+
+VEGETAR:
+   Marrokansk grøntsags tagine | 
+   Marrocan vegetable tagine | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|marrokanskkyllingtagine|serveretmedcouscous|marrocanchickentagine|servedwithcouscous|vegetar:marrokanskgrøntsagstagine|marrocanvegetabletagine|-20250911-3</guid>
+      <pubDate>Thu, 11 Sep 2025 05:19:52 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Cremet Cacio e Pepe – en italiensk pastafavorit med friskrevet parmesan, masser af sort peber og et strejf af blød oregano. Enkel, men rig på smag. | 
-   Dagens kage: Banankage med stykker af mørk chokolade. | 
-   Creamy Cacio e Pepe – an Italian pasta favourite with freshly grated Parmesan, plenty of black pepper, and a hint of soft oregano. Simple, yet full of flavour. | 
-   Today’s cake: Banana cake with chunks of dark chocolate. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|cremetcacioepepe–enitalienskpastafavoritmedfriskrevetparmesan,masserafsortpeberogetstrejfafblødoregano.enkel,menrigpåsmag.|dagenskage:banankagemedstykkerafmørkchokolade.|creamycacioepepe–anitalianpastafavouritewithfreshlygratedparmesan,plentyofblackpepper,andahintofsoftoregano.simple,yetfullofflavour.|today’scake:bananacakewithchunksofdarkchocolate.|-20250910-2</guid>
-      <pubDate>Wed, 10 Sep 2025 05:15:42 +0000</pubDate>
+   Medisterpølser med brunkål, små kogte kartofler, syrlige asier og en mild sennepssauce. | 
+   Vegetar : Grillet vegetarpølse i klassisk selskab med brunkål, kartofler, asier og sennepssauce. | 
+   Traditional Danish medister sausages with braised cabbage, small boiled potatoes, pickled cucumber slices, and a mild mustard sauce. | 
+   Vegetarian : Grilled vegetarian sausage served with classic sides – braised cabbage, potatoes, pickles, and mustard sauce. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|medisterpølsermedbrunkål,småkogtekartofler,syrligeasierogenmildsennepssauce.|vegetar:grilletvegetarpølseiklassiskselskabmedbrunkål,kartofler,asierogsennepssauce.|traditionaldanishmedistersausageswithbraisedcabbage,smallboiledpotatoes,pickledcucumberslices,andamildmustardsauce.|vegetarian:grilledvegetariansausageservedwithclassicsides–braisedcabbage,potatoes,pickles,andmustardsauce.|-20250911-2</guid>
+      <pubDate>Thu, 11 Sep 2025 05:19:52 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Klassisk spansk tortilla – blød og gylden, lavet med æg og nye kartofler. | 
-   Serveres med en sauteret blanding af karamelliserede løg, sorte oliven og rød piment, som tilføjer både farve og dybde til retten. | 
-   Gammeldags æblekage En ægte klassiker – lag af blød, krydret æblekompot, sprød æblekagerasp og flødeskum på toppen. Lavet med sæsonens æbler og et strejf af vanilje – nostalgisk, hjemlig og uimodståelig. | 
-   Classic Spanish tortilla – soft and golden, made with eggs and new potatoes. Served with a sautéed mix of caramelized onions, black olives, and red piment, adding both color and depth to the dish. | 
-   Traditional Apple Cake A true classic – layers of soft, spiced apple compote, crunchy apple crumble, and whipped cream on top. Made with seasonal apples and a touch of vanilla – nostalgic, homely, and irresistible. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|klassiskspansktortilla–blødoggylden,lavetmedægognyekartofler.|serveresmedensauteretblandingafkaramelliseredeløg,sorteolivenogrødpiment,somtilføjerbådefarveogdybdetilretten.|gammeldagsæblekageenægteklassiker–lagafblød,krydretæblekompot,sprødæblekageraspogflødeskumpåtoppen.lavetmedsæsonensæblerogetstrejfafvanilje–nostalgisk,hjemligoguimodståelig.|classicspanishtortilla–softandgolden,madewitheggsandnewpotatoes.servedwithasautéedmixofcaramelizedonions,blackolives,andredpiment,addingbothcoloranddepthtothedish.|traditionalapplecakeatrueclassic–layersofsoft,spicedapplecompote,crunchyapplecrumble,andwhippedcreamontop.madewithseasonalapplesandatouchofvanilla–nostalgic,homely,andirresistible.|-20250910-1</guid>
-      <pubDate>Wed, 10 Sep 2025 05:15:42 +0000</pubDate>
+   Kylling Tikka Masala | 
+   Mør kylling i en krydret og cremet tomat-karry-sauce med varme indiske krydderier. | 
+   Serveres med brune ris, frisk raita med mynte og agurk samt lun naanbrød til at samle alle de gode smage op med. Koriander kan tilvælges;) | 
+VEGETAR:
+   Vegetarisk Tikka Masala
+
+   Røde linser og krydrede grøntsager simret i en cremet tomat-karrysauce med varme, aromatiske indiske krydderier. | 
+   Serveres med brune ris, frisk raita med mynte og agurk samt lun naanbrød, der inviterer til at samle alle de lækre smage. | 
+   Koriander kan tilvælges for et ekstra frisk pift. 🙂 | 
+   Chicken Tikka Masala Tender chicken in a spiced and creamy tomato curry sauce with warm Indian spices. Served with brown rice, fresh raita with mint and cucumber, and warm naan bread to soak up all the delicious flavors. Coriander optional 😉 | 
+   Vegetarian Tikka Masala Red lentils and spiced vegetables simmered in a creamy tomato curry sauce with warm, aromatic Indian spices. Served with brown rice, fresh raita with mint and cucumber, and warm naan bread, inviting you to gather all the tasty flavors. Coriander optional for an extra fresh touch. 🙂 | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|kyllingtikkamasala|mørkyllingienkrydretogcremettomat-karry-saucemedvarmeindiskekrydderier.|serveresmedbruneris,friskraitamedmynteogagurksamtlunnaanbrødtilatsamlealledegodesmageopmed.korianderkantilvælges;)|vegetar:vegetarisktikkamasalarødelinserogkrydredegrøntsagersimretiencremettomat-karrysaucemedvarme,aromatiskeindiskekrydderier.|serveresmedbruneris,friskraitamedmynteogagurksamtlunnaanbrød,derinviterertilatsamlealledelækresmage.|korianderkantilvælgesforetekstrafriskpift.🙂|chickentikkamasalatenderchickeninaspicedandcreamytomatocurrysaucewithwarmindianspices.servedwithbrownrice,freshraitawithmintandcucumber,andwarmnaanbreadtosoakupallthedeliciousflavors.corianderoptional😉|vegetariantikkamasalaredlentilsandspicedvegetablessimmeredinacreamytomatocurrysaucewithwarm,aromaticindianspices.servedwithbrownrice,freshraitawithmintandcucumber,andwarmnaanbread,invitingyoutogatherallthetastyflavors.corianderoptionalforanextrafreshtouch.🙂|-20250911-1</guid>
+      <pubDate>Thu, 11 Sep 2025 05:19:52 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Indisk Dahl med varme krydderier hertil serveres hjemmelavet naanbrød, basmati ris/vilde ris og saltet yoghurt tilsagt med lime | 
-   Indian Dahl with warm spices served with homemade naan bread, basmati rice/wild rice and salted yogurt seasoned with lime | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|indiskdahlmedvarmekrydderierhertilservereshjemmelavetnaanbrød,basmatiris/vilderisogsaltetyoghurttilsagtmedlime|indiandahlwithwarmspicesservedwithhomemadenaanbread,basmatirice/wildriceandsaltedyogurtseasonedwithlime|-20250910-0</guid>
-      <pubDate>Wed, 10 Sep 2025 05:15:42 +0000</pubDate>
+   Vildtsvine ragout tilsmagt | 
+   med mild cremet blåskimmel, portvin, bacon stegte knuste kartofler, serveret med råsyltet tyttebær og friske urter | 
+VEGETAR: Tofu ragout med cremet mild vegetar ost, portvin, knuste kartofler, serveret med råsyltet tyttebær og friske urter
+ | 
+   Wild boar ragout flavored | 
+   with mild creamy blue cheese, port wine, bacon fried crushed potatoes, served with raw pickled cranberries and fresh herbs | 
+VEGETARIAN: Tofu ragout with creamy mild vegetarian cheese, port wine, crushed potatoes, served with raw pickled cranberries and fresh herbs
+ | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|vildtsvineragouttilsmagt|medmildcremetblåskimmel,portvin,baconstegteknustekartofler,serveretmedråsyltettyttebærogfriskeurter|vegetar:tofuragoutmedcremetmildvegetarost,portvin,knustekartofler,serveretmedråsyltettyttebærogfriskeurter|wildboarragoutflavored|withmildcreamybluecheese,portwine,baconfriedcrushedpotatoes,servedwithrawpickledcranberriesandfreshherbs|vegetarian:tofuragoutwithcreamymildvegetariancheese,portwine,crushedpotatoes,servedwithrawpickledcranberriesandfreshherbs|-20250911-0</guid>
+      <pubDate>Thu, 11 Sep 2025 05:19:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
