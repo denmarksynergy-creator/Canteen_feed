@@ -4,79 +4,13 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Friday, 12 September 2025]]></title>
+    <title><![CDATA[Canteen Menu - Saturday, 13 September 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 12 Sep 2025 05:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 06:20:01 +0000</lastBuildDate>
     <ttl>15</ttl>
-    <item>
-      <title>🍽 HUB1 - Sprout Lunch Menu</title>
-      <link>https://hubnordic.madkastel.dk/</link>
-      <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
-   Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | 
-   Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250912-5</guid>
-      <pubDate>Fri, 12 Sep 2025 05:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Homebound Lunch Menu</title>
-      <link>https://hubnordic.madkastel.dk/</link>
-      <description><![CDATA[🍽 HUB1 - Homebound Lunch Menu:  | 
-   Dagens fisk med braisseret porre, mandler og lima bønner | 
-   Serveret med langtidsbagte tomater i vinaigrette. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|dagensfiskmedbraisseretporre,mandleroglimabønner|serveretmedlangtidsbagtetomaterivinaigrette.|-20250912-4</guid>
-      <pubDate>Fri, 12 Sep 2025 05:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
-      <link>https://hubnordic.madkastel.dk/</link>
-      <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
-   Marrokansk kylling tagine | 
-   Serveret med couscous | 
-   Marrocan chicken tagine | 
-   Served with couscous | 
-
-VEGETAR:
-   Marrokansk grøntsags tagine | 
-   Marrocan vegetable tagine | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|marrokanskkyllingtagine|serveretmedcouscous|marrocanchickentagine|servedwithcouscous|vegetar:marrokanskgrøntsagstagine|marrocanvegetabletagine|-20250912-3</guid>
-      <pubDate>Fri, 12 Sep 2025 05:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB3 - Lunch Menu</title>
-      <link>https://hubnordic.madkastel.dk/</link>
-      <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Streetfood-inspirerede tacos med krydret kylling, frisklavet tomatsalsa, sprød kål, saltet creme fraiche-dressing og et drys koriander – Men kun til dem der tør. | 
-   Vegetar: Samme tacos med spicy bønner og samme tilbehør – fuld af smag og tekstur. | 
-   Street food–inspired tacos with spicy chicken, fresh tomato salsa, crunchy cabbage, salted crème fraîche dressing, and a sprinkle of coriander – but only for the brave. | 
-   Vegetarian : The same tacos with spicy beans and all the same toppings – packed with flavour and texture. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|streetfood-inspireredetacosmedkrydretkylling,frisklavettomatsalsa,sprødkål,saltetcremefraiche-dressingogetdryskoriander–menkuntildemdertør.|vegetar:sammetacosmedspicybønnerogsammetilbehør–fuldafsmagogtekstur.|streetfood–inspiredtacoswithspicychicken,freshtomatosalsa,crunchycabbage,saltedcrèmefraîchedressing,andasprinkleofcoriander–butonlyforthebrave.|vegetarian:thesametacoswithspicybeansandallthesametoppings–packedwithflavourandtexture.|-20250912-2</guid>
-      <pubDate>Fri, 12 Sep 2025 05:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB2 - Lunch Menu</title>
-      <link>https://hubnordic.madkastel.dk/</link>
-      <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Saml-selv burger Byg din egen saftige burger med sprøde, råstegte kartofler ved siden af. Serveres med en cremet og smagfuld aioli, der giver et ekstra lækkert twist. | 
-   Build-Your-Own Burger Create your own juicy burger served with crispy pan-fried potatoes on the side. Accompanied by a creamy and flavorful aioli that adds an extra delicious twist. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|saml-selvburgerbygdinegensaftigeburgermedsprøde,råstegtekartoflervedsidenaf.serveresmedencremetogsmagfuldaioli,dergiveretekstralækkerttwist.|build-your-ownburgercreateyourownjuicyburgerservedwithcrispypan-friedpotatoesontheside.accompaniedbyacreamyandflavorfulaiolithataddsanextradelicioustwist.|-20250912-1</guid>
-      <pubDate>Fri, 12 Sep 2025 05:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 – Kays - Lunch Menu</title>
-      <link>https://hubnordic.madkastel.dk/</link>
-      <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Stadion hotdog med remoulade, ketchup, sennep, hjemmelavet ristet løg, rå løg, agurkesalat og syltet sennepskorn | 
-VEGETAR: Vegan Stadion hotdog med remoulade, ketchup, sennep, hjemmelavet ristet løg, rå løg, agurkesalat og syltet sennepskorn
- | 
-   Stadium hotdog with pickled, ketchup, mustard, homemade roasted onions, raw onions, cucumber salad and pickled mustard seeds | 
-VEGETARIAN: Vegan Stadium hotdog with pickled, ketchup, mustard, homemade roasted onions, raw onions, cucumber salad and pickled mustard seeds
- | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|stadionhotdogmedremoulade,ketchup,sennep,hjemmelavetristetløg,råløg,agurkesalatogsyltetsennepskorn|vegetar:veganstadionhotdogmedremoulade,ketchup,sennep,hjemmelavetristetløg,råløg,agurkesalatogsyltetsennepskorn|stadiumhotdogwithpickled,ketchup,mustard,homemaderoastedonions,rawonions,cucumbersaladandpickledmustardseeds|vegetarian:veganstadiumhotdogwithpickled,ketchup,mustard,homemaderoastedonions,rawonions,cucumbersaladandpickledmustardseeds|-20250912-0</guid>
-      <pubDate>Fri, 12 Sep 2025 05:19:47 +0000</pubDate>
-    </item>
   </channel>
 </rss>
