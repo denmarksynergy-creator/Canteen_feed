@@ -4,13 +4,78 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Sunday, 21 September 2025]]></title>
+    <title><![CDATA[Canteen Menu - Monday, 22 September 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Sun, 21 Sep 2025 06:23:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 07:12:28 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>🍽 HUB1 - Sprout Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
+   Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | 
+   Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250922-4</guid>
+      <pubDate>Mon, 22 Sep 2025 07:12:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
+   Libanesisk kylling med mujadara og fatoush serveret med tahin dressing | 
+   Lebanese chicken with mujadara and fattoush, served with tahini dressing. | 
+
+VEGETAR:
+   Bagt spidskål med miso serveret med mujadara og fatoush hertil | 
+   tahin dressing | 
+   Baked pointed cabbage with miso, served with mujadara and fattoush, accompanied by tahini dressing. | 
+   Lammeculotte med frisk spinat, palmekål og ristet kartofler serveret med lammesky sauce toppet med frisk mynte | 
+   Lamb rump with fresh spinach, cavolo nero, and roasted potatoes, served with lamb jus sauce and topped with fresh mint. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|libanesiskkyllingmedmujadaraogfatoushserveretmedtahindressing|lebanesechickenwithmujadaraandfattoush,servedwithtahinidressing.|vegetar:bagtspidskålmedmisoserveretmedmujadaraogfatoushhertil|tahindressing|bakedpointedcabbagewithmiso,servedwithmujadaraandfattoush,accompaniedbytahinidressing.|lammeculottemedfriskspinat,palmekålogristetkartoflerserveretmedlammeskysaucetoppetmedfriskmynte|lambrumpwithfreshspinach,cavolonero,androastedpotatoes,servedwithlambjussauceandtoppedwithfreshmint.|-20250922-3</guid>
+      <pubDate>Mon, 22 Sep 2025 07:12:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB3 - Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
+   Thailandsk peanut curry med kylling, søde kartofler, gulerødder og pak choy lavet på kokosmælk, smagt til med hvidløg, kaffirlimeblade og ingefær. Serveret med brune ris, saltede peanuts og Thai basilikum. | 
+VEGETAR:
+   Thailandsk peanut curry med edamame bønner, søde kartofler, gulerødder og pak choy lavet på kokosmælk, smagt til med hvidløg, kaffirlimeblade og ingefær. Serveret med brune ris, saltede peanuts og koriander.
+
+   Thai Peanut Curry with Chicken | 
+   Thai peanut curry with chicken, sweet potatoes, carrots, and pak choy made with coconut milk, seasoned with garlic, kaffir lime leaves, and ginger. | 
+   Served with brown rice, salted peanuts, and Thai basil. | 
+VEGETARIAN:
+   Thai peanut curry with edamame beans, sweet potatoes, carrots, and pak choy made with coconut milk, seasoned with garlic, kaffir lime leaves, and ginger. Served with brown rice, salted peanuts, and coriander.
+]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|thailandskpeanutcurrymedkylling,sødekartofler,gulerødderogpakchoylavetpåkokosmælk,smagttilmedhvidløg,kaffirlimebladeogingefær.serveretmedbruneris,saltedepeanutsogthaibasilikum.|vegetar:thailandskpeanutcurrymededamamebønner,sødekartofler,gulerødderogpakchoylavetpåkokosmælk,smagttilmedhvidløg,kaffirlimebladeogingefær.serveretmedbruneris,saltedepeanutsogkoriander.thaipeanutcurrywithchicken|thaipeanutcurrywithchicken,sweetpotatoes,carrots,andpakchoymadewithcoconutmilk,seasonedwithgarlic,kaffirlimeleaves,andginger.|servedwithbrownrice,saltedpeanuts,andthaibasil.|vegetarian:thaipeanutcurrywithedamamebeans,sweetpotatoes,carrots,andpakchoymadewithcoconutmilk,seasonedwithgarlic,kaffirlimeleaves,andginger.servedwithbrownrice,saltedpeanuts,andcoriander.-20250922-2</guid>
+      <pubDate>Mon, 22 Sep 2025 07:12:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB2 - Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
+   Spaghetti Bolognese med friskrevet Grana Padano og basilikum | 
+   Klassisk kødsauce simret med tomat, løg og hvidløg, serveret med al dente spaghetti og frisk basilikum | 
+   Vegetarisk Bolognese med linser og grøntsager Smagfuld linsegryde med grøntsager, krydderurter og serveret med spaghetti, og basailikum. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|spaghettibolognesemedfriskrevetgranapadanoogbasilikum|klassiskkødsaucesimretmedtomat,løgoghvidløg,serveretmedaldentespaghettiogfriskbasilikum|vegetariskbolognesemedlinseroggrøntsagersmagfuldlinsegrydemedgrøntsager,krydderurterogserveretmedspaghetti,ogbasailikum.|-20250922-1</guid>
+      <pubDate>Mon, 22 Sep 2025 07:12:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 – Kays - Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
+   Sønderjysk stew af gris serveret med syrlig kål og dampet økologiske kartofler toppet med friske urter | 
+VEGETAR: Sønderjysk stew af tofu og polenta serveret med syrlig kål og dampet økologiske kartofler toppet med friske urter
+ | 
+   Southern Jutland pork stew served with sauerkraut and steamed organic potatoes topped with fresh herbs | 
+VEGETARIAN: Southern Jutland tofu and polenta stew served with sauerkraut and steamed organic potatoes topped with fresh herbs
+ | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|sønderjyskstewafgrisserveretmedsyrligkålogdampetøkologiskekartoflertoppetmedfriskeurter|vegetar:sønderjyskstewaftofuogpolentaserveretmedsyrligkålogdampetøkologiskekartoflertoppetmedfriskeurter|southernjutlandporkstewservedwithsauerkrautandsteamedorganicpotatoestoppedwithfreshherbs|vegetarian:southernjutlandtofuandpolentastewservedwithsauerkrautandsteamedorganicpotatoestoppedwithfreshherbs|-20250922-0</guid>
+      <pubDate>Mon, 22 Sep 2025 07:12:28 +0000</pubDate>
+    </item>
   </channel>
 </rss>
