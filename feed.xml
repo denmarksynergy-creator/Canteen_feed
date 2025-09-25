@@ -4,13 +4,13 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Tuesday, 23 September 2025]]></title>
+    <title><![CDATA[Canteen Menu - Thursday, 25 September 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 23 Sep 2025 05:16:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 05:20:13 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu</title>
@@ -18,8 +18,8 @@
       <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
    Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | 
    Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250923-4</guid>
-      <pubDate>Tue, 23 Sep 2025 05:16:44 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250925-4</guid>
+      <pubDate>Thu, 25 Sep 2025 05:20:13 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
@@ -32,49 +32,47 @@ VEGETAR:
    Bagt spidskål med miso serveret med mujadara og fatoush hertil | 
    tahin dressing | 
    Baked pointed cabbage with miso, served with mujadara and fattoush, accompanied by tahini dressing. | 
-   Lammeculotte med frisk spinat, palmekål og ristet kartofler serveret med lammesky sauce toppet med frisk mynte | 
-   Lamb rump with fresh spinach, cavolo nero, and roasted potatoes, served with lamb jus sauce and topped with fresh mint. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|libanesiskkyllingmedmujadaraogfatoushserveretmedtahindressing|lebanesechickenwithmujadaraandfattoush,servedwithtahinidressing.|vegetar:bagtspidskålmedmisoserveretmedmujadaraogfatoushhertil|tahindressing|bakedpointedcabbagewithmiso,servedwithmujadaraandfattoush,accompaniedbytahinidressing.|lammeculottemedfriskspinat,palmekålogristetkartoflerserveretmedlammeskysaucetoppetmedfriskmynte|lambrumpwithfreshspinach,cavolonero,androastedpotatoes,servedwithlambjussauceandtoppedwithfreshmint.|-20250923-3</guid>
-      <pubDate>Tue, 23 Sep 2025 05:16:44 +0000</pubDate>
+   Bagt laks serveret på bund af krydret beluga linser serveret med lun spidskål salat med æbler, peberrod og friske urter | 
+   Baked salmon served on a bed of spiced beluga lentils, accompanied by a warm pointed cabbage salad with apples, horseradish, and fresh herbs. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|libanesiskkyllingmedmujadaraogfatoushserveretmedtahindressing|lebanesechickenwithmujadaraandfattoush,servedwithtahinidressing.|vegetar:bagtspidskålmedmisoserveretmedmujadaraogfatoushhertil|tahindressing|bakedpointedcabbagewithmiso,servedwithmujadaraandfattoush,accompaniedbytahinidressing.|bagtlaksserveretpåbundafkrydretbelugalinserserveretmedlunspidskålsalatmedæbler,peberrodogfriskeurter|bakedsalmonservedonabedofspicedbelugalentils,accompaniedbyawarmpointedcabbagesaladwithapples,horseradish,andfreshherbs.|-20250925-3</guid>
+      <pubDate>Thu, 25 Sep 2025 05:20:13 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Dansk cremet strandkrabbe bisque med mørksej, orzo og blomkål. | 
-   Toppet af med sprød fennikel og purløg. | 
+   Klassisk Skinkeschnitzel af gris. Serveret med små kartofler og en let og cremet stuvning af grønne ærter, gulerødder og sensommer kål | 
 VEGETAR:
-   Daal toppet af med creme fraiche, saltede peanuts og koriander.
+   Vegetarisk grøntsagsbøf. Serveret med små kartofler og en let og cremet stuvning af grønne ærter, gulerødder og sensommer kål
 
-   Danish creamy shore crab bisque with pollock, orzo, and cauliflower. | 
-   Topped with crispy fennel and chives. | 
+   Classic pork schnitzel. Served with small potatoes and a light, creamy stew of green peas, carrots, and late summer cabbage. | 
 VEGETARIAN:
-   Daal topped with crème fraîche, salted peanuts, and coriander.
+   Vegetarian vegetable patty. Served with small potatoes and a light, creamy stew of green peas, carrots, and late summer cabbage.
 ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|danskcremetstrandkrabbebisquemedmørksej,orzoogblomkål.|toppetafmedsprødfennikelogpurløg.|vegetar:daaltoppetafmedcremefraiche,saltedepeanutsogkoriander.danishcreamyshorecrabbisquewithpollock,orzo,andcauliflower.|toppedwithcrispyfennelandchives.|vegetarian:daaltoppedwithcrèmefraîche,saltedpeanuts,andcoriander.-20250923-2</guid>
-      <pubDate>Tue, 23 Sep 2025 05:16:44 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|klassiskskinkeschnitzelafgris.serveretmedsmåkartoflerogenletogcremetstuvningafgrønneærter,gulerødderogsensommerkål|vegetar:vegetariskgrøntsagsbøf.serveretmedsmåkartoflerogenletogcremetstuvningafgrønneærter,gulerødderogsensommerkålclassicporkschnitzel.servedwithsmallpotatoesandalight,creamystewofgreenpeas,carrots,andlatesummercabbage.|vegetarian:vegetarianvegetablepatty.servedwithsmallpotatoesandalight,creamystewofgreenpeas,carrots,andlatesummercabbage.-20250925-2</guid>
+      <pubDate>Thu, 25 Sep 2025 05:20:13 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Langtidsbraiseret dyre ragout med sellerimos med glaserede perleløg, søde gulerødder og krydderurter. | 
-   Vegetarisk svampegryde med perleløg, gulerødder og sellerimos Fyldig gryderet med svampe, perleløg kikærter og gulerødder, serveret med sellerimos. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|langtidsbraiseretdyreragoutmedsellerimosmedglaseredeperleløg,sødegulerødderogkrydderurter.|vegetarisksvampegrydemedperleløg,gulerødderogsellerimosfyldiggryderetmedsvampe,perleløgkikærteroggulerødder,serveretmedsellerimos.|-20250923-1</guid>
-      <pubDate>Tue, 23 Sep 2025 05:16:44 +0000</pubDate>
+   Hjemmelavede fiskefrikadeller med grov remoulade og lun kartoffelsalat Sprøde fiskefrikadeller med syrlig remoulade og lun kartoffelsalat med haricote verts og forårsløg. | 
+   Selleri frikadeller med grov remoulade og lun kartoffelsalat Krydret sellerifrikadeller, sprødt stegte, med grov remoulade og lun kartoffelsalat. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|hjemmelavedefiskefrikadellermedgrovremouladeoglunkartoffelsalatsprødefiskefrikadellermedsyrligremouladeoglunkartoffelsalatmedharicotevertsogforårsløg.|sellerifrikadellermedgrovremouladeoglunkartoffelsalatkrydretsellerifrikadeller,sprødtstegte,medgrovremouladeoglunkartoffelsalat.|-20250925-1</guid>
+      <pubDate>Thu, 25 Sep 2025 05:20:13 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Chicken tikka masala (Halal) med brune ris hertil hjemmelavet naanbrød, raita og koriander on the side | 
-VEGETAR: vegetar tofu tikka masala med brune ris hertil hjemmelavet naanbrød, raita og koriander on the side
+   Fortaleza Del Rey Braiseret kalveskank med cremet sweet potato / rodfrugtemos, svampe, grillede løg tilsmagt med marv og trøffel toppet med syltede druer og bønner | 
+VEGETAR: Fortaleza Del Rey Braiseret tempeh med cremet sweet potato / rodfrugtemos, svampe, grillede løg tilsmagt med trøffel toppet med syltede druer og bønner
  | 
-   Chicken tikka masala (Halal) with brown rice, homemade naan bread, raita and coriander on the side | 
-VEGETARIAN: vegetarian tofu tikka masala with brown rice, homemade naan bread, raita and coriander on the side
+   Fortaleza Del Rey Braised veal shank with creamy sweet potato / root vegetable puree, mushrooms, grilled onions flavoured with marrow and truffle topped with pickled grapes and beans | 
+VEGETARIAN: Fortaleza Del Rey Braised tempeh with creamy sweet potato / root vegetable puree, mushrooms, grilled onions flavoured with truffle topped with pickled grapes and beans
  | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|chickentikkamasala(halal)medbrunerishertilhjemmelavetnaanbrød,raitaogkorianderontheside|vegetar:vegetartofutikkamasalamedbrunerishertilhjemmelavetnaanbrød,raitaogkorianderontheside|chickentikkamasala(halal)withbrownrice,homemadenaanbread,raitaandcorianderontheside|vegetarian:vegetariantofutikkamasalawithbrownrice,homemadenaanbread,raitaandcorianderontheside|-20250923-0</guid>
-      <pubDate>Tue, 23 Sep 2025 05:16:44 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|fortalezadelreybraiseretkalveskankmedcremetsweetpotato/rodfrugtemos,svampe,grilledeløgtilsmagtmedmarvogtrøffeltoppetmedsyltededruerogbønner|vegetar:fortalezadelreybraiserettempehmedcremetsweetpotato/rodfrugtemos,svampe,grilledeløgtilsmagtmedtrøffeltoppetmedsyltededruerogbønner|fortalezadelreybraisedvealshankwithcreamysweetpotato/rootvegetablepuree,mushrooms,grilledonionsflavouredwithmarrowandtruffletoppedwithpickledgrapesandbeans|vegetarian:fortalezadelreybraisedtempehwithcreamysweetpotato/rootvegetablepuree,mushrooms,grilledonionsflavouredwithtruffletoppedwithpickledgrapesandbeans|-20250925-0</guid>
+      <pubDate>Thu, 25 Sep 2025 05:20:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
