@@ -4,13 +4,13 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Tuesday, 30 September 2025]]></title>
+    <title><![CDATA[Canteen Menu - Wednesday, 01 October 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 30 Sep 2025 05:17:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 05:16:34 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu</title>
@@ -18,56 +18,62 @@
       <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
    Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | 
    Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20250930-4</guid>
-      <pubDate>Tue, 30 Sep 2025 05:17:02 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20251001-5</guid>
+      <pubDate>Wed, 01 Oct 2025 05:16:34 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Homebound Lunch Menu:  | 
-   Cottage pie lavet på krondyrkød serveret med hårdt stegt palmekål hertil syltet græskar og friske urter | 
-   Cottage pie made with red deer meat served with hard-fried palm cabbage, pickled pumpkin and fresh herbs | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|cottagepielavetpåkrondyrkødserveretmedhårdtstegtpalmekålhertilsyltetgræskarogfriskeurter|cottagepiemadewithreddeermeatservedwithhard-friedpalmcabbage,pickledpumpkinandfreshherbs|-20250930-3</guid>
-      <pubDate>Tue, 30 Sep 2025 05:17:02 +0000</pubDate>
+   Daal på gule flækærter toppet med syltet rødløg, friske æbler og grønkål | 
+   Daal on yellow split peas topped with pickled red onion, fresh apples and green kale | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|daalpåguleflækærtertoppetmedsyltetrødløg,friskeæbleroggrønkål|daalonyellowsplitpeastoppedwithpickledredonion,freshapplesandgreenkale|-20251001-4</guid>
+      <pubDate>Wed, 01 Oct 2025 05:16:34 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
-   Spansk braiseret nakkekam af gris med krydret bønnecassoulet hertil romesco sauce toppet med fennikel crudite og friske urter | 
-   Spanish braised pork neck with spicy bean cassoulet, romesco sauce topped with fennel crudite and fresh herbs | 
-
-VEGETAR:
    Bagt hokkaido med krydret bønnecassoulet hertil romesco sauce toppet med fennikel crudite og friske urter | 
-   Baked Hokkaido with spicy bean cassoulet, romesco sauce topped with fennel crudite and fresh herbs | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|spanskbraiseretnakkekamafgrismedkrydretbønnecassoulethertilromescosaucetoppetmedfennikelcruditeogfriskeurter|spanishbraisedporkneckwithspicybeancassoulet,romescosaucetoppedwithfennelcruditeandfreshherbs|vegetar:bagthokkaidomedkrydretbønnecassoulethertilromescosaucetoppetmedfennikelcruditeogfriskeurter|bakedhokkaidowithspicybeancassoulet,romescosaucetoppedwithfennelcruditeandfreshherbs|-20250930-2</guid>
-      <pubDate>Tue, 30 Sep 2025 05:17:02 +0000</pubDate>
+   Baked Hokkaido with spicy bean cassoulet, romesco sauce | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|bagthokkaidomedkrydretbønnecassoulethertilromescosaucetoppetmedfennikelcruditeogfriskeurter|bakedhokkaidowithspicybeancassoulet,romescosauce|-20251001-3</guid>
+      <pubDate>Wed, 01 Oct 2025 05:16:34 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Italienske kødboller i tomatsauce | 
-   Saftige kødboller lavet af kalv og flæsk, vendt i en aromatisk tomatsauce med strejf af hvidløg og urter. Serveret med parmesan, brødkrummer og frisk basilikum | 
-   Vegetariske linseboller i tomatsauce | 
-   Linseboller lavet med kikærtemel og krydderier, lagt i en rig tomatsauce og serveret med parmesan og basilikum | 
-   Italian Meatballs in Tomato Sauce | 
-   Juicy meatballs made from veal and pork, simmered in a fragrant tomato sauce with hints of garlic and herbs. Served with parmesan, breadcrumbs, and fresh basil. | 
-   Vegetarian Lentil Balls in Tomato Sauce | 
-   Lentil balls made with chickpea flour and spices, simmered in a rich tomato sauce, topped with parmesan and fresh basil — hearty and satisfying. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|italienskekødbolleritomatsauce|saftigekødbollerlavetafkalvogflæsk,vendtienaromatisktomatsaucemedstrejfafhvidløgogurter.serveretmedparmesan,brødkrummerogfriskbasilikum|vegetariskelinsebolleritomatsauce|linsebollerlavetmedkikærtemelogkrydderier,lagtienrigtomatsauceogserveretmedparmesanogbasilikum|italianmeatballsintomatosauce|juicymeatballsmadefromvealandpork,simmeredinafragranttomatosaucewithhintsofgarlicandherbs.servedwithparmesan,breadcrumbs,andfreshbasil.|vegetarianlentilballsintomatosauce|lentilballsmadewithchickpeaflourandspices,simmeredinarichtomatosauce,toppedwithparmesanandfreshbasil—heartyandsatisfying.|-20250930-1</guid>
-      <pubDate>Tue, 30 Sep 2025 05:17:02 +0000</pubDate>
+   Spansk frittata med grillede grøntsager | 
+   En lun og fyldig æggekage med stegte auberginer, peberfrugter og svampe. Serveret med en frisk og sprød salat ved siden af. | 
+   Dagens kage: Blomme-trifli med pisket fløde og knasende granola | 
+   Spanish Frittata with Grilled Vegetables | 
+   A warm and filling egg dish packed with sautéed aubergines, bell peppers, and mushrooms. Served with a fresh, crisp side salad . | 
+   Dessert of the Day: Plum Trifle | 
+   Juicy plums with whipped cream and crunchy granola — a sweet and satisfying treat. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|spanskfrittatamedgrilledegrøntsager|enlunogfyldigæggekagemedstegteauberginer,peberfrugterogsvampe.serveretmedenfriskogsprødsalatvedsidenaf.|dagenskage:blomme-triflimedpisketflødeogknasendegranola|spanishfrittatawithgrilledvegetables|awarmandfillingeggdishpackedwithsautéedaubergines,bellpeppers,andmushrooms.servedwithafresh,crispsidesalad.|dessertoftheday:plumtrifle|juicyplumswithwhippedcreamandcrunchygranola—asweetandsatisfyingtreat.|-20251001-2</guid>
+      <pubDate>Wed, 01 Oct 2025 05:16:34 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Ungarsk paprikakylling Mør kylling i en cremet og krydret paprikasauce med løg og milde krydderier – en klassisk ret fra det ungarske køkken. Serveres med penne pasta og en frisk agurkesalat. | 
-   Ungarsk paprikagryde (vegetarisk) En cremet og krydret paprikagryde med sauterede grøntsager, linser og løg – fyldt med smag og varme krydderier. Serveres med penne pasta og frisk agurkesalat. | 
-   Hungarian paprika chicken Tender chicken in a creamy and mildly spiced paprika sauce with onions – a classic from Hungarian cuisine. Served with penne pasta and a fresh cucumber salad. | 
-   Hungarian paprika stew (vegetarian) A creamy and mildly spiced paprika stew with sautéed vegetables, lentils and onions – full of warmth and flavour. Served with penne pasta and fresh cucumber salad. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|ungarskpaprikakyllingmørkyllingiencremetogkrydretpaprikasaucemedløgogmildekrydderier–enklassiskretfradetungarskekøkken.serveresmedpennepastaogenfriskagurkesalat.|ungarskpaprikagryde(vegetarisk)encremetogkrydretpaprikagrydemedsauteredegrøntsager,linserogløg–fyldtmedsmagogvarmekrydderier.serveresmedpennepastaogfriskagurkesalat.|hungarianpaprikachickentenderchickeninacreamyandmildlyspicedpaprikasaucewithonions–aclassicfromhungariancuisine.servedwithpennepastaandafreshcucumbersalad.|hungarianpaprikastew(vegetarian)acreamyandmildlyspicedpaprikastewwithsautéedvegetables,lentilsandonions–fullofwarmthandflavour.servedwithpennepastaandfreshcucumbersalad.|-20250930-0</guid>
-      <pubDate>Tue, 30 Sep 2025 05:17:02 +0000</pubDate>
+   Bønne-cassoulet En varm og fyldig vegetarisk gryde med bønner, grøntsager og krydderurter – inspireret af det franske landkøkken. Serveres med sprødstegt polenta og hjemmebagt focaccia. | 
+   Kokos toppe med chokolade | 
+   Bean cassoulet A warm and hearty vegetarian stew with beans, vegetables and herbs – inspired by the French countryside. Served with crispy fried polenta and homemade focaccia. | 
+   Coconut macaroons with chocolate | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|bønne-cassouletenvarmogfyldigvegetariskgrydemedbønner,grøntsagerogkrydderurter–inspireretafdetfranskelandkøkken.serveresmedsprødstegtpolentaoghjemmebagtfocaccia.|kokostoppemedchokolade|beancassouletawarmandheartyvegetarianstewwithbeans,vegetablesandherbs–inspiredbythefrenchcountryside.servedwithcrispyfriedpolentaandhomemadefocaccia.|coconutmacaroonswithchocolate|-20251001-1</guid>
+      <pubDate>Wed, 01 Oct 2025 05:16:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 – Kays - Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
+VEGETAR: Vegansk butter chicken serveret med vilde ris, nigella syltet græskar saltet creme fraiche tilsmagt med lime toppet med ristet kerner og friske urter
+ | 
+VEGETARIAN: Vegan butter chicken served with wild rice, nigella pickled pumpkin, salted sour cream flavored with lime, topped with toasted seeds and fresh herbs
+ | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|vegetar:veganskbutterchickenserveretmedvilderis,nigellasyltetgræskarsaltetcremefraichetilsmagtmedlimetoppetmedristetkernerogfriskeurter|vegetarian:veganbutterchickenservedwithwildrice,nigellapickledpumpkin,saltedsourcreamflavoredwithlime,toppedwithtoastedseedsandfreshherbs|-20251001-0</guid>
+      <pubDate>Wed, 01 Oct 2025 05:16:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
