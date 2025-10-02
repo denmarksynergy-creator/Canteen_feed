@@ -4,13 +4,13 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Wednesday, 01 October 2025]]></title>
+    <title><![CDATA[Canteen Menu - Thursday, 02 October 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 01 Oct 2025 05:16:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 05:19:16 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu</title>
@@ -18,62 +18,71 @@
       <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
    Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | 
    Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20251001-5</guid>
-      <pubDate>Wed, 01 Oct 2025 05:16:34 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20251002-5</guid>
+      <pubDate>Thu, 02 Oct 2025 05:19:16 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Homebound Lunch Menu:  | 
-   Daal på gule flækærter toppet med syltet rødløg, friske æbler og grønkål | 
-   Daal on yellow split peas topped with pickled red onion, fresh apples and green kale | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|daalpåguleflækærtertoppetmedsyltetrødløg,friskeæbleroggrønkål|daalonyellowsplitpeastoppedwithpickledredonion,freshapplesandgreenkale|-20251001-4</guid>
-      <pubDate>Wed, 01 Oct 2025 05:16:34 +0000</pubDate>
+   Jomfruhummer bisque med plukket fisk, blåmuslinger toppet med lang tids bagte tomater, saltet cremefraiche og croutons | 
+   Lobster bisque with picked fish, mussels topped with long-baked tomatoes, salted crème fraiche and croutons | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|jomfruhummerbisquemedplukketfisk,blåmuslingertoppetmedlangtidsbagtetomater,saltetcremefraicheogcroutons|lobsterbisquewithpickedfish,musselstoppedwithlong-bakedtomatoes,saltedcrèmefraicheandcroutons|-20251002-4</guid>
+      <pubDate>Thu, 02 Oct 2025 05:19:16 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
+   Spansk braiseret nakkekam af gris med krydret bønnecassoulet hertil romesco sauce toppet med fennikel crudite og friske urter | 
+   Spanish braised pork neck with spicy bean cassoulet, romesco sauce topped with fennel crudite and fresh herbs | 
+
+VEGETAR:
    Bagt hokkaido med krydret bønnecassoulet hertil romesco sauce toppet med fennikel crudite og friske urter | 
-   Baked Hokkaido with spicy bean cassoulet, romesco sauce | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|bagthokkaidomedkrydretbønnecassoulethertilromescosaucetoppetmedfennikelcruditeogfriskeurter|bakedhokkaidowithspicybeancassoulet,romescosauce|-20251001-3</guid>
-      <pubDate>Wed, 01 Oct 2025 05:16:34 +0000</pubDate>
+   Baked Hokkaido with spicy bean cassoulet, romesco sauce topped with fennel crudite and fresh herbs | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|spanskbraiseretnakkekamafgrismedkrydretbønnecassoulethertilromescosaucetoppetmedfennikelcruditeogfriskeurter|spanishbraisedporkneckwithspicybeancassoulet,romescosaucetoppedwithfennelcruditeandfreshherbs|vegetar:bagthokkaidomedkrydretbønnecassoulethertilromescosaucetoppetmedfennikelcruditeogfriskeurter|bakedhokkaidowithspicybeancassoulet,romescosaucetoppedwithfennelcruditeandfreshherbs|-20251002-3</guid>
+      <pubDate>Thu, 02 Oct 2025 05:19:16 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Spansk frittata med grillede grøntsager | 
-   En lun og fyldig æggekage med stegte auberginer, peberfrugter og svampe. Serveret med en frisk og sprød salat ved siden af. | 
-   Dagens kage: Blomme-trifli med pisket fløde og knasende granola | 
-   Spanish Frittata with Grilled Vegetables | 
-   A warm and filling egg dish packed with sautéed aubergines, bell peppers, and mushrooms. Served with a fresh, crisp side salad . | 
-   Dessert of the Day: Plum Trifle | 
-   Juicy plums with whipped cream and crunchy granola — a sweet and satisfying treat. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|spanskfrittatamedgrilledegrøntsager|enlunogfyldigæggekagemedstegteauberginer,peberfrugterogsvampe.serveretmedenfriskogsprødsalatvedsidenaf.|dagenskage:blomme-triflimedpisketflødeogknasendegranola|spanishfrittatawithgrilledvegetables|awarmandfillingeggdishpackedwithsautéedaubergines,bellpeppers,andmushrooms.servedwithafresh,crispsidesalad.|dessertoftheday:plumtrifle|juicyplumswithwhippedcreamandcrunchygranola—asweetandsatisfyingtreat.|-20251001-2</guid>
-      <pubDate>Wed, 01 Oct 2025 05:16:34 +0000</pubDate>
+   Klassiske høns i tarteletter | 
+   Møre stykker kylling i cremet hønsesauce med asparges, anrettet i sprøde tarteletskaller. Nostalgisk og lækkert! | 
+   Vegetariske tarteletter med edamame bønner | 
+   Tarteletter fyldt med edamame bønner og grøntsager i en mild, cremet sauce | 
+   Classic Chicken in Tartelets | 
+   Tender pieces of chicken in a creamy white sauce with asparagus, served in crispy puff pastry tartelettes. A nostalgic and beloved Danish classic. | 
+   Vegetarian Tartelets with Edamame Beans | 
+   Tartelettes filled with edamame beans and vegetables in a mild, creamy sauce — comforting and full of flavor. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|klassiskehønsitarteletter|mørestykkerkyllingicremethønsesaucemedasparges,anrettetisprødetarteletskaller.nostalgiskoglækkert!|vegetarisketartelettermededamamebønner|tarteletterfyldtmededamamebønneroggrøntsagerienmild,cremetsauce|classicchickenintartelets|tenderpiecesofchickeninacreamywhitesaucewithasparagus,servedincrispypuffpastrytartelettes.anostalgicandbeloveddanishclassic.|vegetariantarteletswithedamamebeans|tartelettesfilledwithedamamebeansandvegetablesinamild,creamysauce—comfortingandfullofflavor.|-20251002-2</guid>
+      <pubDate>Thu, 02 Oct 2025 05:19:16 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Bønne-cassoulet En varm og fyldig vegetarisk gryde med bønner, grøntsager og krydderurter – inspireret af det franske landkøkken. Serveres med sprødstegt polenta og hjemmebagt focaccia. | 
-   Kokos toppe med chokolade | 
-   Bean cassoulet A warm and hearty vegetarian stew with beans, vegetables and herbs – inspired by the French countryside. Served with crispy fried polenta and homemade focaccia. | 
-   Coconut macaroons with chocolate | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|bønne-cassouletenvarmogfyldigvegetariskgrydemedbønner,grøntsagerogkrydderurter–inspireretafdetfranskelandkøkken.serveresmedsprødstegtpolentaoghjemmebagtfocaccia.|kokostoppemedchokolade|beancassouletawarmandheartyvegetarianstewwithbeans,vegetablesandherbs–inspiredbythefrenchcountryside.servedwithcrispyfriedpolentaandhomemadefocaccia.|coconutmacaroonswithchocolate|-20251001-1</guid>
-      <pubDate>Wed, 01 Oct 2025 05:16:34 +0000</pubDate>
+   Citronkylling Mør kylling tilberedt med frisk citron og urter – serveret med cremede Ingrid ærter, små kartofler og dampet blomkål. En let og smagfuld ret med et strejf af syrlighed og nordisk grønt i sæson. | 
+   Citronmarinerede grøntsager Ovnbagte grøntsager med citron og friske urter – serveret med cremede Ingrid ærter, små kartofler og dampet blomkål. En let, grøn ret med masser af smag og sæsonens bedste råvarer. | 
+   Lemon chicken Tender chicken cooked with fresh lemon and herbs – served with creamy Ingrid peas, baby potatoes and steamed cauliflower. A light and flavourful dish with a Nordic twist. | 
+   Lemon-marinated vegetables Oven-roasted vegetables with lemon and fresh herbs – served with creamy Ingrid peas, baby potatoes and steamed cauliflower. A fresh and seasonal vegetarian option with plenty of flavour. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|citronkyllingmørkyllingtilberedtmedfriskcitronogurter–serveretmedcremedeingridærter,småkartoflerogdampetblomkål.enletogsmagfuldretmedetstrejfafsyrlighedognordiskgrøntisæson.|citronmarineredegrøntsagerovnbagtegrøntsagermedcitronogfriskeurter–serveretmedcremedeingridærter,småkartoflerogdampetblomkål.enlet,grønretmedmasserafsmagogsæsonensbedsteråvarer.|lemonchickentenderchickencookedwithfreshlemonandherbs–servedwithcreamyingridpeas,babypotatoesandsteamedcauliflower.alightandflavourfuldishwithanordictwist.|lemon-marinatedvegetablesoven-roastedvegetableswithlemonandfreshherbs–servedwithcreamyingridpeas,babypotatoesandsteamedcauliflower.afreshandseasonalvegetarianoptionwithplentyofflavour.|-20251002-1</guid>
+      <pubDate>Thu, 02 Oct 2025 05:19:16 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-VEGETAR: Vegansk butter chicken serveret med vilde ris, nigella syltet græskar saltet creme fraiche tilsmagt med lime toppet med ristet kerner og friske urter
+   Øl braiseret svinekæber med pommes anna, hertil sensommer grønt, toppet med dehydreret timian, confiteret svampe og | 
+   reine claude kompot. | 
+VEGETAR: Øl braiseret tofu med pommes anna, hertil sensommer grønt, toppet med dehydreret timian, confiteret svampe og
  | 
-VEGETARIAN: Vegan butter chicken served with wild rice, nigella pickled pumpkin, salted sour cream flavored with lime, topped with toasted seeds and fresh herbs
+   Beer braised pork jowls with pommes anna, accompanied by late summer greens, topped with dehydrated thyme, confit mushrooms and | 
+   reine claude compote. | 
+VEGETARIAN: Beer braised tofu with pommes anna, accompanied by late summer greens, topped with dehydrated thyme, confit mushrooms and
  | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|vegetar:veganskbutterchickenserveretmedvilderis,nigellasyltetgræskarsaltetcremefraichetilsmagtmedlimetoppetmedristetkernerogfriskeurter|vegetarian:veganbutterchickenservedwithwildrice,nigellapickledpumpkin,saltedsourcreamflavoredwithlime,toppedwithtoastedseedsandfreshherbs|-20251001-0</guid>
-      <pubDate>Wed, 01 Oct 2025 05:16:34 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|ølbraiseretsvinekæbermedpommesanna,hertilsensommergrønt,toppetmeddehydrerettimian,confiteretsvampeog|reineclaudekompot.|vegetar:ølbraiserettofumedpommesanna,hertilsensommergrønt,toppetmeddehydrerettimian,confiteretsvampeog|beerbraisedporkjowlswithpommesanna,accompaniedbylatesummergreens,toppedwithdehydratedthyme,confitmushroomsand|reineclaudecompote.|vegetarian:beerbraisedtofuwithpommesanna,accompaniedbylatesummergreens,toppedwithdehydratedthyme,confitmushroomsand|-20251002-0</guid>
+      <pubDate>Thu, 02 Oct 2025 05:19:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
