@@ -4,13 +4,13 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Wednesday, 08 October 2025]]></title>
+    <title><![CDATA[Canteen Menu - Thursday, 09 October 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 08 Oct 2025 05:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 05:20:11 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu</title>
@@ -18,59 +18,66 @@
       <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
    Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | 
    Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20251008-5</guid>
-      <pubDate>Wed, 08 Oct 2025 05:16:54 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20251009-5</guid>
+      <pubDate>Thu, 09 Oct 2025 05:20:11 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Homebound Lunch Menu:  | 
-   Vegetar : Bagt græskar med syltet og stegt portobello svampe, | 
-   sorte munkbønner og rød spidskål i sherry vinaigrette toppet med urter | 
-   Vegetarian: Baked pumpkin with pickled and fried portobello mushrooms, black beans and red cabbage in sherry vinaigrette topped with herbs | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|vegetar:bagtgræskarmedsyltetogstegtportobellosvampe,|sortemunkbønnerogrødspidskålisherryvinaigrettetoppetmedurter|vegetarian:bakedpumpkinwithpickledandfriedportobellomushrooms,blackbeansandredcabbageinsherryvinaigrettetoppedwithherbs|-20251008-4</guid>
-      <pubDate>Wed, 08 Oct 2025 05:16:54 +0000</pubDate>
+   Dagens fisk med rødbede spread, kapers og siriusærter med friske urter | 
+   Fish of the day with beetroot spread, capers and snow peas with fresh herbs | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|dagensfiskmedrødbedespread,kapersogsiriusærtermedfriskeurter|fishofthedaywithbeetrootspread,capersandsnowpeaswithfreshherbs|-20251009-4</guid>
+      <pubDate>Thu, 09 Oct 2025 05:20:11 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
+   Malaysisk laksa nudelsuppe med kylling og sprøde grøntsager, peanuts, friske urter hertil crispy chili olie | 
+   Malaysian laksa noodle soup with chicken and crispy vegetables, peanuts, fresh herbs, and crispy chili oil | 
    Vegetar: Malaysisk laksa nudelsuppe med Tofu og sprøde grøntsager, peanuts, friske urter hertil crispy chili olie | 
    Vegetarian: Malaysian laksa noodle soup with Tofu and crispy vegetables, peanuts, fresh herbs and crispy chili oil | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|vegetar:malaysisklaksanudelsuppemedtofuogsprødegrøntsager,peanuts,friskeurterhertilcrispychiliolie|vegetarian:malaysianlaksanoodlesoupwithtofuandcrispyvegetables,peanuts,freshherbsandcrispychilioil|-20251008-3</guid>
-      <pubDate>Wed, 08 Oct 2025 05:16:54 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|malaysisklaksanudelsuppemedkyllingogsprødegrøntsager,peanuts,friskeurterhertilcrispychiliolie|malaysianlaksanoodlesoupwithchickenandcrispyvegetables,peanuts,freshherbs,andcrispychilioil|vegetar:malaysisklaksanudelsuppemedtofuogsprødegrøntsager,peanuts,friskeurterhertilcrispychiliolie|vegetarian:malaysianlaksanoodlesoupwithtofuandcrispyvegetables,peanuts,freshherbsandcrispychilioil|-20251009-3</guid>
+      <pubDate>Thu, 09 Oct 2025 05:20:11 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Cæsar salat ala vegetarian | 
-   Butterbean pure, rodfrugter langtidsbraiseret med svampe soya glace, sprød salat, agurk, cæsar dressing, crouton og revet parmesan | 
-   Kage: Blommekage lavet på danske Reine claude blommer og pisket yoghurt creme | 
-   Caesar Salad à la Vegetarian | 
-   Butterbean purée, root vegetables slow-braised with mushroom soy glaze, crisp salad, cucumber, Caesar dressing, croutons, and grated parmesan. | 
-   Cake: Plum cake with Danish Reine Claude plums and whipped yogurt cream. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|cæsarsalatalavegetarian|butterbeanpure,rodfrugterlangtidsbraiseretmedsvampesoyaglace,sprødsalat,agurk,cæsardressing,croutonogrevetparmesan|kage:blommekagelavetpådanskereineclaudeblommerogpisketyoghurtcreme|caesarsaladàlavegetarian|butterbeanpurée,rootvegetablesslow-braisedwithmushroomsoyglaze,crispsalad,cucumber,caesardressing,croutons,andgratedparmesan.|cake:plumcakewithdanishreineclaudeplumsandwhippedyogurtcream.|-20251008-2</guid>
-      <pubDate>Wed, 08 Oct 2025 05:16:54 +0000</pubDate>
+   Dansk klassiker – Sennep og honningglaseret skinke med grønlangkål kogte kartofler og syltede asier | 
+VEGETAR:
+   Moderne grønt klassiker – Saltbagt selleri med brunet smørvinaigrette med kapers og mandler, kogte kartofler og syltede asier
+
+   Danish Classic – Mustard and Honey Glazed Ham | 
+   Served with kale stew, boiled potatoes, and pickled gherkins. | 
+VEGETARIAN:
+   Modern green classic – Salt-baked celeriac with browned butter vinaigrette with capers and almonds, boiled potatoes, and pickled gherkins.
+]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|danskklassiker–sennepoghonningglaseretskinkemedgrønlangkålkogtekartoflerogsyltedeasier|vegetar:modernegrøntklassiker–saltbagtsellerimedbrunetsmørvinaigrettemedkapersogmandler,kogtekartoflerogsyltedeasierdanishclassic–mustardandhoneyglazedham|servedwithkalestew,boiledpotatoes,andpickledgherkins.|vegetarian:moderngreenclassic–salt-bakedceleriacwithbrownedbuttervinaigrettewithcapersandalmonds,boiledpotatoes,andpickledgherkins.-20251009-2</guid>
+      <pubDate>Thu, 09 Oct 2025 05:20:11 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Vegetar Sloppy Joe burger med cheddar | 
-   En snasket klassiker i grøn forklædning! Saftig vegetarburger med krydret linse- og grøntsagsfyld, smeltet cheddar og syltede rødløg i brioche bolle med frisk salat. Serveres med sprøde, ristede kartofler og aioli. | 
-   Frugtsalat med vanilje yoghurt | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|vegetarsloppyjoeburgermedcheddar|ensnasketklassikerigrønforklædning!saftigvegetarburgermedkrydretlinse-oggrøntsagsfyld,smeltetcheddarogsyltederødløgibriochebollemedfrisksalat.serveresmedsprøde,ristedekartoflerogaioli.|frugtsalatmedvaniljeyoghurt|-20251008-1</guid>
-      <pubDate>Wed, 08 Oct 2025 05:16:54 +0000</pubDate>
+   Chicken Tikka Masala | 
+   En varm og krydret favorit fra det indiske køkken! Mør, marineret kylling i en cremet tomat- og kryddersauce, serveret med aromatisk brune ris pilaw. En ret fuld af smag og varme. | 
+   Vegetarisk Tikka Masala Krydret kikærte- og grøntsagsgryde i cremet tomat- og kryddersauce, serveret med aromatisk brune ris pilaw. En smagsoplevelse, der varmer både krop og sjæl. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|chickentikkamasala|envarmogkrydretfavoritfradetindiskekøkken!mør,marineretkyllingiencremettomat-ogkryddersauce,serveretmedaromatiskbrunerispilaw.enretfuldafsmagogvarme.|vegetarisktikkamasalakrydretkikærte-oggrøntsagsgrydeicremettomat-ogkryddersauce,serveretmedaromatiskbrunerispilaw.ensmagsoplevelse,dervarmerbådekropogsjæl.|-20251009-1</guid>
+      <pubDate>Thu, 09 Oct 2025 05:20:11 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Gnocchi i cremet franske skovsvampesauce med ristet vand kastanjer hertil langtidsbagte tomater, friteret rødbeder og kørvel | 
-   Gnocchi in creamy French forest mushroom sauce with roasted water chestnuts, slow-baked tomatoes, fried beets and chervil | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|gnocchiicremetfranskeskovsvampesaucemedristetvandkastanjerhertillangtidsbagtetomater,friteretrødbederogkørvel|gnocchiincreamyfrenchforestmushroomsaucewithroastedwaterchestnuts,slow-bakedtomatoes,friedbeetsandchervil|-20251008-0</guid>
-      <pubDate>Wed, 08 Oct 2025 05:16:54 +0000</pubDate>
+   Asiatisk kylling med milde karry brune ris, ristet peanut toppet med forårsløg og koriander | 
+VEGETAR: Asiatisk vegetar kylling med milde karry brune ris, ristet peanut toppet med forårsløg og koriander
+ | 
+   Asian chicken with mild curry brown rice, roasted peanut topped with spring onions and coriander | 
+   Vegetarian : Asian vegetarian chicken with mild curry brown rice, roasted peanut topped with spring onions and coriander | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|asiatiskkyllingmedmildekarrybruneris,ristetpeanuttoppetmedforårsløgogkoriander|vegetar:asiatiskvegetarkyllingmedmildekarrybruneris,ristetpeanuttoppetmedforårsløgogkoriander|asianchickenwithmildcurrybrownrice,roastedpeanuttoppedwithspringonionsandcoriander|vegetarian:asianvegetarianchickenwithmildcurrybrownrice,roastedpeanuttoppedwithspringonionsandcoriander|-20251009-0</guid>
+      <pubDate>Thu, 09 Oct 2025 05:20:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
