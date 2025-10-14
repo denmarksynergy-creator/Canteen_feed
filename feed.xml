@@ -4,13 +4,13 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Monday, 13 October 2025]]></title>
+    <title><![CDATA[Canteen Menu - Tuesday, 14 October 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Mon, 13 Oct 2025 07:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 05:17:00 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu</title>
@@ -18,8 +18,8 @@
       <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
    Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | 
    Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20251013-5</guid>
-      <pubDate>Mon, 13 Oct 2025 07:12:35 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20251014-5</guid>
+      <pubDate>Tue, 14 Oct 2025 05:17:00 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu</title>
@@ -28,8 +28,8 @@
    Cremet pasta med røget bacon, ristet svampe, frisk spinat, | 
    toppet med semi dried tomater og friske urter | 
    Creamy pasta with smoked bacon, mushrooms, fresh spinach topped with semi dried tomatoes and fresh herbs | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|cremetpastamedrøgetbacon,ristetsvampe,friskspinat,|toppetmedsemidriedtomaterogfriskeurter|creamypastawithsmokedbacon,mushrooms,freshspinachtoppedwithsemidriedtomatoesandfreshherbs|-20251013-4</guid>
-      <pubDate>Mon, 13 Oct 2025 07:12:35 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|cremetpastamedrøgetbacon,ristetsvampe,friskspinat,|toppetmedsemidriedtomaterogfriskeurter|creamypastawithsmokedbacon,mushrooms,freshspinachtoppedwithsemidriedtomatoesandfreshherbs|-20251014-4</guid>
+      <pubDate>Tue, 14 Oct 2025 05:17:00 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
@@ -39,48 +39,51 @@
    Pork Vindaloo made with pork neck fillet served with lemon rice, fresh herbs and chaat salad | 
    Vegetar: Aloo Gobi med Citronris og Chaat salat | 
    Vegetarian: Aloo Gobi with Lemon Rice and Chaat Salad | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|porkvindaloolavetpånakkefiletafgrisserveretmedcitronris,friskeurterogchaatsalat|porkvindaloomadewithporkneckfilletservedwithlemonrice,freshherbsandchaatsalad|vegetar:aloogobimedcitronrisogchaatsalat|vegetarian:aloogobiwithlemonriceandchaatsalad|-20251013-3</guid>
-      <pubDate>Mon, 13 Oct 2025 07:12:35 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|porkvindaloolavetpånakkefiletafgrisserveretmedcitronris,friskeurterogchaatsalat|porkvindaloomadewithporkneckfilletservedwithlemonrice,freshherbsandchaatsalad|vegetar:aloogobimedcitronrisogchaatsalat|vegetarian:aloogobiwithlemonriceandchaatsalad|-20251014-3</guid>
+      <pubDate>Tue, 14 Oct 2025 05:17:00 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Lam Makhani Klassisk butter chicken sauce lavet med dansk frilandslam fra Vibygård. Mørt lam i en cremet og krydret sauce baseret på tomater, fløde, hvidløg, ingefær og varme indiske krydderier som garam masala og spidskommen. Serveres med brune ris og frisk koriander. | 
-   Vegetarisk Aubergine- og Kikærte Makhani Den klassiske butter chicken sauce med aubergine og kikærter Serveres med brune ris og frisk koriander. | 
-   Lamb Makhani A twist on the classic butter chicken – this version is made with free-range Danish lamb from Vibygård. The meat is slow-cooked until tender in a creamy, spiced tomato sauce made with cream, garlic, ginger, and warming Indian spices like garam masala and cumin. Served with brown rice and fresh coriander. | 
-   Vegetarian Eggplant &amp; Chickpea Makhani The classic butter chicken sauce – rich and creamy – made vegetarian with roasted eggplant and chickpeas. Served with brown rice and fresh coriander. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|lammakhaniklassiskbutterchickensaucelavetmeddanskfrilandslamfravibygård.mørtlamiencremetogkrydretsaucebaseretpåtomater,fløde,hvidløg,ingefærogvarmeindiskekrydderiersomgarammasalaogspidskommen.serveresmedbrunerisogfriskkoriander.|vegetariskaubergine-ogkikærtemakhanidenklassiskebutterchickensaucemedaubergineogkikærterserveresmedbrunerisogfriskkoriander.|lambmakhaniatwistontheclassicbutterchicken–thisversionismadewithfree-rangedanishlambfromvibygård.themeatisslow-cookeduntiltenderinacreamy,spicedtomatosaucemadewithcream,garlic,ginger,andwarmingindianspiceslikegarammasalaandcumin.servedwithbrownriceandfreshcoriander.|vegetarianeggplant&amp;chickpeamakhanitheclassicbutterchickensauce–richandcreamy–madevegetarianwithroastedeggplantandchickpeas.servedwithbrownriceandfreshcoriander.|-20251013-2</guid>
-      <pubDate>Mon, 13 Oct 2025 07:12:35 +0000</pubDate>
+   Engelsk Cottage Pie Traditionel britisk ovnret med krydret hakket oksekød i bunden og et fyldigt låg af luftig, cremet kartoffelmos. Hele retten bages gylden og serveres med en frisk salat. | 
+   Vegetarisk Cottage Pie En grøn fortolkning af den engelske klassiker, hvor krydrede linser og grøntsager erstatter kødet. Toppet med hjemmelavet kartoffelmos og serveret med frisk salat ved siden af. | 
+   English Cottage Pie A traditional British oven-baked dish featuring seasoned minced beef topped with a fluffy and creamy mashed potato crust. Baked until golden and served with a fresh side salad. | 
+   Vegetarian Cottage Pie A vegetarian take on the British classic, where spiced lentils and vegetables replace the meat. Topped with homemade mashed potatoes and served with a fresh side salad. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|engelskcottagepietraditionelbritiskovnretmedkrydrethakketoksekødibundenogetfyldigtlågafluftig,cremetkartoffelmos.helerettenbagesgyldenogserveresmedenfrisksalat.|vegetariskcottagepieengrønfortolkningafdenengelskeklassiker,hvorkrydredelinseroggrøntsagererstatterkødet.toppetmedhjemmelavetkartoffelmosogserveretmedfrisksalatvedsidenaf.|englishcottagepieatraditionalbritishoven-bakeddishfeaturingseasonedmincedbeeftoppedwithafluffyandcreamymashedpotatocrust.bakeduntilgoldenandservedwithafreshsidesalad.|vegetariancottagepieavegetariantakeonthebritishclassic,wherespicedlentilsandvegetablesreplacethemeat.toppedwithhomemademashedpotatoesandservedwithafreshsidesalad.|-20251014-2</guid>
+      <pubDate>Tue, 14 Oct 2025 05:17:00 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Kylling med harissa og couscous Lun og krydret – med cremet yoghurt på toppen. | 
-   Bagt grønt med harissa og couscous | 
-   Marinerede grøntsager og ingrid ærter med harissa, serveret med couscous og frisk yoghurtdressing. | 
-   Chicken with Harissa and Couscous Warm and spicy, topped with creamy yogurt. | 
-   Baked Vegetables with Harissa and Couscous Marinated vegetables and peas with harissa, served with couscous and fresh yogurt dressing. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|kyllingmedharissaogcouscouslunogkrydret–medcremetyoghurtpåtoppen.|bagtgrøntmedharissaogcouscous|marineredegrøntsagerogingridærtermedharissa,serveretmedcouscousogfriskyoghurtdressing.|chickenwithharissaandcouscouswarmandspicy,toppedwithcreamyyogurt.|bakedvegetableswithharissaandcouscousmarinatedvegetablesandpeaswithharissa,servedwithcouscousandfreshyogurtdressing.|-20251013-1</guid>
-      <pubDate>Mon, 13 Oct 2025 07:12:35 +0000</pubDate>
+   Oksecuvette med pebersauce | 
+   Mør oksecuvette, pebersauce og stegte kartofler. | 
+   Ristet portobello med pebersauce | 
+   Fyldig portobello, pebersauce og stegte kartofler. | 
+   Beef Cuvette with Pepper Sauce Tender beef cuvette, pepper sauce, and fried potatoes. | 
+   Grilled Portobello with Pepper Sauce Hearty portobello, pepper sauce, and fried potatoes. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|oksecuvettemedpebersauce|møroksecuvette,pebersauceogstegtekartofler.|ristetportobellomedpebersauce|fyldigportobello,pebersauceogstegtekartofler.|beefcuvettewithpeppersaucetenderbeefcuvette,peppersauce,andfriedpotatoes.|grilledportobellowithpeppersauceheartyportobello,peppersauce,andfriedpotatoes.|-20251014-1</guid>
+      <pubDate>Tue, 14 Oct 2025 05:17:00 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Ungarsk Gullasch lavet på gris og kalv, serveret med stegte kartofler, bagte rødbeder og friske urter | 
-VEGETAR: Vegetar Ungarsk Gullasch lavet på tempeh, serveret med stegte kartofler, bagte rødbeder og friske urter
+   Chicken tandoori med dampet ris, lime, hertil hårdt bagt broccoli og | 
+   koriander on the side | 
+VEGETAR: tofu tandoori med dampet ris, lime, hertil hårdt bagt broccoli og koriander on the side
  | 
-   Hungarian Goulash made with pork and veal, served with fried potatoes, baked beets and fresh herbs | 
-VEGETARIAN: Hungarian Goulash made with tempeh, served with fried potatoes, baked beets and fresh herbs
+VEGETARIAN: tofu tandoori med dampet ris, lime, hertil hårdt bagt broccoli og koriander on the side
  | 
-   Let røget kalkun cuvette på bund af lun hvedekernesalat med tomat-løg relish toppet med sprøde fennikel crudite og ristet kerner | 
-VEGETAR: Let røget tofu på bund af lun hvedekernesalat med tomat-løg relish toppet med sprøde fennikel crudite og ristet kerner
+   Langtids stegt pork belly med cremet selleri pure, citron bagte økologiske danske kartofler toppet med råsyltet tyttebær og urter | 
+VEGETAR: Stegt tempeh med cremet selleri pure, citron bagte økologiske danske kartofler toppet med råsyltet tyttebær og urter
  | 
-   Lightly smoked turkey cuvette on a bed of warm wheat kernel salad with tomato-onion relish topped with crispy fennel crudite and toasted grains Vegetarian: Lightly smoked tofu on a bed of warm wheat kernel salad with tomato-onion relish topped with crispy fennel crudite and toasted grains | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|ungarskgullaschlavetpågrisogkalv,serveretmedstegtekartofler,bagterødbederogfriskeurter|vegetar:vegetarungarskgullaschlavetpåtempeh,serveretmedstegtekartofler,bagterødbederogfriskeurter|hungariangoulashmadewithporkandveal,servedwithfriedpotatoes,bakedbeetsandfreshherbs|vegetarian:hungariangoulashmadewithtempeh,servedwithfriedpotatoes,bakedbeetsandfreshherbs|letrøgetkalkuncuvettepåbundaflunhvedekernesalatmedtomat-løgrelishtoppetmedsprødefennikelcruditeogristetkerner|vegetar:letrøgettofupåbundaflunhvedekernesalatmedtomat-løgrelishtoppetmedsprødefennikelcruditeogristetkerner|lightlysmokedturkeycuvetteonabedofwarmwheatkernelsaladwithtomato-onionrelishtoppedwithcrispyfennelcruditeandtoastedgrainsvegetarian:lightlysmokedtofuonabedofwarmwheatkernelsaladwithtomato-onionrelishtoppedwithcrispyfennelcruditeandtoastedgrains|-20251013-0</guid>
-      <pubDate>Mon, 13 Oct 2025 07:12:35 +0000</pubDate>
+   Slow-roasted pork belly with creamy celery puree, lemon baked organic Danish potatoes topped with raw pickled cranberries and herbs | 
+VEGETARIAN: Roasted tempeh with creamy celery puree, lemon baked organic Danish potatoes topped with raw pickled cranberries and herbs
+ | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|chickentandoorimeddampetris,lime,hertilhårdtbagtbroccoliog|korianderontheside|vegetar:tofutandoorimeddampetris,lime,hertilhårdtbagtbroccoliogkorianderontheside|vegetarian:tofutandoorimeddampetris,lime,hertilhårdtbagtbroccoliogkorianderontheside|langtidsstegtporkbellymedcremetselleripure,citronbagteøkologiskedanskekartoflertoppetmedråsyltettyttebærogurter|vegetar:stegttempehmedcremetselleripure,citronbagteøkologiskedanskekartoflertoppetmedråsyltettyttebærogurter|slow-roastedporkbellywithcreamycelerypuree,lemonbakedorganicdanishpotatoestoppedwithrawpickledcranberriesandherbs|vegetarian:roastedtempehwithcreamycelerypuree,lemonbakedorganicdanishpotatoestoppedwithrawpickledcranberriesandherbs|-20251014-0</guid>
+      <pubDate>Tue, 14 Oct 2025 05:17:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
