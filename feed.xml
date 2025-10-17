@@ -4,13 +4,13 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Wednesday, 15 October 2025]]></title>
+    <title><![CDATA[Canteen Menu - Friday, 17 October 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 15 Oct 2025 05:16:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 05:21:14 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu</title>
@@ -18,62 +18,74 @@
       <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
    Vores daglige, friske og næringsrige måltidssalat med frit valg mellem vegetabilsk eller animalsk protein. | 
    Our daily fresh and nutritious meal salad with a free choice of either plant-based or animal protein. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20251015-5</guid>
-      <pubDate>Wed, 15 Oct 2025 05:16:39 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|voresdaglige,friskeognæringsrigemåltidssalatmedfritvalgmellemvegetabilskelleranimalskprotein.|ourdailyfreshandnutritiousmealsaladwithafreechoiceofeitherplant-basedoranimalprotein.|-20251017-5</guid>
+      <pubDate>Fri, 17 Oct 2025 05:21:14 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Homebound Lunch Menu:  | 
-   Suppe på butternutsquash med ostegratineret brød og fennikel salat | 
-   Butternut squash soup with cheesebread and fennel salad | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|suppepåbutternutsquashmedostegratineretbrødogfennikelsalat|butternutsquashsoupwithcheesebreadandfennelsalad|-20251015-4</guid>
-      <pubDate>Wed, 15 Oct 2025 05:16:39 +0000</pubDate>
+   Ramsløgsfrankfurter, kartoffelmos, syltet kål og brun sovs | 
+   Ramson sausage, mashed potatoes, pickled cabbage and gravy | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|ramsløgsfrankfurter,kartoffelmos,syltetkålogbrunsovs|ramsonsausage,mashedpotatoes,pickledcabbageandgravy|-20251017-4</guid>
+      <pubDate>Fri, 17 Oct 2025 05:21:14 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
+   Pork Vindaloo lavet på nakkefilet af gris serveret med citronris, friske urter og chaat salat | 
+   Pork Vindaloo made with pork neck fillet served with lemon rice, fresh herbs and chaat salad | 
    Vegetar: Aloo Gobi med Citronris og Chaat salat | 
    Vegetarian: Aloo Gobi with Lemon Rice and Chaat Salad | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|vegetar:aloogobimedcitronrisogchaatsalat|vegetarian:aloogobiwithlemonriceandchaatsalad|-20251015-3</guid>
-      <pubDate>Wed, 15 Oct 2025 05:16:39 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|porkvindaloolavetpånakkefiletafgrisserveretmedcitronris,friskeurterogchaatsalat|porkvindaloomadewithporkneckfilletservedwithlemonrice,freshherbsandchaatsalad|vegetar:aloogobimedcitronrisogchaatsalat|vegetarian:aloogobiwithlemonriceandchaatsalad|-20251017-3</guid>
+      <pubDate>Fri, 17 Oct 2025 05:21:14 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Bagte Græskar med Pasta Pesto Ovnbagt hokkaido græskar, vendt med pasta og frisklavet persille pesto. Drysset med ristede græskarkerner for ekstra sprødhed. | 
-   Dagens kage : Romkugler Hjemmelavede romkugler med intens kakaosmag og et strejf af romaroma. Trillet i kokosmel | 
-   Roasted Pumpkin with Pesto Pasta Oven-roasted Hokkaido pumpkin tossed with pasta and freshly made parsley pesto. Topped with toasted pumpkin seeds for extra crunch. | 
-   Today’s Cake: Rum Balls Homemade chocolate rum balls with a rich cocoa flavour and a hint of rum. Rolled in desiccated coconut. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|bagtegræskarmedpastapestoovnbagthokkaidogræskar,vendtmedpastaogfrisklavetpersillepesto.dryssetmedristedegræskarkernerforekstrasprødhed.|dagenskage:romkuglerhjemmelavederomkuglermedintenskakaosmagogetstrejfafromaroma.trilletikokosmel|roastedpumpkinwithpestopastaoven-roastedhokkaidopumpkintossedwithpastaandfreshlymadeparsleypesto.toppedwithtoastedpumpkinseedsforextracrunch.|today’scake:rumballshomemadechocolaterumballswitharichcocoaflavourandahintofrum.rolledindesiccatedcoconut.|-20251015-2</guid>
-      <pubDate>Wed, 15 Oct 2025 05:16:39 +0000</pubDate>
+   Okse-Gyros i Fladbrød Krydret oksekød inspireret af græsk gyros, serveret i lunt fladbrød med hjemmelavet tzatziki, græsk salat med feta og en skøn aromatisk chilisauce. | 
+VEGETAR:
+   Bønne Gyros i Fladbrød Krydret bønne gyros serveret i lunt fladbrød med hjemmelavet tzatziki, græsk salat med feta og en skøn aromatisk chilisauce.
+
+   Beef Gyros in Flatbread Spiced beef inspired by Greek gyros, served in warm flatbread with homemade tzatziki, Greek salad with feta, and a delicious aromatic chili sauce. | 
+   Vegetarian Spiced bean gyros served in warm flatbread with homemade tzatziki, Greek salad with feta, and a delicious aromatic chili sauce. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|okse-gyrosifladbrødkrydretoksekødinspireretafgræskgyros,serveretiluntfladbrødmedhjemmelavettzatziki,græsksalatmedfetaogenskønaromatiskchilisauce.|vegetar:bønnegyrosifladbrødkrydretbønnegyrosserveretiluntfladbrødmedhjemmelavettzatziki,græsksalatmedfetaogenskønaromatiskchilisauce.beefgyrosinflatbreadspicedbeefinspiredbygreekgyros,servedinwarmflatbreadwithhomemadetzatziki,greeksaladwithfeta,andadeliciousaromaticchilisauce.|vegetarianspicedbeangyrosservedinwarmflatbreadwithhomemadetzatziki,greeksaladwithfeta,andadeliciousaromaticchilisauce.|-20251017-2</guid>
+      <pubDate>Fri, 17 Oct 2025 05:21:14 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Grøntsagskarry med kokosmælk | 
-   Mild og cremet karry med sæsonens grøntsager og kokosmælk. Serveres med ris. | 
-   Kage med æble, vanilje og kanel | 
-   Vegetable Curry with Coconut Milk Mild and creamy curry with seasonal vegetables and coconut milk. Served with rice. | 
-   Cake with apples, vanilla and cinnamon | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|grøntsagskarrymedkokosmælk|mildogcremetkarrymedsæsonensgrøntsagerogkokosmælk.serveresmedris.|kagemedæble,vaniljeogkanel|vegetablecurrywithcoconutmilkmildandcreamycurrywithseasonalvegetablesandcoconutmilk.servedwithrice.|cakewithapples,vanillaandcinnamon|-20251015-1</guid>
-      <pubDate>Wed, 15 Oct 2025 05:16:39 +0000</pubDate>
+   Stegte nudler med kylling og grøntsager | 
+   Sprøde nudler wokstegt med mørt kyllingekød og friske grøntsager. | 
+   Stegte nudler med grøntsager og svampe | 
+   Sprøde nudler wokstegt med sæsonens friske grøntsager og svampe. | 
+   Fried Noodles with Chicken and Vegetables Crispy noodles stir-fried with tender chicken and fresh vegetables. | 
+   Fried Noodles with Vegetables and Mushrooms Crispy noodles stir-fried with seasonal fresh vegetables and mushrooms | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|stegtenudlermedkyllingoggrøntsager|sprødenudlerwokstegtmedmørtkyllingekødogfriskegrøntsager.|stegtenudlermedgrøntsagerogsvampe|sprødenudlerwokstegtmedsæsonensfriskegrøntsagerogsvampe.|friednoodleswithchickenandvegetablescrispynoodlesstir-friedwithtenderchickenandfreshvegetables.|friednoodleswithvegetablesandmushroomscrispynoodlesstir-friedwithseasonalfreshvegetablesandmushrooms|-20251017-1</guid>
+      <pubDate>Fri, 17 Oct 2025 05:21:14 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-VEGETAR: Svampe stroganoff med cremet kartoffel/gulerods mos hertil grillet syrligt spidskål, syltet druer og friske urter
+   Mexican day med fladbrød, ristet oksekød, syltet løg, grillet majs, | 
+   avokado creme og chili | 
+VEGETAR: Mexican day med fladbrød, ristet vegetar protein, syltet løg, grillet majs, avokado creme og chili
  | 
-VEGETARIAN: Mushroom stroganoff with creamy potato/carrot mash, grilled sour cabbage, pickled grapes and fresh herbs
+   Mexican day with flatbread, roasted beef, pickled onions, grilled corn, | 
+   avocado cream and chili | 
+VEGETARIAN: Mexican day with flatbread, roasted vegetarian protein, pickled onions, grilled corn, avocado cream and chili
  | 
-   Gnocchi i cremet franske skovsvampesauce med ristet vand kastanjer hertil langtidsbagte tomater, friteret rødbeder og kørvel | 
-   Gnocchi in creamy French forest mushroom sauce with roasted water chestnuts, slow-baked tomatoes, fried beets and chervil | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|vegetar:svampestroganoffmedcremetkartoffel/gulerodsmoshertilgrilletsyrligtspidskål,syltetdruerogfriskeurter|vegetarian:mushroomstroganoffwithcreamypotato/carrotmash,grilledsourcabbage,pickledgrapesandfreshherbs|gnocchiicremetfranskeskovsvampesaucemedristetvandkastanjerhertillangtidsbagtetomater,friteretrødbederogkørvel|gnocchiincreamyfrenchforestmushroomsaucewithroastedwaterchestnuts,slow-bakedtomatoes,friedbeetsandchervil|-20251015-0</guid>
-      <pubDate>Wed, 15 Oct 2025 05:16:39 +0000</pubDate>
+   Tyrkisk Pide af oksekød med çoban salatasi, cremefraiche tilsmagt med fermenteret hvidløgog feta | 
+VEGETAR: Tyrkisk Pide af soyaprotein med çoban salatasi cremefraiche tilsmagt med fermenteret hvidløg og feta
+ | 
+   Turkish Beef Pide with çoban salatasi, sour cream flavored with fermented garlic and feta | 
+   Vegetarian : Turkish Soy Protein Pide with çoban salatasi sour cream flavored with fermented garlic and feta | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|mexicandaymedfladbrød,ristetoksekød,syltetløg,grilletmajs,|avokadocremeogchili|vegetar:mexicandaymedfladbrød,ristetvegetarprotein,syltetløg,grilletmajs,avokadocremeogchili|mexicandaywithflatbread,roastedbeef,pickledonions,grilledcorn,|avocadocreamandchili|vegetarian:mexicandaywithflatbread,roastedvegetarianprotein,pickledonions,grilledcorn,avocadocreamandchili|tyrkiskpideafoksekødmedçobansalatasi,cremefraichetilsmagtmedfermenterethvidløgogfeta|vegetar:tyrkiskpideafsoyaproteinmedçobansalatasicremefraichetilsmagtmedfermenterethvidløgogfeta|turkishbeefpidewithçobansalatasi,sourcreamflavoredwithfermentedgarlicandfeta|vegetarian:turkishsoyproteinpidewithçobansalatasisourcreamflavoredwithfermentedgarlicandfeta|-20251017-0</guid>
+      <pubDate>Fri, 17 Oct 2025 05:21:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
