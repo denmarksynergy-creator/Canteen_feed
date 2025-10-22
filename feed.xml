@@ -4,84 +4,75 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Tuesday, 21 October 2025]]></title>
+    <title><![CDATA[Canteen Menu - Wednesday, 22 October 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 21 Oct 2025 05:17:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 05:17:08 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Homebound Lunch Menu:  | 
-   Stegt dansk kylling med pommes/bacon de tern serveret med cremet svampe hertil syltet druer og friske urte Fried Danish chicken with pommes/bacon de tern served with creamy mushrooms, pickled grapes and fresh herbs | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|stegtdanskkyllingmedpommes/bacondeternserveretmedcremetsvampehertilsyltetdruerogfriskeurtefrieddanishchickenwithpommes/bacondeternservedwithcreamymushrooms,pickledgrapesandfreshherbs|-20251021-4</guid>
-      <pubDate>Tue, 21 Oct 2025 05:17:42 +0000</pubDate>
+   Vegetar: Økologisk cremet kartoffel suppe med friteret portobello svampe, lyn bagte æbler toppet med hakket purløg | 
+   Vegetarian: Organic creamy potato soup with fried portobello mushrooms, quick baked apples topped with chopped chives | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|vegetar:økologiskcremetkartoffelsuppemedfriteretportobellosvampe,lynbagteæblertoppetmedhakketpurløg|vegetarian:organiccreamypotatosoupwithfriedportobellomushrooms,quickbakedapplestoppedwithchoppedchives|-20251022-4</guid>
+      <pubDate>Wed, 22 Oct 2025 05:17:08 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
-   Græsk Gyros serveret med krydret kylling, hertil tzatziki, | 
-   peberfrugt kompot, græske fladbrød toppet med frisk oregano | 
-   Greek Gyros served with spicy chicken, tzatziki, pepper compote, Greek flatbread topped with fresh oregano | 
    Vegetar: Græsk Gyros serveret med krydret aubergine, hertil tzatziki, | 
+   peberfrugt kompot, græske fladbrød toppet med frisk oregano | 
    Vegetarian: Greek Gyros served with spicy eggplant, tzatziki, pepper compote, Greek flatbread topped with fresh oregano | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|græskgyrosserveretmedkrydretkylling,hertiltzatziki,|peberfrugtkompot,græskefladbrødtoppetmedfriskoregano|greekgyrosservedwithspicychicken,tzatziki,peppercompote,greekflatbreadtoppedwithfreshoregano|vegetar:græskgyrosserveretmedkrydretaubergine,hertiltzatziki,|vegetarian:greekgyrosservedwithspicyeggplant,tzatziki,peppercompote,greekflatbreadtoppedwithfreshoregano|-20251021-3</guid>
-      <pubDate>Tue, 21 Oct 2025 05:17:42 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|vegetar:græskgyrosserveretmedkrydretaubergine,hertiltzatziki,|peberfrugtkompot,græskefladbrødtoppetmedfriskoregano|vegetarian:greekgyrosservedwithspicyeggplant,tzatziki,peppercompote,greekflatbreadtoppedwithfreshoregano|-20251022-3</guid>
+      <pubDate>Wed, 22 Oct 2025 05:17:08 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Lasagna Bolognese a la ragu | 
-   Klassisk Italiensk lasagne på oksekød, bechamelsauce og mozzarellaost | 
-   På siden, sprød og frisk salat | 
-VEGETAR:
-   Vegetarisk linse lasagne med bechamelsauce og mozzarellaost
-
-   Lasagna Bolognese à la ragù | 
-   Classic Italian lasagna with beef, béchamel sauce, and mozzarella cheese. | 
-   On the side, crispy and fresh salad. | 
-VEGETARIAN:
-   Vegetarian lentil lasagna with béchamel sauce and mozzarella cheese.
-]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|lasagnabolognesealaragu|klassiskitaliensklasagnepåoksekød,bechamelsauceogmozzarellaost|påsiden,sprødogfrisksalat|vegetar:vegetarisklinselasagnemedbechamelsauceogmozzarellaostlasagnabologneseàlaragù|classicitalianlasagnawithbeef,béchamelsauce,andmozzarellacheese.|ontheside,crispyandfreshsalad.|vegetarian:vegetarianlentillasagnawithbéchamelsauceandmozzarellacheese.-20251021-2</guid>
-      <pubDate>Tue, 21 Oct 2025 05:17:42 +0000</pubDate>
+   Nordafrikansk tomatiseret ret med stegt æg | 
+   Shakshouka med stegt æg, bulgur og friske krydderurter | 
+   Dagens kage | 
+   ”Klassens time” chokoladekage | 
+   North African tomato-based dish with fried egg | 
+   Shakshouka with fried egg, bulgur, and fresh herbs. | 
+   Cake of the day | 
+   “Class Hour” chocolate cake | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|nordafrikansktomatiseretretmedstegtæg|shakshoukamedstegtæg,bulgurogfriskekrydderurter|dagenskage|”klassenstime”chokoladekage|northafricantomato-baseddishwithfriedegg|shakshoukawithfriedegg,bulgur,andfreshherbs.|cakeoftheday|“classhour”chocolatecake|-20251022-2</guid>
+      <pubDate>Wed, 22 Oct 2025 05:17:08 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Langtidsbraiseret kalvespidsbryst med asiatisk touch. Akkompagneret af en frisk nudelsalat med sprøde grøntsager, krydderurter og et strejf af lime. | 
-VEGETAR:
-   Tofu bagt med krydderier fra østen. Akkompagneret af en frisk nudelsalat med sprøde grøntsager, krydderurter og et strejf af lime.
-
-   Slow-braised veal brisket with an Asian touch. Accompanied by a fresh noodle salad with crispy vegetables, aromatic herbs, and a hint of lime. | 
-   Vegetarian: Baked tofu seasoned with Eastern spices. Accompanied by a fresh noodle salad with crispy vegetables, aromatic herbs, and a hint of lime. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|langtidsbraiseretkalvespidsbrystmedasiatisktouch.akkompagneretafenfrisknudelsalatmedsprødegrøntsager,krydderurterogetstrejfaflime.|vegetar:tofubagtmedkrydderierfraøsten.akkompagneretafenfrisknudelsalatmedsprødegrøntsager,krydderurterogetstrejfaflime.slow-braisedvealbrisketwithanasiantouch.accompaniedbyafreshnoodlesaladwithcrispyvegetables,aromaticherbs,andahintoflime.|vegetarian:bakedtofuseasonedwitheasternspices.accompaniedbyafreshnoodlesaladwithcrispyvegetables,aromaticherbs,andahintoflime.|-20251021-1</guid>
-      <pubDate>Tue, 21 Oct 2025 05:17:42 +0000</pubDate>
+   Ovnbagt blomkål med cremet muhammara og sprøde kikærter. Fulgt af bagte og syltede løg, tahindressing og friske urter. | 
+   Dagens kage: | 
+   .Gluten og laktosefri brownie | 
+   Mør nakkefilet braiseret i æblemost, rosmarin og timian. Serveres med grov kartoffel- og rodfrugtsmos, intens skysauce og syltede sennepskorn. | 
+   Vegetar: . | 
+   Grillet spidskål med æble vinaigrette. Serveres med grov kartoffel og rodfrugtsmos og syltede sennepskorn | 
+   Oven-baked cauliflower with creamy muhammara and crispy chickpeas. Served with roasted and pickled onions, tahini dressing, and fresh herbs. | 
+   Cake of the day: Gluten- and lactose-free brownie. | 
+   Tender pork neck braised in apple juice, rosemary, and thyme. Served with rustic mashed potatoes and root vegetables, rich pan sauce, and pickled mustard seeds. | 
+   Vegetarian : Grilled pointed cabbage with apple vinaigrette. Served with rustic mashed potatoes and root vegetables, and pickled mustard seeds. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|ovnbagtblomkålmedcremetmuhammaraogsprødekikærter.fulgtafbagteogsyltedeløg,tahindressingogfriskeurter.|dagenskage:|.glutenoglaktosefribrownie|mørnakkefiletbraiseretiæblemost,rosmarinogtimian.serveresmedgrovkartoffel-ogrodfrugtsmos,intensskysauceogsyltedesennepskorn.|vegetar:.|grilletspidskålmedæblevinaigrette.serveresmedgrovkartoffelogrodfrugtsmosogsyltedesennepskorn|oven-bakedcauliflowerwithcreamymuhammaraandcrispychickpeas.servedwithroastedandpickledonions,tahinidressing,andfreshherbs.|cakeoftheday:gluten-andlactose-freebrownie.|tenderporkneckbraisedinapplejuice,rosemary,andthyme.servedwithrusticmashedpotatoesandrootvegetables,richpansauce,andpickledmustardseeds.|vegetarian:grilledpointedcabbagewithapplevinaigrette.servedwithrusticmashedpotatoesandrootvegetables,andpickledmustardseeds.|-20251022-1</guid>
+      <pubDate>Wed, 22 Oct 2025 05:17:08 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Pad Krapow af oksekød med dampet basmati ris, æg en cocotte hertil rød chili, bønnespire og friske urter | 
-VEGETAR: Pad Krapow af sayo peotein med dampet basmati ris, æg en cocotte hertil rød chili, bønnespire og friske urter
+VEGETAR: Græskar suppe med saltet cremefraiche, syltet mango, ristet kerner toppet med kørvel
  | 
-   Pad Krapow of beef with steamed basmati rice, egg en cocotte with red chili, bean sprouts and fresh herbs | 
-VEGETARIAN: Pad Krapow of sayo peotein with steamed basmati rice, egg en cocotte with red chili, bean sprouts and fresh herbs
- | 
-   Langtids stegt pork belly med cremet selleri pure, citron bagte økologiske danske kartofler toppet med råsyltet tyttebær og urter | 
-VEGETAR: Stegt tempeh med cremet selleri pure, citron bagte økologiske danske kartofler toppet med råsyltet tyttebær og urter
- | 
-   Slow-roasted pork belly with creamy celery puree, lemon baked organic Danish potatoes topped with raw pickled cranberries and herbs | 
-VEGETARIAN: Roasted tempeh with creamy celery puree, lemon baked organic Danish potatoes topped with raw pickled cranberries and herbs
- | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|padkrapowafoksekødmeddampetbasmatiris,ægencocottehertilrødchili,bønnespireogfriskeurter|vegetar:padkrapowafsayopeoteinmeddampetbasmatiris,ægencocottehertilrødchili,bønnespireogfriskeurter|padkrapowofbeefwithsteamedbasmatirice,eggencocottewithredchili,beansproutsandfreshherbs|vegetarian:padkrapowofsayopeoteinwithsteamedbasmatirice,eggencocottewithredchili,beansproutsandfreshherbs|langtidsstegtporkbellymedcremetselleripure,citronbagteøkologiskedanskekartoflertoppetmedråsyltettyttebærogurter|vegetar:stegttempehmedcremetselleripure,citronbagteøkologiskedanskekartoflertoppetmedråsyltettyttebærogurter|slow-roastedporkbellywithcreamycelerypuree,lemonbakedorganicdanishpotatoestoppedwithrawpickledcranberriesandherbs|vegetarian:roastedtempehwithcreamycelerypuree,lemonbakedorganicdanishpotatoestoppedwithrawpickledcranberriesandherbs|-20251021-0</guid>
-      <pubDate>Tue, 21 Oct 2025 05:17:42 +0000</pubDate>
+   Gnocchi i cremet franske skovsvampesauce med ristet vand kastanjer hertil langtidsbagte tomater, friteret rødbeder og kørvel | 
+   Gnocchi in creamy French forest mushroom sauce with roasted water chestnuts, slow-baked tomatoes, fried beets and chervil | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|vegetar:græskarsuppemedsaltetcremefraiche,syltetmango,ristetkernertoppetmedkørvel|gnocchiicremetfranskeskovsvampesaucemedristetvandkastanjerhertillangtidsbagtetomater,friteretrødbederogkørvel|gnocchiincreamyfrenchforestmushroomsaucewithroastedwaterchestnuts,slow-bakedtomatoes,friedbeetsandchervil|-20251022-0</guid>
+      <pubDate>Wed, 22 Oct 2025 05:17:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
