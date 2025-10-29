@@ -4,73 +4,60 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Tuesday, 28 October 2025]]></title>
+    <title><![CDATA[Canteen Menu - Wednesday, 29 October 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 28 Oct 2025 05:18:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 05:18:04 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
-   Toskansk gryderet med langtidsbraiseret oksetykkam, hvide bønner, tomat, rosmarin bagte rodfrugter hertil cremet polenta toppet med gremolata | 
 
 VEGETAR:
    Toskansk gryderet med soyaprotein chunks, hvide bønner, tomat, rosmarin bagte rodfrugter hertil cremet polenta toppet med gremolata | 
-   Dagens Fisk med sorte bønner vendt med kalkun bacon, peberfrugt toppet med tomater vendt i urtevinaigrette | 
-   Today’s Fish with black beans tossed with turkey bacon, bell peppers topped with tomatoes tossed in herb vinaigrett3 | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|toskanskgryderetmedlangtidsbraiseretoksetykkam,hvidebønner,tomat,rosmarinbagterodfrugterhertilcremetpolentatoppetmedgremolata|vegetar:toskanskgryderetmedsoyaproteinchunks,hvidebønner,tomat,rosmarinbagterodfrugterhertilcremetpolentatoppetmedgremolata|dagensfiskmedsortebønnervendtmedkalkunbacon,peberfrugttoppetmedtomatervendtiurtevinaigrette|today’sfishwithblackbeanstossedwithturkeybacon,bellpepperstoppedwithtomatoestossedinherbvinaigrett3|-20251028-3</guid>
-      <pubDate>Tue, 28 Oct 2025 05:18:34 +0000</pubDate>
+   Pasta Tagliatelle vendt med cremet græskar sauce tilsmagt med røget ost hertil radicchiosalat med persille og parmesan flager | 
+   Pasta Tagliatelle tossed with creamy pumpkin sauce flavored with smoked cheese, served with radicchio salad with parsley and parmesan flakes | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|vegetar:toskanskgryderetmedsoyaproteinchunks,hvidebønner,tomat,rosmarinbagterodfrugterhertilcremetpolentatoppetmedgremolata|pastatagliatellevendtmedcremetgræskarsaucetilsmagtmedrøgetosthertilradicchiosalatmedpersilleogparmesanflager|pastatagliatelletossedwithcreamypumpkinsauceflavoredwithsmokedcheese,servedwithradicchiosaladwithparsleyandparmesanflakes|-20251029-3</guid>
+      <pubDate>Wed, 29 Oct 2025 05:18:04 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Pasta Bosco | 
-   Pasta penne serveret med en cremet spicy tomatsauce bestående af italienske salcicia pølser, fuldmodne tomater og fløde. Dertil salvie, oregano og parmesanost. | 
-VEGETAR:
-   Pasta penne serveret med butterbeans i en cremet spicy tomatsauce lavet af fuldmodne tomater, fløde og salvie. Dertil oregano og parmesanost.
-
-   Penne pasta served with a creamy, spicy tomato sauce made from Italian salsiccia sausage, fully ripe tomatoes, and cream. | 
-   Finished with sage, oregano, and Parmesan cheese. | 
-VEGETARIAN:
-   Penne pasta served with butter beans in a creamy, spicy tomato sauce made from fully ripe tomatoes, cream, and sage.
-
-   Finished with oregano and Parmesan cheese. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|pastabosco|pastapenneserveretmedencremetspicytomatsaucebeståendeafitalienskesalciciapølser,fuldmodnetomaterogfløde.dertilsalvie,oreganoogparmesanost.|vegetar:pastapenneserveretmedbutterbeansiencremetspicytomatsaucelavetaffuldmodnetomater,flødeogsalvie.dertiloreganoogparmesanost.pennepastaservedwithacreamy,spicytomatosaucemadefromitaliansalsicciasausage,fullyripetomatoes,andcream.|finishedwithsage,oregano,andparmesancheese.|vegetarian:pennepastaservedwithbutterbeansinacreamy,spicytomatosaucemadefromfullyripetomatoes,cream,andsage.finishedwithoreganoandparmesancheese.|-20251028-2</guid>
-      <pubDate>Tue, 28 Oct 2025 05:18:34 +0000</pubDate>
+   Sprøde og saftige hjemmelavede falafler i pitabrød | 
+   Serveret med rødkål, agurk, tomat, let syltede løg med sumak og persille, chilisauce og creme fraiche dressing | 
+   Dagens kage: Banankage med chokolade og kokos topping | 
+   Crispy and juicy homemade falafels in pita bread | 
+   Served with red cabbage, cucumber, tomato, lightly pickled onions with sumac and parsley, chili sauce, and crème fraîche dressing. | 
+   Cake of the Day: Banana cake with chocolate and coconut topping | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|sprødeogsaftigehjemmelavedefalafleripitabrød|serveretmedrødkål,agurk,tomat,letsyltedeløgmedsumakogpersille,chilisauceogcremefraichedressing|dagenskage:banankagemedchokoladeogkokostopping|crispyandjuicyhomemadefalafelsinpitabread|servedwithredcabbage,cucumber,tomato,lightlypickledonionswithsumacandparsley,chilisauce,andcrèmefraîchedressing.|cakeoftheday:bananacakewithchocolateandcoconuttopping|-20251029-2</guid>
+      <pubDate>Wed, 29 Oct 2025 05:18:04 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Porchetta arrosto med hvide bønner, cous cous, bagte tomater. | 
-   Serveret med godt krydret tomatsauce til at varme dig. | 
-   Toppet med fennikel og rucola vendt i pesto. | 
-VEGETAR:
-   Ristet broccoli med hvide bønner, cous cous, bagte tomater.
-]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|porchettaarrostomedhvidebønner,couscous,bagtetomater.|serveretmedgodtkrydrettomatsaucetilatvarmedig.|toppetmedfennikelogrucolavendtipesto.|vegetar:ristetbroccolimedhvidebønner,couscous,bagtetomater.-20251028-1</guid>
-      <pubDate>Tue, 28 Oct 2025 05:18:34 +0000</pubDate>
+   Indisk inspireret karry med kikærter og plante protein. | 
+   Masser smæk på krydderierne. | 
+   Serveret med raita på blomkål og mynte | 
+   Dagens kage: | 
+   Citron kage med birkes | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|indiskinspireretkarrymedkikærterogplanteprotein.|massersmækpåkrydderierne.|serveretmedraitapåblomkålogmynte|dagenskage:|citronkagemedbirkes|-20251029-1</guid>
+      <pubDate>Wed, 29 Oct 2025 05:18:04 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Chicken Tandori med basmati ris serveret med brændt broccoli, lyn marineret pakchoy, lime og koriander on the side | 
-VEGETAR: protein Tandori med basmati ris serveret med brændt broccoli, lyn marineret pakchoy, lime og koriander on the side
- | 
-   Langtids stegt pork belly med cremet selleri pure, citron bagte økologiske danske kartofler toppet med råsyltet tyttebær og urter | 
-VEGETAR: Stegt tempeh med cremet selleri pure, citron bagte økologiske danske kartofler toppet med råsyltet tyttebær og urter
- | 
-   Slow-roasted pork belly with creamy celery puree, lemon baked organic Danish potatoes topped with raw pickled cranberries and herbs | 
-VEGETARIAN: Roasted tempeh with creamy celery puree, lemon baked organic Danish potatoes topped with raw pickled cranberries and herbs
- | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|chickentandorimedbasmatirisserveretmedbrændtbroccoli,lynmarineretpakchoy,limeogkorianderontheside|vegetar:proteintandorimedbasmatirisserveretmedbrændtbroccoli,lynmarineretpakchoy,limeogkorianderontheside|langtidsstegtporkbellymedcremetselleripure,citronbagteøkologiskedanskekartoflertoppetmedråsyltettyttebærogurter|vegetar:stegttempehmedcremetselleripure,citronbagteøkologiskedanskekartoflertoppetmedråsyltettyttebærogurter|slow-roastedporkbellywithcreamycelerypuree,lemonbakedorganicdanishpotatoestoppedwithrawpickledcranberriesandherbs|vegetarian:roastedtempehwithcreamycelerypuree,lemonbakedorganicdanishpotatoestoppedwithrawpickledcranberriesandherbs|-20251028-0</guid>
-      <pubDate>Tue, 28 Oct 2025 05:18:34 +0000</pubDate>
+   Langtidsstegt knoldselleri på bund af bønnespread med friteret jordskokker, hyben vinaigrette toppet med friske urter | 
+   Gnocchi i cremet franske skovsvampesauce med ristet vand kastanjer hertil langtidsbagte tomater, friteret rødbeder og kørvel | 
+   Gnocchi in creamy French forest mushroom sauce with roasted water chestnuts, slow-baked tomatoes, fried beets and chervil | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|langtidsstegtknoldselleripåbundafbønnespreadmedfriteretjordskokker,hybenvinaigrettetoppetmedfriskeurter|gnocchiicremetfranskeskovsvampesaucemedristetvandkastanjerhertillangtidsbagtetomater,friteretrødbederogkørvel|gnocchiincreamyfrenchforestmushroomsaucewithroastedwaterchestnuts,slow-bakedtomatoes,friedbeetsandchervil|-20251029-0</guid>
+      <pubDate>Wed, 29 Oct 2025 05:18:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
