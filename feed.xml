@@ -4,60 +4,73 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Wednesday, 29 October 2025]]></title>
+    <title><![CDATA[Canteen Menu - Thursday, 30 October 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 29 Oct 2025 05:18:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 05:21:04 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
+   Toskansk gryderet med langtidsbraiseret oksetykkam, hvide bønner, tomat, rosmarin bagte rodfrugter hertil cremet polenta toppet med gremolata | 
 
 VEGETAR:
    Toskansk gryderet med soyaprotein chunks, hvide bønner, tomat, rosmarin bagte rodfrugter hertil cremet polenta toppet med gremolata | 
-   Pasta Tagliatelle vendt med cremet græskar sauce tilsmagt med røget ost hertil radicchiosalat med persille og parmesan flager | 
-   Pasta Tagliatelle tossed with creamy pumpkin sauce flavored with smoked cheese, served with radicchio salad with parsley and parmesan flakes | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|vegetar:toskanskgryderetmedsoyaproteinchunks,hvidebønner,tomat,rosmarinbagterodfrugterhertilcremetpolentatoppetmedgremolata|pastatagliatellevendtmedcremetgræskarsaucetilsmagtmedrøgetosthertilradicchiosalatmedpersilleogparmesanflager|pastatagliatelletossedwithcreamypumpkinsauceflavoredwithsmokedcheese,servedwithradicchiosaladwithparsleyandparmesanflakes|-20251029-3</guid>
-      <pubDate>Wed, 29 Oct 2025 05:18:04 +0000</pubDate>
+   Langtids stegt slag af gris med grov rodfrugtemos, orangemarineret fennikel og gremolata | 
+   Slow-roasted pork chop with coarse root vegetable puree, orange-marinated fennel and gremolata | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|toskanskgryderetmedlangtidsbraiseretoksetykkam,hvidebønner,tomat,rosmarinbagterodfrugterhertilcremetpolentatoppetmedgremolata|vegetar:toskanskgryderetmedsoyaproteinchunks,hvidebønner,tomat,rosmarinbagterodfrugterhertilcremetpolentatoppetmedgremolata|langtidsstegtslagafgrismedgrovrodfrugtemos,orangemarineretfennikeloggremolata|slow-roastedporkchopwithcoarserootvegetablepuree,orange-marinatedfennelandgremolata|-20251030-3</guid>
+      <pubDate>Thu, 30 Oct 2025 05:21:04 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Sprøde og saftige hjemmelavede falafler i pitabrød | 
-   Serveret med rødkål, agurk, tomat, let syltede løg med sumak og persille, chilisauce og creme fraiche dressing | 
-   Dagens kage: Banankage med chokolade og kokos topping | 
-   Crispy and juicy homemade falafels in pita bread | 
-   Served with red cabbage, cucumber, tomato, lightly pickled onions with sumac and parsley, chili sauce, and crème fraîche dressing. | 
-   Cake of the Day: Banana cake with chocolate and coconut topping | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|sprødeogsaftigehjemmelavedefalafleripitabrød|serveretmedrødkål,agurk,tomat,letsyltedeløgmedsumakogpersille,chilisauceogcremefraichedressing|dagenskage:banankagemedchokoladeogkokostopping|crispyandjuicyhomemadefalafelsinpitabread|servedwithredcabbage,cucumber,tomato,lightlypickledonionswithsumacandparsley,chilisauce,andcrèmefraîchedressing.|cakeoftheday:bananacakewithchocolateandcoconuttopping|-20251029-2</guid>
-      <pubDate>Wed, 29 Oct 2025 05:18:04 +0000</pubDate>
+   Frikadeller og kartoffelsalat | 
+   Sprøde og saftige frikadeller, serveret med kartoffelsalat fyldt med radiser, purløg, kapers, sprødt grønt og mayonnaise. | 
+VEGETAR:
+   Grøntsagsfrikadeller og kartoffelsalat
+
+   Sprøde og saftige grøntsagsfrikadeller, serveret med kartoffelsalat fyldt med radiser, purløg, kapers, sprødt grønt og mayonnaise. | 
+   Danish Meatballs with Potato Salad | 
+   Crispy and juicy meatballs served with potato salad filled with radishes, chives, capers, fresh greens, and mayonnaise. | 
+   V egetarian | 
+   Vegetable Patties with Potato Salad | 
+   Crispy and juicy vegetable patties served with potato salad filled with radishes, chives, capers, fresh greens, and mayonnaise. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|frikadellerogkartoffelsalat|sprødeogsaftigefrikadeller,serveretmedkartoffelsalatfyldtmedradiser,purløg,kapers,sprødtgrøntogmayonnaise.|vegetar:grøntsagsfrikadellerogkartoffelsalatsprødeogsaftigegrøntsagsfrikadeller,serveretmedkartoffelsalatfyldtmedradiser,purløg,kapers,sprødtgrøntogmayonnaise.|danishmeatballswithpotatosalad|crispyandjuicymeatballsservedwithpotatosaladfilledwithradishes,chives,capers,freshgreens,andmayonnaise.|vegetarian|vegetablepattieswithpotatosalad|crispyandjuicyvegetablepattiesservedwithpotatosaladfilledwithradishes,chives,capers,freshgreens,andmayonnaise.|-20251030-2</guid>
+      <pubDate>Thu, 30 Oct 2025 05:21:04 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Indisk inspireret karry med kikærter og plante protein. | 
-   Masser smæk på krydderierne. | 
-   Serveret med raita på blomkål og mynte | 
-   Dagens kage: | 
-   Citron kage med birkes | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|indiskinspireretkarrymedkikærterogplanteprotein.|massersmækpåkrydderierne.|serveretmedraitapåblomkålogmynte|dagenskage:|citronkagemedbirkes|-20251029-1</guid>
-      <pubDate>Wed, 29 Oct 2025 05:18:04 +0000</pubDate>
+   Laks bagt nænsomt til perfektion. | 
+   Med bygotto i fyldig puré på gulerod og appelsin. | 
+   Serveret med braiseret fennikel | 
+VEGETAR:
+   Grillet græskar
+]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|laksbagtnænsomttilperfektion.|medbygottoifyldigpurépågulerodogappelsin.|serveretmedbraiseretfennikel|vegetar:grilletgræskar-20251030-1</guid>
+      <pubDate>Thu, 30 Oct 2025 05:21:04 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Langtidsstegt knoldselleri på bund af bønnespread med friteret jordskokker, hyben vinaigrette toppet med friske urter | 
-   Gnocchi i cremet franske skovsvampesauce med ristet vand kastanjer hertil langtidsbagte tomater, friteret rødbeder og kørvel | 
-   Gnocchi in creamy French forest mushroom sauce with roasted water chestnuts, slow-baked tomatoes, fried beets and chervil | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|langtidsstegtknoldselleripåbundafbønnespreadmedfriteretjordskokker,hybenvinaigrettetoppetmedfriskeurter|gnocchiicremetfranskeskovsvampesaucemedristetvandkastanjerhertillangtidsbagtetomater,friteretrødbederogkørvel|gnocchiincreamyfrenchforestmushroomsaucewithroastedwaterchestnuts,slow-bakedtomatoes,friedbeetsandchervil|-20251029-0</guid>
-      <pubDate>Wed, 29 Oct 2025 05:18:04 +0000</pubDate>
+   Dyre ragout af dansk rådyr med cremet kartoffelmos tilsmagt med blåskimmelost hertil bagte rodfrugter, vindrue kompot toppet med friteret salvie | 
+VEGETAR: tofu ragout med cremet kartoffelmos tilsmagt med blåskimmelost hertil bagte rodfrugter, vindrue compot toppet med friteret salvie
+ | 
+   Dyre ragout af dansk rådyr med cremet kartoffelmos tilsmagt med blåskimmelost hertil bagte rodfrugter, vindrue compot toppet med friteret salvie | 
+   Asiatisk kylling med milde karry brune ris, ristet peanut toppet med forårsløg og koriander | 
+VEGETAR: Asiatisk vegetar kylling med milde karry brune ris, ristet peanut toppet med forårsløg og koriander
+ | 
+   Asian chicken with mild curry brown rice, roasted peanut topped with spring onions and coriander | 
+   Vegetarian : Asian vegetarian chicken with mild curry brown rice, roasted peanut topped with spring onions and coriander | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|dyreragoutafdanskrådyrmedcremetkartoffelmostilsmagtmedblåskimmelosthertilbagterodfrugter,vindruekompottoppetmedfriteretsalvie|vegetar:tofuragoutmedcremetkartoffelmostilsmagtmedblåskimmelosthertilbagterodfrugter,vindruecompottoppetmedfriteretsalvie|dyreragoutafdanskrådyrmedcremetkartoffelmostilsmagtmedblåskimmelosthertilbagterodfrugter,vindruecompottoppetmedfriteretsalvie|asiatiskkyllingmedmildekarrybruneris,ristetpeanuttoppetmedforårsløgogkoriander|vegetar:asiatiskvegetarkyllingmedmildekarrybruneris,ristetpeanuttoppetmedforårsløgogkoriander|asianchickenwithmildcurrybrownrice,roastedpeanuttoppedwithspringonionsandcoriander|vegetarian:asianvegetarianchickenwithmildcurrybrownrice,roastedpeanuttoppedwithspringonionsandcoriander|-20251030-0</guid>
+      <pubDate>Thu, 30 Oct 2025 05:21:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
