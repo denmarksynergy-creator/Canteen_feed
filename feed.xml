@@ -4,92 +4,13 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Friday, 31 October 2025]]></title>
+    <title><![CDATA[Canteen Menu - Saturday, 01 November 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 31 Oct 2025 05:23:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 06:21:31 +0000</lastBuildDate>
     <ttl>15</ttl>
-    <item>
-      <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
-      <link>https://hubnordic.madkastel.dk/</link>
-      <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
-   Toskansk gryderet med langtidsbraiseret oksetykkam, hvide bønner, tomat, rosmarin bagte rodfrugter hertil cremet polenta toppet med gremolata | 
-
-VEGETAR:
-   Toskansk gryderet med soyaprotein chunks, hvide bønner, tomat, rosmarin bagte rodfrugter hertil cremet polenta toppet med gremolata | 
-   Langtids stegt slag af gris med grov rodfrugtemos, orangemarineret fennikel og gremolata | 
-   Slow-roasted pork chop with coarse root vegetable puree, orange-marinated fennel and gremolata | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|toskanskgryderetmedlangtidsbraiseretoksetykkam,hvidebønner,tomat,rosmarinbagterodfrugterhertilcremetpolentatoppetmedgremolata|vegetar:toskanskgryderetmedsoyaproteinchunks,hvidebønner,tomat,rosmarinbagterodfrugterhertilcremetpolentatoppetmedgremolata|langtidsstegtslagafgrismedgrovrodfrugtemos,orangemarineretfennikeloggremolata|slow-roastedporkchopwithcoarserootvegetablepuree,orange-marinatedfennelandgremolata|-20251031-3</guid>
-      <pubDate>Fri, 31 Oct 2025 05:23:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB3 - Lunch Menu</title>
-      <link>https://hubnordic.madkastel.dk/</link>
-      <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Chinabox med dybstegt kylling | 
-   Dybstegt kylling med Kinesisk stir-fry sauce med svampe, bambusskud, nudler, pak choy og crispy chili oil. | 
-VEGETAR:
-   Chinabox med dybstegt tofú
-
-   Dybstegt tofu med Kinesisk stir-fry sauce med svampe, bambusskud, nudler, pak choy og crispy chili oil | 
-   Chinabox with Deep-Fried Chicken | 
-   Deep-fried chicken with Chinese stir-fry sauce, mushrooms, bamboo shoots, noodles, pak choi, and crispy chili oil. | 
-VEGETARIAN:
-   Chinabox with Deep-Fried Tofu
-
-   Deep-fried tofu with Chinese stir-fry sauce, mushrooms, bamboo shoots, noodles, pak choi, and crispy chili oil. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|chinaboxmeddybstegtkylling|dybstegtkyllingmedkinesiskstir-frysaucemedsvampe,bambusskud,nudler,pakchoyogcrispychilioil.|vegetar:chinaboxmeddybstegttofúdybstegttofumedkinesiskstir-frysaucemedsvampe,bambusskud,nudler,pakchoyogcrispychilioil|chinaboxwithdeep-friedchicken|deep-friedchickenwithchinesestir-frysauce,mushrooms,bambooshoots,noodles,pakchoi,andcrispychilioil.|vegetarian:chinaboxwithdeep-friedtofudeep-friedtofuwithchinesestir-frysauce,mushrooms,bambooshoots,noodles,pakchoi,andcrispychilioil.|-20251031-2</guid>
-      <pubDate>Fri, 31 Oct 2025 05:23:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB2 - Lunch Menu</title>
-      <link>https://hubnordic.madkastel.dk/</link>
-      <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Bahn mí | 
-   Vietnamesisk klassiker med char siu kylling, syltet gulerod og daikon | 
-VEGETAR:
-   Bahn mi
-
-   Med char siu tofu, syltet gulerod og daikon | 
-   Served with spring onions and herbs | 
-VEGETARIAN:
-   Sichuan stew with tempeh and black beans, lots of ginger, chili and spices
-
-   Served with spring onions and herbs. | 
-   Served with a spicey tomato sauce | 
-   Topped with fennel and rucola in pesto Vegetarian: | 
-   Roasted broccoli with white beans, cous cous and baked tomatoes | 
-   Topped with fennel and rucola in pesto | 
-   Served with raita on mint and cauliflower Today’s cake: | 
-   Lemon cake with poppy seeds | 
-   Served with “barleyotto” with puré of carrots and oranges | 
-   Served with braised fennel Vegetarian: | 
-   Grilled hokkaido | 
-   Served with braised fennel | 
-   With char siu chicken, pickled carrots and daikon Vegetarian: | 
-   With char siu tofu, pickled carrots and daikon | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|bahnmí|vietnamesiskklassikermedcharsiukylling,syltetgulerodogdaikon|vegetar:bahnmimedcharsiutofu,syltetgulerodogdaikon|servedwithspringonionsandherbs|vegetarian:sichuanstewwithtempehandblackbeans,lotsofginger,chiliandspicesservedwithspringonionsandherbs.|servedwithaspiceytomatosauce|toppedwithfennelandrucolainpestovegetarian:|roastedbroccoliwithwhitebeans,couscousandbakedtomatoes|toppedwithfennelandrucolainpesto|servedwithraitaonmintandcauliflowertoday’scake:|lemoncakewithpoppyseeds|servedwith“barleyotto”withpuréofcarrotsandoranges|servedwithbraisedfennelvegetarian:|grilledhokkaido|servedwithbraisedfennel|withcharsiuchicken,pickledcarrotsanddaikonvegetarian:|withcharsiutofu,pickledcarrotsanddaikon|-20251031-1</guid>
-      <pubDate>Fri, 31 Oct 2025 05:23:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 – Kays - Lunch Menu</title>
-      <link>https://hubnordic.madkastel.dk/</link>
-      <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Asian marineret, hårdt stegt pork chunks med lyn kimchi og pita brød, hertil kaffir lime creme og syltet chili | 
-VEGETAR: Asian marineret, hårdt stegt soyaprotein chunks med lyn kimchi og pita brød, hertil kaffir lime creme og syltet chi
- | 
-VEGETAR: Asian marineret, hårdt stegt soyaprotein chunks med lyn kimchi og pita brød, hertil kaffir lime creme og syltet chili
- | 
-   Tyrkisk Pide af oksekød med çoban salatasi, cremefraiche tilsmagt med fermenteret hvidløgog feta | 
-VEGETAR: Tyrkisk Pide af soyaprotein med çoban salatasi cremefraiche tilsmagt med fermenteret hvidløg og feta
- | 
-   Turkish Beef Pide with çoban salatasi, sour cream flavored with fermented garlic and feta | 
-   Vegetarian : Turkish Soy Protein Pide with çoban salatasi sour cream flavored with fermented garlic and feta | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|asianmarineret,hårdtstegtporkchunksmedlynkimchiogpitabrød,hertilkaffirlimecremeogsyltetchili|vegetar:asianmarineret,hårdtstegtsoyaproteinchunksmedlynkimchiogpitabrød,hertilkaffirlimecremeogsyltetchi|vegetar:asianmarineret,hårdtstegtsoyaproteinchunksmedlynkimchiogpitabrød,hertilkaffirlimecremeogsyltetchili|tyrkiskpideafoksekødmedçobansalatasi,cremefraichetilsmagtmedfermenterethvidløgogfeta|vegetar:tyrkiskpideafsoyaproteinmedçobansalatasicremefraichetilsmagtmedfermenterethvidløgogfeta|turkishbeefpidewithçobansalatasi,sourcreamflavoredwithfermentedgarlicandfeta|vegetarian:turkishsoyproteinpidewithçobansalatasisourcreamflavoredwithfermentedgarlicandfeta|-20251031-0</guid>
-      <pubDate>Fri, 31 Oct 2025 05:23:17 +0000</pubDate>
-    </item>
   </channel>
 </rss>
