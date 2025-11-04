@@ -4,71 +4,85 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Monday, 03 November 2025]]></title>
+    <title><![CDATA[Canteen Menu - Tuesday, 04 November 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Mon, 03 Nov 2025 07:12:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 05:18:22 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>🍽 HUB1 - Homebound Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/</link>
+      <description><![CDATA[🍽 HUB1 - Homebound Lunch Menu:  | 
+   Stegt Dansk krikand med brunet smør ristet kartofler vendt med urter og rødbeder serveret med vildtsauce og toppet med syltede æbler | 
+   Roasted Danish teal duck with browned butter roasted potatoes tossed with herbs and beets, served with game sauce and topped with pickled apples | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|stegtdanskkrikandmedbrunetsmørristetkartoflervendtmedurterogrødbederserveretmedvildtsauceogtoppetmedsyltedeæbler|roasteddanishtealduckwithbrownedbutterroastedpotatoestossedwithherbsandbeets,servedwithgamesauceandtoppedwithpickledapples|-20251104-4</guid>
+      <pubDate>Tue, 04 Nov 2025 05:18:22 +0000</pubDate>
+    </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
-   Toskansk gryderet med langtidsbraiseret oksetykkam, hvide bønner, tomat, rosmarin bagte rodfrugter hertil cremet polenta toppet med gremolata | 
-
-VEGETAR:
-   Toskansk gryderet med soyaprotein chunks, hvide bønner, tomat, rosmarin bagte rodfrugter hertil cremet polenta toppet med gremolata | 
-   Dagens Fisk med sorte bønner vendt med kalkun bacon, peberfrugt toppet med tomater vendt i urtevinaigrette | 
-   Today’s Fish with black beans tossed with turkey bacon, bell peppers topped with tomatoes tossed in herb vinaigrett3 | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|toskanskgryderetmedlangtidsbraiseretoksetykkam,hvidebønner,tomat,rosmarinbagterodfrugterhertilcremetpolentatoppetmedgremolata|vegetar:toskanskgryderetmedsoyaproteinchunks,hvidebønner,tomat,rosmarinbagterodfrugterhertilcremetpolentatoppetmedgremolata|dagensfiskmedsortebønnervendtmedkalkunbacon,peberfrugttoppetmedtomatervendtiurtevinaigrette|today’sfishwithblackbeanstossedwithturkeybacon,bellpepperstoppedwithtomatoestossedinherbvinaigrett3|-20251103-3</guid>
-      <pubDate>Mon, 03 Nov 2025 07:12:24 +0000</pubDate>
+   Ovnstegt kyllingelår med za´atar fra mellemøsten | 
+   Serveret med vinter-tabouleh, syltet hokkaido, kålskud og | 
+   granatæble melasses. | 
+   Hertil hjemmelavet harissa chili | 
+   Vegetar: Ovnbagt tofu med za´atar fra mellemøsten | 
+   Serveret med vinter-tabouleh, syltet hokkaido, kålskud og granatæble melasses . | 
+   Oven-roasted chicken leg with Middle Eastern za’atar Served with winter tabbouleh, pickled Hokkaido pumpkin, kale shoots, and pomegranate molasses. With homemade harissa chili on the side. | 
+   Vegetarian : Oven-baked tofu with Middle Eastern za’atar Served with winter tabbouleh, pickled Hokkaido pumpkin, kale shoots, and pomegranate molasses. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|ovnstegtkyllingelårmedza´atarframellemøsten|serveretmedvinter-tabouleh,syltethokkaido,kålskudog|granatæblemelasses.|hertilhjemmelavetharissachili|vegetar:ovnbagttofumedza´atarframellemøsten|serveretmedvinter-tabouleh,syltethokkaido,kålskudoggranatæblemelasses.|oven-roastedchickenlegwithmiddleeasternza’atarservedwithwintertabbouleh,pickledhokkaidopumpkin,kaleshoots,andpomegranatemolasses.withhomemadeharissachiliontheside.|vegetarian:oven-bakedtofuwithmiddleeasternza’atarservedwithwintertabbouleh,pickledhokkaidopumpkin,kaleshoots,andpomegranatemolasses.|-20251104-3</guid>
+      <pubDate>Tue, 04 Nov 2025 05:18:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Kylling Korma | 
-   Lavet på kokosmælk, varmekrydderier og kyllingeoverlår. | 
-   Serveret med fuldkornsris, mandler og koriander. | 
+   Spicy chorizo og “skovens svampe” i flødesauce. | 
+   Fuldkornsspaghetti med stegte svampe og chorizo i en cremet og let flødesauce. | 
+   Serveret med parmesan og basilikum. | 
 VEGETAR:
-   Daal
+   Hestebønner og ”skovens svampe” i flødesauce.
 
-   Krydret og aromatisk gryderet med linser og grøntsager. | 
-   Chicken Korma | 
-   Made with coconut milk, warming spices, and chicken thighs. | 
-   Served with whole grain rice, almonds and coriander. | 
+   Fuldkornsspaghetti med stegte svampe og hestebønner i en cremet og let spicy flødesauce. | 
+   Spicy Chorizo and “Forest Mushrooms” in Cream Sauce | 
+   Whole grain spaghetti with fried mushrooms and chorizo in a creamy, lightly spiced sauce. | 
+   Served with parmesan and basil. | 
 VEGETARIAN:
-   A spiced and aromatic stew with lentils and vegetables.
-]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|kyllingkorma|lavetpåkokosmælk,varmekrydderierogkyllingeoverlår.|serveretmedfuldkornsris,mandlerogkoriander.|vegetar:daalkrydretogaromatiskgryderetmedlinseroggrøntsager.|chickenkorma|madewithcoconutmilk,warmingspices,andchickenthighs.|servedwithwholegrainrice,almondsandcoriander.|vegetarian:aspicedandaromaticstewwithlentilsandvegetables.-20251103-2</guid>
-      <pubDate>Mon, 03 Nov 2025 07:12:24 +0000</pubDate>
+   Broad Beans and “Forest Mushrooms” in Cream Sauce
+
+   Whole grain spaghetti with fried mushrooms and broad beans in a creamy and lightly spicy sauce. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|spicychorizoog“skovenssvampe”iflødesauce.|fuldkornsspaghettimedstegtesvampeogchorizoiencremetogletflødesauce.|serveretmedparmesanogbasilikum.|vegetar:hestebønnerog”skovenssvampe”iflødesauce.fuldkornsspaghettimedstegtesvampeoghestebønneriencremetogletspicyflødesauce.|spicychorizoand“forestmushrooms”increamsauce|wholegrainspaghettiwithfriedmushroomsandchorizoinacreamy,lightlyspicedsauce.|servedwithparmesanandbasil.|vegetarian:broadbeansand“forestmushrooms”increamsaucewholegrainspaghettiwithfriedmushroomsandbroadbeansinacreamyandlightlyspicysauce.|-20251104-2</guid>
+      <pubDate>Tue, 04 Nov 2025 05:18:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Sichuan gryde på kalvekød og sorte bønner med masser peber, chili, ingefær og grøntsager. | 
-   Serveret med ris. Toppet med springløg og urter | 
+   BBQ nakke filet fra gris | 
+   Med hård stegt savoykål, quinoa og syltet hokkaido | 
 VEGETAR:
-   Sichuan gryde med fermenteret Ingrid ærter sorte bønner med masser peber, chili, ingefær og grøntsager.
-]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|sichuangrydepåkalvekødogsortebønnermedmasserpeber,chili,ingefæroggrøntsager.|serveretmedris.toppetmedspringløgogurter|vegetar:sichuangrydemedfermenteretingridærtersortebønnermedmasserpeber,chili,ingefæroggrøntsager.-20251103-1</guid>
-      <pubDate>Mon, 03 Nov 2025 07:12:24 +0000</pubDate>
+   Saltbagt selleri med BBQ marinade
+
+   Hård stegt savoykål, quinoa og syltet hokkaido | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|bbqnakkefiletfragris|medhårdstegtsavoykål,quinoaogsyltethokkaido|vegetar:saltbagtsellerimedbbqmarinadehårdstegtsavoykål,quinoaogsyltethokkaido|-20251104-1</guid>
+      <pubDate>Tue, 04 Nov 2025 05:18:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Forloren hare med brun sky sauce, dampet kartofler hertil bagt syltet kræskar toppet med persille | 
-VEGETAR: Vegetar Forloren hare med brun sky sauce, dampet kartofler hertil bagt syltet kræskar toppet med persille
- | 
-   Forloren hare with brown sky sauce, steamed potatoes, baked pickled gourd topped with parsley | 
-VEGETARIAN: Vegetarian Forloren hare with brown sky sauce, steamed potatoes, baked pickled gourd topped with parsley
- | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|forlorenharemedbrunskysauce,dampetkartoflerhertilbagtsyltetkræskartoppetmedpersille|vegetar:vegetarforlorenharemedbrunskysauce,dampetkartoflerhertilbagtsyltetkræskartoppetmedpersille|forlorenharewithbrownskysauce,steamedpotatoes,bakedpickledgourdtoppedwithparsley|vegetarian:vegetarianforlorenharewithbrownskysauce,steamedpotatoes,bakedpickledgourdtoppedwithparsley|-20251103-0</guid>
-      <pubDate>Mon, 03 Nov 2025 07:12:24 +0000</pubDate>
+   Nordafrikansk kalkun tangine med varme krydderier og couscous toppet med tørret frugt og friske urter | 
+   Vegetar:
+   Nordafrikansk tagine med kikærter, sweet potato, varme krydderier og couscous toppet med tørret frugt og friske urter | 
+   North African Turkey Tagine with Warm Spices and Couscous Topped with Dried Fruit and Fresh Herbs | 
+   Vegetarian:
+   North African Tagine with Chickpeas, Sweet Potato, Warm Spices and Couscous Topped with Dried Fruit and Fresh Herbs | 
+   – UGE 45 – | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|nordafrikanskkalkuntanginemedvarmekrydderierogcouscoustoppetmedtørretfrugtogfriskeurter|vegetar:nordafrikansktaginemedkikærter,sweetpotato,varmekrydderierogcouscoustoppetmedtørretfrugtogfriskeurter|northafricanturkeytaginewithwarmspicesandcouscoustoppedwithdriedfruitandfreshherbs|vegetarian:northafricantaginewithchickpeas,sweetpotato,warmspicesandcouscoustoppedwithdriedfruitandfreshherbs|–uge45–|-20251104-0</guid>
+      <pubDate>Tue, 04 Nov 2025 05:18:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
