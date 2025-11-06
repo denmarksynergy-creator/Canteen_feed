@@ -4,65 +4,83 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Wednesday, 05 November 2025]]></title>
+    <title><![CDATA[Canteen Menu - Thursday, 06 November 2025]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 05 Nov 2025 05:18:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 05:22:19 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Homebound Lunch Menu:  | 
-   Blomkål suppe med stegte jordskokker, purløgs olie og tomat pulver. Hertil rugbrøds croutoner. | 
-   Cauliflower soup with fried Jerusalem artichokes, chive oil and tomato powder. Served with rye bread croutons. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|blomkålsuppemedstegtejordskokker,purløgsolieogtomatpulver.hertilrugbrødscroutoner.|cauliflowersoupwithfriedjerusalemartichokes,chiveoilandtomatopowder.servedwithryebreadcroutons.|-20251105-4</guid>
-      <pubDate>Wed, 05 Nov 2025 05:18:09 +0000</pubDate>
+   Pulled pork tilberedt I øl, serveret med stegte rodfrugter, syltet rødløg hertil cremet sennepssauce | 
+   Pulled pork cooked in beer, served with fried root vegetables, pickled red onion and creamy mustard sauce | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|pulledporktilberedtiøl,serveretmedstegterodfrugter,syltetrødløghertilcremetsennepssauce|pulledporkcookedinbeer,servedwithfriedrootvegetables,pickledredonionandcreamymustardsauce|-20251106-4</guid>
+      <pubDate>Thu, 06 Nov 2025 05:22:19 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
+   Ovnstegt kyllingelår med za´atar fra mellemøsten | 
+   Serveret med vinter-tabouleh, syltet hokkaido, kålskud og | 
+   granatæble melasses. | 
+   Hertil hjemmelavet harissa chili | 
    Vegetar: Ovnbagt tofu med za´atar fra mellemøsten | 
    Serveret med vinter-tabouleh, syltet hokkaido, kålskud og granatæble melasses . | 
-   Vegetarian: Oven-baked tofu with Middle Eastern za’atar Served with winter tabbouleh, pickled Hokkaido pumpkin, kale shoots, and pomegranate molasses. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|vegetar:ovnbagttofumedza´atarframellemøsten|serveretmedvinter-tabouleh,syltethokkaido,kålskudoggranatæblemelasses.|vegetarian:oven-bakedtofuwithmiddleeasternza’atarservedwithwintertabbouleh,pickledhokkaidopumpkin,kaleshoots,andpomegranatemolasses.|-20251105-3</guid>
-      <pubDate>Wed, 05 Nov 2025 05:18:09 +0000</pubDate>
+   Oven-roasted chicken leg with Middle Eastern za’atar Served with winter tabbouleh, pickled Hokkaido pumpkin, kale shoots, and pomegranate molasses. With homemade harissa chili on the side. | 
+   Vegetarian : Oven-baked tofu with Middle Eastern za’atar Served with winter tabbouleh, pickled Hokkaido pumpkin, kale shoots, and pomegranate molasses. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|ovnstegtkyllingelårmedza´atarframellemøsten|serveretmedvinter-tabouleh,syltethokkaido,kålskudog|granatæblemelasses.|hertilhjemmelavetharissachili|vegetar:ovnbagttofumedza´atarframellemøsten|serveretmedvinter-tabouleh,syltethokkaido,kålskudoggranatæblemelasses.|oven-roastedchickenlegwithmiddleeasternza’atarservedwithwintertabbouleh,pickledhokkaidopumpkin,kaleshoots,andpomegranatemolasses.withhomemadeharissachiliontheside.|vegetarian:oven-bakedtofuwithmiddleeasternza’atarservedwithwintertabbouleh,pickledhokkaidopumpkin,kaleshoots,andpomegranatemolasses.|-20251106-3</guid>
+      <pubDate>Thu, 06 Nov 2025 05:22:19 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Marrokansk berber tagine med aubergine og kikærter. Couscous salat med ananas og krydderurter. Serveret med en let spicy og aromatisk harissa og en  frisk myntedressing. | 
-   Dagens kage: ” Sønderjydsk kagebord” | 
-   Moroccan Berber Tagine with Eggplant and Chickpeas | 
-   Couscous salad with pineapple and fresh herbs. | 
-   Served with a mildly spicy and aromatic harissa and a refreshing mint dressing. | 
-   Cake of the Day: “Traditional Southern Jutland Cake Table” | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|marrokanskberbertaginemedaubergineogkikærter.couscoussalatmedananasogkrydderurter.serveretmedenletspicyogaromatiskharissaogenfriskmyntedressing.|dagenskage:”sønderjydskkagebord”|moroccanberbertaginewitheggplantandchickpeas|couscoussaladwithpineappleandfreshherbs.|servedwithamildlyspicyandaromaticharissaandarefreshingmintdressing.|cakeoftheday:“traditionalsouthernjutlandcaketable”|-20251105-2</guid>
-      <pubDate>Wed, 05 Nov 2025 05:18:09 +0000</pubDate>
+   Spareribs | 
+   Saftige ribs marineret i bbq sauce, serveret med bagekartoffel, hvidløgssmør og en frisk kål slaw salat. | 
+VEGETAR:
+   Saftige og proteinholdige grøntsagsfrikadeller lavet på smagfulde grøntsager og bælgfrugter.
+
+   Serveret med bagekartoffel, hvidløgssmør og en frisk kål slaw salat. | 
+   Juicy ribs marinated in BBQ sauce, served with baked potato, garlic butter, and a fresh cabbage slaw. | 
+VEGETARIAN:
+   Vegetable Patties
+
+   Juicy and protein-rich patties made from flavorful vegetables and legumes. | 
+   Served with baked potato, garlic butter, and a fresh cabbage slaw. | ]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|spareribs|saftigeribsmarineretibbqsauce,serveretmedbagekartoffel,hvidløgssmørogenfriskkålslawsalat.|vegetar:saftigeogproteinholdigegrøntsagsfrikadellerlavetpåsmagfuldegrøntsagerogbælgfrugter.serveretmedbagekartoffel,hvidløgssmørogenfriskkålslawsalat.|juicyribsmarinatedinbbqsauce,servedwithbakedpotato,garlicbutter,andafreshcabbageslaw.|vegetarian:vegetablepattiesjuicyandprotein-richpattiesmadefromflavorfulvegetablesandlegumes.|servedwithbakedpotato,garlicbutter,andafreshcabbageslaw.|-20251106-2</guid>
+      <pubDate>Thu, 06 Nov 2025 05:22:19 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Pasta Putanesca | 
-   Dagens kage: | 
-   Pund til pund kage med bær | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|pastaputanesca|dagenskage:|pundtilpundkagemedbær|-20251105-1</guid>
-      <pubDate>Wed, 05 Nov 2025 05:18:09 +0000</pubDate>
+   Fiske frikadeller | 
+   Serveret med dampet kartofler og sauce tartare | 
+   Serveret med salat på | 
+VEGETAR:
+   Grøntsags deller
+]]></description>
+      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|fiskefrikadeller|serveretmeddampetkartoflerogsaucetartare|serveretmedsalatpå|vegetar:grøntsagsdeller-20251106-1</guid>
+      <pubDate>Thu, 06 Nov 2025 05:22:19 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/</link>
       <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Rødbede bygotto med confiteret svampe, syltet tomat og saltede æbler og friteret skorzonerrod | 
-   Beetroot barley gotto with confit mushrooms, pickled tomatoes and salted apples and fried scorzonera root | 
+   Kukhura ko Masu (Nepalesisk kylling karry) | 
+   Serveret med ris og koriander on the side | 
+   Vegetar:
+   Nepalesisk karry med soya protein. Serveret med ris og koriander on the side | 
+   Kukhura ko Masu (Nepali Chicken Curry) | 
+   Served with rice and coriander on the side | 
    – UGE 45 – | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|rødbedebygottomedconfiteretsvampe,syltettomatogsaltedeæblerogfriteretskorzonerrod|beetrootbarleygottowithconfitmushrooms,pickledtomatoesandsaltedapplesandfriedscorzoneraroot|–uge45–|-20251105-0</guid>
-      <pubDate>Wed, 05 Nov 2025 05:18:09 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|kukhurakomasu(nepalesiskkyllingkarry)|serveretmedrisogkorianderontheside|vegetar:nepalesiskkarrymedsoyaprotein.serveretmedrisogkorianderontheside|kukhurakomasu(nepalichickencurry)|servedwithriceandcorianderontheside|–uge45–|-20251106-0</guid>
+      <pubDate>Thu, 06 Nov 2025 05:22:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
