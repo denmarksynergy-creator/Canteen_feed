@@ -4,13 +4,13 @@
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
 
-    <title><![CDATA[Canteen Menu - Friday, 02 January 2026]]></title>
+    <title><![CDATA[Canteen Menu - Saturday, 03 January 2026]]></title>
     <link>https://hubnordic.madkastel.dk/</link>
     <description><![CDATA[Daily updated canteen-menu]]></description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 02 Jan 2026 05:31:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 06:27:50 +0000</lastBuildDate>
     <ttl>15</ttl>
   </channel>
 </rss>
