@@ -480,6 +480,7 @@ def generate_rss(menu_items):
         f.write(rss_str)
    
 
+
 if __name__ == "__main__":
     menus_by_hub = scrape_weekly_menus()
     today_menus = get_today_menus(menus_by_hub)
