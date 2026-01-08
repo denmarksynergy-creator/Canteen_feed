@@ -8,63 +8,89 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 08 Jan 2026 10:13:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 10:55:03 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
-      <title>🍽 HUB1 - Sprout Lunch Menu</title>
+      <title>🍽 HUB1 - Sprout Lunch Menu:  | 
+A selection of fresh seasonal vegetables, paired with a protein of your choice to create your own composed meal salad.</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>Daily canteen menu</description>
-      <content:encoded>A selection of fresh seasonal vegetables, paired with a protein of your choice to create your own composed meal salad.</content:encoded>
-      <guid isPermaLink="false">urn:canteen:1bb0f8e65c1cefa2-20260108</guid>
-      <pubDate>Thu, 08 Jan 2026 10:13:51 +0000</pubDate>
+      <description>🍽 HUB1 - Sprout Lunch Menu:  | 
+A selection of fresh seasonal vegetables, paired with a protein of your choice to create your own composed meal salad.
+A selection of fresh seasonal vegetables, paired with a protein of your choice to create your own composed meal salad.</description>
+      <guid isPermaLink="false">urn:canteen:c8bb020665d6458d-20260108</guid>
+      <pubDate>Thu, 08 Jan 2026 10:55:03 +0000</pubDate>
     </item>
     <item>
-      <title>🍽 HUB1 - Homebound Lunch Menu</title>
+      <title>🍽 HUB1 - Homebound Lunch Menu:  | 
+Fiske gratin med porre,gulerod, spinat og citron timian serveret med økologiske kartofler vendt ipersille og fennikel crudite
+Fish gratin with leek, carrot, spinach and lemon thymeserved with organic potatoes tossed in parsley and fennel crudite</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>Daily canteen menu</description>
-      <content:encoded>Fiske gratin med porre,gulerod, spinat og citron timian serveret med økologiske kartofler vendt ipersille og fennikel crudite
-Fish gratin with leek, carrot, spinach and lemon thymeserved with organic potatoes tossed in parsley and fennel crudite</content:encoded>
-      <guid isPermaLink="false">urn:canteen:5487808d7debe883-20260108</guid>
-      <pubDate>Thu, 08 Jan 2026 10:13:51 +0000</pubDate>
+      <description>🍽 HUB1 - Homebound Lunch Menu:  | 
+Fiske gratin med porre,gulerod, spinat og citron timian serveret med økologiske kartofler vendt ipersille og fennikel crudite
+Fish gratin with leek, carrot, spinach and lemon thymeserved with organic potatoes tossed in parsley and fennel crudite
+Fiske gratin med porre,gulerod, spinat og citron timian serveret med økologiske kartofler vendt ipersille og fennikel crudite
+Fish gratin with leek, carrot, spinach and lemon thymeserved with organic potatoes tossed in parsley and fennel crudite</description>
+      <guid isPermaLink="false">urn:canteen:3ce13f867369adb6-20260108</guid>
+      <pubDate>Thu, 08 Jan 2026 10:55:03 +0000</pubDate>
     </item>
     <item>
-      <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>Daily canteen menu</description>
-      <content:encoded>Burittomed chili con carne, hertil mexikanske ris, salsa pico og sour cream
+      <title>🍽 HUB1 - Globetrotter Lunch Menu:  | 
+Burittomed chili con carne, hertil mexikanske ris, salsa pico og sour cream
 Burritowith chili con carne, served with Mexican rice, salsa pico and sour cream
 Burittomed chili sin carne, hertil mexikanske ris, salsa pico og sour cream
-Burritowith chili sin carne, served with Mexican rice, salsa pico and sour cream</content:encoded>
-      <guid isPermaLink="false">urn:canteen:97a95e6a3e3538d2-20260108</guid>
-      <pubDate>Thu, 08 Jan 2026 10:13:51 +0000</pubDate>
+Burritowith chili sin carne, served with Mexican rice, salsa pico and sour cream</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Globetrotter Lunch Menu:  | 
+Burittomed chili con carne, hertil mexikanske ris, salsa pico og sour cream
+Burritowith chili con carne, served with Mexican rice, salsa pico and sour cream
+Burittomed chili sin carne, hertil mexikanske ris, salsa pico og sour cream
+Burritowith chili sin carne, served with Mexican rice, salsa pico and sour cream
+Burittomed chili con carne, hertil mexikanske ris, salsa pico og sour cream
+Burritowith chili con carne, served with Mexican rice, salsa pico and sour cream
+Burittomed chili sin carne, hertil mexikanske ris, salsa pico og sour cream
+Burritowith chili sin carne, served with Mexican rice, salsa pico and sour cream</description>
+      <guid isPermaLink="false">urn:canteen:e13b74c6cc58a0e2-20260108</guid>
+      <pubDate>Thu, 08 Jan 2026 10:55:03 +0000</pubDate>
     </item>
     <item>
-      <title>🍽 HUB3 - Lunch Menu</title>
+      <title>🍽 HUB3 - Lunch Menu:  | 
+Vegetarian “Brændendekærlighed” with creamy mashed potatoes, caramelised onions and pan fried oyster mushrooms
+VEGETARIAN:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>Daily canteen menu</description>
-      <content:encoded>Vegetarian “Brændendekærlighed” with creamy mashed potatoes, caramelised onions and pan fried oyster mushrooms
-VEGETARIAN:</content:encoded>
-      <guid isPermaLink="false">urn:canteen:dd6bc5b848a3edb7-20260108</guid>
-      <pubDate>Thu, 08 Jan 2026 10:13:51 +0000</pubDate>
+      <description>🍽 HUB3 - Lunch Menu:  | 
+Vegetarian “Brændendekærlighed” with creamy mashed potatoes, caramelised onions and pan fried oyster mushrooms
+VEGETARIAN:
+Vegetarian “Brændendekærlighed” with creamy mashed potatoes, caramelised onions and pan fried oyster mushrooms
+VEGETARIAN:</description>
+      <guid isPermaLink="false">urn:canteen:1ed66809ac2b2ccb-20260108</guid>
+      <pubDate>Thu, 08 Jan 2026 10:55:03 +0000</pubDate>
     </item>
     <item>
-      <title>🍽 HUB2 - Lunch Menu</title>
+      <title>🍽 HUB2 - Lunch Menu:  | 
+Vegetarian Vegetablepatties with pea purée, roasted root vegetables and sherry vinaigrette
+VEGETARIAN:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>Daily canteen menu</description>
-      <content:encoded>Vegetarian Vegetablepatties with pea purée, roasted root vegetables and sherry vinaigrette
-VEGETARIAN:</content:encoded>
-      <guid isPermaLink="false">urn:canteen:7a94b96350238c75-20260108</guid>
-      <pubDate>Thu, 08 Jan 2026 10:13:51 +0000</pubDate>
+      <description>🍽 HUB2 - Lunch Menu:  | 
+Vegetarian Vegetablepatties with pea purée, roasted root vegetables and sherry vinaigrette
+VEGETARIAN:
+Vegetarian Vegetablepatties with pea purée, roasted root vegetables and sherry vinaigrette
+VEGETARIAN:</description>
+      <guid isPermaLink="false">urn:canteen:00ae50616a2eddac-20260108</guid>
+      <pubDate>Thu, 08 Jan 2026 10:55:03 +0000</pubDate>
     </item>
     <item>
-      <title>🍽 HUB1 – Kays - Lunch Menu</title>
+      <title>🍽 HUB1 – Kays - Lunch Menu:  | 
+Game stew made with wild boar served with a coarse potato-celery mash, rawpickled cranberries topped with fresh herbs
+Vegetarian</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>Daily canteen menu</description>
-      <content:encoded>Game stew made with wild boar served with a coarse potato-celery mash, rawpickled cranberries topped with fresh herbs
+      <description>🍽 HUB1 – Kays - Lunch Menu:  | 
+Game stew made with wild boar served with a coarse potato-celery mash, rawpickled cranberries topped with fresh herbs
+Vegetarian
+Game stew made with wild boar served with a coarse potato-celery mash, rawpickled cranberries topped with fresh herbs
 Vegetarian:
-Game stew made with tofu served with a coarse potato-celery mash, rawpickled cranberries topped with fresh herbs</content:encoded>
-      <guid isPermaLink="false">urn:canteen:f5062fdf36622b51-20260108</guid>
-      <pubDate>Thu, 08 Jan 2026 10:13:51 +0000</pubDate>
+Game stew made with tofu served with a coarse potato-celery mash, rawpickled cranberries topped with fresh herbs</description>
+      <guid isPermaLink="false">urn:canteen:be399c90f0dabf7f-20260108</guid>
+      <pubDate>Thu, 08 Jan 2026 10:55:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
