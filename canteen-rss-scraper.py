@@ -120,6 +120,38 @@ def normalize_day_token(text):
             return DAY_MAP[k]
     return None
 
+
+
+BOILERPLATE_PATTERNS = [
+    r"Sign up for our newsletter",
+    r"Tilmeld dig vores nyhedsbrev",
+    r"Opening hours|Åbningstider",
+    r"Kontrolrapport",
+    r"Madkastellet Kantiner ApS",
+    r"hubnordic@madkastellet\.dk",
+    r"Copyright ©",
+    r"Book selskab|Send request with date",
+    r"Privatlivspolitik|Opdater cookie præferencer",
+    r"Cafe Nabo",
+    r"Week\s*\d+|Uge\s*\d+",
+    r"\bHUB\s*[123]\b",
+]
+
+def is_boilerplate(text: str) -> bool:
+    t = " ".join(text.split())
+    t = t.replace("\u200d", "")  # remove zero-width joiners
+    for pat in BOILERPLATE_PATTERNS:
+        if re.search(pat, t, flags=re.IGNORECASE):
+            return True
+   
+
+def tidy_line(s: str) -> str:
+    s = s.replace("\u200d", "")   # zero-width joiner
+    s = re.sub(r"\s*\|\s*$", "", s)  # trailing " | " at line end
+    s = re.sub(r"\s{2,}", " ", s).strip()
+   
+
+
 # --- Parsers ---
 
 def parse_hub_page(html):
@@ -320,16 +352,21 @@ def get_today_menus(menus_by_hub):
         if today_da in menu_dict and menu_dict[today_da]:
             seen = set()
             unique_menu = []
-            for item in menu_dict[today_da]:
-                normalized = " ".join(item.split())
-                if not normalized:
-                    continue
-                skip_days = ["mandag","tirsdag","onsdag","torsdag","fredag","monday","tuesday","wednesday","thursday","friday"]
-                if any(day in normalized.lower() for day in skip_days):
-                    continue
-                if normalized not in seen:
-                    seen.add(normalized)
-                    unique_menu.append(item)
+            
+    for item in menu_dict[today_da]:
+        normalized = " ".join(item.split()).replace("\u200d", "")
+        if not normalized:
+            continue
+        # Skip weekday names (already in your code)
+        skip_days = ["mandag","tirsdag","onsdag","torsdag","fredag","monday","tuesday","wednesday","thursday","friday"]
+        if any(day in normalized.lower() for day in skip_days):
+            continue
+        # NEW: skip boilerplate
+        if is_boilerplate(normalized):
+            continue
+        if normalized not in seen:
+            seen.add(normalized)
+            unique_menu.append(normalized)  # store normalized line to suppress stray ZWJ chars
 
             # Format similar to your special cases
             formatted_menu = []
@@ -345,7 +382,7 @@ def get_today_menus(menus_by_hub):
                         formatted_menu.append(caps_start)
                         formatted_menu.append(" | ")
                     else:
-                        formatted_menu.append(f"   {line}")
+                        formatted_menu.append(tidy_line(f"   {line} | "))
 
                 elif lower_line in ["vegetar", "vegetarian", "vegetar:", "vegetarian:"]:
                     if not line.endswith(":"):
@@ -374,13 +411,23 @@ def get_today_menus(menus_by_hub):
                 today_menus.append(f"🍽 {hub} - Lunch Menu:  | \n{menu_text}")
     return today_menus
 
+
 def generate_rss(menu_items):
+    """
+    Generates a clean RSS feed:
+      - Uses Feedgen's native link(rel='self') for Atom self-link.
+      - Avoids manual string replaces that caused stray text.
+      - Uses compact GUIDs based on a stable hash.
+    """
+    from hashlib import sha1
+
     fg = FeedGenerator()
     today_str = datetime.date.today().strftime("%A, %d %B %Y")
 
     # Feed metadata
     fg.title(f"Canteen Menu - {today_str}")
-    fg.link(href=BASE_EN)  # link to the main menu overview
+    fg.link(href="https://hubnordic.madkastel.dk/en/menu", rel="alternate")  # main site link
+    fg.link(href=FEED_URL, rel="self")  # Atom self-link (correct way)
     fg.description("Daily updated canteen-menu")
     fg.language("da")
     fg.lastBuildDate(datetime.datetime.now(pytz.utc))
@@ -388,31 +435,26 @@ def generate_rss(menu_items):
     fg.ttl(15)
     fg.docs("http://www.rssboard.org/rss-specification")
 
+    # Items
     for i, item in enumerate(menu_items):
         entry = fg.add_entry()
         short_title = item.split(":")[0].strip()
         if not short_title:
-            short_title = item[:50] + "..." if len(item) > 50 else item
+            short_title = (item[:50] + "...") if len(item) > 50 else item
         entry.title(short_title)
-        entry.link(href=BASE_EN)
+        entry.link(href="https://hubnordic.madkastel.dk/en/menu")
+        # Put the full formatted text into description
         entry.description(f"<![CDATA[{item}]]>")
         entry.pubDate(datetime.datetime.now(pytz.utc))
-        clean_item = re.sub(r"\s+", "", item).lower()
-        guid_value = f"urn:canteen:{clean_item}-{datetime.datetime.now().strftime('%Y%m%d')}-{i}"
-        entry.guid(guid_value)
 
+        # Compact, stable GUID
+        guid_hash = sha1(item.encode("utf-8")).hexdigest()[:16]
+        guid_value = f"urn:canteen:{guid_hash}-{datetime.datetime.now().strftime('%Y%m%d')}"
+        entry.guid(guid_value, permalink=False)
+
+    # Write RSS without manual replacements
     rss_bytes = fg.rss_str(pretty=True)
     rss_str = rss_bytes.decode("utf-8")
-
-    atom_link_str = f'    {FEED_URL}\n'
-    rss_str = rss_str.replace("<channel>", "<channel>\n" + atom_link_str, 1)
-    docs_str = '    <docs>http://www.rssboard.org/rss-specification</docs>\n'
-    rss_str = rss_str.replace(atom_link_str, atom_link_str + docs_str, 1)
-    rss_str = rss_str.replace("&lt;![CDATA[", "<![CDATA[").replace("]]&gt;", "]]>")
-    rss_str = re.sub(r'<guid>(.*?)</guid>', r'<guid isPermaLink="false"><![CDATA[\1]]></guid>', rss_str)
-    rss_str = re.sub(r'<title>(.*?)</title>', r'<title><![CDATA[\1]]></title>', rss_str, count=1)
-    rss_str = re.sub(r'<description>(.*?)</description>', r'<description><![CDATA[\1]]></description>', rss_str, count=1)
-
     with open(RSS_FILE, "w", encoding="utf-8") as f:
         f.write(rss_str)
     print("RSS feed updated")
