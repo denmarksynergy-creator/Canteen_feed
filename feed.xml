@@ -8,24 +8,63 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 08 Jan 2026 09:13:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 10:13:51 +0000</lastBuildDate>
     <ttl>15</ttl>
-    <item>
-      <title>🍽 HUB1 - Sprout Lunch Menu</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>Daily canteen menu</description>
-      <content:encoded>A selection of fresh seasonal vegetables, paired with a protein of your choice to create your own composed meal salad.
-... and be among the first to receive notifications about exciting events from Madkastellet's restaurants.</content:encoded>
-      <guid isPermaLink="false">urn:canteen:40774243c7d7a8ce-20260108</guid>
-      <pubDate>Thu, 08 Jan 2026 09:13:46 +0000</pubDate>
-    </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>Daily canteen menu</description>
       <content:encoded>A selection of fresh seasonal vegetables, paired with a protein of your choice to create your own composed meal salad.</content:encoded>
       <guid isPermaLink="false">urn:canteen:1bb0f8e65c1cefa2-20260108</guid>
-      <pubDate>Thu, 08 Jan 2026 09:13:46 +0000</pubDate>
+      <pubDate>Thu, 08 Jan 2026 10:13:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Homebound Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>Daily canteen menu</description>
+      <content:encoded>Fiske gratin med porre,gulerod, spinat og citron timian serveret med økologiske kartofler vendt ipersille og fennikel crudite
+Fish gratin with leek, carrot, spinach and lemon thymeserved with organic potatoes tossed in parsley and fennel crudite</content:encoded>
+      <guid isPermaLink="false">urn:canteen:5487808d7debe883-20260108</guid>
+      <pubDate>Thu, 08 Jan 2026 10:13:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>Daily canteen menu</description>
+      <content:encoded>Burittomed chili con carne, hertil mexikanske ris, salsa pico og sour cream
+Burritowith chili con carne, served with Mexican rice, salsa pico and sour cream
+Burittomed chili sin carne, hertil mexikanske ris, salsa pico og sour cream
+Burritowith chili sin carne, served with Mexican rice, salsa pico and sour cream</content:encoded>
+      <guid isPermaLink="false">urn:canteen:97a95e6a3e3538d2-20260108</guid>
+      <pubDate>Thu, 08 Jan 2026 10:13:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB3 - Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>Daily canteen menu</description>
+      <content:encoded>Vegetarian “Brændendekærlighed” with creamy mashed potatoes, caramelised onions and pan fried oyster mushrooms
+VEGETARIAN:</content:encoded>
+      <guid isPermaLink="false">urn:canteen:dd6bc5b848a3edb7-20260108</guid>
+      <pubDate>Thu, 08 Jan 2026 10:13:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB2 - Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>Daily canteen menu</description>
+      <content:encoded>Vegetarian Vegetablepatties with pea purée, roasted root vegetables and sherry vinaigrette
+VEGETARIAN:</content:encoded>
+      <guid isPermaLink="false">urn:canteen:7a94b96350238c75-20260108</guid>
+      <pubDate>Thu, 08 Jan 2026 10:13:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 – Kays - Lunch Menu</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>Daily canteen menu</description>
+      <content:encoded>Game stew made with wild boar served with a coarse potato-celery mash, rawpickled cranberries topped with fresh herbs
+Vegetarian:
+Game stew made with tofu served with a coarse potato-celery mash, rawpickled cranberries topped with fresh herbs</content:encoded>
+      <guid isPermaLink="false">urn:canteen:f5062fdf36622b51-20260108</guid>
+      <pubDate>Thu, 08 Jan 2026 10:13:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
