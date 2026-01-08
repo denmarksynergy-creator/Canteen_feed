@@ -531,18 +531,33 @@ def get_today_menus(menus_by_hub):
 
 from hashlib import sha1
 
+
 def summarize_title(item: str) -> str:
-    # First line up to colon or whole prefix before body
-    title = item.split(":\n", 1)[0].strip()
-    if not title:
-        title = item.split(":", 1)[0].strip()
-    return title if title else "Today's Menu"
+    """
+    Title = first line only (tidied).
+    We do NOT try to parse by colons/pipes; we just take line 0.
+    """
+    first_line = item.split("\n", 1)[0]
+    return tidy_line(first_line) or "Today's Menu"
+
 
 def long_body(item: str) -> str:
-    # Full formatted body lines, tidied and without boilerplate
-    lines = [tidy_line(ln) for ln in item.split("\n")]
-    lines = [ln for ln in lines if ln and not is_boilerplate(ln)]
-    return "\n".join(lines)
+    """
+    Body = all lines after the first line, tidied and without boilerplate.
+    This prevents the title line from leaking into the description/body
+    and avoids duplicate menu lines.
+    """
+    parts = item.split("\n")
+    if len(parts) <= 1:
+        return ""  # no body present
+    body_lines = parts[1:]  # skip the first line (title)
+    clean = []
+    for ln in body_lines:
+        t = tidy_line(ln)
+        if t and not is_boilerplate(t):
+            clean.append(t)
+   
+
 
 def generate_rss(menu_items):
     fg = FeedGenerator()
