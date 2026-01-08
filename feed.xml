@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 08 Jan 2026 08:53:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 09:00:08 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu</title>
@@ -17,7 +17,7 @@
       <content:encoded>A selection of fresh seasonal vegetables, paired with a protein of your choice to create your own composed meal salad.
 ... and be among the first to receive notifications about exciting events from Madkastellet's restaurants.</content:encoded>
       <guid isPermaLink="false">urn:canteen:40774243c7d7a8ce-20260108</guid>
-      <pubDate>Thu, 08 Jan 2026 08:53:10 +0000</pubDate>
+      <pubDate>Thu, 08 Jan 2026 09:00:08 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu</title>
@@ -25,7 +25,7 @@
       <description>Daily canteen menu</description>
       <content:encoded>A selection of fresh seasonal vegetables, paired with a protein of your choice to create your own composed meal salad.</content:encoded>
       <guid isPermaLink="false">urn:canteen:1bb0f8e65c1cefa2-20260108</guid>
-      <pubDate>Thu, 08 Jan 2026 08:53:10 +0000</pubDate>
+      <pubDate>Thu, 08 Jan 2026 09:00:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
