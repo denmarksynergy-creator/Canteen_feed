@@ -122,6 +122,7 @@ def normalize_day_token(text):
 
 
 
+
 BOILERPLATE_PATTERNS = [
     r"Sign up for our newsletter",
     r"Tilmeld dig vores nyhedsbrev",
@@ -130,25 +131,38 @@ BOILERPLATE_PATTERNS = [
     r"Madkastellet Kantiner ApS",
     r"hubnordic@madkastellet\.dk",
     r"Copyright ©",
-    r"Book selskab|Send request with date",
+    r"Book selskab|Send request with date|booking@restaurantmark\.dk",
     r"Privatlivspolitik|Opdater cookie præferencer",
     r"Cafe Nabo",
     r"Week\s*\d+|Uge\s*\d+",
     r"\bHUB\s*[123]\b",
+    r"\u200d",  # zero-width joiner
 ]
 
 def is_boilerplate(text: str) -> bool:
     t = " ".join(text.split())
-    t = t.replace("\u200d", "")  # remove zero-width joiners
     for pat in BOILERPLATE_PATTERNS:
         if re.search(pat, t, flags=re.IGNORECASE):
             return True
-   
+    return False
 
 def tidy_line(s: str) -> str:
-    s = s.replace("\u200d", "")   # zero-width joiner
-    s = re.sub(r"\s*\|\s*$", "", s)  # trailing " | " at line end
+    s = s.replace("\u200d", "")
+    s = re.sub(r"\s*\|\s*$", "", s)  # remove trailing pipes
     s = re.sub(r"\s{2,}", " ", s).strip()
+    return s
+
+
+def dedupe_items(menu_texts):
+    seen = set()
+    out = []
+    for item in menu_texts:
+        sig = tidy_line(item.lower())
+        if sig not in seen:
+            seen.add(sig)
+            out.append(item)
+    return out
+
    
 
 
@@ -412,22 +426,28 @@ def get_today_menus(menus_by_hub):
     return today_menus
 
 
-def generate_rss(menu_items):
-    """
-    Generates a clean RSS feed:
-      - Uses Feedgen's native link(rel='self') for Atom self-link.
-      - Avoids manual string replaces that caused stray text.
-      - Uses compact GUIDs based on a stable hash.
-    """
-    from hashlib import sha1
 
+from hashlib import sha1
+
+def summarize_title(item: str) -> str:
+    # First line up to colon (your current approach) or first non-boilerplate dish line
+    title = item.split(":")[0].strip()
+    return title if title else "Today's Menu"
+
+def long_body(item: str) -> str:
+    # The whole formatted text, tidy and ready for content:encoded
+    lines = [tidy_line(ln) for ln in item.split("\n")]
+    lines = [ln for ln in lines if ln and not is_boilerplate(ln)]
+    return "\n".join(lines)
+
+def generate_rss(menu_items):
     fg = FeedGenerator()
     today_str = datetime.date.today().strftime("%A, %d %B %Y")
 
     # Feed metadata
     fg.title(f"Canteen Menu - {today_str}")
-    fg.link(href="https://hubnordic.madkastel.dk/en/menu", rel="alternate")  # main site link
-    fg.link(href=FEED_URL, rel="self")  # Atom self-link (correct way)
+    fg.link(href="https://hubnordic.madkastel.dk/en/menu", rel="alternate")  # site link
+    fg.link(href=FEED_URL, rel="self", type="application/rss+xml")           # proper atom self link
     fg.description("Daily updated canteen-menu")
     fg.language("da")
     fg.lastBuildDate(datetime.datetime.now(pytz.utc))
@@ -435,33 +455,35 @@ def generate_rss(menu_items):
     fg.ttl(15)
     fg.docs("http://www.rssboard.org/rss-specification")
 
-    # Items
-    for i, item in enumerate(menu_items):
+    for item in menu_items:
         entry = fg.add_entry()
-        short_title = item.split(":")[0].strip()
-        if not short_title:
-            short_title = (item[:50] + "...") if len(item) > 50 else item
-        entry.title(short_title)
+        # Short title
+        entry.title(summarize_title(item))
         entry.link(href="https://hubnordic.madkastel.dk/en/menu")
-        # Put the full formatted text into description
-        entry.description(f"<![CDATA[{item}]]>")
+
+        # Short description (no CDATA needed)
+        entry.description("Daily canteen menu")
+
+        # Full formatted body in content:encoded (will be CDATA in RSS)
+        entry.content(long_body(item))
+
         entry.pubDate(datetime.datetime.now(pytz.utc))
 
-        # Compact, stable GUID
-        guid_hash = sha1(item.encode("utf-8")).hexdigest()[:16]
+        # Compact GUID
+        guid_hash = sha1(long_body(item).encode("utf-8")).hexdigest()[:16]
         guid_value = f"urn:canteen:{guid_hash}-{datetime.datetime.now().strftime('%Y%m%d')}"
         entry.guid(guid_value, permalink=False)
 
-    # Write RSS without manual replacements
     rss_bytes = fg.rss_str(pretty=True)
     rss_str = rss_bytes.decode("utf-8")
     with open(RSS_FILE, "w", encoding="utf-8") as f:
         f.write(rss_str)
-    print("RSS feed updated")
+   
 
 if __name__ == "__main__":
     menus_by_hub = scrape_weekly_menus()
     today_menus = get_today_menus(menus_by_hub)
+    today_menus = dedupe_items(today_menus)
     print("Today's menu:")
     for menu in today_menus:
         print(menu, end="\n\n")
