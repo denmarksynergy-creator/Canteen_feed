@@ -153,11 +153,21 @@ def tidy_line(s: str) -> str:
     return s
 
 
+
 def dedupe_items(menu_texts):
     seen = set()
     out = []
     for item in menu_texts:
-        sig = tidy_line(item.lower())
+        # signature: first line up to newline + first non-empty dish line
+        lines = [ln for ln in item.split("\n") if tidy_line(ln)]
+        title_prefix = lines[0] if lines else ""
+        first_dish = ""
+        for ln in lines[1:]:
+            tln = tidy_line(ln)
+            if tln and not is_boilerplate(tln):
+                first_dish = tln
+                break
+        sig = (title_prefix.lower(), first_dish.lower())
         if sig not in seen:
             seen.add(sig)
             out.append(item)
@@ -233,6 +243,7 @@ def parse_hub_page(html):
 
     return block_menus
 
+
 def parse_foodcourt_page(html):
     """Parse Foodcourt page → returns dict per restaurant (Globetrotter/Homebound/Sprout) with day→items."""
     soup = BeautifulSoup(html, "html.parser")
@@ -246,6 +257,84 @@ def parse_foodcourt_page(html):
     current_restaurant = None
     current_days = []
     sprout_buffer = []
+
+    def ensure_rest_day_entries(name, days):
+        restaurant_menus.setdefault(name, {})
+        for d in days:
+            restaurant_menus[name].setdefault(d, [])
+
+    for raw in lines:
+        line = tidy_line(raw)
+        low = line.lower()
+
+        # Skip boilerplate early
+        if not line or is_boilerplate(line):
+            continue
+
+        # Detect restaurant heading
+        found_rest = None
+        for r in RESTAURANTS_FOODCOURT:
+            # accept exact word or heading that contains it
+            if re.search(rf"\b{re.escape(r)}\b", low):
+                found_rest = r.capitalize()
+                break
+        if found_rest:
+            current_restaurant = found_rest
+            current_days = []
+            ensure_rest_day_entries(current_restaurant, DAILY_DAYS_DA)  # pre-create weekdays
+            continue
+
+        # Detect days for multi-day lines (e.g., "Monday/Tuesday ...")
+        candidate = low.replace(":", " ").replace("/", " ").replace(",", " ")
+        found_days = []
+        for k in VALID_DAYS:
+            if k in candidate:
+                found_days.append(DAY_MAP[k])
+        if found_days and current_restaurant:
+            current_days = sorted(set(found_days))
+            ensure_rest_day_entries(current_restaurant, current_days)
+            continue
+
+        # Sprout: keep the primary describe-the-salad line only
+        if current_restaurant == "Sprout":
+            # Keep lines that describe the daily salad; skip noise
+            if re.search(r"(salad|salat|protein|dagens)", low):
+                sprout_buffer.append(line)
+            # Ignore other lines under Sprout
+            continue
+
+        # Vegetarian label (keep as-is if present)
+        if re.search(r"(vegetar|vegetarian)\s*:", low) and current_restaurant:
+            days_target = current_days if current_days else DAILY_DAYS_DA
+            for d in days_target:
+                restaurant_menus[current_restaurant][d].append(line)
+            continue
+
+        # Normal menu items
+        if current_restaurant and line and not any(r in low for r in RESTAURANTS_FOODCOURT):
+            days_target = current_days if current_days else DAILY_DAYS_DA
+            for d in days_target:
+                restaurant_menus[current_restaurant][d].append(line)
+
+    # Assign Sprout to all days
+    if sprout_buffer:
+        restaurant_menus.setdefault("Sprout", {})
+        for d in DAILY_DAYS_DA:
+            restaurant_menus["Sprout"][d] = sprout_buffer[:]
+
+    # Dedup per restaurant/day
+    for rname, days in restaurant_menus.items():
+        for d, items in list(days.items()):
+            seen = set()
+            dedup = []
+            for it in items:
+                norm = " ".join(it.split())
+                if norm and norm not in seen:
+                    seen.add(norm)
+                    dedup.append(it)
+            days[d] = dedup
+
+    return restaurant_menus
 
     def ensure_rest_day_entries(name, days):
         restaurant_menus.setdefault(name, {})
@@ -342,6 +431,7 @@ def scrape_weekly_menus():
 
 # --- Today's menus & RSS (mostly kept from your code) ---
 
+
 def get_today_menus(menus_by_hub):
     weekday_mapping = {
         "Monday": "mandag",
@@ -363,66 +453,77 @@ def get_today_menus(menus_by_hub):
     for hub, menu_dict in menus_by_hub.items():
         if hub not in target_hubs:
             continue
-        if today_da in menu_dict and menu_dict[today_da]:
-            seen = set()
-            unique_menu = []
-            
-    for item in menu_dict[today_da]:
-        normalized = " ".join(item.split()).replace("\u200d", "")
-        if not normalized:
+
+        items_today = menu_dict.get(today_da, [])
+        if not items_today:
             continue
-        # Skip weekday names (already in your code)
-        skip_days = ["mandag","tirsdag","onsdag","torsdag","fredag","monday","tuesday","wednesday","thursday","friday"]
-        if any(day in normalized.lower() for day in skip_days):
+
+        # Filter and dedupe lines for the day
+        seen = set()
+        unique_menu = []
+        for item in items_today:
+            normalized = tidy_line(" ".join(item.split()).replace("\u200d", ""))
+            if not normalized:
+                continue
+            skip_days = ["mandag","tirsdag","onsdag","torsdag","fredag","monday","tuesday","wednesday","thursday","friday"]
+            if any(day in normalized.lower() for day in skip_days):
+                continue
+            if is_boilerplate(normalized):
+                continue
+            if normalized not in seen:
+                seen.add(normalized)
+                # Keep original-cased line but tidied for final display
+                unique_menu.append(tidy_line(item))
+
+        # If nothing meaningful remains, skip the hub
+        if not unique_menu:
             continue
-        # NEW: skip boilerplate
-        if is_boilerplate(normalized):
-            continue
-        if normalized not in seen:
-            seen.add(normalized)
-            unique_menu.append(normalized)  # store normalized line to suppress stray ZWJ chars
 
-            # Format similar to your special cases
-            formatted_menu = []
-            i = 0
-            while i < len(unique_menu):
-                line = unique_menu[i].strip()
-                lower_line = line.lower().rstrip(" ")
+        # Build formatted menu once per hub
+        formatted_menu = []
+        i = 0
+        while i < len(unique_menu):
+            line = unique_menu[i].strip()
+            lower_line = line.lower().rstrip(" ")
 
-                if hub == "HUB1 – Kays" and (lower_line.startswith("vegetar:") or lower_line.startswith("vegetarian:")):
-                    parts = line.split(":", 1)
-                    if len(parts) > 1 and parts[1].strip():
-                        caps_start = f"{parts[0].strip().upper()}: {parts[1].strip()}"
-                        formatted_menu.append(caps_start)
-                        formatted_menu.append(" | ")
-                    else:
-                        formatted_menu.append(tidy_line(f"   {line} | "))
-
-                elif lower_line in ["vegetar", "vegetarian", "vegetar:", "vegetarian:"]:
-                    if not line.endswith(":"):
-                        line += ":"
-                    line = f"{line.rstrip(':').upper()}:"
-
-                    if hub in ["HUB2", "HUB3"]:
-                        formatted_menu.append(line.upper())
-                        if i + 1 < len(unique_menu):
-                            formatted_menu.append(f"   {unique_menu[i+1].strip()}")
-                            i += 1
-                        formatted_menu.append("")
-                    elif hub == "Globetrotter":
-                        formatted_menu.append("")
-                        formatted_menu.append(line)
+            # HUB1 – Kays vegetarian label on same line
+            if hub == "HUB1 – Kays" and (lower_line.startswith("vegetar:") or lower_line.startswith("vegetarian:")):
+                parts = line.split(":", 1)
+                if len(parts) > 1 and parts[1].strip():
+                    caps_start = f"{parts[0].strip().upper()}: {parts[1].strip()}"
+                    formatted_menu.append(caps_start)
+                    formatted_menu.append(" | ")
                 else:
-                    formatted_menu.append(f"   {line} | ")
+                    formatted_menu.append(tidy_line(f"   {line} | "))
 
-                i += 1
+            # Standalone vegetarian labels
+            elif lower_line in ["vegetar", "vegetarian", "vegetar:", "vegetarian:"]:
+                if not line.endswith(":"):
+                    line += ":"
+                line = f"{line.rstrip(':').upper()}:"
 
-            menu_text = "\n".join(formatted_menu)
-
-            if hub in ["Homebound", "Globetrotter", "Sprout"]:
-                today_menus.append(f"🍽 HUB1 - {hub} Lunch Menu:  | \n{menu_text}")
+                if hub in ["HUB2", "HUB3"]:
+                    formatted_menu.append(line.upper())
+                    if i + 1 < len(unique_menu):
+                        formatted_menu.append(f"   {unique_menu[i+1].strip()}")
+                        i += 1
+                    formatted_menu.append("")
+                elif hub == "Globetrotter":
+                    formatted_menu.append("")
+                    formatted_menu.append(line)
             else:
-                today_menus.append(f"🍽 {hub} - Lunch Menu:  | \n{menu_text}")
+                formatted_menu.append(f"   {line} | ")
+
+            i += 1
+
+        menu_text = "\n".join(tidy_line(x) for x in formatted_menu if tidy_line(x))
+
+        # Append once per hub
+        if hub in ["Homebound", "Globetrotter", "Sprout"]:
+            today_menus.append(f"🍽 HUB1 - {hub} Lunch Menu:  | \n{menu_text}")
+        else:
+            today_menus.append(f"🍽 {hub} - Lunch Menu:  | \n{menu_text}")
+
     return today_menus
 
 
