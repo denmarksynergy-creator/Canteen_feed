@@ -1,97 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml
-    <docs>http://www.rssboard.org/rss-specification</docs>
-
-    <title><![CDATA[Canteen Menu - Thursday, 08 January 2026]]></title>
-    <link>https://hubnordic.madkastel.dk/en/menu</link>
-    <description><![CDATA[Daily updated canteen-menu]]></description>
+    <title>Canteen Menu - Thursday, 08 January 2026</title>
+    <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
+    <description>Daily updated canteen-menu</description>
+    <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 08 Jan 2026 08:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 08:39:24 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description><![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
-   ‍ | 
+      <description>&lt;![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
    A selection of fresh seasonal vegetables, paired with a protein of your choice to create your own composed meal salad. | 
-   ... and be among the first to receive notifications about exciting events from Madkastellet's restaurants. | 
-   Hub 2 — Hub 3 | 
-   Cafe Nabo | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-sproutlunchmenu:|‍|aselectionoffreshseasonalvegetables,pairedwithaproteinofyourchoicetocreateyourowncomposedmealsalad.|...andbeamongthefirsttoreceivenotificationsaboutexcitingeventsfrommadkastellet'srestaurants.|hub2—hub3|cafenabo|-20260108-5</guid>
-      <pubDate>Thu, 08 Jan 2026 08:02:31 +0000</pubDate>
+   ... and be among the first to receive notifications about exciting events from Madkastellet's restaurants. | ]]&gt;</description>
+      <guid isPermaLink="false">urn:canteen:879822ebda38bb02-20260108</guid>
+      <pubDate>Thu, 08 Jan 2026 08:39:24 +0000</pubDate>
     </item>
     <item>
-      <title>🍽 HUB1 - Homebound Lunch Menu</title>
+      <title>🍽 HUB1 - Sprout Lunch Menu</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description><![CDATA[🍽 HUB1 - Homebound Lunch Menu:  | 
-   Fiske gratin med porre,gulerod, spinat og citron timian serveret med økologiske kartofler vendt ipersille og fennikel crudite | 
-   Fish gratin with leek, carrot, spinach and lemon thymeserved with organic potatoes tossed in parsley and fennel crudite | 
-   ‍ | 
-   Kontrolrapport HUB 2 | 
-   ‍ ‍ | 
-   Kontrolrapport HUB 3 ‍ | 
-   Kontrolrapport Cafe Nabo | 
-   Kontrolrapport Globetrotten | 
-   Kontrolrapport Madkastellet Kantiner | 
-   Madkastellet Kantiner ApS Slagtehusgade 11, 2. sal DK-1715 København V CVR: 40909109 Kay Fiskers Pl. 102 300 København +45 31 10 05 58 hubnordic@madkastellet.dk | 
-   Madkastellet Kantiner ApS Slagtehusgade 11, 2. sal DK-1715 København V CVR: 40909109 Kay Fiskers Pl. 102 300 København +45 31 10 05 58 | 
-   Send request with date to booking@restaurantmark.dk | 
-   Copyright © Madkastellet. All rights reserved. | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-homeboundlunchmenu:|fiskegratinmedporre,gulerod,spinatogcitrontimianserveretmedøkologiskekartoflervendtipersilleogfennikelcrudite|fishgratinwithleek,carrot,spinachandlemonthymeservedwithorganicpotatoestossedinparsleyandfennelcrudite|‍|kontrolrapporthub2|‍‍|kontrolrapporthub3‍|kontrolrapportcafenabo|kontrolrapportglobetrotten|kontrolrapportmadkastelletkantiner|madkastelletkantinerapsslagtehusgade11,2.saldk-1715københavnvcvr:40909109kayfiskerspl.102300københavn+4531100558hubnordic@madkastellet.dk|madkastelletkantinerapsslagtehusgade11,2.saldk-1715københavnvcvr:40909109kayfiskerspl.102300københavn+4531100558|sendrequestwithdatetobooking@restaurantmark.dk|copyright©madkastellet.allrightsreserved.|-20260108-4</guid>
-      <pubDate>Thu, 08 Jan 2026 08:02:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Globetrotter Lunch Menu</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description><![CDATA[🍽 HUB1 - Globetrotter Lunch Menu:  | 
-   ‍ | 
-   Burittomed chili con carne, hertil mexikanske ris, salsa pico og sour cream | 
-   Burritowith chili con carne, served with Mexican rice, salsa pico and sour cream | 
-   Burittomed chili sin carne, hertil mexikanske ris, salsa pico og sour cream | 
-   Burritowith chili sin carne, served with Mexican rice, salsa pico and sour cream | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1-globetrotterlunchmenu:|‍|burittomedchiliconcarne,hertilmexikanskeris,salsapicoogsourcream|burritowithchiliconcarne,servedwithmexicanrice,salsapicoandsourcream|burittomedchilisincarne,hertilmexikanskeris,salsapicoogsourcream|burritowithchilisincarne,servedwithmexicanrice,salsapicoandsourcream|-20260108-3</guid>
-      <pubDate>Thu, 08 Jan 2026 08:02:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB3 - Lunch Menu</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description><![CDATA[🍽 HUB3 - Lunch Menu:  | 
-   Vegetarian “Brændendekærlighed” with creamy mashed potatoes, caramelised onions and pan fried oyster mushrooms | 
-VEGETARIAN:
-   Week 2
-
-   HUB 3 | 
-   ‍ | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub3-lunchmenu:|vegetarian“brændendekærlighed”withcreamymashedpotatoes,caramelisedonionsandpanfriedoystermushrooms|vegetarian:week2hub3|‍|-20260108-2</guid>
-      <pubDate>Thu, 08 Jan 2026 08:02:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB2 - Lunch Menu</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description><![CDATA[🍽 HUB2 - Lunch Menu:  | 
-   Vegetarian Vegetablepatties with pea purée, roasted root vegetables and sherry vinaigrette | 
-VEGETARIAN:
-   Week 2
-
-   HUB2 | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub2-lunchmenu:|vegetarianvegetablepattieswithpeapurée,roastedrootvegetablesandsherryvinaigrette|vegetarian:week2hub2|-20260108-1</guid>
-      <pubDate>Thu, 08 Jan 2026 08:02:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 – Kays - Lunch Menu</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description><![CDATA[🍽 HUB1 – Kays - Lunch Menu:  | 
-   Game stew made with wild boar served with a coarse potato-celery mash, rawpickled cranberries topped with fresh herbs | 
-   Vegetarian:
-   Game stew made with tofu served with a coarse potato-celery mash, rawpickled cranberries topped with fresh herbs | 
-   Week 2 | 
-   HUB 1 | ]]></description>
-      <guid isPermaLink="false">urn:canteen:🍽hub1–kays-lunchmenu:|gamestewmadewithwildboarservedwithacoarsepotato-celerymash,rawpickledcranberriestoppedwithfreshherbs|vegetarian:gamestewmadewithtofuservedwithacoarsepotato-celerymash,rawpickledcranberriestoppedwithfreshherbs|week2|hub1|-20260108-0</guid>
-      <pubDate>Thu, 08 Jan 2026 08:02:31 +0000</pubDate>
+      <description>&lt;![CDATA[🍽 HUB1 - Sprout Lunch Menu:  | 
+   A selection of fresh seasonal vegetables, paired with a protein of your choice to create your own composed meal salad. | ]]&gt;</description>
+      <guid isPermaLink="false">urn:canteen:0bfca231eeb1d6a8-20260108</guid>
+      <pubDate>Thu, 08 Jan 2026 08:39:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
