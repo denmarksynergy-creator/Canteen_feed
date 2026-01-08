@@ -535,7 +535,6 @@ from hashlib import sha1
 def summarize_title(item: str) -> str:
     """
     Title = first line only (tidied).
-    We do NOT try to parse by colons/pipes; we just take line 0.
     """
     first_line = item.split("\n", 1)[0]
     return tidy_line(first_line) or "Today's Menu"
@@ -544,18 +543,20 @@ def summarize_title(item: str) -> str:
 def long_body(item: str) -> str:
     """
     Body = all lines after the first line, tidied and without boilerplate.
-    This prevents the title line from leaking into the description/body
-    and avoids duplicate menu lines.
+    Always returns a string (possibly empty), never None.
     """
     parts = item.split("\n")
     if len(parts) <= 1:
-        return ""  # no body present
+        return ""  # <--- important: return empty string, not None
     body_lines = parts[1:]  # skip the first line (title)
     clean = []
     for ln in body_lines:
         t = tidy_line(ln)
         if t and not is_boilerplate(t):
             clean.append(t)
+    return "\n".join(clean)
+   
+
    
 
 
