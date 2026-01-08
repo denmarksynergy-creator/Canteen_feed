@@ -528,15 +528,18 @@ def get_today_menus(menus_by_hub):
 
 
 
+
 from hashlib import sha1
 
 def summarize_title(item: str) -> str:
-    # First line up to colon (your current approach) or first non-boilerplate dish line
-    title = item.split(":")[0].strip()
+    # First line up to colon or whole prefix before body
+    title = item.split(":\n", 1)[0].strip()
+    if not title:
+        title = item.split(":", 1)[0].strip()
     return title if title else "Today's Menu"
 
 def long_body(item: str) -> str:
-    # The whole formatted text, tidy and ready for content:encoded
+    # Full formatted body lines, tidied and without boilerplate
     lines = [tidy_line(ln) for ln in item.split("\n")]
     lines = [ln for ln in lines if ln and not is_boilerplate(ln)]
     return "\n".join(lines)
@@ -547,8 +550,8 @@ def generate_rss(menu_items):
 
     # Feed metadata
     fg.title(f"Canteen Menu - {today_str}")
-    fg.link(href="https://hubnordic.madkastel.dk/en/menu", rel="alternate")  # site link
-    fg.link(href=FEED_URL, rel="self", type="application/rss+xml")           # proper atom self link
+    fg.link(href="https://hubnordic.madkastel.dk/en/menu", rel="alternate")
+    fg.link(href=FEED_URL, rel="self", type="application/rss+xml")
     fg.description("Daily updated canteen-menu")
     fg.language("da")
     fg.lastBuildDate(datetime.datetime.now(pytz.utc))
@@ -557,21 +560,24 @@ def generate_rss(menu_items):
     fg.docs("http://www.rssboard.org/rss-specification")
 
     for item in menu_items:
+        title_text = summarize_title(item)
+        body_text  = long_body(item)
+
+        # Compose the description: repeat title + menu text
+        # Example:
+        # 🍽 HUB1 – Kays - Lunch Menu
+        #   Game stew ...
+        #   VEGETARIAN: ...
+        description_full = f"{title_text}\n{body_text}".strip()
+
         entry = fg.add_entry()
-        # Short title
-        entry.title(summarize_title(item))
+        entry.title(title_text)
         entry.link(href="https://hubnordic.madkastel.dk/en/menu")
-
-        # Short description (no CDATA needed)
-        entry.description("Daily canteen menu")
-
-        # Full formatted body in content:encoded (will be CDATA in RSS)
-        entry.content(long_body(item))
-
+        entry.description(description_full)   # <-- put everything in description (plain text)
         entry.pubDate(datetime.datetime.now(pytz.utc))
 
         # Compact GUID
-        guid_hash = sha1(long_body(item).encode("utf-8")).hexdigest()[:16]
+        guid_hash = sha1(description_full.encode("utf-8")).hexdigest()[:16]
         guid_value = f"urn:canteen:{guid_hash}-{datetime.datetime.now().strftime('%Y%m%d')}"
         entry.guid(guid_value, permalink=False)
 
@@ -579,6 +585,7 @@ def generate_rss(menu_items):
     rss_str = rss_bytes.decode("utf-8")
     with open(RSS_FILE, "w", encoding="utf-8") as f:
         f.write(rss_str)
+    print("RSS feed updated")
    
 
 
