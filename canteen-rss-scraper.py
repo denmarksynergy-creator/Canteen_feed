@@ -116,13 +116,22 @@ def clean_text(s: str) -> str:
 
 
 def split_into_lines(div) -> list:
-    """Extract visible text lines (<p>, list items, headings) in order."""
+    """
+    Extract visible text lines preserving <br/> boundaries so that:
+      <p><strong>Thursday<br/></strong>Panfried pork patties<br/>with pea purée…</p>
+    becomes: ["Thursday", "Panfried pork patties", "with pea purée…"]
+    """
     lines = []
     for el in div.find_all(["p", "li", "h1", "h2", "h3", "h4", "strong"]):
-        txt = el.get_text(separator=" ", strip=True)
-        txt = clean_text(txt)
-        if txt:
-            lines.append(txt)
+        # Preserve <br/> as line breaks
+        txt = el.get_text(separator="\n", strip=True)
+        if not txt:
+            continue
+        # Split per subline and clean each individually
+        for sub in txt.splitlines():
+            sub = clean_text(sub)
+            if sub:
+                lines.append(sub)
     # Fall back: if content area is not structured
     if not lines:
         raw = div.get_text(separator="\n", strip=True)
@@ -421,13 +430,28 @@ def parse_hub_page(html):
 
         # Identify day headers (including multi-day lines)
         found_days = parse_days_from_line(line)
-        if found_days:
+        if found_days and len(line.split()) <= 3:
+            # Treat pure headers (e.g., "Monday", "Onsdag/Wednesday")
             current_day = found_days[0]
             current_days_multi = found_days[:]  # apply following dishes to all found days
             block_menus.setdefault(current_day, [])
             continue
+        elif found_days:
+            # Header with dish text on same line (rare): remove day tokens and keep the rest as dish
+            current_day = found_days[0]
+            current_days_multi = found_days[:]
+            block_menus.setdefault(current_day, [])
+            # remove all day tokens from the line
+            temp = line
+            for tok in DAY_TOKENS_ALL:
+                temp = re.sub(rf"\b{tok}\b", "", temp, flags=re.IGNORECASE)
+            temp = tidy_line(temp)
+            if temp:
+                for d in current_days_multi:
+                    block_menus.setdefault(d, []).append(temp)
+            continue
 
-        # Do NOT inject vegetarian labels here; just collect raw lines
+        # Just collect raw lines; no vegetarian injection here
         targets = current_days_multi if current_days_multi else ([current_day] if current_day else [])
         if targets:
             for d in targets:
@@ -495,9 +519,21 @@ def parse_foodcourt_page(html):
 
         # Detect days for multi-day lines (supports comma/slash/og/and/concatenated)
         found_days = parse_days_from_line(line)
-        if found_days and current_restaurant:
+        if found_days and len(line.split()) <= 3:
             current_days = found_days
             ensure_rest_day_entries(current_restaurant, current_days)
+            continue
+        elif found_days:
+            # day tokens + dish on same line: strip tokens, keep dish
+            current_days = found_days
+            ensure_rest_day_entries(current_restaurant, current_days)
+            temp = line
+            for tok in DAY_TOKENS_ALL:
+                temp = re.sub(rf"\b{tok}\b", "", temp, flags=re.IGNORECASE)
+            temp = tidy_line(temp)
+            if temp:
+                for d in current_days:
+                    restaurant_menus[current_restaurant][d].append(temp)
             continue
 
         # Sprout: keep the primary describe-the-salad line only
@@ -506,7 +542,7 @@ def parse_foodcourt_page(html):
                 sprout_buffer.append(line)
             continue
 
-        # Do NOT inject veg labels; just collect raw lines
+        # Just collect raw lines (no vegetarian injection at parse time)
         if current_restaurant and line and not any(r in low for r in RESTAURANTS_FOODCOURT):
             days_target = current_days if current_days else DAILY_DAYS_DA
             for d in days_target:
