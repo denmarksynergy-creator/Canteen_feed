@@ -155,6 +155,7 @@ BOILERPLATE_PATTERNS = [
     r"Cafe Nabo",
     r"Week\s*\d+|Uge\s*\d+",
     r"\bHUB\s*[123]\b",
+    r"... and be among the first to receive notifications about exciting events from Madkastellet's restaurants.",
     r"\u200d",  # zero-width joiner
 ]
 
