@@ -275,24 +275,24 @@ def is_day_header(line: str) -> bool:
     """Return True if a line looks like a day header (including multi-day and mixed language forms)."""
     return bool(parse_days_from_line(line))
 
-def is_veg_label(line: str) -> bool:
-    """Return True for vegetarian labels (with or without colon)."""
-    low = tidy_line(line).lower()
-    return low in ["vegetarian", "vegetar", "vegetarian:", "vegetar:"]
-
 def consolidate_split_lines(raw_lines: list) -> list:
     """
-    Consolidate split dish lines and label-only vegetarian blocks into single logical dish lines.
+    Consolidate split dish lines and all vegetarian patterns into single logical dish lines.
     Handles:
       - Meat/general: 'Dish name' + 'with/med/served/...' continuation lines
-      - Vegetarian label-only: 'Vegetarian' (+ next dish lines) -> 'VEGETARIAN: <dish ...>'
-      - Vegetarian with colon: 'Vegetarian:' + dish line + optional 'with/med/...' continuation lines
-      - Stops consolidation when the next line is a new day header or a new veg label
+      - Vegetarian label-only: 'Vegetarian' / 'Vegetar' (+ next lines) -> 'VEGETARIAN: <dish ...>'
+      - Vegetarian with colon: 'Vegetarian:' + dish + optional 'with/med/...' continuation
+      - Inline 'Vegetarian <dish>' (no colon) -> 'VEGETARIAN: <dish>'
+      - Stops consolidation when the next line is a new day header or a new vegetarian label
     """
     CONNECTOR_PAT = r"^(with|med|served|accompanied|hertil|hereto|topped|og|and|finished)\b"
 
     def is_connector(line: str) -> bool:
         return bool(re.search(CONNECTOR_PAT, tidy_line(line).lower()))
+
+    def is_veg_label(line: str) -> bool:
+        low = tidy_line(line).lower()
+        return low in ["vegetarian", "vegetar", "vegetarian:", "vegetar:"]
 
     out = []
     i = 0
@@ -304,13 +304,34 @@ def consolidate_split_lines(raw_lines: list) -> list:
             i += 1
             continue
 
-        # Day header: keep (we'll filter it out later in get_today_menus)
+        # Day header: keep for now (we'll drop later in get_today_menus)
         if is_day_header(cur):
             out.append(cur)
             i += 1
             continue
 
-        # Vegetarian label-only (no colon): absorb following dish + connector lines
+        # Inline "Vegetarian <dish>" (no colon)
+        m_inline = re.match(r"^\s*(vegetar|vegetarian)\s+(.*)$", cur, flags=re.IGNORECASE)
+        if m_inline and ":" not in cur:
+            dish = tidy_line(m_inline.group(2))
+            if dish:
+                combined = f"{m_inline.group(1).strip().upper()}: {dish}"
+                # attach connector next lines
+                j = i + 1
+                while j < n:
+                    nxt = tidy_line(raw_lines[j])
+                    if not nxt or is_boilerplate(nxt) or is_day_header(nxt) or is_veg_label(nxt):
+                        break
+                    if is_connector(nxt):
+                        combined = tidy_line(f"{combined} {nxt}")
+                        j += 1
+                    else:
+                        break
+                out.append(combined)
+                i = j
+                continue
+
+        # Vegetarian label-only (no colon): absorb following lines
         if is_veg_label(cur) and ":" not in cur:
             j = i + 1
             parts = []
@@ -324,27 +345,23 @@ def consolidate_split_lines(raw_lines: list) -> list:
                 parts.append(nxt)
                 j += 1
             if parts:
-                out.append(f"VEGETARIAN: {' '.join(parts)}")
+                out.append(f"{cur.strip().upper()}: {' '.join(parts)}")
             i = j
             continue
 
-        # Vegetarian with colon: attach dish line (even if not a connector), then connector lines
-        m = re.match(r"^\s*(vegetar|vegetarian)\s*:\s*(.*)$", cur, flags=re.IGNORECASE)
-        if m:
-            label = m.group(1).strip().upper()  # VEGETAR or VEGETARIAN
-            dish = tidy_line(m.group(2))
+        # Vegetarian with colon: attach dish + connectors
+        m_colon = re.match(r"^\s*(vegetar|vegetarian)\s*:\s*(.*)$", cur, flags=re.IGNORECASE)
+        if m_colon:
+            label = m_colon.group(1).strip().upper()
+            dish = tidy_line(m_colon.group(2))
             combined = f"{label}: {dish}" if dish else f"{label}:"
             j = i + 1
             added_dish = bool(dish)
             while j < n:
                 nxt = tidy_line(raw_lines[j])
-                if not nxt or is_boilerplate(nxt):
-                    j += 1
-                    continue
-                if is_day_header(nxt) or is_veg_label(nxt):
+                if not nxt or is_boilerplate(nxt) or is_day_header(nxt) or is_veg_label(nxt):
                     break
                 if not added_dish:
-                    # first non-header/label line becomes the dish continuation
                     combined = tidy_line(f"{combined} {nxt}")
                     added_dish = True
                     j += 1
@@ -363,10 +380,7 @@ def consolidate_split_lines(raw_lines: list) -> list:
         j = i + 1
         while j < n:
             nxt = tidy_line(raw_lines[j])
-            if not nxt or is_boilerplate(nxt):
-                j += 1
-                continue
-            if is_day_header(nxt) or is_veg_label(nxt):
+            if not nxt or is_boilerplate(nxt) or is_day_header(nxt) or is_veg_label(nxt):
                 break
             if is_connector(nxt):
                 combined = tidy_line(f"{combined} {nxt}")
@@ -413,19 +427,7 @@ def parse_hub_page(html):
             block_menus.setdefault(current_day, [])
             continue
 
-        # Vegetarian label (standalone) — add label; consolidator will attach dish later
-        is_veg_label_alone = bool(re.search(r"^\s*(vegetar|vegetarian)\s*:?\s*$", line, flags=re.IGNORECASE))
-        if is_veg_label_alone:
-            label = line.rstrip(":").capitalize() + ":"
-            targets = current_days_multi if current_days_multi else ([current_day] if current_day else [])
-            if targets:
-                for d in targets:
-                    block_menus.setdefault(d, []).append(label)
-            else:
-                collected_common.append(label)
-            continue
-
-        # Otherwise, treat as a menu item
+        # Do NOT inject vegetarian labels here; just collect raw lines
         targets = current_days_multi if current_days_multi else ([current_day] if current_day else [])
         if targets:
             for d in targets:
@@ -504,15 +506,7 @@ def parse_foodcourt_page(html):
                 sprout_buffer.append(line)
             continue
 
-        # Vegetarian label (with colon or not) — let consolidator handle pairing later,
-        # but include the label so get_today_menus can convert it
-        if re.search(r"^\s*(vegetar|vegetarian)\s*:?\s*$", line, flags=re.IGNORECASE):
-            days_target = current_days if current_days else DAILY_DAYS_DA
-            for d in days_target:
-                restaurant_menus[current_restaurant][d].append(line)
-            continue
-
-        # Normal menu items
+        # Do NOT inject veg labels; just collect raw lines
         if current_restaurant and line and not any(r in low for r in RESTAURANTS_FOODCOURT):
             days_target = current_days if current_days else DAILY_DAYS_DA
             for d in days_target:
@@ -589,7 +583,7 @@ def get_today_menus(menus_by_hub):
         if not items_today:
             continue
 
-        # 1) Consolidate split lines and veg label-only blocks
+        # 1) Consolidate split lines and all vegetarian patterns
         consolidated = consolidate_split_lines(items_today)
 
         # 2) Filter out day headers & boilerplate; dedupe dishes
