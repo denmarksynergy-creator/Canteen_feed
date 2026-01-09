@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 09 Jan 2026 10:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 10:32:15 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
@@ -16,7 +16,7 @@
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables, paired with a protein of your choice to create your own composed meal salad.</description>
       <guid isPermaLink="false">urn:canteen:bd3430ee32ca4bb6-20260109</guid>
-      <pubDate>Fri, 09 Jan 2026 10:19:45 +0000</pubDate>
+      <pubDate>Fri, 09 Jan 2026 10:32:15 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
@@ -25,7 +25,7 @@ A selection of fresh seasonal vegetables, paired with a protein of your choice t
 Fiske gratin med porre,gulerod, spinat og citron timian serveret med økologiske kartofler vendt ipersille og fennikel crudite
 Fish gratin with leek, carrot, spinach and lemon thymeserved with organic potatoes tossed in parsley and fennel crudite</description>
       <guid isPermaLink="false">urn:canteen:2c69e2cf4b49790e-20260109</guid>
-      <pubDate>Fri, 09 Jan 2026 10:19:45 +0000</pubDate>
+      <pubDate>Fri, 09 Jan 2026 10:32:15 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -36,25 +36,23 @@ Burritowith chili con carne, served with Mexican rice, salsa pico and sour cream
 Burittomed chili sin carne, hertil mexikanske ris, salsa pico og sour cream
 Burritowith chili sin carne, served with Mexican rice, salsa pico and sour cream</description>
       <guid isPermaLink="false">urn:canteen:c74f7de44c73e32c-20260109</guid>
-      <pubDate>Fri, 09 Jan 2026 10:19:45 +0000</pubDate>
+      <pubDate>Fri, 09 Jan 2026 10:32:15 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Vegetarian Vegetarianbean and chickpea patty with fresh tzatziki, warm pita bread and a seasoned potato salad
-VEGETARIAN:</description>
-      <guid isPermaLink="false">urn:canteen:221844cce1ae0b24-20260109</guid>
-      <pubDate>Fri, 09 Jan 2026 10:19:45 +0000</pubDate>
+VEGETARIAN: Vegetarianbean and chickpea patty with fresh tzatziki, warm pita bread and a seasoned potato salad</description>
+      <guid isPermaLink="false">urn:canteen:226ca040aff24bec-20260109</guid>
+      <pubDate>Fri, 09 Jan 2026 10:32:15 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Vegetarian Chili sin carne
-VEGETARIAN:</description>
-      <guid isPermaLink="false">urn:canteen:71c74e60819ce063-20260109</guid>
-      <pubDate>Fri, 09 Jan 2026 10:19:45 +0000</pubDate>
+VEGETARIAN: Chili sin carne</description>
+      <guid isPermaLink="false">urn:canteen:812368fb2afb4698-20260109</guid>
+      <pubDate>Fri, 09 Jan 2026 10:32:15 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
@@ -63,7 +61,7 @@ VEGETARIAN:</description>
 Fish and chips with tartar sauce and fried capers
 VEGETARIAN: Breaded celery and chips with tartar sauce and fried capers</description>
       <guid isPermaLink="false">urn:canteen:18eaf127b9b877b4-20260109</guid>
-      <pubDate>Fri, 09 Jan 2026 10:19:45 +0000</pubDate>
+      <pubDate>Fri, 09 Jan 2026 10:32:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
