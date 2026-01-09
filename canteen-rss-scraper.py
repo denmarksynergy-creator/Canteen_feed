@@ -444,6 +444,7 @@ def scrape_weekly_menus():
 # Today’s menus (build per hub)
 # ----------------------------
 
+
 def get_today_menus(menus_by_hub):
     weekday_mapping = {
         "Monday": "mandag",
@@ -474,60 +475,57 @@ def get_today_menus(menus_by_hub):
         seen = set()
         unique_menu = []
         for item in items_today:
+            original = tidy_line(item)
             normalized = tidy_line(" ".join(item.split()).replace("\u200d", ""))
+
             if not normalized:
                 continue
+
+            # Skip weekday names
             skip_days = ["mandag","tirsdag","onsdag","torsdag","fredag",
                          "monday","tuesday","wednesday","thursday","friday"]
             if any(day in normalized.lower() for day in skip_days):
                 continue
+
+            # Skip boilerplate
             if is_boilerplate(normalized):
                 continue
+
+            # --- Vegetarian handling ---
+            low = normalized.lower()
+
+            # Drop standalone vegetarian labels (no dish text)
+            if low in ["vegetar", "vegetarian", "vegetar:", "vegetarian:"]:
+                continue
+
+            # If it's a vegetarian line, normalize it to "VEGETARIAN: <dish>" (or "VEGETAR: <dish>") once
+            # Cases: "Vegetar: dish", "Vegetarian dish", "Vegetarian: dish", etc.
+            # We'll keep the original casing for the dish, and tidy the prefix.
+            if "vegetar" in low or "vegetarian" in low:
+                # Extract the part after the label if present
+                m = re.match(r"^\s*(vegetar|vegetarian)\s*:?\s*(.*)$", original, flags=re.IGNORECASE)
+                if m:
+                    label = m.group(1).strip().upper()  # VEGETAR or VEGETARIAN
+                    dish = tidy_line(m.group(2))        # rest of the line after label
+                    if dish:  # only keep if there's a dish text after label
+                        normalized = f"{label}: {dish}"
+                    else:
+                        # If no dish captured, skip it
+                        continue
+
             k = norm_key(normalized)
             if k not in seen:
                 seen.add(k)
-                unique_menu.append(tidy_line(item))
+                unique_menu.append(normalized)
 
         # If nothing meaningful remains, skip the hub
         if not unique_menu:
             continue
 
-        # Build formatted menu once per hub
+        # Build formatted menu once per hub (no extra label injection)
         formatted_menu = []
-        i = 0
-        while i < len(unique_menu):
-            line = unique_menu[i].strip()
-            lower_line = line.lower().rstrip(" ")
-
-            # HUB1 – Kays vegetarian label on same line
-            if hub == "HUB1 – Kays" and (lower_line.startswith("vegetar:") or lower_line.startswith("vegetarian:")):
-                parts = line.split(":", 1)
-                if len(parts) > 1 and parts[1].strip():
-                    caps_start = f"{parts[0].strip().upper()}: {parts[1].strip()}"
-                    formatted_menu.append(caps_start)
-                    formatted_menu.append(" | ")
-                else:
-                    formatted_menu.append(tidy_line(f"   {line} | "))
-
-            # Standalone vegetarian labels
-            elif lower_line in ["vegetar", "vegetarian", "vegetar:", "vegetarian:"]:
-                if not line.endswith(":"):
-                    line += ":"
-                line = f"{line.rstrip(':').upper()}:"
-
-                if hub in ["HUB2", "HUB3"]:
-                    formatted_menu.append(line.upper())
-                    if i + 1 < len(unique_menu):
-                        formatted_menu.append(f"   {unique_menu[i+1].strip()}")
-                        i += 1
-                    formatted_menu.append("")
-                elif hub == "Globetrotter":
-                    formatted_menu.append("")
-                    formatted_menu.append(line)
-            else:
-                formatted_menu.append(f"   {line} | ")
-
-            i += 1
+        for line in unique_menu:
+            formatted_menu.append(f"   {line} | ")
 
         menu_text = "\n".join(tidy_line(x) for x in formatted_menu if tidy_line(x))
 
@@ -538,6 +536,7 @@ def get_today_menus(menus_by_hub):
             today_menus.append(f"🍽 {hub} - Lunch Menu:  | \n{menu_text}")
 
     return today_menus
+
 
 
 # ----------------------------
