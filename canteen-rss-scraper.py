@@ -1,4 +1,4 @@
-
+#import modules
 import time
 import datetime
 import pytz
@@ -11,7 +11,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 
-# Base site
+# Base site English and Danish URLs
 BASE_EN = "https://hubnordic.madkastel.dk/en/menu"
 BASE_DA = "https://hubnordic.madkastel.dk/menu"
 
@@ -50,21 +50,23 @@ DAILY_DAYS_DA = ["mandag", "tirsdag", "onsdag", "torsdag", "fredag"]
 
 RESTAURANTS_FOODCOURT = ["globetrotter", "homebound", "sprout"]
 
-def setup_driver():
+# Selenium setup and page fetching 
+def setup_driver(): # Configure and return a headless Chrome WebDriver
     chrome_options = Options()
     chrome_options.add_argument("--headless=new")
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
-    driver = webdriver.Chrome(options=chrome_options)
+    driver = webdriver.Chrome(options=chrome_options) 
     driver.implicitly_wait(30)
     return driver
 
+# Fetch page with retries
 def fetch_page(urls):
     """Try each URL variant until one loads. Return HTML or None."""
-    driver = setup_driver()
+    driver = setup_driver() # Initialize WebDriver
     html = None
-    for url in urls:
+    for url in urls: # Try each URL in order
         try:
             driver.get(url)
             # Wait for the main content area; WordPress pages render <main> or article
@@ -85,14 +87,15 @@ def fetch_page(urls):
     driver.quit()
     return html
 
-def clean_text(s):
+def clean_text(s): # Clean and normalize text
     s = re.sub(r"\s+", " ", s).strip()
     return s
 
+# Extract text lines from HTML content
 def split_into_lines(div):
     """Extract visible text lines (<p>, list items, headings) in order."""
     lines = []
-    for el in div.find_all(["p", "li", "h1", "h2", "h3", "h4", "strong"]):
+    for el in div.find_all(["p", "li", "h1", "h2", "h3", "h4", "strong"]): # relevant tags
         txt = el.get_text(separator=" ", strip=True)
         txt = clean_text(txt)
         if txt:
