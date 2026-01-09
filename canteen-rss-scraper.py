@@ -1,15 +1,24 @@
-#import modules
+
+# import modules
 import time
 import datetime
 import pytz
 import re
+from hashlib import sha1
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
+
+
+# ----------------------------
+# Constants & Configuration
+# ----------------------------
 
 # Base site English and Danish URLs
 BASE_EN = "https://hubnordic.madkastel.dk/en/menu"
@@ -29,8 +38,7 @@ FEED_URL = "https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml"
 # Local file in repo to save the RSS feed
 RSS_FILE = "feed.xml"
 
-# --- Utilities ---
-
+# Weekday maps
 DAY_MAP = {
     # English -> Danish
     "monday": "mandag",
@@ -50,26 +58,36 @@ DAILY_DAYS_DA = ["mandag", "tirsdag", "onsdag", "torsdag", "fredag"]
 
 RESTAURANTS_FOODCOURT = ["globetrotter", "homebound", "sprout"]
 
-# Selenium setup and page fetching 
-def setup_driver(): # Configure and return a headless Chrome WebDriver
+# For robust concatenated-day handling
+DAY_TOKENS_EN = ["monday", "tuesday", "wednesday", "thursday", "friday"]
+DAY_TOKENS_DA = ["mandag", "tirsdag", "onsdag", "torsdag", "fredag"]
+DAY_TOKENS_ALL = DAY_TOKENS_EN + DAY_TOKENS_DA
+DAY_REGEX = re.compile(r"(" + "|".join(DAY_TOKENS_ALL) + r")", flags=re.IGNORECASE)
+
+
+# ----------------------------
+# Selenium setup & page fetch
+# ----------------------------
+
+def setup_driver():
+    """Configure and return a headless Chrome WebDriver."""
     chrome_options = Options()
     chrome_options.add_argument("--headless=new")
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
-    driver = webdriver.Chrome(options=chrome_options) 
+    driver = webdriver.Chrome(options=chrome_options)
     driver.implicitly_wait(30)
     return driver
 
-# Fetch page with retries
+
 def fetch_page(urls):
     """Try each URL variant until one loads. Return HTML or None."""
-    driver = setup_driver() # Initialize WebDriver
+    driver = setup_driver()
     html = None
-    for url in urls: # Try each URL in order
+    for url in urls:
         try:
             driver.get(url)
-            # Wait for the main content area; WordPress pages render <main> or article
             try:
                 WebDriverWait(driver, 40).until(
                     EC.presence_of_element_located((By.CSS_SELECTOR, "main, article"))
@@ -87,15 +105,20 @@ def fetch_page(urls):
     driver.quit()
     return html
 
-def clean_text(s): # Clean and normalize text
+
+# ----------------------------
+# Text utilities & filtering
+# ----------------------------
+
+def clean_text(s: str) -> str:
     s = re.sub(r"\s+", " ", s).strip()
     return s
 
-# Extract text lines from HTML content
-def split_into_lines(div):
+
+def split_into_lines(div) -> list:
     """Extract visible text lines (<p>, list items, headings) in order."""
     lines = []
-    for el in div.find_all(["p", "li", "h1", "h2", "h3", "h4", "strong"]): # relevant tags
+    for el in div.find_all(["p", "li", "h1", "h2", "h3", "h4", "strong"]):
         txt = el.get_text(separator=" ", strip=True)
         txt = clean_text(txt)
         if txt:
@@ -109,23 +132,16 @@ def split_into_lines(div):
                 lines.append(line)
     return lines
 
-def normalize_day_token(text):
-    t = clean_text(text).lower().replace(":", "")
-    # Some pages prefix "Week X" lines; ignore those
-    if t.startswith("week ") or t.startswith("uge "):
-        return None
-    # direct match for whole tokens
-    if t in DAY_MAP:
-        return DAY_MAP[t]
-    # fuzzy: detect if a day word appears inside a line
-    for k in VALID_DAYS:
-        if k in t:
-            return DAY_MAP[k]
-    return None
+
+def tidy_line(s: str) -> str:
+    """Remove zero-width chars, trailing pipes, and extra spaces."""
+    s = s.replace("\u200d", "")
+    s = re.sub(r"\s*\|\s*$", "", s)  # remove trailing pipes
+    s = re.sub(r"\s{2,}", " ", s).strip()
+    return s
 
 
-
-
+# Patterns commonly seen in the menu pages that are not actual menu items
 BOILERPLATE_PATTERNS = [
     r"Sign up for our newsletter",
     r"Tilmeld dig vores nyhedsbrev",
@@ -149,19 +165,89 @@ def is_boilerplate(text: str) -> bool:
             return True
     return False
 
-def tidy_line(s: str) -> str:
-    s = s.replace("\u200d", "")
-    s = re.sub(r"\s*\|\s*$", "", s)  # remove trailing pipes
-    s = re.sub(r"\s{2,}", " ", s).strip()
-    return s
+
+# ----------------------------
+# Day parsing (robust)
+# ----------------------------
+
+def parse_days_from_line(text: str) -> list:
+    """
+    Parse one line and return a list of Danish weekday names it refers to.
+    Handles:
+      - 'Mandag, Tirsdag' / 'Monday, Tuesday'
+      - 'Onsdag/Wednesday'
+      - 'Torsdag og Fredag' / 'Thursday and Friday'
+      - Concatenated: 'MondayTuesday', 'MandagTirsdag' (no separators)
+    Returns: list of Danish day names in Mon→Fri order, e.g. ['mandag','tirsdag'].
+    """
+    # 1) Normalize common separators/words
+    t_norm = tidy_line(text).lower()
+    t_norm = t_norm.replace(",", " ")
+    t_norm = t_norm.replace("/", " ")
+    t_norm = t_norm.replace(":", " ")
+    t_norm = t_norm.replace("–", " ").replace("-", " ")
+    t_norm = re.sub(r"\band\b", " ", t_norm)   # English 'and'
+    t_norm = re.sub(r"\bog\b", " ", t_norm)    # Danish 'og'
+
+    days_found = set()
+
+    # 2) Token-based detection (spaces present)
+    for token in re.split(r"\s+", t_norm):
+        token = token.strip()
+        if not token:
+            continue
+        if token in DAY_MAP:              # exact match
+            days_found.add(DAY_MAP[token])
+        else:
+            # fuzzy: 'tirsdag.' etc.
+            for k in VALID_DAYS:
+                if k in token:
+                    days_found.add(DAY_MAP[k])
+                    break
+
+    # 3) Concatenated detection: remove all spaces and scan for day names back-to-back
+    t_compact = re.sub(r"\s+", "", t_norm)
+    if t_compact:
+        for m in DAY_REGEX.finditer(t_compact):
+            day_token = m.group(1).lower()
+            if day_token in DAY_MAP:
+                days_found.add(DAY_MAP[day_token])
+            else:
+                for k in VALID_DAYS:
+                    if k == day_token:
+                        days_found.add(DAY_MAP[k])
+                        break
+
+    # 4) Keep only Monday–Friday and preserve stable order
+    ordered = [d for d in DAILY_DAYS_DA if d in days_found]
+    return ordered
 
 
+# ----------------------------
+# Dedup helpers
+# ----------------------------
+
+def norm_key(it: str) -> str:
+    """Stronger normalization key for de-duplication."""
+    it = tidy_line(it)
+    it = re.sub(r"[^\wÆØÅæøå\-.,;:() ]", "", it)  # strip odd chars, keep common punctuation
+    return it.lower().strip()
+
+def dedupe_list(items: list) -> list:
+    seen = set()
+    out = []
+    for it in items:
+        k = norm_key(it)
+        if k and k not in seen:
+            seen.add(k)
+            out.append(it)
+    return out
 
 def dedupe_items(menu_texts):
+    """Deduplicate final items (title + first dish signature)."""
     seen = set()
     out = []
     for item in menu_texts:
-        # signature: first line up to newline + first non-empty dish line
         lines = [ln for ln in item.split("\n") if tidy_line(ln)]
         title_prefix = lines[0] if lines else ""
         first_dish = ""
@@ -170,79 +256,79 @@ def dedupe_items(menu_texts):
             if tln and not is_boilerplate(tln):
                 first_dish = tln
                 break
-        sig = (title_prefix.lower(), first_dish.lower())
+        sig = (norm_key(title_prefix), norm_key(first_dish))
         if sig not in seen:
             seen.add(sig)
             out.append(item)
     return out
 
-   
 
-
-# --- Parsers ---
+# ----------------------------
+# Parsers
+# ----------------------------
 
 def parse_hub_page(html):
     """Parse a HUB page (HUB1/HUB2/HUB3). Return dict(day -> [items])."""
     soup = BeautifulSoup(html, "html.parser")
-    # Try typical WordPress content containers
     content = soup.select_one("main") or soup.select_one("article") or soup.select_one("div.entry-content")
     if not content:
         content = soup  # fallback to whole document
 
     block_menus = {}
     current_day = None
+    current_days_multi = []
     collected_common = []
 
     for line in split_into_lines(content):
-        # Identify day headers
-        day = normalize_day_token(line)
-        if day:
-            current_day = day
+        line = tidy_line(line)
+
+        # Skip boilerplate early
+        if not line or is_boilerplate(line):
+            continue
+
+        # Identify day headers (including multi-day lines)
+        found_days = parse_days_from_line(line)
+        if found_days:
+            current_day = found_days[0]
+            current_days_multi = found_days[:]  # apply following dishes to all found days
             block_menus.setdefault(current_day, [])
             continue
 
-        # Skip newsletter/boilerplate noise lines we saw on the pages
-        if re.search(r"Sign up for our newsletter|Tilmeld dig vores nyhedsbrev|Opening hours|Åbningstider", line, flags=re.I):
-            continue
-
-        # Capture vegetarian labeling consistently
+        # Vegetarian label (standalone)
         is_veg_label = bool(re.search(r"^\s*(vegetar|vegetarian)\s*:?\s*$", line, flags=re.I))
         if is_veg_label:
-            # push as a label; the next line usually holds the veg dish
-            # We'll render with upper-case in get_today_menus like you did
-            if current_day:
-                block_menus[current_day].append(line.rstrip(":").capitalize() + ":")
+            label = line.rstrip(":").capitalize() + ":"
+            targets = current_days_multi if current_days_multi else ([current_day] if current_day else [])
+            if targets:
+                for d in targets:
+                    block_menus.setdefault(d, []).append(label)
             else:
-                collected_common.append(line.rstrip(":").capitalize() + ":")
+                collected_common.append(label)
             continue
 
         # Otherwise, treat as a menu item
-        if current_day:
-            block_menus[current_day].append(line)
+        targets = current_days_multi if current_days_multi else ([current_day] if current_day else [])
+        if targets:
+            for d in targets:
+                block_menus.setdefault(d, []).append(line)
         else:
             collected_common.append(line)
 
     # If a page only lists items without day headers, spread them across all days
     if not block_menus and collected_common:
-        block_menus = { d: collected_common[:] for d in DAILY_DAYS_DA }
+        for d in DAILY_DAYS_DA:
+            block_menus[d] = collected_common[:]
     else:
         # Ensure every weekday exists (fill with common lines)
         for d in DAILY_DAYS_DA:
             block_menus.setdefault(d, [])
             for item in collected_common:
-                if item not in block_menus[d]:
+                if norm_key(item) not in set(map(norm_key, block_menus[d])):
                     block_menus[d].append(item)
 
-    # Deduplicate per day
+    # Deduplicate per day (stronger normalization)
     for d in list(block_menus.keys()):
-        seen = set()
-        dedup = []
-        for it in block_menus[d]:
-            norm = " ".join(it.split())
-            if norm and norm not in seen:
-                seen.add(norm)
-                dedup.append(it)
-        block_menus[d] = dedup
+        block_menus[d] = dedupe_list(block_menus[d])
 
     return block_menus
 
@@ -277,7 +363,6 @@ def parse_foodcourt_page(html):
         # Detect restaurant heading
         found_rest = None
         for r in RESTAURANTS_FOODCOURT:
-            # accept exact word or heading that contains it
             if re.search(rf"\b{re.escape(r)}\b", low):
                 found_rest = r.capitalize()
                 break
@@ -287,26 +372,20 @@ def parse_foodcourt_page(html):
             ensure_rest_day_entries(current_restaurant, DAILY_DAYS_DA)  # pre-create weekdays
             continue
 
-        # Detect days for multi-day lines (e.g., "Monday/Tuesday ...")
-        candidate = low.replace(":", " ").replace("/", " ").replace(",", " ")
-        found_days = []
-        for k in VALID_DAYS:
-            if k in candidate:
-                found_days.append(DAY_MAP[k])
+        # Detect days for multi-day lines (supports comma/slash/og/and/concatenated)
+        found_days = parse_days_from_line(line)
         if found_days and current_restaurant:
-            current_days = sorted(set(found_days))
+            current_days = found_days
             ensure_rest_day_entries(current_restaurant, current_days)
             continue
 
         # Sprout: keep the primary describe-the-salad line only
         if current_restaurant == "Sprout":
-            # Keep lines that describe the daily salad; skip noise
             if re.search(r"(salad|salat|protein|dagens)", low):
                 sprout_buffer.append(line)
-            # Ignore other lines under Sprout
             continue
 
-        # Vegetarian label (keep as-is if present)
+        # Vegetarian label
         if re.search(r"(vegetar|vegetarian)\s*:", low) and current_restaurant:
             days_target = current_days if current_days else DAILY_DAYS_DA
             for d in days_target:
@@ -328,92 +407,19 @@ def parse_foodcourt_page(html):
     # Dedup per restaurant/day
     for rname, days in restaurant_menus.items():
         for d, items in list(days.items()):
-            seen = set()
-            dedup = []
-            for it in items:
-                norm = " ".join(it.split())
-                if norm and norm not in seen:
-                    seen.add(norm)
-                    dedup.append(it)
-            days[d] = dedup
+            restaurant_menus[rname][d] = dedupe_list(items)
 
     return restaurant_menus
 
-    def ensure_rest_day_entries(name, days):
-        restaurant_menus.setdefault(name, {})
-        for d in days:
-            restaurant_menus[name].setdefault(d, [])
 
-    for line in lines:
-        low = line.lower()
-
-        # Detect restaurant change
-        found_rest = None
-        for r in RESTAURANTS_FOODCOURT:
-            if r in low:
-                found_rest = r.capitalize()
-                break
-        if found_rest:
-            current_restaurant = found_rest
-            current_days = []
-            ensure_rest_day_entries(current_restaurant, DAILY_DAYS_DA)  # pre-create weekdays
-            continue
-
-        # Detect days that apply to the next menu lines (e.g., "Monday/Tuesday ...")
-        candidate = low.replace(":", " ").replace("/", " ").replace(",", " ")
-        found_days = []
-        for k in VALID_DAYS:
-            if k in candidate:
-                found_days.append(DAY_MAP[k])
-        if found_days and current_restaurant:
-            current_days = sorted(set(found_days))
-            ensure_rest_day_entries(current_restaurant, current_days)
-            continue
-
-        # Sprout is described as a daily option → collect buffer to assign to all days
-        if current_restaurant == "Sprout":
-            sprout_buffer.append(line)
-            continue
-
-        # Vegetarian label
-        if re.search(r"(vegetar|vegetarian)\s*:", low):
-            if current_restaurant and current_days:
-                for d in current_days:
-                    restaurant_menus[current_restaurant][d].append(line)
-            continue
-
-        # Normal menu items
-        if current_restaurant and line and not any(r in low for r in RESTAURANTS_FOODCOURT):
-            days_target = current_days if current_days else DAILY_DAYS_DA
-            for d in days_target:
-                restaurant_menus[current_restaurant][d].append(line)
-
-    # Assign Sprout to all days
-    if "Sprout" in restaurant_menus:
-        for d in DAILY_DAYS_DA:
-            restaurant_menus["Sprout"][d] = sprout_buffer[:]
-
-    # Dedup per restaurant/day
-    for rname, days in restaurant_menus.items():
-        for d, items in days.items():
-            seen = set()
-            dedup = []
-            for it in items:
-                norm = " ".join(it.split())
-                if norm and norm not in seen:
-                    seen.add(norm)
-                    dedup.append(it)
-            days[d] = dedup
-
-    return restaurant_menus
-
-# --- End-to-end scraping ---
+# ----------------------------
+# End-to-end scraping
+# ----------------------------
 
 def scrape_weekly_menus():
     """Scrape HUB1, HUB2, HUB3, and Foodcourt into a single dict."""
     menus_by_hub = {}
 
-    # Regular hubs
     for hub_name, urls in HUB_PAGES.items():
         html = fetch_page(urls)
         if not html:
@@ -422,7 +428,7 @@ def scrape_weekly_menus():
 
         if hub_name == "FOODCOURT":
             fc_menus = parse_foodcourt_page(html)
-            # Add each restaurant as its own 'hub' key (to match your existing downstream logic)
+            # Add each restaurant as its own 'hub' key (to match downstream logic)
             for rname, days in fc_menus.items():
                 menus_by_hub[rname] = days
         else:
@@ -432,8 +438,10 @@ def scrape_weekly_menus():
     print("Scraped menus by hub:", menus_by_hub)
     return menus_by_hub
 
-# --- Today's menus & RSS (mostly kept from your code) ---
 
+# ----------------------------
+# Today’s menus (build per hub)
+# ----------------------------
 
 def get_today_menus(menus_by_hub):
     weekday_mapping = {
@@ -468,14 +476,15 @@ def get_today_menus(menus_by_hub):
             normalized = tidy_line(" ".join(item.split()).replace("\u200d", ""))
             if not normalized:
                 continue
-            skip_days = ["mandag","tirsdag","onsdag","torsdag","fredag","monday","tuesday","wednesday","thursday","friday"]
+            skip_days = ["mandag","tirsdag","onsdag","torsdag","fredag",
+                         "monday","tuesday","wednesday","thursday","friday"]
             if any(day in normalized.lower() for day in skip_days):
                 continue
             if is_boilerplate(normalized):
                 continue
-            if normalized not in seen:
-                seen.add(normalized)
-                # Keep original-cased line but tidied for final display
+            k = norm_key(normalized)
+            if k not in seen:
+                seen.add(k)
                 unique_menu.append(tidy_line(item))
 
         # If nothing meaningful remains, skip the hub
@@ -530,15 +539,12 @@ def get_today_menus(menus_by_hub):
     return today_menus
 
 
-
-
-from hashlib import sha1
-
+# ----------------------------
+# RSS generation (description only)
+# ----------------------------
 
 def summarize_title(item: str) -> str:
-    """
-    Title = first line only (tidied).
-    """
+    """Title = first line only (tidied)."""
     first_line = item.split("\n", 1)[0]
     return tidy_line(first_line) or "Today's Menu"
 
@@ -550,7 +556,7 @@ def long_body(item: str) -> str:
     """
     parts = item.split("\n")
     if len(parts) <= 1:
-        return ""  # <--- important: return empty string, not None
+        return ""  # important: return empty string, not None
     body_lines = parts[1:]  # skip the first line (title)
     clean = []
     for ln in body_lines:
@@ -558,9 +564,6 @@ def long_body(item: str) -> str:
         if t and not is_boilerplate(t):
             clean.append(t)
     return "\n".join(clean)
-   
-
-   
 
 
 def generate_rss(menu_items):
@@ -583,16 +586,12 @@ def generate_rss(menu_items):
         body_text  = long_body(item)
 
         # Compose the description: repeat title + menu text
-        # Example:
-        # 🍽 HUB1 – Kays - Lunch Menu
-        #   Game stew ...
-        #   VEGETARIAN: ...
-        description_full = f"{title_text}\n{body_text}".strip()
+        description_full = title_text if body_text.strip() == "" else f"{title_text}\n{body_text}"
 
         entry = fg.add_entry()
         entry.title(title_text)
         entry.link(href="https://hubnordic.madkastel.dk/en/menu")
-        entry.description(description_full)   # <-- put everything in description (plain text)
+        entry.description(description_full)   # screens read description
         entry.pubDate(datetime.datetime.now(pytz.utc))
 
         # Compact GUID
@@ -605,14 +604,26 @@ def generate_rss(menu_items):
     with open(RSS_FILE, "w", encoding="utf-8") as f:
         f.write(rss_str)
     print("RSS feed updated")
-   
 
+
+# ----------------------------
+# Main
+# ----------------------------
 
 if __name__ == "__main__":
     menus_by_hub = scrape_weekly_menus()
+
+    # Optional debug (uncomment to inspect today's raw items per hub)
+    # weekday_mapping = {"Monday":"mandag","Tuesday":"tirsdag","Wednesday":"onsdag","Thursday":"torsdag","Friday":"fredag"}
+    # today_da = weekday_mapping[datetime.datetime.today().strftime("%A")]
+    # for hub, dct in menus_by_hub.items():
+    #     print(f"DEBUG {hub} → items for {today_da}:", dct.get(today_da, []))
+
     today_menus = get_today_menus(menus_by_hub)
     today_menus = dedupe_items(today_menus)
+
     print("Today's menu:")
     for menu in today_menus:
         print(menu, end="\n\n")
+
     generate_rss(today_menus)
