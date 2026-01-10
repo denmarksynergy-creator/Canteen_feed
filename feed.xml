@@ -1,79 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Friday, 09 January 2026</title>
+    <title>Canteen Menu - Saturday, 10 January 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 09 Jan 2026 10:47:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 06:29:55 +0000</lastBuildDate>
     <ttl>15</ttl>
-    <item>
-      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Sprout Lunch Menu:
-A selection of fresh seasonal vegetables, paired with a protein of your choice to create your own composed meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:bd3430ee32ca4bb6-20260109</guid>
-      <pubDate>Fri, 09 Jan 2026 10:47:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Homebound Lunch Menu:
-Fiske gratin med porre,gulerod, spinat og citron timian serveret med økologiske kartofler vendt ipersille og fennikel crudite
-Fish gratin with leek, carrot, spinach and lemon thymeserved with organic potatoes tossed in parsley and fennel crudite</description>
-      <guid isPermaLink="false">urn:canteen:2c69e2cf4b49790e-20260109</guid>
-      <pubDate>Fri, 09 Jan 2026 10:47:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Burittomed chili con carne, hertil mexikanske ris, salsa pico og sour cream
-Burritowith chili con carne, served with Mexican rice, salsa pico and sour cream
-Burittomed chili sin carne, hertil mexikanske ris, salsa pico og sour cream
-Burritowith chili sin carne, served with Mexican rice, salsa pico and sour cream</description>
-      <guid isPermaLink="false">urn:canteen:c74f7de44c73e32c-20260109</guid>
-      <pubDate>Fri, 09 Jan 2026 10:47:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB3 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB3 - Lunch Menu:
-Greekinspired beef patty with fresh tzatziki, warm pita bread and a seasoned potato salad
-VEGETARIAN: Vegetarianbean and chickpea patty Lunch 11 a.m. — 1:30 p.m. Lunch 11 a.m. — 2 p.m. 7:30 a.m. to 5 p.m. Slagtehusgade 11, 2. sal DK-1715 København V CVR: 40909109 Kay Fiskers Pl. 102 300 København +45 31 10 05 58</description>
-      <guid isPermaLink="false">urn:canteen:afb9b26d4076a777-20260109</guid>
-      <pubDate>Fri, 09 Jan 2026 10:47:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB2 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB2 - Lunch Menu:
-Chilicon carne
-slow cooked and full of flavour
-VEGETARIAN: Chili sin carne Lunch 11 a.m. — 1:30 p.m. Lunch 11 a.m. — 2 p.m. 7:30 a.m. to 5 p.m. Slagtehusgade 11, 2. sal DK-1715 København V CVR: 40909109 Kay Fiskers Pl. 102 300 København +45 31 10 05 58</description>
-      <guid isPermaLink="false">urn:canteen:82c59ad172c83a58-20260109</guid>
-      <pubDate>Fri, 09 Jan 2026 10:47:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 – Kays - Lunch Menu:
-Fish and chips with tartar sauce and fried capers
-VEGETARIAN: Breaded celery and chips with tartar sauce and fried capers
-Lunch 11 a.m. — 1:30 p.m.
-Lunch 11 a.m. — 2 p.m.
-7:30 a.m. to 5 p.m.
-Slagtehusgade 11, 2. sal
-DK-1715 København V
-CVR: 40909109
-Kay Fiskers Pl. 102
-300 København
-+45 31 10 05 58</description>
-      <guid isPermaLink="false">urn:canteen:dd187feb20dd5a43-20260109</guid>
-      <pubDate>Fri, 09 Jan 2026 10:47:41 +0000</pubDate>
-    </item>
   </channel>
 </rss>
