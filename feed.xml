@@ -1,14 +1,100 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Sunday, 11 January 2026</title>
+    <title>Canteen Menu - Monday, 12 January 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Sun, 11 Jan 2026 06:33:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 07:24:03 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Sprout Lunch Menu:
+A selection of fresh seasonal vegetables, paired with a protein of your choice to create your own composed meal salad.</description>
+      <guid isPermaLink="false">urn:canteen:bd3430ee32ca4bb6-20260112</guid>
+      <pubDate>Mon, 12 Jan 2026 07:24:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Homebound Lunch Menu:
+Mørksej med lunkærnemælkssauce og peberrod skilt med grøn olie hertil pure på selleri og æblertoppet med grillet fennikel og friteret kapers
+Coalfishwith warm buttermilk sauce and horseradish seperated with green oil,accompanied by pureed celery and apples topped with grilled fennel and friedcapers</description>
+      <guid isPermaLink="false">urn:canteen:316f673e01752cd8-20260112</guid>
+      <pubDate>Mon, 12 Jan 2026 07:24:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Globetrotter Lunch Menu:
+, - ,
+Jamaican Jerk Kylling med jerk sauce ogristede kartofler, toppet med persille og med grønne æble, sort bønne salsa apart
+Jamaican JerkChicken with jerk sauce and roasted potatoes, topped with parsley and withgreen apple, black bean salsa a part
+VEGETAR: Jamaican Jerk Portobello med jerk sauceog ristede kartofler, toppet med persille og med grønne æble, sort bønne a part
+VEGETARIAN: Jamaican JerkPortobello with jerk sauce and roasted potatoes, topped with parsley and withgreen apple, black bean salsa a part</description>
+      <guid isPermaLink="false">urn:canteen:bb8ce1fc47729774-20260112</guid>
+      <pubDate>Mon, 12 Jan 2026 07:24:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB3 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB3 - Lunch Menu:
+Penne pasta in a silky smooth, creamy pumpkin sauce with crispy bacon and freshherbs
+Green dish
+Penne pasta in a creamy pumpkin sauce with golden fried tofu, butter beans andfresh herbs
+Lunch 11 a.m. — 1:30 p.m.
+Lunch 11 a.m. — 2 p.m.
+7:30 a.m. to 5 p.m.
+Slagtehusgade 11, 2. sal
+DK-1715 København V
+CVR: 40909109
+Kay Fiskers Pl. 102
+300 København
++45 31 10 05 58</description>
+      <guid isPermaLink="false">urn:canteen:b64fda049252b4fc-20260112</guid>
+      <pubDate>Mon, 12 Jan 2026 07:24:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB2 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB2 - Lunch Menu:
+Panang curry with tender chicken in a creamy coconut sauce, packed withvegetables and warm Thai spices Served with fragrant jasmine rice
+Green dish
+Panang curry with golden fried tofu in a creamy coconut sauce with plenty ofvegetables and aromatic spices Served with jasmine rice
+Lunch 11 a.m. — 1:30 p.m.
+Lunch 11 a.m. — 2 p.m.
+7:30 a.m. to 5 p.m.
+Slagtehusgade 11, 2. sal
+DK-1715 København V
+CVR: 40909109
+Kay Fiskers Pl. 102
+300 København
++45 31 10 05 58</description>
+      <guid isPermaLink="false">urn:canteen:e645ae5da276978b-20260112</guid>
+      <pubDate>Mon, 12 Jan 2026 07:24:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 – Kays - Lunch Menu:
+Juicy Himmerland beef patties Served with organic potatoes, glossy pan gravy, pickled pumpkin and softcaramelised onions
+Green dish
+Plant based patties Served with organic potatoes, pan gravy, pickled pumpkin and soft caramelisedonions
+Lunch 11 a.m. — 1:30 p.m.
+Lunch 11 a.m. — 2 p.m.
+7:30 a.m. to 5 p.m.
+Slagtehusgade 11, 2. sal
+DK-1715 København V
+CVR: 40909109
+Kay Fiskers Pl. 102
+300 København
++45 31 10 05 58</description>
+      <guid isPermaLink="false">urn:canteen:96a8e0e22be98fa0-20260112</guid>
+      <pubDate>Mon, 12 Jan 2026 07:24:03 +0000</pubDate>
+    </item>
   </channel>
 </rss>
