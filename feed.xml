@@ -1,73 +1,66 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Tuesday, 13 January 2026</title>
+    <title>Canteen Menu - Wednesday, 14 January 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 13 Jan 2026 05:28:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 05:26:41 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables, paired with a protein of your choice to create your own composed meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:bd3430ee32ca4bb6-20260113</guid>
-      <pubDate>Tue, 13 Jan 2026 05:28:35 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:bd3430ee32ca4bb6-20260114</guid>
+      <pubDate>Wed, 14 Jan 2026 05:26:41 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Mørksej med lunkærnemælkssauce og peberrod skilt med grøn olie hertil pure på selleri og æblertoppet med grillet fennikel og friteret kapers
-Coalfishwith warm buttermilk sauce and horseradish seperated with green oil,accompanied by pureed celery and apples topped with grilled fennel and friedcapers</description>
-      <guid isPermaLink="false">urn:canteen:316f673e01752cd8-20260113</guid>
-      <pubDate>Tue, 13 Jan 2026 05:28:35 +0000</pubDate>
+Grillet spidskål med revet ost,citron vinaigrette og ristet nødder serveret med cremet perlebygotto og syltedetyttebær
+Grilled cabbagewith grated cheese, lemon vinaigrette and toasted nuts served with creamy pearlbarley and pickled cranberries</description>
+      <guid isPermaLink="false">urn:canteen:4c4b265fb8f8bb9a-20260114</guid>
+      <pubDate>Wed, 14 Jan 2026 05:26:41 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-, - ,
-Jamaican Jerk Kylling med jerk sauce ogristede kartofler, toppet med persille og med grønne æble, sort bønne salsa apart
-Jamaican JerkChicken with jerk sauce and roasted potatoes, topped with parsley and withgreen apple, black bean salsa a part
-VEGETAR: Jamaican Jerk Portobello med jerk sauceog ristede kartofler, toppet med persille og med grønne æble, sort bønne a part
-VEGETARIAN: Jamaican JerkPortobello with jerk sauce and roasted potatoes, topped with parsley and withgreen apple, black bean salsa a part</description>
-      <guid isPermaLink="false">urn:canteen:bb8ce1fc47729774-20260113</guid>
-      <pubDate>Tue, 13 Jan 2026 05:28:35 +0000</pubDate>
+Fuldkorns Pasta penne vendt i en grillettomat-peberfrugt sauce med krydret confiteret svampe toppet med parmesanost ogurtesalat
+Whole wheat pennepasta tossed in a grilled tomato-pepper sauce with spicy confit mushroomstopped with parmesan cheese and herb salad</description>
+      <guid isPermaLink="false">urn:canteen:cb089a4c715fcaac-20260114</guid>
+      <pubDate>Wed, 14 Jan 2026 05:26:41 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Classic chili con carne with slow braised beef, served with steamed rice, freshchili and cool crème fraîche
-Green dish
-Chili sin carne with black beans, lentils and vegetables, served with rice,fresh chili and crème fraîche</description>
-      <guid isPermaLink="false">urn:canteen:0f13b1d914de9834-20260113</guid>
-      <pubDate>Tue, 13 Jan 2026 05:28:35 +0000</pubDate>
+Fragrant cauliflower curry in creamy coconut milk with potatoes, roastedcashews and a hint of apple, served with steamed rice</description>
+      <guid isPermaLink="false">urn:canteen:354fd2207704f46d-20260114</guid>
+      <pubDate>Wed, 14 Jan 2026 05:26:41 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Slow roasted pork neck with leeks in a creamy sauce and potatoes tossed withfresh lovage
-Green dish
-Roasted parsnips with leeks in a creamy sauce and potatoes with fresh lovage</description>
-      <guid isPermaLink="false">urn:canteen:75a88f89a7c3322f-20260113</guid>
-      <pubDate>Tue, 13 Jan 2026 05:28:35 +0000</pubDate>
+Potato, zucchini and mushroom frittata Served with a green bean salad, pickled cherry tomatoes and a fresh lemon andbasil vinaigrette
+Cake of theday
+Crumble cake with apples, pears and seasonal berries</description>
+      <guid isPermaLink="false">urn:canteen:01d889b0fa0e8911-20260114</guid>
+      <pubDate>Wed, 14 Jan 2026 05:26:41 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Pakistani style butter chicken in a creamy, spiced tomato sauce Served with brown rice and cooling raita topped with roasted cashews, sunflowerseeds and fresh mint
-Green dish
-Pakistani spiced falafels Served with brown rice and raita topped with roasted cashews, sunflower seedsand fresh mint</description>
-      <guid isPermaLink="false">urn:canteen:a195c7d1ec83fd33-20260113</guid>
-      <pubDate>Tue, 13 Jan 2026 05:28:35 +0000</pubDate>
+Mild and creamy cannellini bean stew Served with orzo and Italian gremolata, finished with finely grated cheese andfresh herbs</description>
+      <guid isPermaLink="false">urn:canteen:6aea57ac06c35911-20260114</guid>
+      <pubDate>Wed, 14 Jan 2026 05:26:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
