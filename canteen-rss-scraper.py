@@ -301,7 +301,7 @@ def consolidate_split_lines(raw_lines: list) -> list:
 
     def is_veg_label(line: str) -> bool:
         low = tidy_line(line).lower()
-        return low in ["vegetarian", "vegetar", "vegetarian:", "vegetar:"]
+        return low in ["vegetarian", "vegetar", "vegetarian:", "vegetar:","grøntretten","green dish"]
 
     out = []
     i = 0
