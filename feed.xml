@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 15 Jan 2026 05:32:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 08:00:43 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
@@ -16,7 +16,7 @@
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables, paired with a protein of your choice to create your own composed meal salad.</description>
       <guid isPermaLink="false">urn:canteen:bd3430ee32ca4bb6-20260115</guid>
-      <pubDate>Thu, 15 Jan 2026 05:32:50 +0000</pubDate>
+      <pubDate>Thu, 15 Jan 2026 08:00:43 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
@@ -25,7 +25,7 @@ A selection of fresh seasonal vegetables, paired with a protein of your choice t
 Rosa stegt kalvecuvettepå bund af cremet kartoffelkompot med rygeost serveret med grillet forårsløg ogsyltet sennepsfrø toppet med karse
 Pinkroasted veal cuvette on a base of creamy potato compote with smoked cheese,grilled spring onions and pickled mustard seeds topped with cress</description>
       <guid isPermaLink="false">urn:canteen:00f678b94d8fd0db-20260115</guid>
-      <pubDate>Thu, 15 Jan 2026 05:32:50 +0000</pubDate>
+      <pubDate>Thu, 15 Jan 2026 08:00:43 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -36,37 +36,34 @@ Thai sticky beefmeatloaf with coconut rice and soy roasted carrot, topped with t
 VEGETAR: Thai sticky tofu med kokosris og soyaristede gulerud, toppet med ristede kokos og sesam mix
 VEGETARIAN: Thai sticky tofuwith coconut rice and soy roasted carrot, topped with toasted coconut andsesame mix</description>
       <guid isPermaLink="false">urn:canteen:89fd2a521c154989-20260115</guid>
-      <pubDate>Thu, 15 Jan 2026 05:32:50 +0000</pubDate>
+      <pubDate>Thu, 15 Jan 2026 08:00:43 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
 Traditional minced beef in a rich gravy, served with fluffy mashed potatoes anda fried egg
-Green dish
-Plant based patty in a rich, spiced sauce, served with mashed potatoes and afried egg</description>
-      <guid isPermaLink="false">urn:canteen:602bc9b8800eafd0-20260115</guid>
-      <pubDate>Thu, 15 Jan 2026 05:32:50 +0000</pubDate>
+GREEN DISH: Plant based patty in a rich, spiced sauce, served with mashed potatoes and afried egg</description>
+      <guid isPermaLink="false">urn:canteen:3c49a536c7d6633b-20260115</guid>
+      <pubDate>Thu, 15 Jan 2026 08:00:43 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
 Butter turkey in a rich, spiced tomato and butter sauce Served with rice and coriander yoghurt
-Green dish
-Butter roasted cauliflower in a fragrant tomato and spice sauce Served with rice, chickpeas and coriander yoghurt</description>
-      <guid isPermaLink="false">urn:canteen:750243c435c877bb-20260115</guid>
-      <pubDate>Thu, 15 Jan 2026 05:32:50 +0000</pubDate>
+GREEN DISH: Butter roasted cauliflower in a fragrant tomato and spice sauce Served with rice, chickpeas and coriander yoghurt</description>
+      <guid isPermaLink="false">urn:canteen:0837d28435b85fe2-20260115</guid>
+      <pubDate>Thu, 15 Jan 2026 08:00:43 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
 Teriyaki glazed pork meatballs Served with sorghum tossed with crisp vegetables, topped with fried glassnoodles and toasted sesame
-Green dish
-Teriyaki glazed soy protein Served with sorghum, crisp vegetables, fried glass noodles and toasted sesame</description>
-      <guid isPermaLink="false">urn:canteen:ac6dd527b3455bea-20260115</guid>
-      <pubDate>Thu, 15 Jan 2026 05:32:50 +0000</pubDate>
+GREEN DISH: Teriyaki glazed soy protein Served with sorghum, crisp vegetables, fried glass noodles and toasted sesame</description>
+      <guid isPermaLink="false">urn:canteen:45cf1c57cd6b0da7-20260115</guid>
+      <pubDate>Thu, 15 Jan 2026 08:00:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
