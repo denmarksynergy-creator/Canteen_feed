@@ -1,65 +1,69 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 21 January 2026</title>
+    <title>Canteen Menu - Thursday, 22 January 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 21 Jan 2026 05:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 05:35:06 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables, paired with a protein of your choice to create your own composed meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:bd3430ee32ca4bb6-20260121</guid>
-      <pubDate>Wed, 21 Jan 2026 05:30:40 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:bd3430ee32ca4bb6-20260122</guid>
+      <pubDate>Thu, 22 Jan 2026 05:35:06 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Dansk ristaffel af soya protein medgrillet blomkål og sæsonens sprøde grøntsager toppet med friske urter
-Danishrice table of soy protein with grilled cauliflower and crispy seasonalvegetables topped with fresh herbs</description>
-      <guid isPermaLink="false">urn:canteen:2df8040518dd245b-20260121</guid>
-      <pubDate>Wed, 21 Jan 2026 05:30:40 +0000</pubDate>
+Langtids øl braiseretjuicy kalveskank serveret i egen skysauce med stege kartofler og toppet honningglaserede rodfrugter
+Long-termbeer braised juicy veal shank served in its own cloud sauce with roast potatoesand topped with honey glazed root vegetables</description>
+      <guid isPermaLink="false">urn:canteen:2c581ffc8ab1fa9e-20260122</guid>
+      <pubDate>Thu, 22 Jan 2026 05:35:06 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Krydret peruviansk TacuTacu toppet med spejlæg og hakket persille hertil salsa criolla on the side</description>
-      <guid isPermaLink="false">urn:canteen:b976647063032d60-20260121</guid>
-      <pubDate>Wed, 21 Jan 2026 05:30:40 +0000</pubDate>
+og - and
+Asiatisk Stir frynudler serveret med krydret kylling og edamame hertil fyldig peanut saucetoppet med friske koriander og hakket cashewnødder
+VEGETAR: Asiatisk Stir frynudler serveret med krydret
+soya protein og edamame bønnerhertil fyldigpeanut sauce toppet med friske koriander og hakket cashewnødder</description>
+      <guid isPermaLink="false">urn:canteen:c365e88a74f09661-20260122</guid>
+      <pubDate>Thu, 22 Jan 2026 05:35:06 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Crispy pakoras with onion, bell pepper, spinach and chickpeas, servedwith spiced tomato sauce and cooling raita</description>
-      <guid isPermaLink="false">urn:canteen:fb6642d48ebe67d4-20260121</guid>
-      <pubDate>Wed, 21 Jan 2026 05:30:40 +0000</pubDate>
+Oven baked fish of the day with braised leeks in coarse mustard andshallots, boiled potatoes and fresh herb sauce
+GREEN DISH: Braised tofu with leeks in coarse mustard and shallots, boiled potatoes andfresh herb sauce</description>
+      <guid isPermaLink="false">urn:canteen:2bfe51db9702ada8-20260122</guid>
+      <pubDate>Thu, 22 Jan 2026 05:35:06 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Grilled aubergine served with feta cream, roasted chickpeas and harissaoil, finished with mint and seeds
-Cake of the day:
-Carrot cake</description>
-      <guid isPermaLink="false">urn:canteen:842673f97abef8e0-20260121</guid>
-      <pubDate>Wed, 21 Jan 2026 05:30:40 +0000</pubDate>
+Fish of the day with bean cream, roasted beets and carrots, served withherb oil and chervil
+GREEN DISH: Herb baked pointed cabbage with bean cream, roasted beets and carrots, servedwith herb oil and chervil</description>
+      <guid isPermaLink="false">urn:canteen:87164be7fea37da6-20260122</guid>
+      <pubDate>Thu, 22 Jan 2026 05:35:06 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-North AfricanShakshuka served with brown rice, spicy tomato sauce topped with egg, softcheese and chopped coriander</description>
-      <guid isPermaLink="false">urn:canteen:18c6efc135d52eb5-20260121</guid>
-      <pubDate>Wed, 21 Jan 2026 05:30:40 +0000</pubDate>
+Asian spicyJuicy chicken in hot red curry sauce with crispy vegetables, fried noodles andsriracha chili oil and confit garlic oil on the side
+VEGETARIAN: Asian spicedtofu in hot red curry sauce with crispy vegetables, fried noodles and srirachachili oil and confit garlic oil on the side</description>
+      <guid isPermaLink="false">urn:canteen:1eb50bbe32d3aed8-20260122</guid>
+      <pubDate>Thu, 22 Jan 2026 05:35:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
