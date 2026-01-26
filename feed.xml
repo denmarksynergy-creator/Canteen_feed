@@ -1,14 +1,99 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Sunday, 25 January 2026</title>
+    <title>Canteen Menu - Monday, 26 January 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Sun, 25 Jan 2026 06:33:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 07:25:35 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Homebound Lunch Menu:
+Baked Danish fish and steamed mussels Served in a rich tomato sauce with beans, grilled endive and finished withfresh herbs
+Lunch 11 a.m. — 1:30 p.m.
+Lunch 11 a.m. — 2 p.m.
+7:30 a.m. to 5 p.m.
+Slagtehusgade 11, 2. sal
+DK-1715 København V
+CVR: 40909109
+Kay Fiskers Pl. 102
+300 København
++45 31 10 05 58</description>
+      <guid isPermaLink="false">urn:canteen:3060db1860842c81-20260126</guid>
+      <pubDate>Mon, 26 Jan 2026 07:25:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Globetrotter Lunch Menu:
+Asian padkrapow made with beef Served with steamed jasmine rice and a crisp herb salad With prik nam pla and chili on the side
+Green
+VEGETARIAN: pad krapow made with plant based protein</description>
+      <guid isPermaLink="false">urn:canteen:a344ae5f800f6015-20260126</guid>
+      <pubDate>Mon, 26 Jan 2026 07:25:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB3 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB3 - Lunch Menu:
+Red lentildahl slowly simmered with warm spices Served with steamed rice, tender chicken, tangy yoghurt and finely slicedspring onions
+Fresh coriander on the side
+Green
+Red lentil dahl slowly simmered with warm spices Served with steamed rice, tangy yoghurt and finely sliced spring onions
+Lunch 11 a.m. — 1:30 p.m.
+Lunch 11 a.m. — 2 p.m.
+7:30 a.m. to 5 p.m.
+Slagtehusgade 11, 2. sal
+DK-1715 København V
+CVR: 40909109
+Kay Fiskers Pl. 102
+300 København
++45 31 10 05 58</description>
+      <guid isPermaLink="false">urn:canteen:c0b352da1e5b9c75-20260126</guid>
+      <pubDate>Mon, 26 Jan 2026 07:25:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB2 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB2 - Lunch Menu:
+Wild garlic frankfurter served with silky mashed potatoes, pan fried kale and cavolo nero,lightly pickled hokkaido pumpkin and mustard seeds Finished with a gentle touch of spiced sauce gastrique
+Green
+Beluga lentil and beetroot ragout served with silky mashed potatoes, pan friedkale and cavolo nero, lightly pickled hokkaido pumpkin and mustard seeds
+Lunch 11 a.m. — 1:30 p.m.
+Lunch 11 a.m. — 2 p.m.
+7:30 a.m. to 5 p.m.
+Slagtehusgade 11, 2. sal
+DK-1715 København V
+CVR: 40909109
+Kay Fiskers Pl. 102
+300 København
++45 31 10 05 58</description>
+      <guid isPermaLink="false">urn:canteen:0a851daff5767b8e-20260126</guid>
+      <pubDate>Mon, 26 Jan 2026 07:25:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 – Kays - Lunch Menu:
+Lightlysmoked Danish pork served with roasted truffle pommes de terre, grilled pumpkinand organic beetroot and liquorice purée, finished with fresh chervil
+Green
+Lightly smoked tempeh served with roasted truffle pommes de terre, grilledpumpkin and organic beetroot and liquorice purée
+Lunch 11 a.m. — 1:30 p.m.
+Lunch 11 a.m. — 2 p.m.
+7:30 a.m. to 5 p.m.
+Slagtehusgade 11, 2. sal
+DK-1715 København V
+CVR: 40909109
+Kay Fiskers Pl. 102
+300 København
++45 31 10 05 58</description>
+      <guid isPermaLink="false">urn:canteen:fe65c4d2288e3fec-20260126</guid>
+      <pubDate>Mon, 26 Jan 2026 07:25:35 +0000</pubDate>
+    </item>
   </channel>
 </rss>
