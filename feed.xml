@@ -1,64 +1,58 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Tuesday, 27 January 2026</title>
+    <title>Canteen Menu - Wednesday, 28 January 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 27 Jan 2026 05:29:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 05:30:02 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Baked Danish fish and steamed mussels Served in a rich tomato sauce with beans, grilled endive and finished withfresh herbs</description>
-      <guid isPermaLink="false">urn:canteen:158b3527036cf0eb-20260127</guid>
-      <pubDate>Tue, 27 Jan 2026 05:29:51 +0000</pubDate>
+Creamy potato stew With roasted potato cubes and mushrooms, topped with crispy rye bread croutons Finished with grilled lemon oil</description>
+      <guid isPermaLink="false">urn:canteen:91808d0d71471fea-20260128</guid>
+      <pubDate>Wed, 28 Jan 2026 05:30:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Asian padkrapow made with beef Served with steamed jasmine rice and a crisp herb salad With prik nam pla and chili on the side
-Green
-VEGETARIAN: pad krapow made with plant based protein</description>
-      <guid isPermaLink="false">urn:canteen:a344ae5f800f6015-20260127</guid>
-      <pubDate>Tue, 27 Jan 2026 05:29:51 +0000</pubDate>
+Shobara yakiokonomiyaki Served with citrus okonomiyaki sauce, mayonnaise on the side Topped with aonori seaweed and wasabi toasted sesame</description>
+      <guid isPermaLink="false">urn:canteen:7270acba8cf35ff1-20260128</guid>
+      <pubDate>Wed, 28 Jan 2026 05:30:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Cottage pie
-A comforting oven baked classic with rich filling, creamy mashed potatoes andfresh parsley
-Green
-Cottage lentil pie
-A hearty lentil filling baked beneath a layer of creamy mashed potatoes andfinished with fresh parsley</description>
-      <guid isPermaLink="false">urn:canteen:d50fc9c234cab4ec-20260127</guid>
-      <pubDate>Tue, 27 Jan 2026 05:29:51 +0000</pubDate>
+Okonomiyaki
+Japanese savoury pancake cooked golden and tender Served with nori, toasted sesame seeds, hoisin and fresh chives</description>
+      <guid isPermaLink="false">urn:canteen:c00bb8aea0985a73-20260128</guid>
+      <pubDate>Wed, 28 Jan 2026 05:30:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Pan friedduck breast with udon noodles tossed in an intense sauce of miso, coconut milkand peanut butter Served with quick kimchi of napa cabbage and pak choi
-Green
-Tofu with udon noodles tossed in an intense sauce of miso, coconut milk and peanut butter</description>
-      <guid isPermaLink="false">urn:canteen:ecaca679e82c2fbc-20260127</guid>
-      <pubDate>Tue, 27 Jan 2026 05:29:51 +0000</pubDate>
+Pastaputtanesca
+The hard working pasta with bold Mediterranean flavours
+Cake of theday
+Chocolate brownie</description>
+      <guid isPermaLink="false">urn:canteen:e6a9be4ca700c55e-20260128</guid>
+      <pubDate>Wed, 28 Jan 2026 05:30:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Juicyharissa marinated turkey served with dukkah seasoned couscous salad filled withchickpeas and crisp vegetables, with warm onion and tomato relish and freshherbs
-Green
-Harissa marinated tofu served with dukkah seasoned couscous salad filled withchickpeas and crisp vegetables, with warm onion and tomato relish and freshherbs</description>
-      <guid isPermaLink="false">urn:canteen:a1b9e76c9964bc0a-20260127</guid>
-      <pubDate>Tue, 27 Jan 2026 05:29:51 +0000</pubDate>
+CreamyJerusalem artichoke soup served with roasted celeriac and kale, lightly saltedapples, finished with crispy sweet potato chips and fresh chives</description>
+      <guid isPermaLink="false">urn:canteen:e914615ee913b240-20260128</guid>
+      <pubDate>Wed, 28 Jan 2026 05:30:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
