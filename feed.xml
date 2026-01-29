@@ -1,58 +1,65 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 28 January 2026</title>
+    <title>Canteen Menu - Thursday, 29 January 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 28 Jan 2026 05:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 05:51:29 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Creamy potato stew With roasted potato cubes and mushrooms, topped with crispy rye bread croutons Finished with grilled lemon oil</description>
-      <guid isPermaLink="false">urn:canteen:91808d0d71471fea-20260128</guid>
-      <pubDate>Wed, 28 Jan 2026 05:30:02 +0000</pubDate>
+Classic coq au vin With bacon and pearl onions Served with oven baked root vegetables tossed in aromatic herbs and finishedwith fresh parsley</description>
+      <guid isPermaLink="false">urn:canteen:5380eb07dac7d840-20260129</guid>
+      <pubDate>Thu, 29 Jan 2026 05:51:29 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Shobara yakiokonomiyaki Served with citrus okonomiyaki sauce, mayonnaise on the side Topped with aonori seaweed and wasabi toasted sesame</description>
-      <guid isPermaLink="false">urn:canteen:7270acba8cf35ff1-20260128</guid>
-      <pubDate>Wed, 28 Jan 2026 05:30:02 +0000</pubDate>
+SpicedAfrican slow cooked lamb stew With dried fruits Served with creamy potato and parsley mash Finished with salted yoghurt and chili sauce on the side
+Green
+Spiced African chickpea stew
+Slow cooked with dried fruits</description>
+      <guid isPermaLink="false">urn:canteen:1092d95b132f8aac-20260129</guid>
+      <pubDate>Thu, 29 Jan 2026 05:51:29 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Okonomiyaki
-Japanese savoury pancake cooked golden and tender Served with nori, toasted sesame seeds, hoisin and fresh chives</description>
-      <guid isPermaLink="false">urn:canteen:c00bb8aea0985a73-20260128</guid>
-      <pubDate>Wed, 28 Jan 2026 05:30:02 +0000</pubDate>
+Classicpotato and leek soup
+Smooth and creamy soup served with slow roasted pork neck
+Green
+Classic potato and leek soup
+Smooth and creamy soup served with gratinated portobello mushroom</description>
+      <guid isPermaLink="false">urn:canteen:eee86b5b47e2ac3a-20260129</guid>
+      <pubDate>Thu, 29 Jan 2026 05:51:29 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Pastaputtanesca
-The hard working pasta with bold Mediterranean flavours
-Cake of theday
-Chocolate brownie</description>
-      <guid isPermaLink="false">urn:canteen:e6a9be4ca700c55e-20260128</guid>
-      <pubDate>Wed, 28 Jan 2026 05:30:02 +0000</pubDate>
+Roastchicken with rosemary, garlic and thyme Served with roasted potatoes and classic pan gravy
+Green
+Vegetable patties served with pea purée, roasted root vegetables and sherry vinaigrette</description>
+      <guid isPermaLink="false">urn:canteen:2400b2506c6953ed-20260129</guid>
+      <pubDate>Thu, 29 Jan 2026 05:51:29 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-CreamyJerusalem artichoke soup served with roasted celeriac and kale, lightly saltedapples, finished with crispy sweet potato chips and fresh chives</description>
-      <guid isPermaLink="false">urn:canteen:e914615ee913b240-20260128</guid>
-      <pubDate>Wed, 28 Jan 2026 05:30:02 +0000</pubDate>
+Golden friedbreaded fish fillet served with creamy parsley sauce, lovage cooked organicpotatoes and bitter herb salad, finished with fresh lemon
+Green
+Golden fried breaded aubergine served with creamy parsley sauce, lovage cookedorganic potatoes and bitter herb salad, finished with fresh lemon</description>
+      <guid isPermaLink="false">urn:canteen:258bf09fa9e88d58-20260129</guid>
+      <pubDate>Thu, 29 Jan 2026 05:51:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
