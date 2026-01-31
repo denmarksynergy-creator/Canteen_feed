@@ -1,99 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Friday, 30 January 2026</title>
+    <title>Canteen Menu - Saturday, 31 January 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 30 Jan 2026 05:55:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 06:37:35 +0000</lastBuildDate>
     <ttl>15</ttl>
-    <item>
-      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Homebound Lunch Menu:
-Classic coq au vin With bacon and pearl onions Served with oven baked root vegetables tossed in aromatic herbs and finishedwith fresh parsley
-Lunch 11 a.m. — 1:30 p.m.
-Lunch 11 a.m. — 2 p.m.
-7:30 a.m. to 5 p.m.
-Slagtehusgade 11, 2. sal
-DK-1715 København V
-CVR: 40909109
-Kay Fiskers Pl. 102
-300 København
-+45 31 10 05 58</description>
-      <guid isPermaLink="false">urn:canteen:acd9143082530b36-20260130</guid>
-      <pubDate>Fri, 30 Jan 2026 05:55:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Globetrotter Lunch Menu:
-SpicedAfrican slow cooked lamb stew With dried fruits Served with creamy potato and parsley mash Finished with salted yoghurt and chili sauce on the side
-Green
-Spiced African chickpea stew
-Slow cooked with dried fruits</description>
-      <guid isPermaLink="false">urn:canteen:1092d95b132f8aac-20260130</guid>
-      <pubDate>Fri, 30 Jan 2026 05:55:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB3 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB3 - Lunch Menu:
-Pan friedchicken seasoned with aromatic Middle Eastern spices Served with fresh vegetable salsa, garlic dressing and warm flatbread
-Green
-Pan fried tofu seasoned with aromatic Middle Eastern spices
-Lunch 11 a.m. — 1:30 p.m.
-Lunch 11 a.m. — 2 p.m.
-7:30 a.m. to 5 p.m.
-Slagtehusgade 11, 2. sal
-DK-1715 København V
-CVR: 40909109
-Kay Fiskers Pl. 102
-300 København
-+45 31 10 05 58</description>
-      <guid isPermaLink="false">urn:canteen:ce5fbf42a3ad1c6b-20260130</guid>
-      <pubDate>Fri, 30 Jan 2026 05:55:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB2 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB2 - Lunch Menu:
-Crispyspring rolls with beef Served with rice, stir fried vegetables and sweet chili sauce
-Green
-Crispy vegetarian spring rolls
-Lunch 11 a.m. — 1:30 p.m.
-Lunch 11 a.m. — 2 p.m.
-7:30 a.m. to 5 p.m.
-Slagtehusgade 11, 2. sal
-DK-1715 København V
-CVR: 40909109
-Kay Fiskers Pl. 102
-300 København
-+45 31 10 05 58</description>
-      <guid isPermaLink="false">urn:canteen:fbe257020396846e-20260130</guid>
-      <pubDate>Fri, 30 Jan 2026 05:55:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 – Kays - Lunch Menu:
-Gourmet hotdog with remoulade, ketchup and mustard, homemade crispy onions, raw onions andcucumber salad, finished with parsley pesto, pickled mustard seeds and pickledred onions
-Green
-Vegan gourmet hot dog with remoulade, ketchup and mustard, parsley pesto,homemade crispy onions, raw onions and cucumber salad, finished with pickledmustard seeds and pickled red onions
-Lunch 11 a.m. — 1:30 p.m.
-Lunch 11 a.m. — 2 p.m.
-7:30 a.m. to 5 p.m.
-Slagtehusgade 11, 2. sal
-DK-1715 København V
-CVR: 40909109
-Kay Fiskers Pl. 102
-300 København
-+45 31 10 05 58</description>
-      <guid isPermaLink="false">urn:canteen:8da92c67c2d65df1-20260130</guid>
-      <pubDate>Fri, 30 Jan 2026 05:55:07 +0000</pubDate>
-    </item>
   </channel>
 </rss>
