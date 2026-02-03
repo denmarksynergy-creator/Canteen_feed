@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Monday, 02 February 2026</title>
+    <title>Canteen Menu - Tuesday, 03 February 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Mon, 02 Feb 2026 07:47:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 05:53:35 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260202</guid>
-      <pubDate>Mon, 02 Feb 2026 07:47:49 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260203</guid>
+      <pubDate>Tue, 03 Feb 2026 05:53:35 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
 Pink roasted veal cuvette Served with grilled kale salad and crispy pan roasted potatoes with onions Finished with a rich butter sauce with capers, tarragon and shallots</description>
-      <guid isPermaLink="false">urn:canteen:33fa46ee0fa4c26a-20260202</guid>
-      <pubDate>Mon, 02 Feb 2026 07:47:49 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:33fa46ee0fa4c26a-20260203</guid>
+      <pubDate>Tue, 03 Feb 2026 05:53:35 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -33,66 +33,38 @@ Pink roasted veal cuvette Served with grilled kale salad and crispy pan roasted 
 Steamed Icelandic fishseasoned with turmeric and garam masala served in a rich tomato and coconutsauce with crisp vegetables and rice finished with toasted coconut flakes andparsley with lime and fresh coriander on the side
 Green
 Spice roasted mushrooms with turmeric and garam masala served in arich tomato and coconut sauce with crisp vegetables and rice finished withtoasted coconut flakes and parsley with lime chili sauce and fresh coriander onthe side</description>
-      <guid isPermaLink="false">urn:canteen:bd1e7118fc8d0c0e-20260202</guid>
-      <pubDate>Mon, 02 Feb 2026 07:47:49 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:bd1e7118fc8d0c0e-20260203</guid>
+      <pubDate>Tue, 03 Feb 2026 05:53:35 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Mild and creamy chicken stew slowlysimmered with potatoes and carrots finished with fresh watercress
+Pan fried pork neck marinated inKorean BBQ served with steamed rice and spiced kimchi
 Green
-Creamy white bean stew with potatoes and parsley finished withwatercress
-Lunch 11 a.m. — 1:30 p.m.
-Lunch 11 a.m. — 2 p.m.
-7:30 a.m. to 5 p.m.
-Slagtehusgade 11, 2. sal
-DK-1715 København V
-CVR: 40909109
-Kay Fiskers Pl. 102
-300 København
-+45 31 10 05 58</description>
-      <guid isPermaLink="false">urn:canteen:4a96331342d38a9b-20260202</guid>
-      <pubDate>Mon, 02 Feb 2026 07:47:49 +0000</pubDate>
+Korean style BBQ marinated tofu served with rice and kimchi</description>
+      <guid isPermaLink="false">urn:canteen:36c6d85f3728b9f3-20260203</guid>
+      <pubDate>Tue, 03 Feb 2026 05:53:35 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Juicy Texas marinated turkey cuvetteserved with creamy potato gratin finished with fresh herbs
+Vadas Marha traditional Hungarianhunter’s stew with veal brisket served in a rich vegetable cream sauce withpasta
 Green
-Roasted tempeh served with creamy potato gratin finished withfresh herbs
-Lunch 11 a.m. — 1:30 p.m.
-Lunch 11 a.m. — 2 p.m.
-7:30 a.m. to 5 p.m.
-Slagtehusgade 11, 2. sal
-DK-1715 København V
-CVR: 40909109
-Kay Fiskers Pl. 102
-300 København
-+45 31 10 05 58</description>
-      <guid isPermaLink="false">urn:canteen:03376dc78a8a994c-20260202</guid>
-      <pubDate>Mon, 02 Feb 2026 07:47:49 +0000</pubDate>
+Vadas Marha traditional Hungarian hunter’s stew with celeriacserved in a rich vegetable cream sauce with pasta</description>
+      <guid isPermaLink="false">urn:canteen:2bf7468ed12c2962-20260203</guid>
+      <pubDate>Tue, 03 Feb 2026 05:53:35 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Chickenmeatballs with cheese au gratin organic cream potatoes served with
-roasted wintercabbage and fresh herbs
+Slow cookedjuicy pork belly with chunky creamy potato-beetroot mash served with Frenchwild mushroom sauce topped with yellow pickled pear and pomegranate seeds
 Green dish:
-Vegetarianmeatballs with vegan cheese au gratin organic cream potatoes served withroasted winter cabbage and fresh herbs
-Lunch 11 a.m. — 1:30 p.m.
-Lunch 11 a.m. — 2 p.m.
-7:30 a.m. to 5 p.m.
-Slagtehusgade 11, 2. sal
-DK-1715 København V
-CVR: 40909109
-Kay Fiskers Pl. 102
-300 København
-+45 31 10 05 58</description>
-      <guid isPermaLink="false">urn:canteen:a3018ef54bf09f16-20260202</guid>
-      <pubDate>Mon, 02 Feb 2026 07:47:49 +0000</pubDate>
+Slow cookedcelery with chunky creamy potato-beetroot mash served with French wild mushroomsauce topped with yellow pickled pear and pomegranate seeds</description>
+      <guid isPermaLink="false">urn:canteen:1201a4310cde68a4-20260203</guid>
+      <pubDate>Tue, 03 Feb 2026 05:53:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
