@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Thursday, 05 February 2026</title>
+    <title>Canteen Menu - Friday, 06 February 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 05 Feb 2026 06:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 06:00:40 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260205</guid>
-      <pubDate>Thu, 05 Feb 2026 06:01:25 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260206</guid>
+      <pubDate>Fri, 06 Feb 2026 06:00:40 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
@@ -24,8 +24,8 @@ Our daily meal salad rich in seasonal vegetables with a choice of protein</descr
       <description>🍽 HUB1 - Homebound Lunch Menu:
 Classic vol au vents
 Filled with a creamy chicken fricassee with asparagus, mushrooms, carrots andceleriac Finished with pea shoots and fresh parsley</description>
-      <guid isPermaLink="false">urn:canteen:3f04eab06716c733-20260205</guid>
-      <pubDate>Thu, 05 Feb 2026 06:01:25 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:3f04eab06716c733-20260206</guid>
+      <pubDate>Fri, 06 Feb 2026 06:00:40 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -34,38 +34,66 @@ Filled with a creamy chicken fricassee with asparagus, mushrooms, carrots andcel
 Juicy halal turkey glazed withAmerican maple and mustard served with sage sauce roasted crushed organicpotatoes and thyme roasted carrots finished with pea shoots and pickled driedcranberries
 Green
 Butternut squash glazed with American maple and mustard servedwith sage sauce roasted crushed organic potatoes and thyme roasted carrotsfinished with pea shoots and pickled dried cranberries</description>
-      <guid isPermaLink="false">urn:canteen:546069a6eb34ddf9-20260205</guid>
-      <pubDate>Thu, 05 Feb 2026 06:01:25 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:546069a6eb34ddf9-20260206</guid>
+      <pubDate>Fri, 06 Feb 2026 06:00:40 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Classic beef Lindström pan frieduntil golden served with crispy roasted potatoes, pickled beetroot and brownmushroom sauce with parsley
+Soft and creamy polenta served withslow braised oxtail ragout and fresh gremolata
 Green
-Crispy fried beetroot patty served with roasted potatoes, pickledbeetroot and creamy mushroom sauce</description>
-      <guid isPermaLink="false">urn:canteen:c314a9e88d57721c-20260205</guid>
-      <pubDate>Thu, 05 Feb 2026 06:01:25 +0000</pubDate>
+Creamy polenta with rich mushroom and lentil ragout served withgremolata
+Lunch 11 a.m. — 1:30 p.m.
+Lunch 11 a.m. — 2 p.m.
+7:30 a.m. to 5 p.m.
+Slagtehusgade 11, 2. sal
+DK-1715 København V
+CVR: 40909109
+Kay Fiskers Pl. 102
+300 København
++45 31 10 05 58</description>
+      <guid isPermaLink="false">urn:canteen:473c99e3faead6e6-20260206</guid>
+      <pubDate>Fri, 06 Feb 2026 06:00:40 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Chicken curry served with steamedrice and fresh cabbage salad
+Fish burger served with crisp slawof ginger, pear and cabbage and sauce tartare
 Green
-Chickpea curry served with steamed rice and fresh cabbage salad</description>
-      <guid isPermaLink="false">urn:canteen:63907d34b42bc8fe-20260205</guid>
-      <pubDate>Thu, 05 Feb 2026 06:01:25 +0000</pubDate>
+VEGETARIAN: burger served with crisp slaw of ginger, pear andcabbage and sauce tartare
+Lunch 11 a.m. — 1:30 p.m.
+Lunch 11 a.m. — 2 p.m.
+7:30 a.m. to 5 p.m.
+Slagtehusgade 11, 2. sal
+DK-1715 København V
+CVR: 40909109
+Kay Fiskers Pl. 102
+300 København
++45 31 10 05 58</description>
+      <guid isPermaLink="false">urn:canteen:6090e3acbe0480ed-20260206</guid>
+      <pubDate>Fri, 06 Feb 2026 06:00:40 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Spicy SpanishAlbondigas made with ground beef served with lemon baked potatoes turned withcrispy vegetables here intense tomato sauce topped with fresh herbs, parmesanand turkey roasted chorizo ​​
+American spicyhot wings with baked potato and coleslaw here
+BBQ sauce andfresh parsley
 Green dish:
-Spicy Spanishvegetarian Albondigas made with beans served with lemon baked potatoes turnedwith crispy vegetables here intense tomato sauce topped with fresh herbs,parmesan and roasted tofu</description>
-      <guid isPermaLink="false">urn:canteen:61576c117cc958ee-20260205</guid>
-      <pubDate>Thu, 05 Feb 2026 06:01:25 +0000</pubDate>
+American spicytempeh served with baked potato and coleslaw here BBQ sauce and fresh parsley
+Lunch 11 a.m. — 1:30 p.m.
+Lunch 11 a.m. — 2 p.m.
+7:30 a.m. to 5 p.m.
+Slagtehusgade 11, 2. sal
+DK-1715 København V
+CVR: 40909109
+Kay Fiskers Pl. 102
+300 København
++45 31 10 05 58</description>
+      <guid isPermaLink="false">urn:canteen:4f3bcb6d8d425ac1-20260206</guid>
+      <pubDate>Fri, 06 Feb 2026 06:00:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
