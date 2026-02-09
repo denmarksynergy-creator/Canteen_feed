@@ -1,14 +1,66 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Sunday, 08 February 2026</title>
+    <title>Canteen Menu - Monday, 09 February 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Sun, 08 Feb 2026 06:49:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 07:52:51 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Sprout Lunch Menu:
+Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260209</guid>
+      <pubDate>Mon, 09 Feb 2026 07:52:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Homebound Lunch Menu:
+Spiced and juicy Danish ham served with silky alfredo pasta tossed with broccoli and spinach, finished with fresh parsley and pickled gooseberries fora bright, tangy contrast</description>
+      <guid isPermaLink="false">urn:canteen:7acc3834e28e9d99-20260209</guid>
+      <pubDate>Mon, 09 Feb 2026 07:52:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Globetrotter Lunch Menu:
+Grilled chicken rubbed with Chinese five spice, served with aromatic Asianbrown rice pilaf and topped with kimchi marinated cabbage salad. Spiced hoisinsauce served on the side
+GREEN DISH: Grilled tempeh rubbed with Chinese five spice, served with aromatic Asian brownrice pilaf and kimchi marinated cabbage salad. Spiced hoisin sauce served onthe side</description>
+      <guid isPermaLink="false">urn:canteen:4467772f138e186f-20260209</guid>
+      <pubDate>Mon, 09 Feb 2026 07:52:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB3 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB3 - Lunch Menu:
+Tender chicken in a velvety asparagus sauce, served in a crisp tartlet and topped with fresh herb salad
+GREEN DISH: Silky tofu in a creamy asparagus sauce, served in a crisp tartlet and finished with fresh herbs Lunch 11 a.m. — 1:30 p.m. Lunch 11 a.m. — 2 p.m. 7:30 a.m. to 5 p.m. Slagtehusgade 11, 2. sal DK-1715 København V CVR: 40909109 Kay Fiskers Pl. 102 300 København +45 31 10 05 58</description>
+      <guid isPermaLink="false">urn:canteen:c6e3f14ea0ce9d33-20260209</guid>
+      <pubDate>Mon, 09 Feb 2026 07:52:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB2 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB2 - Lunch Menu:
+Mexican marinated pulled chicken in a smooth tomato and chili sauce with warmspices, served with fresh black bean salsa
+GREEN DISH: Mexican marinated plant based “not chicken” in a smooth tomato and chili sauce,served with black bean and lime salad Lunch 11 a.m. — 1:30 p.m. Lunch 11 a.m. — 2 p.m. 7:30 a.m. to 5 p.m. Slagtehusgade 11, 2. sal DK-1715 København V CVR: 40909109 Kay Fiskers Pl. 102 300 København +45 31 10 05 58</description>
+      <guid isPermaLink="false">urn:canteen:f7cd8a5e91a509ee-20260209</guid>
+      <pubDate>Mon, 09 Feb 2026 07:52:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 – Kays - Lunch Menu:
+Traditional Danish meatloaf wrapped in crispy bacon with rich brown gravy,served with steamed organic potatoes and house pickled pumpkin
+GREEN DISH: Bean based vegetarian loaf with rich brown vegetable sauce, served with steamed organic potatoes and house pickled pumpkin Lunch 11 a.m. — 1:30 p.m. Lunch 11 a.m. — 2 p.m. 7:30 a.m. to 5 p.m. Slagtehusgade 11, 2. sal DK-1715 København V CVR: 40909109 Kay Fiskers Pl. 102 300 København +45 31 10 05 58</description>
+      <guid isPermaLink="false">urn:canteen:b934178934308cb3-20260209</guid>
+      <pubDate>Mon, 09 Feb 2026 07:52:51 +0000</pubDate>
+    </item>
   </channel>
 </rss>
