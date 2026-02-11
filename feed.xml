@@ -1,66 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Tuesday, 10 February 2026</title>
+    <title>Canteen Menu - Wednesday, 11 February 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 10 Feb 2026 06:14:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 06:11:40 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260210</guid>
-      <pubDate>Tue, 10 Feb 2026 06:14:57 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260211</guid>
+      <pubDate>Wed, 11 Feb 2026 06:11:40 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Spiced and juicy Danish ham served with silky alfredo pasta tossed with broccoli and spinach, finished with fresh parsley and pickled gooseberries fora bright, tangy contrast</description>
-      <guid isPermaLink="false">urn:canteen:7acc3834e28e9d99-20260210</guid>
-      <pubDate>Tue, 10 Feb 2026 06:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Grilled chicken rubbed with Chinese five spice, served with aromatic Asianbrown rice pilaf and topped with kimchi marinated cabbage salad. Spiced hoisinsauce served on the side
-GREEN DISH: Grilled tempeh rubbed with Chinese five spice, served with aromatic Asian brownrice pilaf and kimchi marinated cabbage salad. Spiced hoisin sauce served onthe side</description>
-      <guid isPermaLink="false">urn:canteen:4467772f138e186f-20260210</guid>
-      <pubDate>Tue, 10 Feb 2026 06:14:57 +0000</pubDate>
+Warming spiced tomato soup with green lentils, served with aromatic gremolata and roasted pumpkin seeds</description>
+      <guid isPermaLink="false">urn:canteen:8724737ea86467ca-20260211</guid>
+      <pubDate>Wed, 11 Feb 2026 06:11:40 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Slow roasted pork shank with crisp crackling and fluffy mashed potatoes, served with golden sautéed kale and tangy pickled redcurrants
-GREEN DISH: Golden roasted pointed cabbage served with soft mashed potatoes, sautéed kaleand pickled red currants for freshness</description>
-      <guid isPermaLink="false">urn:canteen:60801155852af4c5-20260210</guid>
-      <pubDate>Tue, 10 Feb 2026 06:14:57 +0000</pubDate>
+VEGETARIAN: pad thai tossed with noodles, broccoli and pointed cabbage, balanced with sweetness, acidity and gentle heat, served with fresh coriander</description>
+      <guid isPermaLink="false">urn:canteen:4fc628aa0b47eb50-20260211</guid>
+      <pubDate>Wed, 11 Feb 2026 06:11:40 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Creamy turkey stroganoff with mushrooms, pearl onions and crispy bacon, served with pasta
-GREEN DISH: Rich vegetarian stroganoff with mushrooms, celery, green peas and pearl onions,served with pasta</description>
-      <guid isPermaLink="false">urn:canteen:7706fcbf0c77523f-20260210</guid>
-      <pubDate>Tue, 10 Feb 2026 06:14:57 +0000</pubDate>
+Ribollita
+Classic Tuscan bean soup filled with seasonal vegetables, cabbage and deep comforting flavours</description>
+      <guid isPermaLink="false">urn:canteen:b7152ec9f205651c-20260211</guid>
+      <pubDate>Wed, 11 Feb 2026 06:11:40 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Aromatic chili con carne with brown rice, salted crème fraîche and lime, topped with mild chili and fresh herbs
-GREEN DISH: Aromatic chili sin carne with brown rice, salted crème fraîche and lime, topped with mild chili and fresh herbs</description>
-      <guid isPermaLink="false">urn:canteen:7b032b69cb16523d-20260210</guid>
-      <pubDate>Tue, 10 Feb 2026 06:14:57 +0000</pubDate>
+Asian style ramen soup with noodles and crisp vegetables, served with egg and topped with pickled mushrooms, spring onions and coriander</description>
+      <guid isPermaLink="false">urn:canteen:904b3143e1a7447c-20260211</guid>
+      <pubDate>Wed, 11 Feb 2026 06:11:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
