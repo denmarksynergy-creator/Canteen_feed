@@ -1,66 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Friday, 13 February 2026</title>
+    <title>Canteen Menu - Saturday, 14 February 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 13 Feb 2026 06:06:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 06:43:33 +0000</lastBuildDate>
     <ttl>15</ttl>
-    <item>
-      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Sprout Lunch Menu:
-Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260213</guid>
-      <pubDate>Fri, 13 Feb 2026 06:06:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Homebound Lunch Menu:
-Slow braised beef rib in rich red wine, served with crispy roasted potatoes topped with a fresh herb salad, charred cabbage and crème fraîche on the side</description>
-      <guid isPermaLink="false">urn:canteen:a49a2947f5dc191a-20260213</guid>
-      <pubDate>Fri, 13 Feb 2026 06:06:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Georgian shashlik marinated Danish pork neck fillet, served with roasted organic potatoes and aromatic onions baked with rosemary and agave syrup,finished with chopped dill and parsley. Satsebeli sauce on the side
-GREEN DISH: Georgian shashlik marinated kohlrabi, served with roasted organic potatoes andaromatic onions baked with rosemary and agave syrup, finished with chopped dilland parsley. Satsebeli sauce on the side</description>
-      <guid isPermaLink="false">urn:canteen:28261357e2e19f5b-20260213</guid>
-      <pubDate>Fri, 13 Feb 2026 06:06:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB3 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB3 - Lunch Menu:
-Golden fish cakes with a juicy crumb, served with potatoes and warm, creamy remoulade sauce just like grandma used to make
-GREEN DISH: Crisp fried quinoa patty seasoned with fresh herbs, served with potatoes andwarm, creamy remoulade sauce Lunch 11 a.m. — 1:30 p.m. Lunch 11 a.m. — 2 p.m. 7:30 a.m. to 5 p.m. Slagtehusgade 11, 2. sal DK-1715 København V CVR: 40909109 Kay Fiskers Pl. 102 300 København +45 31 10 05 58</description>
-      <guid isPermaLink="false">urn:canteen:f9e3c6117c829230-20260213</guid>
-      <pubDate>Fri, 13 Feb 2026 06:06:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB2 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB2 - Lunch Menu:
-Korean glazed meatballs with sweetness and gentle heat, served with rice and fresh cucumber kimchi salad
-GREEN DISH: Korean glazed tofu with sweetness and gentle heat, served with rice and fresh cucumber kimchi salad Lunch 11 a.m. — 1:30 p.m. Lunch 11 a.m. — 2 p.m. 7:30 a.m. to 5 p.m. Slagtehusgade 11, 2. sal DK-1715 København V CVR: 40909109 Kay Fiskers Pl. 102 300 København +45 31 10 05 58</description>
-      <guid isPermaLink="false">urn:canteen:d38d9130f85a4370-20260213</guid>
-      <pubDate>Fri, 13 Feb 2026 06:06:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 – Kays - Lunch Menu:
-House made beef kebab served with Turkish flatbread and cacık, with crisp saladand chili on the side
-GREEN DISH: House made Turkish falafels served with Turkish flatbread and cacık, with crispsalad and chili on the side Lunch 11 a.m. — 1:30 p.m. Lunch 11 a.m. — 2 p.m. 7:30 a.m. to 5 p.m. Slagtehusgade 11, 2. sal DK-1715 København V CVR: 40909109 Kay Fiskers Pl. 102 300 København +45 31 10 05 58</description>
-      <guid isPermaLink="false">urn:canteen:fc9c52edd907da29-20260213</guid>
-      <pubDate>Fri, 13 Feb 2026 06:06:03 +0000</pubDate>
-    </item>
   </channel>
 </rss>
