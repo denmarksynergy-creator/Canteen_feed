@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Saturday, 14 February 2026</title>
+    <title>Canteen Menu - Sunday, 15 February 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Sat, 14 Feb 2026 06:43:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 06:53:30 +0000</lastBuildDate>
     <ttl>15</ttl>
   </channel>
 </rss>
