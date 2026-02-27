@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Thursday, 26 February 2026</title>
+    <title>Canteen Menu - Friday, 27 February 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 26 Feb 2026 06:03:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 05:59:10 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260226</guid>
-      <pubDate>Thu, 26 Feb 2026 06:03:16 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260227</guid>
+      <pubDate>Fri, 27 Feb 2026 05:59:10 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
 Fish fritters served with oven-baked potatoes,home-pickled cucumber salad and remoulade with crispy fennel-apple salad</description>
-      <guid isPermaLink="false">urn:canteen:74a1c86bce4ad510-20260226</guid>
-      <pubDate>Thu, 26 Feb 2026 06:03:16 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:74a1c86bce4ad510-20260227</guid>
+      <pubDate>Fri, 27 Feb 2026 05:59:10 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -33,36 +33,45 @@ Fish fritters served with oven-baked potatoes,home-pickled cucumber salad and re
 Peruvian beef patty in casserole with sauteedvegetables and fried potato/beet root cake, topped with herbs. Hereto AjiAmarillo sauce on the side
 Green dish:
 Peruvian pea protein patty in casserole with sauteedvegetables and fried potato/beet root cake, topped with herbs. Hereto AjiAmarillo sauce on the side</description>
-      <guid isPermaLink="false">urn:canteen:ace3d1e70bda6d4d-20260226</guid>
-      <pubDate>Thu, 26 Feb 2026 06:03:16 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:ace3d1e70bda6d4d-20260227</guid>
+      <pubDate>Fri, 27 Feb 2026 05:59:10 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Classic Danish pork patties served with potatoes, creamed vegetables andpickled sides for balance
-GREEN DISH: Juicy mushroom steak served with potatoes and the same creamed vegetables</description>
-      <guid isPermaLink="false">urn:canteen:0f14ee9fdf9069dc-20260226</guid>
-      <pubDate>Thu, 26 Feb 2026 06:03:16 +0000</pubDate>
+Kebab with tender spiced meat, fresh tomatoes, crisp lettuce, pickled cabbageand red onions, finished with parsley and creamy sour cream dressing. Served inwarm flatbread
+GREEN DISH: Crisp falafel with the same fresh accompaniments and creamy dressing, served inwarm flatbread Lunch 11 a.m. — 1:30 p.m. Lunch 11 a.m. — 2 p.m. 7:30 a.m. to 5 p.m. Slagtehusgade 11, 2. sal DK-1715 København V CVR: 40909109 Kay Fiskers Pl. 102 300 København +45 31 10 05 58</description>
+      <guid isPermaLink="false">urn:canteen:695e892a66295df2-20260227</guid>
+      <pubDate>Fri, 27 Feb 2026 05:59:10 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Juicy Danish meatballs served with classic cucumber salad, rich brown gravy andpotatoes
-GREEN DISH: Flavourful plant based patty served with cucumber salad, brown gravy andpotatoes</description>
-      <guid isPermaLink="false">urn:canteen:125dd8c05fdfcc5a-20260226</guid>
-      <pubDate>Thu, 26 Feb 2026 06:03:16 +0000</pubDate>
+Crisp pork belly sandwich layered with tender meat, pickled cabbage and redonions, mustard mayo and fresh cucumber salad
+GREEN DISH: Grilled halloumi sandwich with golden crust and soft centre, served withpickled cabbage, red onions, mustard mayo and cucumber salad Lunch 11 a.m. — 1:30 p.m. Lunch 11 a.m. — 2 p.m. 7:30 a.m. to 5 p.m. Slagtehusgade 11, 2. sal DK-1715 København V CVR: 40909109 Kay Fiskers Pl. 102 300 København +45 31 10 05 58</description>
+      <guid isPermaLink="false">urn:canteen:cca391c87b3decb4-20260227</guid>
+      <pubDate>Fri, 27 Feb 2026 05:59:10 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Spicy juicy Chicken tikka masala served with brownrice, freshly baked naan bread, coriander and lime on the side
+Nordic Pulledpork served with pita bread and crispycoleslaw, pickled chili topped with fresh herbs
 Green dish:
-Spicy vegetarian Chicken tikka masala made with soyprotein served with brown rice, freshly baked naan bread, coriander and lime onthe side</description>
-      <guid isPermaLink="false">urn:canteen:63ac9a56388dc59d-20260226</guid>
-      <pubDate>Thu, 26 Feb 2026 06:03:16 +0000</pubDate>
+Nordic falafel made with green peas served with pitabread and crispy coleslaw, pickled chili topped with fresh herbs
+Lunch 11 a.m. — 1:30 p.m.
+Lunch 11 a.m. — 2 p.m.
+7:30 a.m. to 5 p.m.
+Slagtehusgade 11, 2. sal
+DK-1715 København V
+CVR: 40909109
+Kay Fiskers Pl. 102
+300 København
++45 31 10 05 58</description>
+      <guid isPermaLink="false">urn:canteen:7e476797cecc54d8-20260227</guid>
+      <pubDate>Fri, 27 Feb 2026 05:59:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
