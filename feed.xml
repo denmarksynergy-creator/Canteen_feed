@@ -1,62 +1,70 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 04 March 2026</title>
+    <title>Canteen Menu - Thursday, 05 March 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 04 Mar 2026 05:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 05:55:12 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260304</guid>
-      <pubDate>Wed, 04 Mar 2026 05:45:32 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260305</guid>
+      <pubDate>Thu, 05 Mar 2026 05:55:12 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Roasted celeriac drizzled with browned butterand toasted seeds, served with creamy mushroom sauce, salads, homemadesourdough bread, and pickled berries. (1+6+10+13)</description>
-      <guid isPermaLink="false">urn:canteen:911e2828e04148ca-20260304</guid>
-      <pubDate>Wed, 04 Mar 2026 05:45:32 +0000</pubDate>
+Aromatic paprika stew made with turkey andplenty of vegetables, served with brown rice, caramelized pearl onions, andtopped with fresh herb salad. (6+13)</description>
+      <guid isPermaLink="false">urn:canteen:49a02f55b199b0f9-20260305</guid>
+      <pubDate>Thu, 05 Mar 2026 05:55:12 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Rich smoked Indian masoor dal tadka, servedwith jeera rice topped with fresh chopped parsley. Accompanied bysalted-sweetened yogurt and lime on the side. (10+15)</description>
-      <guid isPermaLink="false">urn:canteen:e913726a2a1010d6-20260304</guid>
-      <pubDate>Wed, 04 Mar 2026 05:45:32 +0000</pubDate>
+Creamy Italian pasta alla Norcina with spicedturkey sausage and mushrooms, topped with cheese and fresh herbs. Served witharugula salad tossed in lemon vinaigrette. (1+6+15)
+Green dish:
+Creamy Italian pasta alla Norcinawith spiced tempeh and mushrooms, topped with cheese and fresh herbs. Servedwith arugula salad tossed in lemon vinaigrette. (1+2+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:ac1e53048a566942-20260305</guid>
+      <pubDate>Thu, 05 Mar 2026 05:55:12 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Red lentildall with plenty of ginger and intense heat from spices, served with steamedrice. Accompanied by a fresh raita of yogurt and coriander.</description>
-      <guid isPermaLink="false">urn:canteen:408df3f57b403799-20260304</guid>
-      <pubDate>Wed, 04 Mar 2026 05:45:32 +0000</pubDate>
+Friedmedister sausage with stewed potatoes, cucumber salad, and coarse mustard.
+Green dish:
+Veganbeetroot steak with stewed potatoes, cucumber salad, and coarse mustard.</description>
+      <guid isPermaLink="false">urn:canteen:0e7302050478c8dc-20260305</guid>
+      <pubDate>Thu, 05 Mar 2026 05:55:12 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Burritofyldt med bønner, søde kartofler, ost, guacamole og frisk tomatsalsa.</description>
-      <guid isPermaLink="false">urn:canteen:2b7f282dd0ce060b-20260304</guid>
-      <pubDate>Wed, 04 Mar 2026 05:45:32 +0000</pubDate>
+Græskfarsbrød med krydret fyld, serveret med orzo-salat og cremet tzatziki.
+Grøn ret:
+Kikærtefarsbrød med urter og krydderier, serveret med orzo-salat og tzatziki.</description>
+      <guid isPermaLink="false">urn:canteen:111931845cde76ed-20260305</guid>
+      <pubDate>Thu, 05 Mar 2026 05:55:12 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Vegan aromaticIndian cauliflower curry with potatoes and lentils, served with brown rice,topped with toasted coconut and fresh coriander. Accompanied by homemadeflatbread. (13+15)</description>
-      <guid isPermaLink="false">urn:canteen:42a283959d95310b-20260304</guid>
-      <pubDate>Wed, 04 Mar 2026 05:45:32 +0000</pubDate>
+Scottish long-agedbeer-braised beef stew with beans and root vegetables, served with coarsemashed potatoes and topped with grilled pumpkin, tomatoes, and fresh herbs.(6+10+13+15)
+Greendish:
+Scottish long-aged beer-braised bean stew with root vegetables, servedwith coarse mashed potatoes and topped with grilled pumpkin, tomatoes, andfresh herbs. (6+10+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:4c6e5e09aa035f3d-20260305</guid>
+      <pubDate>Thu, 05 Mar 2026 05:55:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
