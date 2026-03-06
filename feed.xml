@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 06 Mar 2026 05:53:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 09:56:46 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
@@ -16,7 +16,7 @@
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
       <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260306</guid>
-      <pubDate>Fri, 06 Mar 2026 05:53:23 +0000</pubDate>
+      <pubDate>Fri, 06 Mar 2026 09:56:46 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
@@ -24,74 +24,53 @@ Our daily meal salad rich in seasonal vegetables with a choice of protein</descr
       <description>🍽 HUB1 - Homebound Lunch Menu:
 Aromatic paprika stew made with turkey andplenty of vegetables, served with brown rice, caramelized pearl onions, andtopped with fresh herb salad. (6+13)</description>
       <guid isPermaLink="false">urn:canteen:49a02f55b199b0f9-20260306</guid>
-      <pubDate>Fri, 06 Mar 2026 05:53:23 +0000</pubDate>
+      <pubDate>Fri, 06 Mar 2026 09:56:46 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
 Creamy Italian pasta alla Norcina with spicedturkey sausage and mushrooms, topped with cheese and fresh herbs. Served witharugula salad tossed in lemon vinaigrette. (1+6+15)
-Green dish:
-Creamy Italian pasta alla Norcinawith spiced tempeh and mushrooms, topped with cheese and fresh herbs. Servedwith arugula salad tossed in lemon vinaigrette. (1+2+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:ac1e53048a566942-20260306</guid>
-      <pubDate>Fri, 06 Mar 2026 05:53:23 +0000</pubDate>
+GREEN DISH: Creamy Italian pasta alla Norcinawith spiced tempeh and mushrooms, topped with cheese and fresh herbs. Servedwith arugula salad tossed in lemon vinaigrette. (1+2+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:ca7eba21c23182b7-20260306</guid>
+      <pubDate>Fri, 06 Mar 2026 09:56:46 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
 Mamma Mia –Porchetta roast with warm potato salad packed with fresh herbs and toastedalmonds.
-Green dish:
-Cabbagedolma filled with white bean farce seasoned with fresh herbs, served with warmpotato salad with fresh herbs and toasted almonds.
+GREEN DISH: Cabbagedolma filled with white bean farce seasoned with fresh herbs, served with warmpotato salad with fresh herbs and toasted almonds.
+Sign up for
 Lunch 11 a.m. — 1:30 p.m.
-Lunch 11 a.m. — 2 p.m.
-7:30 a.m. to 5 p.m.
-Slagtehusgade 11, 2. sal
-DK-1715 København V
-CVR: 40909109
-Kay Fiskers Pl. 102
-300 København
-+45 31 10 05 58</description>
-      <guid isPermaLink="false">urn:canteen:ae03b7ddb28c6c03-20260306</guid>
-      <pubDate>Fri, 06 Mar 2026 05:53:23 +0000</pubDate>
+7:30 a.m. to 5 p.m.</description>
+      <guid isPermaLink="false">urn:canteen:dc3f260239fc2bba-20260306</guid>
+      <pubDate>Fri, 06 Mar 2026 09:56:46 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
 Fiskefrikadeller med bløde kartofler, klassisk selleri-remoulade og citronbåde.
-Grøn ret:
+GREEN DISH:
 Vegetardeller med kartofler, selleri-remoulade og citronbåde.
+Sign up for
 Lunch 11 a.m. — 1:30 p.m.
-Lunch 11 a.m. — 2 p.m.
-7:30 a.m. to 5 p.m.
-Slagtehusgade 11, 2. sal
-DK-1715 København V
-CVR: 40909109
-Kay Fiskers Pl. 102
-300 København
-+45 31 10 05 58</description>
-      <guid isPermaLink="false">urn:canteen:2912ef5a7ab7598c-20260306</guid>
-      <pubDate>Fri, 06 Mar 2026 05:53:23 +0000</pubDate>
+7:30 a.m. to 5 p.m.</description>
+      <guid isPermaLink="false">urn:canteen:06a11493bc866d07-20260306</guid>
+      <pubDate>Fri, 06 Mar 2026 09:56:46 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
 Build-your-ownpork roast burger with homemade red cabbage, pickled cucumbers, and mustardmayo. (1+2+11)
-Greendish:
-Build-your-own veggie burger with homemade red cabbage, pickledcucumbers, and mustard mayo. (1+2+11)
+GREEN DISH: Build-your-own veggie burger with homemade red cabbage, pickledcucumbers, and mustard mayo. (1+2+11)
+Sign up for
 Lunch 11 a.m. — 1:30 p.m.
-Lunch 11 a.m. — 2 p.m.
-7:30 a.m. to 5 p.m.
-Slagtehusgade 11, 2. sal
-DK-1715 København V
-CVR: 40909109
-Kay Fiskers Pl. 102
-300 København
-+45 31 10 05 58</description>
-      <guid isPermaLink="false">urn:canteen:616fca727131e4f9-20260306</guid>
-      <pubDate>Fri, 06 Mar 2026 05:53:23 +0000</pubDate>
+7:30 a.m. to 5 p.m.</description>
+      <guid isPermaLink="false">urn:canteen:f5eebd9b5c640fbb-20260306</guid>
+      <pubDate>Fri, 06 Mar 2026 09:56:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
