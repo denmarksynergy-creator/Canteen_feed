@@ -1,14 +1,67 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Sunday, 08 March 2026</title>
+    <title>Canteen Menu - Monday, 09 March 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Sun, 08 Mar 2026 06:43:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 07:47:50 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Sprout Lunch Menu:
+Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260309</guid>
+      <pubDate>Mon, 09 Mar 2026 07:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Homebound Lunch Menu:
+Juicy pork meatballs served with steamedorganic potatoes, brown gravy, and jelly. (1+2+6+13)</description>
+      <guid isPermaLink="false">urn:canteen:ea2861a71cacfa9c-20260309</guid>
+      <pubDate>Mon, 09 Mar 2026 07:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Globetrotter Lunch Menu:
+Aromatic Mexican mole with fresh herbs andtender chicken, served with roasted spiced potatoes, charred corn-bean salad,and chili sauce on the side. (2+11+15)
+GREEN DISH: Aromatic Mexican mole with freshherbs, served with plant-based protein, roasted spiced potatoes, charredcorn-bean salad, and chili sauce on the side. (2+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:b8875764d3be49bf-20260309</guid>
+      <pubDate>Mon, 09 Mar 2026 07:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB3 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB3 - Lunch Menu:
+Roasted lambbreast with warm spices, served with bulgur salad, lightly pickled cabbage andred onion, za'tar, and sumac.
+GREEN DISH: Tofumarinated in warm spices and pan-fried, served with bulgur salad, lightlypickled cabbage and red onion, za'tar, and sumac.</description>
+      <guid isPermaLink="false">urn:canteen:3cc04e5d0a2b3286-20260309</guid>
+      <pubDate>Mon, 09 Mar 2026 07:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB2 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB2 - Lunch Menu:
+Larb moo –Autentisk thailandsk ret med saftigt svinekød, friske krydderurter og enafbalanceret dressing. Serveret med jasminris.
+GREEN DISH: Tofu marineret i soya og lime med friske urter. Serveret med jasminris.</description>
+      <guid isPermaLink="false">urn:canteen:f8a2a1bb5af5fac0-20260309</guid>
+      <pubDate>Mon, 09 Mar 2026 07:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 – Kays - Lunch Menu:
+Spicy Spanishalbondigas made with beef in aromatic tomato sauce, served with al dentespaghetti, topped with grated Parmesan and fresh basil. (1+2+6+13)
+GREEN DISH:
+GREEN DISH: Spanish vegetarian meatballs in aromatic tomato sauce, servedwith al dente spaghetti, topped with grated cheese and fresh basil. (1+2+6+13)</description>
+      <guid isPermaLink="false">urn:canteen:c28f6bed958641e1-20260309</guid>
+      <pubDate>Mon, 09 Mar 2026 07:47:50 +0000</pubDate>
+    </item>
   </channel>
 </rss>
