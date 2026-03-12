@@ -1,66 +1,73 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 11 March 2026</title>
+    <title>Canteen Menu - Thursday, 12 March 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 11 Mar 2026 05:50:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 05:57:22 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260311</guid>
-      <pubDate>Wed, 11 Mar 2026 05:50:28 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260312</guid>
+      <pubDate>Thu, 12 Mar 2026 05:57:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Authentic Greek moussaka
-– Layers of soft eggplant, spicedground meat, and velvety béchamel sauce, gratinated with golden cheese andfresh herbs. Served with a crisp mixed salad tossed in a light mustardvinaigrette (1, 6, 11, 13, 15).</description>
-      <guid isPermaLink="false">urn:canteen:49be51a4b04b8f51-20260311</guid>
-      <pubDate>Wed, 11 Mar 2026 05:50:28 +0000</pubDate>
+Oven-grilled Danish chicken
+– Juicy chicken pieces marinatedwith smoked paprika and thyme, served with caramelized sweet potatoes. Toppedwith creamy feta, ruby-red pomegranate seeds, and fresh parsley. Accompaniedby a rich garlic dressing on the side (2, 6, 11, 15).</description>
+      <guid isPermaLink="false">urn:canteen:f631d6f1cf9c492d-20260312</guid>
+      <pubDate>Thu, 12 Mar 2026 05:57:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-GREEN DISH: vegetarian burger – Bhaji
-– Crispy fried patty madefrom caramelized onions, potatoes, and spinach, served in a soft homemade pavbun. Accompanied by fresh green herb chutney, creamy cucumber raita, and finelyshredded iceberg lettuce on the side (1, 6, 13, 15).</description>
-      <guid isPermaLink="false">urn:canteen:62eaa47b1119c1d3-20260311</guid>
-      <pubDate>Wed, 11 Mar 2026 05:50:28 +0000</pubDate>
+Crispy roasted pork belly
+– Perfectly cooked with a goldencrust, served with sweet adobo-agave carrots and crispy taco-roasted potatoes.Topped with smoked paprika popcorn and fresh tomato salsa (15).
+GREEN DISH: Pan-fried Karl Johan mushrooms
+– Juicy mushrooms with umami,prepared in the same way as the pork belly. Served with adobo-agave carrots,taco-roasted potatoes, smoked paprika popcorn, and tomato salsa (15).</description>
+      <guid isPermaLink="false">urn:canteen:afadd78da49cc0f1-20260312</guid>
+      <pubDate>Thu, 12 Mar 2026 05:57:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Gratinated cauliflower and leeks
-– Baked in a creamy béchamel sauce withnutmeg, topped with crispy breadcrumbs and melted cheese. Served with a heartybean purée and a light mustard vinaigrette. (6, 11, 15)</description>
-      <guid isPermaLink="false">urn:canteen:312701e3b33850fe-20260311</guid>
-      <pubDate>Wed, 11 Mar 2026 05:50:28 +0000</pubDate>
+Slow-braised veal shank
+– Fall-off-the-bone tender meat, simmered in arobust stock with root vegetables and herbs. Served with creamy split peas,soft potatoes, and curly parsley. (10, 15)
+GREEN DISH: Poached tofu
+– Gently cooked in an aromatic broth with thyme, bay leaf,and cinnamon. Served with split peas, potatoes, and a sprinkle of fresh herbs.(7)</description>
+      <guid isPermaLink="false">urn:canteen:f937468718803daf-20260312</guid>
+      <pubDate>Thu, 12 Mar 2026 05:57:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Pasta al forno
-– baked pasta layered with creamy mornay sauce, crispvegetables, and melted cheese, gratinated to golden perfection (1, 2, 6, 15).</description>
-      <guid isPermaLink="false">urn:canteen:1081475e546fefce-20260311</guid>
-      <pubDate>Wed, 11 Mar 2026 05:50:28 +0000</pubDate>
+Ramsløk-marinated turkey cuvette
+– succulent and aromatic, marinated infresh ramsløk and lemon. Served with a fresh potato salad with dill, chervil,and a light vinaigrette on last year’s apple cider (11, 13, 15).
+GREEN DISH: Tahini-marinated cauliflower
+– roasted cauliflower with nutty tahini andlemon, served with creamy hummus, herb potato salad, and apple cidervinaigrette (8, 13, 15).</description>
+      <guid isPermaLink="false">urn:canteen:50a3180020aabe3e-20260312</guid>
+      <pubDate>Thu, 12 Mar 2026 05:57:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Creamy mushroom risotto served with pickled spring onions, fresh chervil, andtopped with Parmesan cheese (6).</description>
-      <guid isPermaLink="false">urn:canteen:413b788a09dcaa81-20260311</guid>
-      <pubDate>Wed, 11 Mar 2026 05:50:28 +0000</pubDate>
+Line-caught fish of the day, served with pasta tossed in dill pesto, tomatoes,and red onions, accompanied by fried beets (1+3+6).
+GREEN DISH: Grilled portobello mushroom, served with pasta tossed in dill pesto, tomatoes,and red onions, accompanied by fried beets (1+6).</description>
+      <guid isPermaLink="false">urn:canteen:230930af62afd058-20260312</guid>
+      <pubDate>Thu, 12 Mar 2026 05:57:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
