@@ -1,73 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Friday, 13 March 2026</title>
+    <title>Canteen Menu - Saturday, 14 March 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 13 Mar 2026 05:56:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 06:44:11 +0000</lastBuildDate>
     <ttl>15</ttl>
-    <item>
-      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Sprout Lunch Menu:
-Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260313</guid>
-      <pubDate>Fri, 13 Mar 2026 05:56:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Homebound Lunch Menu:
-Oven-grilled Danish chicken
-– Juicy chicken pieces marinatedwith smoked paprika and thyme, served with caramelized sweet potatoes. Toppedwith creamy feta, ruby-red pomegranate seeds, and fresh parsley. Accompaniedby a rich garlic dressing on the side (2, 6, 11, 15).</description>
-      <guid isPermaLink="false">urn:canteen:f631d6f1cf9c492d-20260313</guid>
-      <pubDate>Fri, 13 Mar 2026 05:56:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Crispy roasted pork belly
-– Perfectly cooked with a goldencrust, served with sweet adobo-agave carrots and crispy taco-roasted potatoes.Topped with smoked paprika popcorn and fresh tomato salsa (15).
-GREEN DISH: Pan-fried Karl Johan mushrooms
-– Juicy mushrooms with umami,prepared in the same way as the pork belly. Served with adobo-agave carrots,taco-roasted potatoes, smoked paprika popcorn, and tomato salsa (15).</description>
-      <guid isPermaLink="false">urn:canteen:afadd78da49cc0f1-20260313</guid>
-      <pubDate>Fri, 13 Mar 2026 05:56:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB3 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB3 - Lunch Menu:
-Fish burger
-– Crispy fried fish fillet in a soft brioche bun, toppedwith classic tartar sauce and fresh crunchy salad. (1, 6)
-GREEN DISH: Dill pea patty
-GREEN DISH: A vegetarian patty made from split peas and fresh dill,served in a brioche bun with tartar sauce and crisp salad. (1, 15)</description>
-      <guid isPermaLink="false">urn:canteen:996c71b0a07742ec-20260313</guid>
-      <pubDate>Fri, 13 Mar 2026 05:56:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB2 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB2 - Lunch Menu:
-Tandoori chicken thighs
-– tender and juicy, marinated in yogurt, ginger,and garam masala. Served with golden turmeric rice, crispy kale, and arefreshing raita with mint and coriander (6, 8, 15).
-GREEN DISH: Tandoori paneer
-– soft and spiced cheese, marinated in the same aromaticspices, served with turmeric rice, kale, and raita (6, 8, 15).</description>
-      <guid isPermaLink="false">urn:canteen:cfbe97b73dfd58eb-20260313</guid>
-      <pubDate>Fri, 13 Mar 2026 05:56:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 – Kays - Lunch Menu:
-Juicy American cheeseburger, served with smoked mayo and mild chili fries(1+6).
-GREEN DISH: Juicy American veggie burger, served with smoked mayo and mild chili fries(1+6).</description>
-      <guid isPermaLink="false">urn:canteen:2cd5f5bfc9709d93-20260313</guid>
-      <pubDate>Fri, 13 Mar 2026 05:56:46 +0000</pubDate>
-    </item>
   </channel>
 </rss>
