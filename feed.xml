@@ -1,14 +1,77 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Sunday, 15 March 2026</title>
+    <title>Canteen Menu - Monday, 16 March 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Sun, 15 Mar 2026 06:58:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 08:05:43 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Sprout Lunch Menu:
+Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260316</guid>
+      <pubDate>Mon, 16 Mar 2026 08:05:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Homebound Lunch Menu:
+Juicy Danish pork cutlets
+– Tender and succulent pork cutletscooked in a creamy tomato sauce with plenty of fresh vegetables. Served withnutty brown rice, topped with crispy potato chips, crumbled bacon, and freshherbs (6, 13, 15).</description>
+      <guid isPermaLink="false">urn:canteen:4b9d146cf0e1ab4e-20260316</guid>
+      <pubDate>Mon, 16 Mar 2026 08:05:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Globetrotter Lunch Menu:
+West African roasted chicken in Maafe
+– Juicy roasted chickenin a rich peanut sauce with seasonal vegetables. Served with fragrant jasmineor brown rice, topped with crushed peanuts and freshly chopped parsley.Accompanied by lime on the side (4, 13, 15).
+GREEN DISH: West African pinto bean Koose
+– Crispy fried bean cakes in thesame creamy peanut sauce with vegetables. Served with jasmine or brown rice,topped with crushed peanuts and freshly chopped parsley. Accompanied by lime onthe side (4, 13, 15).</description>
+      <guid isPermaLink="false">urn:canteen:8946325dea2c8375-20260316</guid>
+      <pubDate>Mon, 16 Mar 2026 08:05:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB3 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB3 - Lunch Menu:
+Chicken tikka masala
+– Tender pieces of chicken marinated in yogurt andspices, simmered in a rich, creamy tomato sauce with plenty of warm spices.Served with fluffy basmati rice and fresh coriander as an option (15).
+GREEN DISH: Creamy butterbean tikka masala
+GREEN DISH: A vegetarian version with tenderbutterbeans in the same spiced, creamy tomato sauce. Served with fluffy basmatirice and fresh coriander as an option (15).</description>
+      <guid isPermaLink="false">urn:canteen:4374370a2984d887-20260316</guid>
+      <pubDate>Mon, 16 Mar 2026 08:05:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB2 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB2 - Lunch Menu:
+Brændende kærlighed (Burning Love)
+– A classic Danish dish with creamymashed potatoes, crispy bacon, sweet pickled beets, caramelized celeriac, saltycapers, and fresh chives (6, 10, 13).
+GREEN DISH:
+GREEN DISH: Brændende kærlighed
+GREEN DISH: A vegetarian version with creamy mashedpotatoes, vegetarian bacon, pickled beets, roasted celeriac, capers, andchives. Topped with crispy fried onions (6, 10, 13).</description>
+      <guid isPermaLink="false">urn:canteen:b1b35cf8a4852c12-20260316</guid>
+      <pubDate>Mon, 16 Mar 2026 08:05:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 – Kays - Lunch Menu:
+Juicy Danish pork meatballs
+– Homemade, well-seasonedmeatballs with a tender center, served with creamy braised cabbage and steamedorganic potatoes. Topped with pickled peas and freshly chopped parsley (1, 6,11, 13).
+GREEN DISH:
+GREEN DISH: vegetarian meatballs
+– Hearty and flavorful, made fromvegetables and seeds, served with creamy braised cabbage and steamed organicpotatoes. Topped with pickled peas and freshly chopped parsley (1, 6, 11, 13).</description>
+      <guid isPermaLink="false">urn:canteen:0c18d57a1a8b99e9-20260316</guid>
+      <pubDate>Mon, 16 Mar 2026 08:05:43 +0000</pubDate>
+    </item>
   </channel>
 </rss>
