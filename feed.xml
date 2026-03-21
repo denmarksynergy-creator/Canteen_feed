@@ -1,76 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Friday, 20 March 2026</title>
+    <title>Canteen Menu - Saturday, 21 March 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 20 Mar 2026 05:59:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 06:41:29 +0000</lastBuildDate>
     <ttl>15</ttl>
-    <item>
-      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Sprout Lunch Menu:
-Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260320</guid>
-      <pubDate>Fri, 20 Mar 2026 05:59:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Homebound Lunch Menu:
-Italian pasta with hearty meat sauce
-– Al dente pasta with arich, slow-simmered meat sauce made from organic beef. Topped withgolden grated Parmesan and fresh basil (1, 6).</description>
-      <guid isPermaLink="false">urn:canteen:d99765b0b47e5a4a-20260320</guid>
-      <pubDate>Fri, 20 Mar 2026 05:59:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Coconut-panko crusted Caribbean fish cake
-– Juicy fish cakewith Caribbean spices, coated in coconut and panko. Served with Jamaicancoleslaw and roasted sweet potatoes, topped with fresh herbs. Accompanied byMarie Rose sauce, mango-bell pepper chutney, and lemon (1, 2, 6, 11, 13).
-GREEN DISH: Coconut-panko crusted Caribbean spiced mushroom
-GREEN DISH: A vegetarianversion with hearty mushrooms, coated in coconut and panko. Served withJamaican coleslaw and roasted sweet potatoes, topped with fresh herbs.Accompanied by Marie Rose sauce, mango-bell pepper chutney, and lemon (1, 2, 6,11, 13).</description>
-      <guid isPermaLink="false">urn:canteen:adf18023935243f5-20260320</guid>
-      <pubDate>Fri, 20 Mar 2026 05:59:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB3 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB3 - Lunch Menu:
-Homemade meatballs
-– Juicy, classic Danish meatballs served with softpotatoes, delicious gravy, and a fresh cucumber salad (1, 2, 6, 15).
-GREEN DISH: Dill pea patties
-GREEN DISH: Vegetarian patties made from split peas, served witha creamy mushroom sauce, potatoes, and cucumber salad (6, 15).</description>
-      <guid isPermaLink="false">urn:canteen:22230bc80ee0d86a-20260320</guid>
-      <pubDate>Fri, 20 Mar 2026 05:59:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB2 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB2 - Lunch Menu:
-Beef Shawarma
-– Spiced, juicy beef in soft flatbread, filled with crispcabbage, cucumber, red onion, sumac, dressing, and fresh herbs (1, 6, 13, 15).
-GREEN DISH: Falafel
-– Crispy, spiced chickpea patties in soft flatbread, filled withcabbage, cucumber, red onion, sumac, dressing, and fresh herbs (1, 6, 13, 15).</description>
-      <guid isPermaLink="false">urn:canteen:efb06afe2e754c23-20260320</guid>
-      <pubDate>Fri, 20 Mar 2026 05:59:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 – Kays - Lunch Menu:
-Gourmet hotdogs
-– Crispy sausages in soft buns, topped withpickled mustard seeds, pickled onions, homemade remoulade, ketchup, mustard,and crispy fried onions (1, 6, 11).
-GREEN DISH:
-GREEN DISH: gourmet hotdogs
-GREEN DISH: A vegetarian sausage in a softbun, topped with pickled mustard seeds, pickled onions, homemade remoulade,ketchup, mustard, and crispy fried onions (1, 6, 11).</description>
-      <guid isPermaLink="false">urn:canteen:12a856f7f2530474-20260320</guid>
-      <pubDate>Fri, 20 Mar 2026 05:59:13 +0000</pubDate>
-    </item>
   </channel>
 </rss>
