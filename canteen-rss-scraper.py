@@ -783,6 +783,35 @@ def generate_rss(menu_items, allergen_key=None):
         guid_hash = sha1(("allergen" + body).encode("utf-8")).hexdigest()[:16]
         guid_value = f"urn:canteen:{guid_hash}-{datetime.datetime.now().strftime('%Y%m%d')}"
         entry.guid(guid_value, permalink=False)
+    
+    # --- STATIC ALLERGEN ITEM ---
+    ALLERGENS_STATIC = (
+        "1. Gluten\n"
+        "2. Eggs\n"
+        "3. Fish\n"
+        "4. Peanuts\n"
+        "5. Crustaceans\n"
+        "6. Milk\n"
+        "7. Soy\n"
+        "8. Sesame\n"
+        "9. Nuts\n"
+        "10. Celery\n"
+        "11. Mustard\n"
+        "12. Lupine\n"
+        "13. Sulphur dioxide\n"
+        "14. Molluscs\n"
+        "15. Garlic"
+    )
+
+    entry = fg.add_entry()
+    entry.title("Allergens (full list)")
+    entry.link(href="https://hubnordic.madkastel.dk/en/menu")
+    entry.description(f"Allergens:\n{ALLERGENS_STATIC}")
+    entry.pubDate(datetime.datetime.now(pytz.utc))
+
+    guid_hash = sha1(("static-allergens" + ALLERGENS_STATIC).encode("utf-8")).hexdigest()[:16]
+    guid_value = f"urn:canteen:{guid_hash}-{datetime.datetime.now().strftime('%Y%m%d')}"
+    entry.guid(guid_value, permalink=False)
 
     rss_bytes = fg.rss_str(pretty=True)
     rss_str = rss_bytes.decode("utf-8")
