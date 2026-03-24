@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Monday, 23 March 2026</title>
+    <title>Canteen Menu - Tuesday, 24 March 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Mon, 23 Mar 2026 08:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 06:02:39 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260323</guid>
-      <pubDate>Mon, 23 Mar 2026 08:00:05 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260324</guid>
+      <pubDate>Tue, 24 Mar 2026 06:02:39 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
@@ -24,8 +24,8 @@ Our daily meal salad rich in seasonal vegetables with a choice of protein</descr
       <description>🍽 HUB1 - Homebound Lunch Menu:
 Crispy fish and chips made with Danish plaice fillets, golden and tender,served with seasoned potato wedges. Finished with creamy tartar sauce, grilledlemon and fresh dill
 (1+2+3+6)</description>
-      <guid isPermaLink="false">urn:canteen:e13b39a2953841b7-20260323</guid>
-      <pubDate>Mon, 23 Mar 2026 08:00:05 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:e13b39a2953841b7-20260324</guid>
+      <pubDate>Tue, 24 Mar 2026 06:02:39 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -35,42 +35,42 @@ Creamy risotto with chicken, mushrooms and cabbage, rich and comforting, toppedw
 (1+6+13+15)
 GREEN DISH: dish
 Creamy risotto with soy chunks, mushrooms and cabbage, topped with crisp carrotchips, parmesan and fresh parsley. Served with olive focaccia and Italiansalads, with balsamic glaze and basil oil on the side</description>
-      <guid isPermaLink="false">urn:canteen:b3145255c77e35d9-20260323</guid>
-      <pubDate>Mon, 23 Mar 2026 08:00:05 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:b3145255c77e35d9-20260324</guid>
+      <pubDate>Tue, 24 Mar 2026 06:02:39 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Red curry in creamy coconut milk with ginger and chili, rich and warming,served with seared duck breast and noodles
-(1+2+4+7+15)
+Chili con carne with tender beef, black beans and kidney beans, enriched witharomatic coffee for depth. Served with rice
+(15)
 GREEN DISH: dish
-Red curry in creamy coconut milk with ginger and chili, served with tender tofuand noodles, balanced with warmth and depth</description>
-      <guid isPermaLink="false">urn:canteen:8de349e8ce1620a0-20260323</guid>
-      <pubDate>Mon, 23 Mar 2026 08:00:05 +0000</pubDate>
+Chili sin carne with black beans and kidney beans, finished with aromaticcoffee and warm spices. Served with rice</description>
+      <guid isPermaLink="false">urn:canteen:569ba162074f12fd-20260324</guid>
+      <pubDate>Tue, 24 Mar 2026 06:02:39 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Pan roasted chicken with golden crisp skin and juicy meat, served with roastedpotatoes and rich sauce. Green beans tossed in aromatic garlic oil
-(6+13+15)
+Slow braised pork belly in apple cider, tender and full of flavour, served withfried rice and vegetables
+(7+8+13+15)
 GREEN DISH: dish
-Salt baked celeriac with deep caramelised flavour, served with roastedpotatoes, sauce and green beans in garlic oil
-(6+10+13)</description>
-      <guid isPermaLink="false">urn:canteen:ec618c7a4a648dde-20260323</guid>
-      <pubDate>Mon, 23 Mar 2026 08:00:05 +0000</pubDate>
+Hoisin marinated tofu, caramelised and rich in umami, served with fried riceand vegetables</description>
+      <guid isPermaLink="false">urn:canteen:53d4f5b6671ae44e-20260324</guid>
+      <pubDate>Tue, 24 Mar 2026 06:02:39 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Wild garlic seared Danish ham, juicy and aromatic, served with smooth carrotpurée and glazed pearl onions with mushrooms. Finished with crispy potato cubesand fresh herbs
-(13+15)
+Juicy turkey tossed in Nordic pesto, served with pearl barley and sautéedcabbage. Finished with fresh cress cream and pickled onions
+(1+6)
 GREEN DISH: dish
-Wild garlic seared tempeh with deep umami, served with carrot purée, glazedpearl onions with mushrooms and crispy potato cubes with fresh herbs</description>
-      <guid isPermaLink="false">urn:canteen:0f507d2127dbe72d-20260323</guid>
-      <pubDate>Mon, 23 Mar 2026 08:00:05 +0000</pubDate>
+Tofu tossed in Nordic pesto, served with pearl barley and sautéed cabbage.Finished with cress cream and pickled onions
+(1+6+7)</description>
+      <guid isPermaLink="false">urn:canteen:0c7ab556752127b4-20260324</guid>
+      <pubDate>Tue, 24 Mar 2026 06:02:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
