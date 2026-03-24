@@ -447,33 +447,35 @@ def consolidate_split_lines(raw_lines: list) -> list:
 
 def extract_allergen_key_from_html(html) -> list:
     """
-    Find the 1..15 allergen list and return strings like '1. Gluten', '2. Eggs', ...
-    Strategy:
-      1) Prefer an <ol> near a heading that says 'Allergen' (EN) or 'Allergener' (DA).
-      2) Otherwise, fallback to any <ol> with ~10–20 items containing known allergen words.
+    Robust allergen extractor.
+    Works even when the list is wrapped inside multiple divs,
+    rich-text containers, or hidden under Webflow dynamic items.
     """
     soup = BeautifulSoup(html, "html.parser")
 
-    # 1) Look for a heading that contains 'Allergen' (EN/DA), then nearest following <ol>
-    heads = soup.find_all(re.compile(r"^h[1-6]$"))
-    for h in heads:
-        title = clean_text(h.get_text(" ", strip=True)).lower()
-        if re.search(r"\ballergen", title):  # matches 'Allergen', 'Allergens', 'Allergener'
-            for sib in h.find_all_next(["ol"]):
-                lis = [clean_text(li.get_text(" ", strip=True)) for li in sib.find_all("li")]
-                if 10 <= len(lis) <= 20:
-                    return [f"{i+1}. {txt}" for i, txt in enumerate(lis)]
-
-    # 2) Fallback: any <ol> with 10–20 items and allergen terms
+    # 1) Try to find ANY <ol> that has 10–20 <li> items matching known allergens
     for ol in soup.find_all("ol"):
         lis = [clean_text(li.get_text(" ", strip=True)) for li in ol.find_all("li")]
-        if 10 <= len(lis) <= 20 and any(
-            re.search(r"gluten|milk|soy|egg|sesame|nuts|mustard|celery|peanut|lupine|sulphur|mollusc|fish|garlic", li, re.I)
-            for li in lis
-        ):
-            return [f"{i+1}. {txt}" for i, txt in enumerate(lis)]
+
+        if 10 <= len(lis) <= 20:
+            # Check if the list contains allergen keywords
+            if any(re.search(r"(gluten|milk|soy|egg|sesame|nuts|mustard|celery|peanut|lupine|sulph|mollusc|fish|garlic)",
+                              li, re.I) for li in lis):
+                return [f"{i+1}. {txt}" for i, txt in enumerate(lis)]
+
+    # 2) Fallback: if nothing found, search ANYWHERE for known allergen words in li’s
+    all_lis = soup.find_all("li")
+    matches = []
+    for li in all_lis:
+        text = clean_text(li.get_text(" ", strip=True))
+        if re.search(r"(gluten|milk|soy|egg|sesame|nuts|mustard|celery|peanut|lupine|sulph|mollusc|fish|garlic)", text, re.I):
+            matches.append(text)
+
+    if 10 <= len(matches) <= 20:
+        return [f"{i+1}. {txt}" for i, txt in enumerate(matches)]
 
     return []
+
 
 
 # ============================
