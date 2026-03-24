@@ -8,15 +8,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 24 Mar 2026 09:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 09:17:27 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>Allergens (full list)</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>Allergens:
+1. Gluten
+2. Eggs
+3. Fish
+4. Peanuts
+5. Crustaceans
+6. Milk
+7. Soy
+8. Sesame
+9. Nuts
+10. Celery
+11. Mustard
+12. Lupine
+13. Sulphur dioxide
+14. Molluscs
+15. Garlic</description>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260324</guid>
+      <pubDate>Tue, 24 Mar 2026 09:17:27 +0000</pubDate>
+    </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
       <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260324</guid>
-      <pubDate>Tue, 24 Mar 2026 09:03:22 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 09:17:27 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
@@ -25,7 +47,7 @@ Our daily meal salad rich in seasonal vegetables with a choice of protein</descr
 Crispy fish and chips made with Danish plaice fillets, golden and tender,served with seasoned potato wedges. Finished with creamy tartar sauce, grilledlemon and fresh dill
 (1+2+3+6)</description>
       <guid isPermaLink="false">urn:canteen:e13b39a2953841b7-20260324</guid>
-      <pubDate>Tue, 24 Mar 2026 09:03:22 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 09:17:27 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -36,7 +58,7 @@ Creamy risotto with chicken, mushrooms and cabbage, rich and comforting, toppedw
 GREEN DISH: dish
 Creamy risotto with soy chunks, mushrooms and cabbage, topped with crisp carrotchips, parmesan and fresh parsley. Served with olive focaccia and Italiansalads, with balsamic glaze and basil oil on the side</description>
       <guid isPermaLink="false">urn:canteen:b3145255c77e35d9-20260324</guid>
-      <pubDate>Tue, 24 Mar 2026 09:03:22 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 09:17:27 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
@@ -47,7 +69,7 @@ Chili con carne with tender beef, black beans and kidney beans, enriched witharo
 GREEN DISH: dish
 Chili sin carne with black beans and kidney beans, finished with aromaticcoffee and warm spices. Served with rice</description>
       <guid isPermaLink="false">urn:canteen:569ba162074f12fd-20260324</guid>
-      <pubDate>Tue, 24 Mar 2026 09:03:22 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 09:17:27 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
@@ -58,7 +80,7 @@ Slow braised pork belly in apple cider, tender and full of flavour, served withf
 GREEN DISH: dish
 Hoisin marinated tofu, caramelised and rich in umami, served with fried riceand vegetables</description>
       <guid isPermaLink="false">urn:canteen:53d4f5b6671ae44e-20260324</guid>
-      <pubDate>Tue, 24 Mar 2026 09:03:22 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 09:17:27 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
@@ -70,7 +92,7 @@ GREEN DISH: dish
 Tofu tossed in Nordic pesto, served with pearl barley and sautéed cabbage.Finished with cress cream and pickled onions
 (1+6+7)</description>
       <guid isPermaLink="false">urn:canteen:0c7ab556752127b4-20260324</guid>
-      <pubDate>Tue, 24 Mar 2026 09:03:22 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 09:17:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
