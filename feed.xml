@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Tuesday, 24 March 2026</title>
+    <title>Canteen Menu - Wednesday, 25 March 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 24 Mar 2026 09:17:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 06:03:06 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,70 +29,61 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260324</guid>
-      <pubDate>Tue, 24 Mar 2026 09:17:27 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260325</guid>
+      <pubDate>Wed, 25 Mar 2026 06:03:06 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260324</guid>
-      <pubDate>Tue, 24 Mar 2026 09:17:27 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260325</guid>
+      <pubDate>Wed, 25 Mar 2026 06:03:06 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Crispy fish and chips made with Danish plaice fillets, golden and tender,served with seasoned potato wedges. Finished with creamy tartar sauce, grilledlemon and fresh dill
-(1+2+3+6)</description>
-      <guid isPermaLink="false">urn:canteen:e13b39a2953841b7-20260324</guid>
-      <pubDate>Tue, 24 Mar 2026 09:17:27 +0000</pubDate>
+GREEN DISH: curry packed with vegetables, warm and aromatic, served with grilledcauliflower steak and steamed rice. Topped with crispy kale and fresh herbs
+(4+10+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:da6491b6598e7552-20260325</guid>
+      <pubDate>Wed, 25 Mar 2026 06:03:06 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Creamy risotto with chicken, mushrooms and cabbage, rich and comforting, toppedwith crispy chicken crackling, parmesan and fresh parsley. Served with olivefocaccia and Italian salads, with balsamic glaze and basil oil on the side
-(1+6+13+15)
-GREEN DISH: dish
-Creamy risotto with soy chunks, mushrooms and cabbage, topped with crisp carrotchips, parmesan and fresh parsley. Served with olive focaccia and Italiansalads, with balsamic glaze and basil oil on the side</description>
-      <guid isPermaLink="false">urn:canteen:b3145255c77e35d9-20260324</guid>
-      <pubDate>Tue, 24 Mar 2026 09:17:27 +0000</pubDate>
+Aloo bharta, Indian spiced mashed potatoes with ginger, garlic and turmeric,warm and aromatic, topped with fresh herbs, spiced chickpeas and crispy friedcarrot. Served with fresh kachumber salad and salted yoghurt on the side
+(2+15)</description>
+      <guid isPermaLink="false">urn:canteen:828875acbd44451a-20260325</guid>
+      <pubDate>Wed, 25 Mar 2026 06:03:06 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Chili con carne with tender beef, black beans and kidney beans, enriched witharomatic coffee for depth. Served with rice
-(15)
-GREEN DISH: dish
-Chili sin carne with black beans and kidney beans, finished with aromaticcoffee and warm spices. Served with rice</description>
-      <guid isPermaLink="false">urn:canteen:569ba162074f12fd-20260324</guid>
-      <pubDate>Tue, 24 Mar 2026 09:17:27 +0000</pubDate>
+Crisp falafel with a spiced centre, served with bulgur tabbouleh, pickled redcabbage with parsley and sumac, warm flatbread, chili and creamy sour creamdressing
+(1+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:c492a000d990607c-20260325</guid>
+      <pubDate>Wed, 25 Mar 2026 06:03:06 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Slow braised pork belly in apple cider, tender and full of flavour, served withfried rice and vegetables
-(7+8+13+15)
-GREEN DISH: dish
-Hoisin marinated tofu, caramelised and rich in umami, served with fried riceand vegetables</description>
-      <guid isPermaLink="false">urn:canteen:53d4f5b6671ae44e-20260324</guid>
-      <pubDate>Tue, 24 Mar 2026 09:17:27 +0000</pubDate>
+Minestrone soup with seasonal vegetables and beans, hearty and comforting,served with warm focaccia
+(1+10+15)</description>
+      <guid isPermaLink="false">urn:canteen:caddb9893d4d0ba7-20260325</guid>
+      <pubDate>Wed, 25 Mar 2026 06:03:06 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Juicy turkey tossed in Nordic pesto, served with pearl barley and sautéedcabbage. Finished with fresh cress cream and pickled onions
-(1+6)
-GREEN DISH: dish
-Tofu tossed in Nordic pesto, served with pearl barley and sautéed cabbage.Finished with cress cream and pickled onions
-(1+6+7)</description>
-      <guid isPermaLink="false">urn:canteen:0c7ab556752127b4-20260324</guid>
-      <pubDate>Tue, 24 Mar 2026 09:17:27 +0000</pubDate>
+Rich Indian lentil dahl with warm spices, served with brown rice, cooling raitaand house made naan bread
+(13+15)</description>
+      <guid isPermaLink="false">urn:canteen:3d8fd7c98bd9f145-20260325</guid>
+      <pubDate>Wed, 25 Mar 2026 06:03:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
