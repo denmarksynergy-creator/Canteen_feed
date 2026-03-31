@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Monday, 30 March 2026</title>
+    <title>Canteen Menu - Tuesday, 31 March 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Mon, 30 Mar 2026 08:20:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 06:19:21 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,16 +29,16 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260330</guid>
-      <pubDate>Mon, 30 Mar 2026 08:20:21 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260331</guid>
+      <pubDate>Tue, 31 Mar 2026 06:19:21 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260330</guid>
-      <pubDate>Mon, 30 Mar 2026 08:20:21 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260331</guid>
+      <pubDate>Tue, 31 Mar 2026 06:19:21 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
@@ -46,8 +46,8 @@ Our daily meal salad rich in seasonal vegetables with a choice of protein</descr
       <description>🍽 HUB1 - Homebound Lunch Menu:
 Swedish meatballs served with silky mashed potatoes and rich brown cream sauce,topped with peas tossed in cold pressed rapeseed oil and fresh parsley.Lingonberry jam and pickled cucumbers on the side
 (1+2+6)</description>
-      <guid isPermaLink="false">urn:canteen:c8a7b358c7c3a650-20260330</guid>
-      <pubDate>Mon, 30 Mar 2026 08:20:21 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c8a7b358c7c3a650-20260331</guid>
+      <pubDate>Tue, 31 Mar 2026 06:19:21 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -57,42 +57,40 @@ BBQ pulled turkey tossed with onions and cabbage, served on crispy potato rösti
 (6+13+15)
 GREEN DISH: dish
 BBQ pulled oyster mushrooms with onions and cabbage, served on crispy potatorösti and topped with mornay sauce and spring onions. Horseradish and chivesauce with cucumber and apple salad on the side</description>
-      <guid isPermaLink="false">urn:canteen:4f2b47992242f439-20260330</guid>
-      <pubDate>Mon, 30 Mar 2026 08:20:21 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:4f2b47992242f439-20260331</guid>
+      <pubDate>Tue, 31 Mar 2026 06:19:21 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Tagine with spiced chicken, slow cooked with warm aromatic spices, served withfluffy couscous infused with fresh herbs and preserved lemon
-(1+15)
+Five spice pork belly, slow cooked until tender with caramelised edges, servedwith fried rice
+(2+7+15)
 GREEN DISH: dish
-Spiced chickpea tagine full of warm flavour, served with fluffy couscous tossedwith fresh herbs and preserved lemon</description>
-      <guid isPermaLink="false">urn:canteen:70c5022625361e8a-20260330</guid>
-      <pubDate>Mon, 30 Mar 2026 08:20:21 +0000</pubDate>
+Five spice tofu with deep umami and warm spice, served with fried rice</description>
+      <guid isPermaLink="false">urn:canteen:a36940aa4967428d-20260331</guid>
+      <pubDate>Tue, 31 Mar 2026 06:19:21 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Mapo tofu, a classic from the Chinese Sichuan kitchen, where pork and tofu cometogether in a bold and aromatic sauce with chili, ginger, mushrooms and deeplyflavoured broth. Served with steamed rice
-(7+8+15)
+Chicken fajita with spicy chipotle, served with avocado cream, grilled peppers,red onions and black rice
 GREEN DISH: dish
-GREEN DISH: mapo tofu with tofu, chili, ginger and mushrooms in a rich andwarming sauce full of depth and spice. Served with rice
-(6+10+13)</description>
-      <guid isPermaLink="false">urn:canteen:37bc4f466bc1f54e-20260330</guid>
-      <pubDate>Mon, 30 Mar 2026 08:20:21 +0000</pubDate>
+Fajita with grilled vegetables and plant protein, served with avocado cream andblack rice</description>
+      <guid isPermaLink="false">urn:canteen:cff34360386a714a-20260331</guid>
+      <pubDate>Tue, 31 Mar 2026 06:19:21 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Spiced Mexican stew with pork, vegetables and beans, slow simmered for warmthand depth, served with brown rice and topped with fresh spring onions. Limeyoghurt, coriander and jalapeños on the side
-(13+15)
+Chicken Danoise, golden roasted and served with potatoes and rich brown gravy,topped with parsley and cress. Crisp little gem lettuce, grandma styledressing, pickled cucumbers and rhubarb compote on the side (6+13)
 GREEN DISH: dish
-Spiced Mexican stew with soy protein, vegetables and beans, rich in warm spicesand full flavour, served with brown rice and topped with spring onions. Limeyoghurt, coriander and jalapeños on the side</description>
-      <guid isPermaLink="false">urn:canteen:83da1373b14725bc-20260330</guid>
-      <pubDate>Mon, 30 Mar 2026 08:20:21 +0000</pubDate>
+House made bean and lentil patty served with potatoes and brown gravy, toppedwith parsley and cress. Little gem lettuce, grandma style dressing, pickledcucumbers and rhubarb compote on the side
+(6+13)</description>
+      <guid isPermaLink="false">urn:canteen:b60cefe1d1771b6b-20260331</guid>
+      <pubDate>Tue, 31 Mar 2026 06:19:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
