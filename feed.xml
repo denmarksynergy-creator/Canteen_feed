@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Tuesday, 07 April 2026</title>
+    <title>Canteen Menu - Wednesday, 08 April 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 07 Apr 2026 06:22:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 06:23:47 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,68 +29,61 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260407</guid>
-      <pubDate>Tue, 07 Apr 2026 06:22:33 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260408</guid>
+      <pubDate>Wed, 08 Apr 2026 06:23:47 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260407</guid>
-      <pubDate>Tue, 07 Apr 2026 06:22:33 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260408</guid>
+      <pubDate>Wed, 08 Apr 2026 06:23:47 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Swedish meatballs served with silky mashed potatoes and rich brown cream sauce,topped with peas tossed in cold pressed rapeseed oil and fresh parsley.Lingonberry jam and pickled cucumbers on the side
-(1+2+6)</description>
-      <guid isPermaLink="false">urn:canteen:c8a7b358c7c3a650-20260407</guid>
-      <pubDate>Tue, 07 Apr 2026 06:22:33 +0000</pubDate>
+Rich mushroom stroganoff with pasta, also available as whole grain and glutenfree, topped with freshly chopped parsley. Green salad and apple vinaigrette onthe side
+(1+6+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:027b74c8799c2a85-20260408</guid>
+      <pubDate>Wed, 08 Apr 2026 06:23:47 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-BBQ pulled turkey tossed with onions and cabbage, served on crispy potato röstiand topped with creamy mornay sauce and fresh spring onions. Horseradish andchive sauce with cucumber and apple salad on the side
-(6+13+15)
-GREEN DISH: dish
-BBQ pulled oyster mushrooms with onions and cabbage, served on crispy potatorösti and topped with mornay sauce and spring onions. Horseradish and chivesauce with cucumber and apple salad on the side</description>
-      <guid isPermaLink="false">urn:canteen:4f2b47992242f439-20260407</guid>
-      <pubDate>Tue, 07 Apr 2026 06:22:33 +0000</pubDate>
+Nicaraguan vegan arroz a la valenciana with turmeric rice, also available asbrown rice, filled with spices, vegetables and soy protein. Served with blackbeans in sofrito and topped with spring onions. Fresh cucumber and dill saladon the side
+(13+15)</description>
+      <guid isPermaLink="false">urn:canteen:eecc1159c986a289-20260408</guid>
+      <pubDate>Wed, 08 Apr 2026 06:23:47 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Five spice pork belly, slow cooked until tender with caramelised edges, servedwith fried rice
-(2+7+15)
-GREEN DISH: dish
-Five spice tofu with deep umami and warm spice, served with fried rice</description>
-      <guid isPermaLink="false">urn:canteen:a36940aa4967428d-20260407</guid>
-      <pubDate>Tue, 07 Apr 2026 06:22:33 +0000</pubDate>
+Rich baked egg dish with potatoes and grilled peppers, seasoned with freshherbs. Served with creamy aioli
+(2+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:a385d4aef39822fa-20260408</guid>
+      <pubDate>Wed, 08 Apr 2026 06:23:47 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Chicken fajita with spicy chipotle, served with avocado cream, grilled peppers,red onions and black rice
-GREEN DISH: dish
-Fajita with grilled vegetables and plant protein, served with avocado cream andblack rice</description>
-      <guid isPermaLink="false">urn:canteen:cff34360386a714a-20260407</guid>
-      <pubDate>Tue, 07 Apr 2026 06:22:33 +0000</pubDate>
+Pasta pesto with a rich pesto of basil, parsley, seeds and cheese, coatinggrilled vegetables and legumes in every bite
+(1+6+8+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:f75449c66342ca83-20260408</guid>
+      <pubDate>Wed, 08 Apr 2026 06:23:47 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Chicken Danoise, golden roasted and served with potatoes and rich brown gravy,topped with parsley and cress. Crisp little gem lettuce, grandma styledressing, pickled cucumbers and rhubarb compote on the side (6+13)
-GREEN DISH: dish
-House made bean and lentil patty served with potatoes and brown gravy, toppedwith parsley and cress. Little gem lettuce, grandma style dressing, pickledcucumbers and rhubarb compote on the side
-(6+13)</description>
-      <guid isPermaLink="false">urn:canteen:b60cefe1d1771b6b-20260407</guid>
-      <pubDate>Tue, 07 Apr 2026 06:22:33 +0000</pubDate>
+Vegetable hash with beans and mushrooms, topped with egg and crisp rye breadcrunch. Pickled beetroot, avocado ranch dressing and fresh herb salad on theside
+(1+2+6+8+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:5b7d2dac2f56556c-20260408</guid>
+      <pubDate>Wed, 08 Apr 2026 06:23:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
