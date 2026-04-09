@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 08 April 2026</title>
+    <title>Canteen Menu - Thursday, 09 April 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 08 Apr 2026 06:23:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 06:26:20 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,61 +29,69 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260408</guid>
-      <pubDate>Wed, 08 Apr 2026 06:23:47 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260409</guid>
+      <pubDate>Thu, 09 Apr 2026 06:26:20 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260408</guid>
-      <pubDate>Wed, 08 Apr 2026 06:23:47 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260409</guid>
+      <pubDate>Thu, 09 Apr 2026 06:26:20 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Rich mushroom stroganoff with pasta, also available as whole grain and glutenfree, topped with freshly chopped parsley. Green salad and apple vinaigrette onthe side
-(1+6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:027b74c8799c2a85-20260408</guid>
-      <pubDate>Wed, 08 Apr 2026 06:23:47 +0000</pubDate>
+Brændende kærlighed, a Danish comfort classic with crisp bacon and onions oversilky mashed potatoes, topped with chopped chives, cress and parsley. Pickled beetroot and wholegrain mustard on the side
+(6+11+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:fc1c19c0c111e3d7-20260409</guid>
+      <pubDate>Thu, 09 Apr 2026 06:26:20 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Nicaraguan vegan arroz a la valenciana with turmeric rice, also available asbrown rice, filled with spices, vegetables and soy protein. Served with blackbeans in sofrito and topped with spring onions. Fresh cucumber and dill saladon the side
-(13+15)</description>
-      <guid isPermaLink="false">urn:canteen:eecc1159c986a289-20260408</guid>
-      <pubDate>Wed, 08 Apr 2026 06:23:47 +0000</pubDate>
+Greek lemon and pepper chicken with roasted potatoes and slow baked tomatoes,topped with pea shoots. Greek carrot salad with salad cheese and agave lemonbalsamic glaze on the side
+(6+13+15)
+GREEN DISH: dish
+Greek lemon and pepper portobello with roasted potatoes and slow bakedtomatoes, topped with pea shoots. Greek carrot salad with salad cheese andagave lemon balsamic glaze on the side</description>
+      <guid isPermaLink="false">urn:canteen:b5e838ad474d6f66-20260409</guid>
+      <pubDate>Thu, 09 Apr 2026 06:26:20 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Rich baked egg dish with potatoes and grilled peppers, seasoned with freshherbs. Served with creamy aioli
-(2+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:a385d4aef39822fa-20260408</guid>
-      <pubDate>Wed, 08 Apr 2026 06:23:47 +0000</pubDate>
+Oven baked saithe served with creamy mussel sauce and salt baked celeriac,topped with chopped parsley and crisp breadcrumbs
+(3+10+14+15)
+GREEN DISH: dish
+Breaded and pan fried tempeh with fresh salsa verde and salt baked celeriac,topped with chopped parsley and crisp breadcrumbs
+(1+10+15)</description>
+      <guid isPermaLink="false">urn:canteen:99798b4d49603da8-20260409</guid>
+      <pubDate>Thu, 09 Apr 2026 06:26:20 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Pasta pesto with a rich pesto of basil, parsley, seeds and cheese, coatinggrilled vegetables and legumes in every bite
-(1+6+8+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:f75449c66342ca83-20260408</guid>
-      <pubDate>Wed, 08 Apr 2026 06:23:47 +0000</pubDate>
+Thit kho, a Vietnamese everyday classic with caramelised pork, coconut andfresh greens, served with fragrant jasmine rice
+(7+8+15)
+GREEN DISH: dish
+Thit kho in a green interpretation with caramelised tofu, coconut and freshgreens, served with jasmine rice</description>
+      <guid isPermaLink="false">urn:canteen:4be88f7476631abf-20260409</guid>
+      <pubDate>Thu, 09 Apr 2026 06:26:20 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Vegetable hash with beans and mushrooms, topped with egg and crisp rye breadcrunch. Pickled beetroot, avocado ranch dressing and fresh herb salad on theside
-(1+2+6+8+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:5b7d2dac2f56556c-20260408</guid>
-      <pubDate>Wed, 08 Apr 2026 06:23:47 +0000</pubDate>
+Creamy penne pasta, also available as whole grain and gluten free, tossed withpesto, peppers and onions, topped with Italian roasted chicken and a rustictomato and basil salad. Fennel crudité with herbs, lemon and chili sauce on theside
+(1+6+13+15)
+GREEN DISH: Creamy penne pasta, also available as whole grain and gluten free, tossed withpesto, peppers and onions, topped with Italian roasted oyster mushrooms and arustic tomato and basil salad. Fennel crudité with herbs, lemon and chili sauceon the side</description>
+      <guid isPermaLink="false">urn:canteen:31551103c5351fe7-20260409</guid>
+      <pubDate>Thu, 09 Apr 2026 06:26:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
