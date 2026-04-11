@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Friday, 10 April 2026</title>
+    <title>Canteen Menu - Saturday, 11 April 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 10 Apr 2026 06:57:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 07:00:32 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,70 +29,8 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260410</guid>
-      <pubDate>Fri, 10 Apr 2026 06:57:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Sprout Lunch Menu:
-Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260410</guid>
-      <pubDate>Fri, 10 Apr 2026 06:57:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Homebound Lunch Menu:
-Brændende kærlighed, a Danish comfort classic with crisp bacon and onions oversilky mashed potatoes, topped with chopped chives, cress and parsley. Pickled beetroot and wholegrain mustard on the side
-(6+11+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:fc1c19c0c111e3d7-20260410</guid>
-      <pubDate>Fri, 10 Apr 2026 06:57:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Greek lemon and pepper chicken with roasted potatoes and slow baked tomatoes,topped with pea shoots. Greek carrot salad with salad cheese and agave lemonbalsamic glaze on the side
-(6+13+15)
-GREEN DISH: dish
-Greek lemon and pepper portobello with roasted potatoes and slow bakedtomatoes, topped with pea shoots. Greek carrot salad with salad cheese andagave lemon balsamic glaze on the side</description>
-      <guid isPermaLink="false">urn:canteen:b5e838ad474d6f66-20260410</guid>
-      <pubDate>Fri, 10 Apr 2026 06:57:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB3 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB3 - Lunch Menu:
-Burrito filled with pulled pork neck, served with creamy guacamole and freshtomato salad. Lime and coriander on the side
-(1)
-GREEN DISH: dish
-Burrito filled with pulled tofu seasoned with chipotle, served with guacamoleand tomato salad. Lime and coriander on the side
-(1+7)</description>
-      <guid isPermaLink="false">urn:canteen:648ec7c6f1971615-20260410</guid>
-      <pubDate>Fri, 10 Apr 2026 06:57:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB2 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB2 - Lunch Menu:
-Fish n’ Chips, a British classic with crisp fish and golden potatoes, servedwith pea purée and tartar sauce
-(1+2+3+6+10+15)
-GREEN DISH: dish
-Crisp tempura vegetables served with pea purée and tartar sauce, a green takeon the English classic
-(1+3+6+10+15)</description>
-      <guid isPermaLink="false">urn:canteen:1454e35184af2c37-20260410</guid>
-      <pubDate>Fri, 10 Apr 2026 06:57:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 – Kays - Lunch Menu:
-Burritos, also available as whole grain and gluten free, filled with beef, limerice, beans and cheese, topped with salsa, yoghurt dressing and herbs.Guacamole and charred corn and cabbage salad on the side
-(1+6+13+15)
-GREEN DISH: Burritos, also available as whole grain and gluten free, filled with soyprotein, Mexican rice, beans and cheese, topped with salsa, yoghurt dressingand herbs. Guacamole and charred corn and cabbage salad on the side</description>
-      <guid isPermaLink="false">urn:canteen:ad2fac2764b99734-20260410</guid>
-      <pubDate>Fri, 10 Apr 2026 06:57:59 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260411</guid>
+      <pubDate>Sat, 11 Apr 2026 07:00:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
