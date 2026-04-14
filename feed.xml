@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Monday, 13 April 2026</title>
+    <title>Canteen Menu - Tuesday, 14 April 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Mon, 13 Apr 2026 09:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 06:55:48 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,16 +29,16 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260413</guid>
-      <pubDate>Mon, 13 Apr 2026 09:01:43 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260414</guid>
+      <pubDate>Tue, 14 Apr 2026 06:55:48 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260413</guid>
-      <pubDate>Mon, 13 Apr 2026 09:01:43 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260414</guid>
+      <pubDate>Tue, 14 Apr 2026 06:55:48 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
@@ -46,8 +46,8 @@ Our daily meal salad rich in seasonal vegetables with a choice of protein</descr
       <description>🍽 HUB1 - Homebound Lunch Menu:
 Crisp breaded pork patties, also available gluten free, served with classiccreamed peas and carrots and boiled potatoes, topped with fresh parsley.Mustard and tomato melon salad on the side
 (1+2+6+11)</description>
-      <guid isPermaLink="false">urn:canteen:eee7e5f521639b5d-20260413</guid>
-      <pubDate>Mon, 13 Apr 2026 09:01:43 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:eee7e5f521639b5d-20260414</guid>
+      <pubDate>Tue, 14 Apr 2026 06:55:48 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -57,40 +57,41 @@ Indonesian beef rendang, slow cooked for deep, rich flavour and warmth, withvege
 (13+15)
 GREEN DISH: dish
 Indonesian kidney bean rendang, rich in warm spices and depth, served withcoconut rice and toasted coconut flakes. Pickled cucumber salad and corianderon the side</description>
-      <guid isPermaLink="false">urn:canteen:3523825a84170fc2-20260413</guid>
-      <pubDate>Mon, 13 Apr 2026 09:01:43 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:3523825a84170fc2-20260414</guid>
+      <pubDate>Tue, 14 Apr 2026 06:55:48 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Indian spiced stew with chicken and potatoes, gently simmered in creamy coconutmilk, served with fresh yoghurt raita with mint and mango chutney
-(15)
+Pan roasted turkey with fresh pesto emulsion, served with pearl barley andkale, topped with blackcurrant crumble and finely chopped chives
+(1+15)
 GREEN DISH: dish
-Indian spiced stew with tofu and potatoes in creamy coconut milk, rich andwarming, served with mint yoghurt raita and mango chutney</description>
-      <guid isPermaLink="false">urn:canteen:20cf3b78a40f9828-20260413</guid>
-      <pubDate>Mon, 13 Apr 2026 09:01:43 +0000</pubDate>
+Chili sin carne, rich and warming, served with rice
+(15)</description>
+      <guid isPermaLink="false">urn:canteen:8abc63bb5f736756-20260414</guid>
+      <pubDate>Tue, 14 Apr 2026 06:55:48 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Lamb porchetta with a juicy centre and crisp edges, served with white beans,bulgur and fresh herb packed salsa verde
-(1+10+13+15)
+Jerk chicken with warm spices and a hint of smoke, served with rich dirty riceand vegetables
+(13+15)
 GREEN DISH: dish
-Grilled pointed cabbage with deep roasted flavour, served with white beans,bulgur and fresh salsa verde</description>
-      <guid isPermaLink="false">urn:canteen:d29ef44b119be9e8-20260413</guid>
-      <pubDate>Mon, 13 Apr 2026 09:01:43 +0000</pubDate>
+Jerk aubergine with bold spices and soft texture, served with dirty rice</description>
+      <guid isPermaLink="false">urn:canteen:b73ac36314ca868f-20260414</guid>
+      <pubDate>Tue, 14 Apr 2026 06:55:48 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Thai chicken in a creamy peanut sauce with warm spices, served with fragrantjasmine rice and topped with spring onions and salted, lightly smoked peanuts.Asian coleslaw with mango dressing and lime on the side
-(4+7+13+15)
-GREEN DISH: Thai tofu in a rich peanut sauce with deep umami, served with jasmine rice andtopped with spring onions and roasted peanuts. Asian coleslaw with mangodressing and lime on the side</description>
-      <guid isPermaLink="false">urn:canteen:16573cb7a5b975f4-20260413</guid>
-      <pubDate>Mon, 13 Apr 2026 09:01:43 +0000</pubDate>
+Juicy Danish meatballs with extra vegetables, served with creamy cold potatosalad with chives, dill, red onion and crisp radishes, topped with pea shoots.Pickled cucumbers and Dijon mustard on the side
+(1+2+6+11+13)
+GREEN DISH: Split pea patties with texture and depth, served with creamy potato salad andfresh herbs, topped with pea shoots. Pickled cucumbers and Dijon mustard on theside</description>
+      <guid isPermaLink="false">urn:canteen:efe2aceaa13bdd84-20260414</guid>
+      <pubDate>Tue, 14 Apr 2026 06:55:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
