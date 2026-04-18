@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Friday, 17 April 2026</title>
+    <title>Canteen Menu - Saturday, 18 April 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 17 Apr 2026 07:02:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:05:51 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,68 +29,8 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260417</guid>
-      <pubDate>Fri, 17 Apr 2026 07:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Sprout Lunch Menu:
-Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260417</guid>
-      <pubDate>Fri, 17 Apr 2026 07:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Homebound Lunch Menu:
-Nordic creamy chili con carne with chicken, sea buckthorn and vegetables, richwith a slight acidity, served with grilled sourdough bread, can be servedwithout bread as gluten free, and topped with fresh mizuna salad. Redonion and lemon on the side
-(1+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:05fad30e1cb2ab48-20260417</guid>
-      <pubDate>Fri, 17 Apr 2026 07:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Puerto Rican pernil, slow roasted pork neck with a juicy centre and crispedges, served with plantain sweet potato mash and mojo sauce. Finished withparsley and served with coleslaw in mojito vinaigrette
-(6+11+13+15)
-GREEN DISH: dish
-GREEN DISH: pernil with roasted oyster mushrooms, served with plantain sweetpotato mash and mojo sauce. Coleslaw with mojito vinaigrette</description>
-      <guid isPermaLink="false">urn:canteen:ab9c3309a52bd43b-20260417</guid>
-      <pubDate>Fri, 17 Apr 2026 07:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB3 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB3 - Lunch Menu:
-Chicken burger with sticky chili, juicy and bold, served with marinated cabbageand fresh lime
-(1+15)
-GREEN DISH: dish
-Sticky chili tofu burger with warm spices, served with marinated cabbage andlime</description>
-      <guid isPermaLink="false">urn:canteen:9e7cbe6542a272e6-20260417</guid>
-      <pubDate>Fri, 17 Apr 2026 07:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB2 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB2 - Lunch Menu:
-Bao buns filled with hoisin glazed pork, served with crisp Asian salad andfresh herbs
-(1+7+11+13+15)
-GREEN DISH: dish
-Bao buns with hoisin marinated tofu, served with Asian salad and fresh herbs</description>
-      <guid isPermaLink="false">urn:canteen:3811c93481742ffd-20260417</guid>
-      <pubDate>Fri, 17 Apr 2026 07:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 – Kays - Lunch Menu:
-Danish beef sandwich with juicy beef patty in rich brown gravy and soft onions,served in a bun with crisp potato chips. Classic toppings and extra gravy onthe side
-(1+2+6+11+13)
-GREEN DISH: sandwich with soy protein patty in vegan gravy and soft onions,served in a bun with potato chips. Classic toppings and extra gravy on the side</description>
-      <guid isPermaLink="false">urn:canteen:2a2c5a721e155e19-20260417</guid>
-      <pubDate>Fri, 17 Apr 2026 07:02:30 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260418</guid>
+      <pubDate>Sat, 18 Apr 2026 07:05:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
