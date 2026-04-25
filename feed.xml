@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Friday, 24 April 2026</title>
+    <title>Canteen Menu - Saturday, 25 April 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 24 Apr 2026 07:09:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 07:13:02 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,69 +29,8 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260424</guid>
-      <pubDate>Fri, 24 Apr 2026 07:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Sprout Lunch Menu:
-Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260424</guid>
-      <pubDate>Fri, 24 Apr 2026 07:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Homebound Lunch Menu:
-Spicy chicken with warm spices, served with baked sweet potato and topped withcreamy avocado and fresh herbs. Red cabbage and orange salad with agave limevinaigrette on the side
-(2+11+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:6f5d7244541fac25-20260424</guid>
-      <pubDate>Fri, 24 Apr 2026 07:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Korean bibimbap with seared beef, mushrooms and marinated vegetables, servedwith sushi rice, also available as brown rice, topped with fried egg andtoasted sesame seeds. Kimchi on the side
-(2+7+8+13+15)
-GREEN DISH: dish
-Korean bibimbap with sautéed edamame, mushrooms and marinated vegetables,served with sushi rice, topped with fried egg and toasted sesame seeds. Kimchion the side</description>
-      <guid isPermaLink="false">urn:canteen:8c1b4cfe9648d1a9-20260424</guid>
-      <pubDate>Fri, 24 Apr 2026 07:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB3 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB3 - Lunch Menu:
-Cheeseburger with juicy beef patty, melted cheddar, pickles, onionrelish and mayonnaise
-(1+2+15)
-GREEN DISH: dish
-Mushroom cheeseburger with cheddar, pickles, onion relish and mayonnaise</description>
-      <guid isPermaLink="false">urn:canteen:c04b9f390ae04b4a-20260424</guid>
-      <pubDate>Fri, 24 Apr 2026 07:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB2 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB2 - Lunch Menu:
-Lasagne med fyldig ragù og cremet bechamel, gratineret til gylden overflade
-(1+6+13+15)
-GREEN DISH: ret
-Grøntsagslasagne med lag af grønt, tomat og cremet sauce, bagt til gyldenfinish</description>
-      <guid isPermaLink="false">urn:canteen:54a47afd1dba6adf-20260424</guid>
-      <pubDate>Fri, 24 Apr 2026 07:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 – Kays - Lunch Menu:
-Pan con lechón, cubansk sandwich med plukket nakkefilet i caribiske smage, løgog mojosauce samt sprød jalapeño krydret flæskesvær, serveret med ristedekartofler. Hertil frisk kål og agurkesalat vendt i mojito vinaigrette samt sortpeber aioli a part
-(1+2+11+13+15)
-GREEN DISH: ret
-Pan con los hongos, cubansk sandwich med marinerede svampe i caribiske smage,løg og mojosauce, serveret med ristede kartofler. Hertil kål og agurkesalatsamt sort peber aioli a part</description>
-      <guid isPermaLink="false">urn:canteen:8f36627aea56dc19-20260424</guid>
-      <pubDate>Fri, 24 Apr 2026 07:09:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260425</guid>
+      <pubDate>Sat, 25 Apr 2026 07:13:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
