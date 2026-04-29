@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Tuesday, 28 April 2026</title>
+    <title>Canteen Menu - Wednesday, 29 April 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 28 Apr 2026 07:34:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 07:25:31 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,68 +29,61 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260428</guid>
-      <pubDate>Tue, 28 Apr 2026 07:34:05 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260429</guid>
+      <pubDate>Wed, 29 Apr 2026 07:25:31 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260428</guid>
-      <pubDate>Tue, 28 Apr 2026 07:34:05 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260429</guid>
+      <pubDate>Wed, 29 Apr 2026 07:25:31 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Chicken in a creamy peanut sauce with vegetables, served with rice and toppedwith toasted coconut flakes and spring onions. Fresh Ajaad salad on the side (4+6+7+15)</description>
-      <guid isPermaLink="false">urn:canteen:beeee0fe7de49721-20260428</guid>
-      <pubDate>Tue, 28 Apr 2026 07:34:05 +0000</pubDate>
+Creamy Jerusalem artichoke soup on a base of root vegetables, finished withgreen truffle oil and fresh herbs. Served with grilled sourdough toast withwild garlic butter. Crisp seed and bean salad on the side
+(1+6)</description>
+      <guid isPermaLink="false">urn:canteen:3f1649cc79fb6171-20260429</guid>
+      <pubDate>Wed, 29 Apr 2026 07:25:31 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-North African lamb cassoulet with white beans, vegetables and dried fruits,slow simmered with warm spices, served with roasted potatoes and topped withfresh mint and parsley. Mustard on the side
-(11+13+15)
-GREEN DISH: dish
-North African broccoli cassoulet with white beans, vegetables and dried fruits,rich in warm spices, served with roasted potatoes and topped with mint andparsley. Mustard on the side</description>
-      <guid isPermaLink="false">urn:canteen:7d8c8688a0000430-20260428</guid>
-      <pubDate>Tue, 28 Apr 2026 07:34:05 +0000</pubDate>
+Makali, crispy fried cauliflower served with fresh quinoa tabbouleh, creamyhummus and pita from the local bakery, topped with parsley. Pickled kohlrabiand lemon on the side
+(1+15)</description>
+      <guid isPermaLink="false">urn:canteen:746cc4489067aa97-20260429</guid>
+      <pubDate>Wed, 29 Apr 2026 07:25:31 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Penne pasta surf and turf with mussels and bacon in a spiced tomato sauceinspired by puttanesca, finished with fresh marjoram and parmesan
-(1+6+14+15)
-GREEN DISH: dish
-Penne pasta puttanesca with a rich tomato sauce, marjoram and parmesan, boldand aromatic
-(1+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:d23a3054458f4096-20260428</guid>
-      <pubDate>Tue, 28 Apr 2026 07:34:05 +0000</pubDate>
+Salt baked celeriac served with black lentils and finished with sauce café deParis with browned butter, garlic, capers, shallots and parsley. Crisp friséesalad with vinaigrette on the side
+(6+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:82e3d01e6ffa8a39-20260429</guid>
+      <pubDate>Wed, 29 Apr 2026 07:25:31 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Spring inspired chicken in a creamy sauce with asparagus, peas and carrots,light and fresh, served with potatoes
-(1)
-GREEN DISH: dish
-Vegetable patties in a creamy spring sauce with asparagus, peas and carrots,served with potatoes</description>
-      <guid isPermaLink="false">urn:canteen:231857cdc5ba044a-20260428</guid>
-      <pubDate>Tue, 28 Apr 2026 07:34:05 +0000</pubDate>
+Chili sin carne with protein rich legumes and vegetables, full of depth with agentle smoky heat from chipotle
+(10+15)</description>
+      <guid isPermaLink="false">urn:canteen:a10e2723ec07d1f3-20260429</guid>
+      <pubDate>Wed, 29 Apr 2026 07:25:31 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Cajun turkey casserole with warm spices and vegetables, topped with crispycornbread crumble and chives, served with wild rice. Cranberry sauce on theside
-(1+6+15)
-GREEN DISH: Cajun casserole with soy protein and vegetables, topped with cornbread crumbleand chives, served with wild rice. Cranberry sauce on the side</description>
-      <guid isPermaLink="false">urn:canteen:a0040eab176e053e-20260428</guid>
-      <pubDate>Tue, 28 Apr 2026 07:34:05 +0000</pubDate>
+Creamy penne with mushrooms, puy lentils and spinach, rich and comforting,topped with parmesan and fresh herbs. Roasted vegetables with pesto on the side
+(1+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:48a2dbf9d977f5dd-20260429</guid>
+      <pubDate>Wed, 29 Apr 2026 07:25:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
