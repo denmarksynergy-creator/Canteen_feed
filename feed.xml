@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 29 April 2026</title>
+    <title>Canteen Menu - Thursday, 30 April 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 29 Apr 2026 07:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 07:32:43 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,61 +29,68 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260429</guid>
-      <pubDate>Wed, 29 Apr 2026 07:25:31 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260430</guid>
+      <pubDate>Thu, 30 Apr 2026 07:32:43 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260429</guid>
-      <pubDate>Wed, 29 Apr 2026 07:25:31 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260430</guid>
+      <pubDate>Thu, 30 Apr 2026 07:32:43 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Creamy Jerusalem artichoke soup on a base of root vegetables, finished withgreen truffle oil and fresh herbs. Served with grilled sourdough toast withwild garlic butter. Crisp seed and bean salad on the side
-(1+6)</description>
-      <guid isPermaLink="false">urn:canteen:3f1649cc79fb6171-20260429</guid>
-      <pubDate>Wed, 29 Apr 2026 07:25:31 +0000</pubDate>
+Mock hare, a Danish classic beef meatloaf topped with crispy bacon, served withbutter roasted potatoes and rich brown cream gravy, finished with parsley.Apple and plum compote and pickled cucumber on the side
+(1+2+6+11)</description>
+      <guid isPermaLink="false">urn:canteen:9f36bfba223666f8-20260430</guid>
+      <pubDate>Thu, 30 Apr 2026 07:32:43 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Makali, crispy fried cauliflower served with fresh quinoa tabbouleh, creamyhummus and pita from the local bakery, topped with parsley. Pickled kohlrabiand lemon on the side
-(1+15)</description>
-      <guid isPermaLink="false">urn:canteen:746cc4489067aa97-20260429</guid>
-      <pubDate>Wed, 29 Apr 2026 07:25:31 +0000</pubDate>
+Bobotie, a South African classic with spiced beef, vegetables and chutney,baked with a savoury egg custard. Served with yellow rice and topped withchives. Tomato sambal and toasted coconut on the side
+(1+2+6+11+13+15)
+GREEN DISH: dish
+GREEN DISH: bobotie with lentils, vegetables and spices, baked with egg custardand served with yellow rice. Tomato sambal and toasted coconut on theside</description>
+      <guid isPermaLink="false">urn:canteen:9219fbf6818936ad-20260430</guid>
+      <pubDate>Thu, 30 Apr 2026 07:32:43 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Salt baked celeriac served with black lentils and finished with sauce café deParis with browned butter, garlic, capers, shallots and parsley. Crisp friséesalad with vinaigrette on the side
-(6+11+15)</description>
-      <guid isPermaLink="false">urn:canteen:82e3d01e6ffa8a39-20260429</guid>
-      <pubDate>Wed, 29 Apr 2026 07:25:31 +0000</pubDate>
+Cured and slow cooked beef brisket, tender and juicy, served with potatoes,carrot brunoise and peas with parsley and shallots. Creamy horseradish sauce onthe side
+(6+15)
+GREEN DISH: dish
+Crispy pakoras with warm spices, served with chutney and raita</description>
+      <guid isPermaLink="false">urn:canteen:0fbe8cf0c2fd6072-20260430</guid>
+      <pubDate>Thu, 30 Apr 2026 07:32:43 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Chili sin carne with protein rich legumes and vegetables, full of depth with agentle smoky heat from chipotle
-(10+15)</description>
-      <guid isPermaLink="false">urn:canteen:a10e2723ec07d1f3-20260429</guid>
-      <pubDate>Wed, 29 Apr 2026 07:25:31 +0000</pubDate>
+Feijoada, a Brazilian black bean stew with rich flavours from various cuts andsausages, hearty and bold
+(15)
+GREEN DISH: dish
+GREEN DISH: feijoada with beans and vegetables, rich and warming</description>
+      <guid isPermaLink="false">urn:canteen:37ac27139683a2e8-20260430</guid>
+      <pubDate>Thu, 30 Apr 2026 07:32:43 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Creamy penne with mushrooms, puy lentils and spinach, rich and comforting,topped with parmesan and fresh herbs. Roasted vegetables with pesto on the side
-(1+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:48a2dbf9d977f5dd-20260429</guid>
-      <pubDate>Wed, 29 Apr 2026 07:25:31 +0000</pubDate>
+Pulled duck stir fry with ginger, garlic and crisp vegetables, served withjasmine rice and topped with spicy toasted sesame seeds. Carrot and bean sproutsalad with orange sesame vinaigrette
+(7+8+15)
+GREEN DISH: Tofu stir fry with ginger, garlic and vegetables, served with jasmine rice andtoasted sesame seeds. Carrot and bean sprout salad with orange sesamevinaigrette</description>
+      <guid isPermaLink="false">urn:canteen:0fa0de3e9c0ff7d7-20260430</guid>
+      <pubDate>Thu, 30 Apr 2026 07:32:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
