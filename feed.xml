@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Thursday, 30 April 2026</title>
+    <title>Canteen Menu - Friday, 01 May 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 30 Apr 2026 07:32:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 07:30:44 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,16 +29,16 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260430</guid>
-      <pubDate>Thu, 30 Apr 2026 07:32:43 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260501</guid>
+      <pubDate>Fri, 01 May 2026 07:30:44 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260430</guid>
-      <pubDate>Thu, 30 Apr 2026 07:32:43 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260501</guid>
+      <pubDate>Fri, 01 May 2026 07:30:44 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
@@ -46,8 +46,8 @@ Our daily meal salad rich in seasonal vegetables with a choice of protein</descr
       <description>🍽 HUB1 - Homebound Lunch Menu:
 Mock hare, a Danish classic beef meatloaf topped with crispy bacon, served withbutter roasted potatoes and rich brown cream gravy, finished with parsley.Apple and plum compote and pickled cucumber on the side
 (1+2+6+11)</description>
-      <guid isPermaLink="false">urn:canteen:9f36bfba223666f8-20260430</guid>
-      <pubDate>Thu, 30 Apr 2026 07:32:43 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:9f36bfba223666f8-20260501</guid>
+      <pubDate>Fri, 01 May 2026 07:30:44 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -57,40 +57,40 @@ Bobotie, a South African classic with spiced beef, vegetables and chutney,baked 
 (1+2+6+11+13+15)
 GREEN DISH: dish
 GREEN DISH: bobotie with lentils, vegetables and spices, baked with egg custardand served with yellow rice. Tomato sambal and toasted coconut on theside</description>
-      <guid isPermaLink="false">urn:canteen:9219fbf6818936ad-20260430</guid>
-      <pubDate>Thu, 30 Apr 2026 07:32:43 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:9219fbf6818936ad-20260501</guid>
+      <pubDate>Fri, 01 May 2026 07:30:44 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Cured and slow cooked beef brisket, tender and juicy, served with potatoes,carrot brunoise and peas with parsley and shallots. Creamy horseradish sauce onthe side
-(6+15)
+Banh mi with pork, filled with chili mayonnaise, crisp cabbage, carrots,radishes and cucumber, finished with lime and fresh coriander
+(1+2+7+15)
 GREEN DISH: dish
-Crispy pakoras with warm spices, served with chutney and raita</description>
-      <guid isPermaLink="false">urn:canteen:0fbe8cf0c2fd6072-20260430</guid>
-      <pubDate>Thu, 30 Apr 2026 07:32:43 +0000</pubDate>
+Banh mi with tofu, chili mayonnaise, fresh vegetables, lime and coriander</description>
+      <guid isPermaLink="false">urn:canteen:31336242f3217566-20260501</guid>
+      <pubDate>Fri, 01 May 2026 07:30:44 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Feijoada, a Brazilian black bean stew with rich flavours from various cuts andsausages, hearty and bold
-(15)
+Hot dogs with all the classics, simple and satisfying, served with creamypotato salad
+(1+6+11+13)
 GREEN DISH: dish
-GREEN DISH: feijoada with beans and vegetables, rich and warming</description>
-      <guid isPermaLink="false">urn:canteen:37ac27139683a2e8-20260430</guid>
-      <pubDate>Thu, 30 Apr 2026 07:32:43 +0000</pubDate>
+GREEN DISH: hot dogs with all the classics, served with potato salad</description>
+      <guid isPermaLink="false">urn:canteen:973e0256e8c7a013-20260501</guid>
+      <pubDate>Fri, 01 May 2026 07:30:44 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Pulled duck stir fry with ginger, garlic and crisp vegetables, served withjasmine rice and topped with spicy toasted sesame seeds. Carrot and bean sproutsalad with orange sesame vinaigrette
-(7+8+15)
-GREEN DISH: Tofu stir fry with ginger, garlic and vegetables, served with jasmine rice andtoasted sesame seeds. Carrot and bean sprout salad with orange sesamevinaigrette</description>
-      <guid isPermaLink="false">urn:canteen:0fa0de3e9c0ff7d7-20260430</guid>
-      <pubDate>Thu, 30 Apr 2026 07:32:43 +0000</pubDate>
+Southern fried chicken with crispy coating, served with confit garlic mashedpotatoes and creamy coleslaw, topped with chives. Smoked chili sauce and ranchdressing on the side
+(1+2+6+11+15)
+GREEN DISH: Southern fried cauliflower with crispy coating, served with garlic mashedpotatoes and coleslaw. Smoked chili sauceand ranch dressing</description>
+      <guid isPermaLink="false">urn:canteen:dce5402312e6258d-20260501</guid>
+      <pubDate>Fri, 01 May 2026 07:30:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
