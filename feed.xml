@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Tuesday, 05 May 2026</title>
+    <title>Canteen Menu - Wednesday, 06 May 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 05 May 2026 07:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 07:37:01 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,70 +29,60 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260505</guid>
-      <pubDate>Tue, 05 May 2026 07:18:59 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260506</guid>
+      <pubDate>Wed, 06 May 2026 07:37:01 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260505</guid>
-      <pubDate>Tue, 05 May 2026 07:18:59 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260506</guid>
+      <pubDate>Wed, 06 May 2026 07:37:01 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Lemon and thyme roasted chicken served on creamy beetroot risotto withvegetables, topped with parmesan and fresh parsley. Lemon on the side (6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:b214cd9991a1163a-20260505</guid>
-      <pubDate>Tue, 05 May 2026 07:18:59 +0000</pubDate>
+Warm caponata served shakshuka style with egg and Italian potato salad, toppedwith fresh herbs. Olive oil and balsamic vinegar on the side (2+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:13f6b0fc174b19b4-20260506</guid>
+      <pubDate>Wed, 06 May 2026 07:37:01 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Thai massaman beef meatballs with warm spices and creamy depth, served withjasmine rice and sesame roasted carrots, topped with peanuts and parsley. Lime,fresh coriander and Asian coleslaw on the side
-(2+4+7+8+15)
-GREEN DISH: dish
-Thai massaman spiced lentil balls served with jasmine rice and sesame roastedcarrots, topped with peanuts and parsley. Lime, coriander and fresh Asiancoleslaw on the side
-(4+7+8+15)</description>
-      <guid isPermaLink="false">urn:canteen:70e5c0596b73ae92-20260505</guid>
-      <pubDate>Tue, 05 May 2026 07:18:59 +0000</pubDate>
+Kabak mücveri, Turkish zucchini fritters with a crisp finish and soft centre,served with orzo salad tossed with beans and roasted vegetables, topped withsalad cheese mixed with dill, mint and olive oil. Lemon and salted yoghurt onthe side
+(1+15)</description>
+      <guid isPermaLink="false">urn:canteen:35f77f82d7dd67bd-20260506</guid>
+      <pubDate>Wed, 06 May 2026 07:37:01 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Roasted turkey served with classic ratatouille, creamy walnut cream and freshherb salad
-(8+15)
-GREEN DISH: dish
-Roasted pointed cabbage with ratatouille, black lentils and rich walnut cream</description>
-      <guid isPermaLink="false">urn:canteen:3d3b6eae5764d44e-20260505</guid>
-      <pubDate>Tue, 05 May 2026 07:18:59 +0000</pubDate>
+Aloo palak with potatoes and spinach in creamy coconut milk and warm Indianspices, served with rice
+(15)</description>
+      <guid isPermaLink="false">urn:canteen:437c4beae47075d0-20260506</guid>
+      <pubDate>Wed, 06 May 2026 07:37:01 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Bøf Lindstrøm, a classic Danish beef patty with beetroot and capers, servedwith roasted potatoes and green salad with traditional dressing
-(6+11+13+15)
-GREEN DISH: dish
-GREEN DISH: Lindstrøm patty with beetroot and capers, served with roastedpotatoes and green salad with traditional dressing</description>
-      <guid isPermaLink="false">urn:canteen:64795bae1a1e40bc-20260505</guid>
-      <pubDate>Tue, 05 May 2026 07:18:59 +0000</pubDate>
+Pad Thai with fried egg, packed with acidity, umami and fresh flavours,everything we love about Thai cuisine
+(1+2+7+8+15)</description>
+      <guid isPermaLink="false">urn:canteen:cb769e2f6d4788ab-20260506</guid>
+      <pubDate>Wed, 06 May 2026 07:37:01 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Italian porchetta with a juicy centre and crisp finish, served with roastedpotatoes and sautéed carrots and haricots verts with confit garlic, topped withchives. Salsa verde on the side
-(11+15)
-GREEN DISH: dish
-Breaded aubergine with a crisp crust, served with roasted potatoes and sautéedcarrots and haricots verts with confit garlic, topped with chives. Salsa verdeon the side
-(1+2+11+15)</description>
-      <guid isPermaLink="false">urn:canteen:7230874522f02e2f-20260505</guid>
-      <pubDate>Tue, 05 May 2026 07:18:59 +0000</pubDate>
+Chow mein with vegetables and egg tossed with noodles, also available glutenfree, in a rich chow mein sauce with chili crisp, topped with spring onions.Smashed cucumber salad and extra chow mein sauce on the side
+(1+7+8+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:508b8738867b2c80-20260506</guid>
+      <pubDate>Wed, 06 May 2026 07:37:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
