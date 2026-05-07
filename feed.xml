@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 06 May 2026</title>
+    <title>Canteen Menu - Thursday, 07 May 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 06 May 2026 07:37:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 07:47:03 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,60 +29,69 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260506</guid>
-      <pubDate>Wed, 06 May 2026 07:37:01 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260507</guid>
+      <pubDate>Thu, 07 May 2026 07:47:03 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260506</guid>
-      <pubDate>Wed, 06 May 2026 07:37:01 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260507</guid>
+      <pubDate>Thu, 07 May 2026 07:47:03 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Warm caponata served shakshuka style with egg and Italian potato salad, toppedwith fresh herbs. Olive oil and balsamic vinegar on the side (2+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:13f6b0fc174b19b4-20260506</guid>
-      <pubDate>Wed, 06 May 2026 07:37:01 +0000</pubDate>
+(6+11+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:d137ba31a6414818-20260507</guid>
+      <pubDate>Thu, 07 May 2026 07:47:03 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Kabak mücveri, Turkish zucchini fritters with a crisp finish and soft centre,served with orzo salad tossed with beans and roasted vegetables, topped withsalad cheese mixed with dill, mint and olive oil. Lemon and salted yoghurt onthe side
-(1+15)</description>
-      <guid isPermaLink="false">urn:canteen:35f77f82d7dd67bd-20260506</guid>
-      <pubDate>Wed, 06 May 2026 07:37:01 +0000</pubDate>
+Cuban grilled chicken with rich Creole sauce and yellow rice, topped withspring onions. Sauce chien and creamy avocado on the side
+(15)
+GREEN DISH: dish
+Cuban inspired grilled tofu steak with Creole sauce and yellow rice, toppedwith spring onions. Sauce chien and avocado cream on the side</description>
+      <guid isPermaLink="false">urn:canteen:946ce36c1941daf5-20260507</guid>
+      <pubDate>Thu, 07 May 2026 07:47:03 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Aloo palak with potatoes and spinach in creamy coconut milk and warm Indianspices, served with rice
-(15)</description>
-      <guid isPermaLink="false">urn:canteen:437c4beae47075d0-20260506</guid>
-      <pubDate>Wed, 06 May 2026 07:37:01 +0000</pubDate>
+Breaded pork cutlet served with boiled potatoes and creamed carrots,cauliflower and peas, topped with chopped parsley
+(1+2+6+11+15)
+GREEN DISH: dish
+Breaded mushroom patty with potatoes and creamed vegetables, topped with freshparsley</description>
+      <guid isPermaLink="false">urn:canteen:52a0b97e6552fb8f-20260507</guid>
+      <pubDate>Thu, 07 May 2026 07:47:03 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Pad Thai with fried egg, packed with acidity, umami and fresh flavours,everything we love about Thai cuisine
-(1+2+7+8+15)</description>
-      <guid isPermaLink="false">urn:canteen:cb769e2f6d4788ab-20260506</guid>
-      <pubDate>Wed, 06 May 2026 07:37:01 +0000</pubDate>
+Pasta with meatballs in rich tomato sauce, a comforting Italian classic
+(1+6+13+15)
+GREEN DISH: dish
+Pasta with vegetable balls in tomato sauce, rich and comforting</description>
+      <guid isPermaLink="false">urn:canteen:2e9174a74927e815-20260507</guid>
+      <pubDate>Thu, 07 May 2026 07:47:03 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Chow mein with vegetables and egg tossed with noodles, also available glutenfree, in a rich chow mein sauce with chili crisp, topped with spring onions.Smashed cucumber salad and extra chow mein sauce on the side
-(1+7+8+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:508b8738867b2c80-20260506</guid>
-      <pubDate>Wed, 06 May 2026 07:37:01 +0000</pubDate>
+Thai red curry with salmon and creamy coconut milk, served with jasmine riceand topped with roasted cashews and coconut flakes. Lime and coriander on theside
+(3+7+9+15)
+GREEN DISH: dish
+Thai red curry with chickpeas, edamame and coconut milk, served with jasminerice and topped with roasted cashews and coconut flakes. Lime and coriander onthe side
+(7+9+15)</description>
+      <guid isPermaLink="false">urn:canteen:aeddc83f601e3011-20260507</guid>
+      <pubDate>Thu, 07 May 2026 07:47:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
