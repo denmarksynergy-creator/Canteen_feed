@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Tuesday, 19 May 2026</title>
+    <title>Canteen Menu - Wednesday, 20 May 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 19 May 2026 08:29:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 08:27:39 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,65 +29,58 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260519</guid>
-      <pubDate>Tue, 19 May 2026 08:29:52 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260520</guid>
+      <pubDate>Wed, 20 May 2026 08:27:39 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260519</guid>
-      <pubDate>Tue, 19 May 2026 08:29:52 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260520</guid>
+      <pubDate>Wed, 20 May 2026 08:27:39 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Boeuf Stroganoff — a classic Russian braise of tender beef and mushrooms in arich, creamy sauce — served with boiled potatoes and topped with fresh herbs.Pickled cucumber on the side (6+15)</description>
-      <guid isPermaLink="false">urn:canteen:d4b1a8cf294d1d36-20260519</guid>
-      <pubDate>Tue, 19 May 2026 08:29:52 +0000</pubDate>
+Lightly creamed gnocchi piccata with a hint of lemon and capers, topped with afresh fennel salad with Italian herbs. White beans in olive oil on the side(1+6+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:794a5625e7b96749-20260520</guid>
+      <pubDate>Wed, 20 May 2026 08:27:39 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Indonesian fried chicken with a crisp coating and juicy centre, served withfragrant jasmine rice and lalapan — fresh crisp vegetables. Lime and chilisauce on the side (1+2+3+15)
-GREEN DISH: I ndonesian spiced stir-fry with pea protein, fragrant jasmine rice and crispvegetables, topped with fresh herbs. Lime and chili sauce on the side (7+8+15)</description>
-      <guid isPermaLink="false">urn:canteen:a52c6b98a2aebeec-20260519</guid>
-      <pubDate>Tue, 19 May 2026 08:29:52 +0000</pubDate>
+Filipino Pancit — sautéed rice vermicelli noodles with deep umami and flavour,topped with roasted vegetables and tofu. Lime, crispy fried onion and garlic onthe side (7)</description>
+      <guid isPermaLink="false">urn:canteen:93879cfdd59764cb-20260520</guid>
+      <pubDate>Wed, 20 May 2026 08:27:39 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Classic boeuf bourguignon with tender chuck roast, mushrooms, pearl onions andcrispy bacon, slow braised and served with creamy mashed potatoes
-(15)
-GREEN DISH: dish
-GREEN DISH: bourguignon with mushrooms, pearl onions and vegetables, slow cookedfor depth and warmth, served with creamy mashed potatoes</description>
-      <guid isPermaLink="false">urn:canteen:4a803e9bb144e46e-20260519</guid>
-      <pubDate>Tue, 19 May 2026 08:29:52 +0000</pubDate>
+Cannelloni filled with creamy ricotta and fresh spinach, baked in a rich tomatosauce and silky béchamel
+(1+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:04aaa8c1a4286aec-20260520</guid>
+      <pubDate>Wed, 20 May 2026 08:27:39 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Classic boeuf bourguignon with tender chuck roast, mushrooms, pearl onions andcrispy bacon, slow braised and served with creamy mashed potatoes
-(15)
-GREEN DISH: dish
-GREEN DISH: bourguignon with mushrooms, pearl onions and vegetables, slow cookedfor depth and warmth, served with creamy mashed potatoes</description>
-      <guid isPermaLink="false">urn:canteen:2baef99832252ad8-20260519</guid>
-      <pubDate>Tue, 19 May 2026 08:29:52 +0000</pubDate>
+Cannelloni filled with creamy ricotta and fresh spinach, baked in a rich tomatosauce and silky béchamel
+(1+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:86d6436bc73ce803-20260520</guid>
+      <pubDate>Wed, 20 May 2026 08:27:39 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Juicy beef patty in a rich mushroom and pepper sauce,served with a hearty root vegetable mash and topped with freshly choppedparsley. Pickled beetroot and cranberry jam on the side (6+11)
-GREEN DISH: Dish
-Hearty du Puy lentil patty in a rich mushroom andpepper sauce, served with a hearty root vegetable mash and topped with freshlychopped parsley. Pickled beetroot and cranberry jam on the side (6+11)</description>
-      <guid isPermaLink="false">urn:canteen:ffdabb3fc71a360c-20260519</guid>
-      <pubDate>Tue, 19 May 2026 08:29:52 +0000</pubDate>
+Mexican baked tamale with beans and vegetables, served with esquites — acreamy Mexican corn salad — and topped with fresh herbs. Jalapeños, lime andpico de gallo on the side (1+2+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:cdded82e8f1afed9-20260520</guid>
+      <pubDate>Wed, 20 May 2026 08:27:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
