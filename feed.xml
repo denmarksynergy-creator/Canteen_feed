@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 20 May 2026</title>
+    <title>Canteen Menu - Thursday, 21 May 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 20 May 2026 08:27:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 08:37:21 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,58 +29,65 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260520</guid>
-      <pubDate>Wed, 20 May 2026 08:27:39 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260521</guid>
+      <pubDate>Thu, 21 May 2026 08:37:21 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260520</guid>
-      <pubDate>Wed, 20 May 2026 08:27:39 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260521</guid>
+      <pubDate>Thu, 21 May 2026 08:37:21 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Lightly creamed gnocchi piccata with a hint of lemon and capers, topped with afresh fennel salad with Italian herbs. White beans in olive oil on the side(1+6+11+15)</description>
-      <guid isPermaLink="false">urn:canteen:794a5625e7b96749-20260520</guid>
-      <pubDate>Wed, 20 May 2026 08:27:39 +0000</pubDate>
+Crispy pork roast with crackling, served with herb roasted new potatoes, warmbraised red cabbage and rich brown gravy, topped with fresh parsley. Pickledvegetables on the side (6+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:c54621600c287141-20260521</guid>
+      <pubDate>Thu, 21 May 2026 08:37:21 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Filipino Pancit — sautéed rice vermicelli noodles with deep umami and flavour,topped with roasted vegetables and tofu. Lime, crispy fried onion and garlic onthe side (7)</description>
-      <guid isPermaLink="false">urn:canteen:93879cfdd59764cb-20260520</guid>
-      <pubDate>Wed, 20 May 2026 08:27:39 +0000</pubDate>
+Curry-roasted salmon tossed with aubergine and potatoes, served on amiso-tomato coulis and topped with fried nori. Bitter leaf salad withpassionfruit vinaigrette on the side (1+3+7+15)
+GREEN DISH: Curry-roasted soy protein tossed with aubergine and potatoes, served on amiso-tomato coulis and topped with fried nori. Bitter leaf salad withpassionfruit vinaigrette on the side (1+7+15)</description>
+      <guid isPermaLink="false">urn:canteen:0a58a631d261a7b1-20260521</guid>
+      <pubDate>Thu, 21 May 2026 08:37:21 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Cannelloni filled with creamy ricotta and fresh spinach, baked in a rich tomatosauce and silky béchamel
-(1+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:04aaa8c1a4286aec-20260520</guid>
-      <pubDate>Wed, 20 May 2026 08:27:39 +0000</pubDate>
+Crisp tartlets with a creamy chicken stew, fresh asparagus and aromatic wildgarlic
+(1+2+6+15)
+GREEN DISH: dish
+Crisp tartlets with smoked tempeh, fresh asparagus and aromatic wild garlic</description>
+      <guid isPermaLink="false">urn:canteen:7814f9bcf52bdf10-20260521</guid>
+      <pubDate>Thu, 21 May 2026 08:37:21 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Cannelloni filled with creamy ricotta and fresh spinach, baked in a rich tomatosauce and silky béchamel
-(1+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:86d6436bc73ce803-20260520</guid>
-      <pubDate>Wed, 20 May 2026 08:27:39 +0000</pubDate>
+Crisp tartlets with a creamy chicken stew, fresh asparagus and aromatic wildgarlic
+(1+2+6+15)
+GREEN DISH: dish
+Crisp tartlets with smoked tempeh, fresh asparagus and aromatic wild garlic</description>
+      <guid isPermaLink="false">urn:canteen:c3b82540a50e326f-20260521</guid>
+      <pubDate>Thu, 21 May 2026 08:37:21 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Mexican baked tamale with beans and vegetables, served with esquites — acreamy Mexican corn salad — and topped with fresh herbs. Jalapeños, lime andpico de gallo on the side (1+2+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:cdded82e8f1afed9-20260520</guid>
-      <pubDate>Wed, 20 May 2026 08:27:39 +0000</pubDate>
+Filipino chicken adobo — slow simmered in soy, vinegarand spices — served with fragrant jasmine rice and topped with fresh springonions. Smashed cucumber salad with sesame and chili crisp on the side (7+8+15)
+GREEN DISH: Dish
+Filipino oyster mushroom adobo — slow simmered in soy,vinegar and spices — served with fragrant jasmine rice and topped with freshspring onions. Smashed cucumber salad with sesame and chili crisp on the side(7+8+15)</description>
+      <guid isPermaLink="false">urn:canteen:63d269ef91b9df89-20260521</guid>
+      <pubDate>Thu, 21 May 2026 08:37:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
