@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Sunday, 24 May 2026</title>
+    <title>Canteen Menu - Monday, 25 May 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Sun, 24 May 2026 08:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 11:07:49 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,8 +29,65 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260524</guid>
-      <pubDate>Sun, 24 May 2026 08:30:07 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260525</guid>
+      <pubDate>Mon, 25 May 2026 11:07:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Sprout Lunch Menu:
+Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260525</guid>
+      <pubDate>Mon, 25 May 2026 11:07:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Homebound Lunch Menu:
+Boeuf Stroganoff — a classic Russian braise of tender beef and mushrooms in arich, creamy sauce — served with boiled potatoes and topped with fresh herbs.Pickled cucumber on the side (6+15)</description>
+      <guid isPermaLink="false">urn:canteen:d4b1a8cf294d1d36-20260525</guid>
+      <pubDate>Mon, 25 May 2026 11:07:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Globetrotter Lunch Menu:
+Indonesian fried chicken with a crisp coating and juicy centre, served withfragrant jasmine rice and lalapan — fresh crisp vegetables. Lime and chilisauce on the side (1+2+3+15)
+GREEN DISH: I ndonesian spiced stir-fry with pea protein, fragrant jasmine rice and crispvegetables, topped with fresh herbs. Lime and chili sauce on the side (7+8+15)</description>
+      <guid isPermaLink="false">urn:canteen:a52c6b98a2aebeec-20260525</guid>
+      <pubDate>Mon, 25 May 2026 11:07:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB3 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB3 - Lunch Menu:
+Fried rice à la Nasi goreng with juicy minced pork, warm spices and deep umami,served with a fried egg
+(15)
+GREEN DISH: dish
+Fried rice à la Nasi goreng with spiced tofu and warm spices, served with afried egg</description>
+      <guid isPermaLink="false">urn:canteen:2e4af94ee50668be-20260525</guid>
+      <pubDate>Mon, 25 May 2026 11:07:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB2 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB2 - Lunch Menu:
+Fried rice à la Nasi goreng with juicy minced pork, warm spices and deep umami,served with a fried egg
+(15)
+GREEN DISH: dish
+Fried rice à la Nasi goreng with spiced tofu and warm spices, served with afried egg</description>
+      <guid isPermaLink="false">urn:canteen:f4cb5b93c58ea2f6-20260525</guid>
+      <pubDate>Mon, 25 May 2026 11:07:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 – Kays - Lunch Menu:
+Rich and aromatic kormawith tender pork shoulder, topped with a crisp Indian tadka coleslaw andhomemade namkeen. Lime and coriander on the side (4+6+8+9+15)
+GREEN DISH: Dish
+Rich and aromatic korma with silken tofu, topped witha crisp Indian tadka coleslaw and homemade namkeen. Lime and coriander on theside (4+6+8+9+15)</description>
+      <guid isPermaLink="false">urn:canteen:b9012310134e39b4-20260525</guid>
+      <pubDate>Mon, 25 May 2026 11:07:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
