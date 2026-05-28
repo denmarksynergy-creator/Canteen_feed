@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 27 May 2026</title>
+    <title>Canteen Menu - Thursday, 28 May 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 27 May 2026 08:40:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 08:46:58 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,57 +29,64 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260527</guid>
-      <pubDate>Wed, 27 May 2026 08:40:42 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260528</guid>
+      <pubDate>Thu, 28 May 2026 08:46:58 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260527</guid>
-      <pubDate>Wed, 27 May 2026 08:40:42 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260528</guid>
+      <pubDate>Thu, 28 May 2026 08:46:58 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Tarte á l’oignon – classic French onion tort with deliciously caramelizedonion, topped with spinach and Gruyere cheese, and a fresh bitter salad on theside. Hereto red wine vinaigrette on the side (1+6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:fbab7909a71446e9-20260527</guid>
-      <pubDate>Wed, 27 May 2026 08:40:42 +0000</pubDate>
+Italian spiced low and slow roasted pork shoulder with red wine sauce androasted potatoes, topped with herb roasted root vegetables. Pickle on the side(6+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:0309829968bb4b35-20260528</guid>
+      <pubDate>Thu, 28 May 2026 08:46:58 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-GREEN DISH: gyoza with pea protein and vegetables, served with cabbage and jasminerice, topped with spring onion. Hereto chili sauce and gyoza sauce (1+7+8+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:fda586b2f7e1e765-20260527</guid>
-      <pubDate>Wed, 27 May 2026 08:40:42 +0000</pubDate>
+Hainanese Chicken Rice – south Chinese aromatic poached chicken with galangalrice and topped with blanched bok choy. Ginger-spring onion sauce, sweet darksoy sauce and chili sauce on the side (1+13+15)
+GREEN DISH: Hainanese Porcini – south Chinese aromatic poached porcini with galangal riceand topped with blanched bok choy. Ginger-spring onion sauce, sweet dark soysauce and chili sauce on the side (1+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:70b3d6ab524e7e01-20260528</guid>
+      <pubDate>Thu, 28 May 2026 08:46:58 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Butter beans as purée and boiled, with tomatoes tossed in yoghurt and cardamomwith shallots, topped with crispy fried green split peas
-(6) (15)</description>
-      <guid isPermaLink="false">urn:canteen:d363d1bd6d229b11-20260527</guid>
-      <pubDate>Wed, 27 May 2026 08:40:42 +0000</pubDate>
+Fried turkey rump with warm potato salad, seasoned with olive oil, herbs, lemonzest, and capers
+(15)
+GREEN DISH: dish
+Friedmushroom steak with warm potato salad, seasoned with olive oil, herbs, lemonzest, and capers</description>
+      <guid isPermaLink="false">urn:canteen:b2900cb7dbce036a-20260528</guid>
+      <pubDate>Thu, 28 May 2026 08:46:58 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Creamy yellow lentil dahl with coconut milk, cauliflower and spinach. Toppedwith tahini yogurt, toasted seeds and kernels, and fresh herbs.</description>
-      <guid isPermaLink="false">urn:canteen:3e8bcdd448e3e81f-20260527</guid>
-      <pubDate>Wed, 27 May 2026 08:40:42 +0000</pubDate>
+Moroccan-inspired beef meatballs and lamb ragout. Served on couscous withgrilled red pepper and mint yogurt.
+GREEN DISH: dish
+Moroccan-inspired vegetable ball ragout. Served on couscous with grilled redpepper and mint yogurt.</description>
+      <guid isPermaLink="false">urn:canteen:cac6c93df343810d-20260528</guid>
+      <pubDate>Thu, 28 May 2026 08:46:58 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Aloo Masoor Dal: Red lentil and potato curry with belugalentils, served with jeera rice (also as brown rice), topped with spicednamkeen. Hereto lime and cucumber raita (15)</description>
-      <guid isPermaLink="false">urn:canteen:2c93fb288c105b80-20260527</guid>
-      <pubDate>Wed, 27 May 2026 08:40:42 +0000</pubDate>
+Hungarian inspired turkey paprikash and nokedli(Hungarian egg noodle) and topped with parsley and dill. Hereto sour cream andHungarian cucumber salad (1+2+6+15)
+GREEN DISH: Ret
+Hungarian inspired tofu paprikash sauce and nokedli(Hungarian egg noodle) and topped with parsley and dill. Hereto sour cream andHungarian cucumber salad (1+2+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:7d76ebc8a578a357-20260528</guid>
+      <pubDate>Thu, 28 May 2026 08:46:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
