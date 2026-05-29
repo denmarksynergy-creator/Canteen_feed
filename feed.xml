@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Thursday, 28 May 2026</title>
+    <title>Canteen Menu - Friday, 29 May 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 28 May 2026 08:46:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 08:46:54 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,24 +29,24 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260528</guid>
-      <pubDate>Thu, 28 May 2026 08:46:58 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260529</guid>
+      <pubDate>Fri, 29 May 2026 08:46:54 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Our daily meal salad rich in seasonal vegetables with a choice of protein</description>
-      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260528</guid>
-      <pubDate>Thu, 28 May 2026 08:46:58 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:fdc50ecdefdcc627-20260529</guid>
+      <pubDate>Fri, 29 May 2026 08:46:54 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
 Italian spiced low and slow roasted pork shoulder with red wine sauce androasted potatoes, topped with herb roasted root vegetables. Pickle on the side(6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:0309829968bb4b35-20260528</guid>
-      <pubDate>Thu, 28 May 2026 08:46:58 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:0309829968bb4b35-20260529</guid>
+      <pubDate>Fri, 29 May 2026 08:46:54 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -54,39 +54,40 @@ Italian spiced low and slow roasted pork shoulder with red wine sauce androasted
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
 Hainanese Chicken Rice – south Chinese aromatic poached chicken with galangalrice and topped with blanched bok choy. Ginger-spring onion sauce, sweet darksoy sauce and chili sauce on the side (1+13+15)
 GREEN DISH: Hainanese Porcini – south Chinese aromatic poached porcini with galangal riceand topped with blanched bok choy. Ginger-spring onion sauce, sweet dark soysauce and chili sauce on the side (1+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:70b3d6ab524e7e01-20260528</guid>
-      <pubDate>Thu, 28 May 2026 08:46:58 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:70b3d6ab524e7e01-20260529</guid>
+      <pubDate>Fri, 29 May 2026 08:46:54 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Fried turkey rump with warm potato salad, seasoned with olive oil, herbs, lemonzest, and capers
-(15)
+Fried fish cake with remoulade and sweet potatoes as fries
+(1) (2) (3)(6) (11) (15)
 GREEN DISH: dish
-Friedmushroom steak with warm potato salad, seasoned with olive oil, herbs, lemonzest, and capers</description>
-      <guid isPermaLink="false">urn:canteen:b2900cb7dbce036a-20260528</guid>
-      <pubDate>Thu, 28 May 2026 08:46:58 +0000</pubDate>
+Tofu coated in curry and chickpea flour, then fried, served with sweetpotato fries and remoulade
+(7)</description>
+      <guid isPermaLink="false">urn:canteen:a9fdc2674a42eb4c-20260529</guid>
+      <pubDate>Fri, 29 May 2026 08:46:54 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Moroccan-inspired beef meatballs and lamb ragout. Served on couscous withgrilled red pepper and mint yogurt.
+Choripán with ensalada criolla. Argentine-style hot dog with chimichurri andsalsa made with tomato, cucumber, bell pepper, and onion.
 GREEN DISH: dish
-Moroccan-inspired vegetable ball ragout. Served on couscous with grilled redpepper and mint yogurt.</description>
-      <guid isPermaLink="false">urn:canteen:cac6c93df343810d-20260528</guid>
-      <pubDate>Thu, 28 May 2026 08:46:58 +0000</pubDate>
+GREEN DISH: choripán with ensalada criolla. Argentine-style hot dog withchimichurri and salsa made with tomato, cucumber, bell pepper, and onion.</description>
+      <guid isPermaLink="false">urn:canteen:99169c41e42bbde1-20260529</guid>
+      <pubDate>Fri, 29 May 2026 08:46:54 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Hungarian inspired turkey paprikash and nokedli(Hungarian egg noodle) and topped with parsley and dill. Hereto sour cream andHungarian cucumber salad (1+2+6+15)
+Breaded white fish with homemade fried potatoes mixedwith garlic-vinegar-salt powder and lemon. Hereto tartar coleslaw,agave-mustard dip and old bay dip on the side (1+2+3+11+15)
 GREEN DISH: Ret
-Hungarian inspired tofu paprikash sauce and nokedli(Hungarian egg noodle) and topped with parsley and dill. Hereto sour cream andHungarian cucumber salad (1+2+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:7d76ebc8a578a357-20260528</guid>
-      <pubDate>Thu, 28 May 2026 08:46:58 +0000</pubDate>
+Breaded chickpea “steak” with homemade fried potatoesmixed with garlic-vinegar-salt powder and lemon. Hereto tartar coleslaw,agave-mustard dip and old bay dip on the side (1+2+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:267583fa7e2c54ab-20260529</guid>
+      <pubDate>Fri, 29 May 2026 08:46:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
