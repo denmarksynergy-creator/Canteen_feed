@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Monday, 01 June 2026</title>
+    <title>Canteen Menu - Tuesday, 02 June 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Mon, 01 Jun 2026 12:32:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 09:08:51 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,16 +29,16 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260601</guid>
-      <pubDate>Mon, 01 Jun 2026 12:32:03 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260602</guid>
+      <pubDate>Tue, 02 Jun 2026 09:08:51 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
 Classic, hearty hash with tender meat and vegetables, topped with a crispy fried egg and fresh chives. Served with pickled beetroot and bearnaise creme. (2+11)</description>
-      <guid isPermaLink="false">urn:canteen:6e5cf8b84d207520-20260601</guid>
-      <pubDate>Mon, 01 Jun 2026 12:32:03 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:6e5cf8b84d207520-20260602</guid>
+      <pubDate>Tue, 02 Jun 2026 09:08:51 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
@@ -47,8 +47,8 @@ Classic, hearty hash with tender meat and vegetables, topped with a crispy fried
 Menudo. Spiced pork stew from the Philippines in a deep umami sauce, served with jasmine rice and spring onions. Served with ensaladong talong. (7+8+15)
 GREEN DISH: Menudo. Spiced stew with crispy tofu and chickpeas in a deep umami sauce, served with jasmine rice and spring onions. Served with ensaladong talong. (7+8+15)
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:9b7c0ec91d0e4ef5-20260601</guid>
-      <pubDate>Mon, 01 Jun 2026 12:32:03 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:9b7c0ec91d0e4ef5-20260602</guid>
+      <pubDate>Tue, 02 Jun 2026 09:08:51 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -57,38 +57,38 @@ A selection of fresh seasonal vegetables that you can combine with a protein of 
 Black pepper chicken with caramelized potatoes and crispy puff pastry top, scattered with parsley and fresh cress. Served with burnt cabbage salad with agave-mustard dressing. (1+2+6+11)
 GREEN DISH: dish
 Black pepper tofu with caramelized potatoes and crispy puff pastry top, scattered with parsley and fresh cress. Served with burnt cabbage salad with agave-mustard dressing. (1+2+6+11)</description>
-      <guid isPermaLink="false">urn:canteen:3f207149643a0d7c-20260601</guid>
-      <pubDate>Mon, 01 Jun 2026 12:32:03 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:3f207149643a0d7c-20260602</guid>
+      <pubDate>Tue, 02 Jun 2026 09:08:51 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Classic butter chicken with warm, aromatic spices, served with fluffy rice and chutney. (6+15)
+Penne à la ragout with tender beef chuck, topped with parmesan and fresh basil. (1+6+10+15)
 GREEN DISH: dish
-Silky butter tofu with warm, aromatic spices, served with fluffy rice and chutney. (6+7+15)</description>
-      <guid isPermaLink="false">urn:canteen:34a9e3f80b6bb3e3-20260601</guid>
-      <pubDate>Mon, 01 Jun 2026 12:32:03 +0000</pubDate>
+Penne à la ragout with rich tomato sauce and black lentils, topped with parmesan and fresh basil. (1+6+10+15)</description>
+      <guid isPermaLink="false">urn:canteen:2696548d2bdf53b8-20260602</guid>
+      <pubDate>Tue, 02 Jun 2026 09:08:51 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Lime-marinated turkey rump served on pearl barley with oven-roasted carrots and Swiss chard, tossed in an aromatic harissa vinaigrette. (1+11+13+15)
+Roast pork loin with crispy crackling, served with a fresh green summer potato salad with chervil, parsley, radishes and asparagus. (11+13)
 GREEN DISH: dish
-Grilled halloumi served on pearl barley with oven-roasted carrots and Swiss chard, tossed in an aromatic harissa vinaigrette. (1+6+11+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:e5d3ab27bc3b3c44-20260601</guid>
-      <pubDate>Mon, 01 Jun 2026 12:32:03 +0000</pubDate>
+Salt-baked celeriac, served with a fresh green summer potato salad with chervil, parsley, radishes and asparagus. (10+11+13)</description>
+      <guid isPermaLink="false">urn:canteen:4d6df1a9a5570b9e-20260602</guid>
+      <pubDate>Tue, 02 Jun 2026 09:08:51 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Creamy spaghetti bolognese made with tender, juicy organic beef, topped with fresh basil and finely grated parmesan. Served with a fresh tomato salad and balsamic vinaigrette a part. (1+6+13+15)
+Beer-braised chipotle carnitas of tender pork shoulder and vegetables, served with Mexican red rice and topped with crispy elote. Served with fresh lime cabbage salad and pico de gallo. (1+6+15)
 GREEN DISH: Dish
-Creamy spaghetti bolognese made with organic pea protein, topped with fresh basil and finely grated parmesan. Served with a fresh tomato salad and balsamic vinaigrette a part. (1+6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:f72cc41828980a7a-20260601</guid>
-      <pubDate>Mon, 01 Jun 2026 12:32:03 +0000</pubDate>
+Beer-braised chipotle oyster mushrooms and vegetables, served with Mexican red rice and topped with crispy elote. Served with fresh lime cabbage salad and pico de gallo. (1+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:70843f4377932577-20260602</guid>
+      <pubDate>Tue, 02 Jun 2026 09:08:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
