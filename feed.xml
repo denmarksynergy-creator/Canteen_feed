@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Tuesday, 09 June 2026</title>
+    <title>Canteen Menu - Wednesday, 10 June 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 09 Jun 2026 08:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 08:50:34 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,64 +29,56 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260609</guid>
-      <pubDate>Tue, 09 Jun 2026 08:33:34 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260610</guid>
+      <pubDate>Wed, 10 Jun 2026 08:50:34 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260609</guid>
-      <pubDate>Tue, 09 Jun 2026 08:33:34 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260610</guid>
+      <pubDate>Wed, 10 Jun 2026 08:50:34 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Spiced beef chili con carne with rice, topped with chopped parsley. Served with jalapeños, sour cream and fresh coriander. (6+10+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:93a69560a62a51b7-20260609</guid>
-      <pubDate>Tue, 09 Jun 2026 08:33:34 +0000</pubDate>
+Creamy penne alfredo with broccoli and baked cherry tomatoes, topped with fresh basil. Served with a crisp romaine salad with lemon vinaigrette. (1+6+13)</description>
+      <guid isPermaLink="false">urn:canteen:9af40eb86def7750-20260610</guid>
+      <pubDate>Wed, 10 Jun 2026 08:50:34 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Greek pork gyros with roasted lemon-pepper potatoes and pita bread, topped with a fresh Greek salad. Served with tzatziki and olives. (1+6+11+13+15)
-GREEN DISH: dish
-Greek tofu gyros with roasted lemon-pepper potatoes and pita bread, topped with a fresh tomato-onion salad. Served with tzatziki and olives. (1+6+7+11+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:cb41e67dca464afe-20260609</guid>
-      <pubDate>Tue, 09 Jun 2026 08:33:34 +0000</pubDate>
+Parippu curry. Aromatic South Indian yellow curry with ghee basmati rice, topped with crisp namkeen. Served with coriander and lime pickle. (11+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:9abbf163dd029a2d-20260610</guid>
+      <pubDate>Wed, 10 Jun 2026 08:50:34 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Tender white fish gently oven-baked, served with beluga lentils in the finest French style and a crisp frisée tossed in vinaigrette. (3+6+13+15)
-GREEN DISH: Dish
-Ricotta-filled portobello mushrooms, gratinated and served with beluga lentils in the finest French style and a crisp frisée tossed in vinaigrette. (6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:f26694764e8114a4-20260609</guid>
-      <pubDate>Tue, 09 Jun 2026 08:33:34 +0000</pubDate>
+Palak paneer with potatoes and chickpeas. An Indian spiced stew with spinach and firm cheese, served with rice and cooling mint raita. (6+15)</description>
+      <guid isPermaLink="false">urn:canteen:ce870d167f3a703c-20260610</guid>
+      <pubDate>Wed, 10 Jun 2026 08:50:34 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Larb moo. Authentic Thai dish with pork — umami, acidity and freshness. Served with jasmine rice, fresh thai basil and crisp bean sprouts. (3+9+10+15)
-GREEN DISH: Dish
-Larb tofu. The same delicious dish made with crispy tofu. (9+10+15)</description>
-      <guid isPermaLink="false">urn:canteen:1e2485aa8124d6b3-20260609</guid>
-      <pubDate>Tue, 09 Jun 2026 08:33:34 +0000</pubDate>
+Pasta puttanesca. A deep, intense Italian classic with capers, olives and tomato. (1+14+15)</description>
+      <guid isPermaLink="false">urn:canteen:c00f983ecd384b7c-20260610</guid>
+      <pubDate>Wed, 10 Jun 2026 08:50:34 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Roasted chicken in creamy tikka masala with fluffy basmati rice, topped with crisp, spiced namkeen. Served with cooling mint raita and cucumber-onion salad tossed in sumac and lemon. (6+9+15)
-GREEN DISH: Dish
-Creamy paneer in tikka masala with fluffy basmati rice, topped with crisp, spiced namkeen. Served with cooling mint raita and cucumber-onion salad tossed in sumac and lemon. (6+9+15)</description>
-      <guid isPermaLink="false">urn:canteen:0f82dba381b1a8d9-20260609</guid>
-      <pubDate>Tue, 09 Jun 2026 08:33:34 +0000</pubDate>
+Crisp, warm gochujang potato salad with a soft fried egg, topped with finely chopped chives and toasted sesame. Served with creamy gochujang dressing and Korean cabbage salad with daikon and kimchi dressing. (1+2+7+8+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:df873b0ffb5139dd-20260610</guid>
+      <pubDate>Wed, 10 Jun 2026 08:50:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
