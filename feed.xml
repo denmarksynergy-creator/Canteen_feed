@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Thursday, 11 June 2026</title>
+    <title>Canteen Menu - Friday, 12 June 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 11 Jun 2026 09:16:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 09:04:36 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,24 +29,24 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260611</guid>
-      <pubDate>Thu, 11 Jun 2026 09:16:29 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260612</guid>
+      <pubDate>Fri, 12 Jun 2026 09:04:36 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260611</guid>
-      <pubDate>Thu, 11 Jun 2026 09:16:29 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260612</guid>
+      <pubDate>Fri, 12 Jun 2026 09:04:36 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
 Classic Danish meatballs with white potatoes, red cabbage and brown gravy, topped with a parsley-cress mix. Served with fresh cucumber salad. (1+2+6+11+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:eabe858d23689123-20260611</guid>
-      <pubDate>Thu, 11 Jun 2026 09:16:29 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:eabe858d23689123-20260612</guid>
+      <pubDate>Fri, 12 Jun 2026 09:04:36 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -55,38 +55,38 @@ Classic Danish meatballs with white potatoes, red cabbage and brown gravy, toppe
 Brazilian chicken asado with baked sweet potato, topped with Brazilian tomato-bean salsa. Served with creamy avocado. (13+15)
 GREEN DISH: dish
 Brazilian grilled cheese asado with baked sweet potato, topped with Brazilian tomato-bean salsa. Served with creamy avocado. (6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:d25f5f05e7b6c9ad-20260611</guid>
-      <pubDate>Thu, 11 Jun 2026 09:16:29 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:d25f5f05e7b6c9ad-20260612</guid>
+      <pubDate>Fri, 12 Jun 2026 09:04:36 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Beef brisket fricassée with new potatoes, asparagus, peas, carrots and fresh pea shoots. (6+15)
+Pizza times three: Salad kebab pizza. Margherita. Capricciosa. MAMA MIA. (1+6+15)
 GREEN DISH: Dish
-Braised celeriac with mushrooms, new potatoes, asparagus, peas, carrots and pea shoots. (6+10+15)</description>
-      <guid isPermaLink="false">urn:canteen:4e08e0f5a186e53d-20260611</guid>
-      <pubDate>Thu, 11 Jun 2026 09:16:29 +0000</pubDate>
+Margherita. MADONNA. (1+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:7b7cad1dad25d6a7-20260612</guid>
+      <pubDate>Fri, 12 Jun 2026 09:04:36 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Peri peri chicken thighs, marinated in grilled red pepper and chili and slow-baked. Served with sweet potatoes and a crisp cabbage slaw with fresh herbs and tang. (14+15)
+Reuben sandwich. Brined beef brisket, sauerkraut, Russian dressing and a touch of mustard. Perhaps one of the best sandwiches there is. (1+2+6+11+13+14)
 GREEN DISH: Dish
-Piri piri tempeh, marinated in grilled red pepper and chili. Served with sweet potatoes and a crisp cabbage slaw with fresh herbs and tang. (14+15)</description>
-      <guid isPermaLink="false">urn:canteen:59c813bf8015f7cd-20260611</guid>
-      <pubDate>Thu, 11 Jun 2026 09:16:29 +0000</pubDate>
+Reuben sandwich with salt-baked celeriac, sauerkraut, Russian dressing and a touch of mustard. (1+2+6+10+11+13+14)</description>
+      <guid isPermaLink="false">urn:canteen:495ddfe2bb006e3c-20260612</guid>
+      <pubDate>Fri, 12 Jun 2026 09:04:36 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Thai-fried white fish in a sweet-sour-spicy sauce (tamarind, sweet chili and chili), rice noodles tossed in thai basil sauce and topped with spring onion and fresh thai basil. Served with a crisp thai cucumber salad. (3+7+9+13+15)
+Juicy beef burger with cheese, fried onions, crispy bacon, finely shredded iceberg and béarnaise cream in a homemade sesame brioche bun. Served with crispy fries, ketchup, aioli and extra béarnaise cream. (1+2+6+7+11+15)
 GREEN DISH: Dish
-Thai-fried crispy tofu in a sweet-sour-spicy sauce (tamarind, sweet chili and chili), rice noodles tossed in thai basil sauce and topped with spring onion and fresh thai basil. Served with thai cucumber salad with peanuts and coriander on the side. (7+9+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:366fb2eb8647a076-20260611</guid>
-      <pubDate>Thu, 11 Jun 2026 09:16:29 +0000</pubDate>
+Veggie burger with cheese, fried onions, mushrooms, finely shredded iceberg and béarnaise cream in a homemade sesame brioche bun. Served with crispy fries, ketchup, aioli and extra béarnaise cream. (1+2+6+7+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:a7795724ff7df6b1-20260612</guid>
+      <pubDate>Fri, 12 Jun 2026 09:04:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
