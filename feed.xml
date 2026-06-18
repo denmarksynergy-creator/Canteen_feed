@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 17 June 2026</title>
+    <title>Canteen Menu - Thursday, 18 June 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 17 Jun 2026 09:31:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 09:19:42 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,16 +29,16 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260617</guid>
-      <pubDate>Wed, 17 Jun 2026 09:31:54 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 09:19:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Hay-baked Jerusalem artichokes on a creamy mushroom stew with white beans and seasonal vegetables, topped with chopped parsley. With crispy green beans tossed in garlic vinaigrette. (6+15)</description>
-      <guid isPermaLink="false">urn:canteen:7aeed40b461c9290-20260617</guid>
-      <pubDate>Wed, 17 Jun 2026 09:31:54 +0000</pubDate>
+Juicy chicken in spiced curry with steamed rice and fresh chives. With toasted coconut flakes, juicy raisins, fresh pineapple and crunchy peanuts. (4+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:62c765f5202c44f5-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 09:19:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
@@ -46,32 +46,38 @@ Hay-baked Jerusalem artichokes on a creamy mushroom stew with white beans and se
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Moroccan lamb tagine braised with seasonal vegetables and dried apricot, served with coarse couscous tossed with herbs and topped with drained yoghurt sprinkled with sweet chilli. With green salad tossed with sumac and lemon. (1+6+13+15)
 Moroccan mushroom tagine braised with seasonal vegetables and dried apricot, served with coarse couscous tossed with herbs and topped with drained yoghurt sprinkled with sweet chilli. With green salad tossed with sumac and lemon. (1+6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:be63d4d05794a310-20260617</guid>
-      <pubDate>Wed, 17 Jun 2026 09:31:54 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:be63d4d05794a310-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 09:19:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Penne all'arrabbiata — the angry pasta in fiery red tomato sauce with a chilli bite, topped with freshly chopped parsley and a sprinkle of freshly grated parmesan. (1+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:78f6f006d311f1f1-20260617</guid>
-      <pubDate>Wed, 17 Jun 2026 09:31:54 +0000</pubDate>
+Crispy fried turkey with creamy scalloped potatoes and fresh cucumber salad. (6+15)
+GREEN DISH: dish
+Crispy fried mushroom steak with creamy scalloped potatoes and fresh cucumber salad. (6+15)</description>
+      <guid isPermaLink="false">urn:canteen:fbe3028165770d7b-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 09:19:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Velvety mushroom pasta with generous amounts of freshly grated parmesan and fragrant herbs. (1+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:d425c354227f6a7d-20260617</guid>
-      <pubDate>Wed, 17 Jun 2026 09:31:54 +0000</pubDate>
+Slow-braised pork neck in white wine and fragrant herbs, served on silky mashed potato mounted with herb butter and a rich jus. (6+13+15)
+GREEN DISH: dish
+Creamy chickpea stew with plenty of greens, served on silky mashed potato mounted with herb butter. (6+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:44a7d645cae4d2aa-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 09:19:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Argentinian fugazzeta — a golden-baked, cheese-filled focaccia pizza crowned with caramelised soft onions and fragrant oregano. Served with crisp fennel and rocket salad, creamy olive tapenade and fresh citrus vinaigrette. (1+6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:081355217741b6f3-20260617</guid>
-      <pubDate>Wed, 17 Jun 2026 09:31:54 +0000</pubDate>
+Juicy pork neck cutlet with velvety mushroom sauce, golden roasted potatoes and herb-scented courgette. With hay-baked celeriac tossed in red wine vinaigrette and sprinkled with toasted seeds. (6+10+13)
+GREEN DISH: dish
+Crispy fried tofu with velvety mushroom sauce, golden roasted potatoes and herb-scented courgette. With hay-baked celeriac tossed in red wine vinaigrette and sprinkled with toasted seeds. (6+7+10+13)</description>
+      <guid isPermaLink="false">urn:canteen:35d9cead8db30f39-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 09:19:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
