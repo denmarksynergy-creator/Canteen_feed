@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Thursday, 18 June 2026</title>
+    <title>Canteen Menu - Friday, 19 June 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 18 Jun 2026 09:19:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 09:49:58 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,16 +29,16 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260618</guid>
-      <pubDate>Thu, 18 Jun 2026 09:19:42 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 09:49:58 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
 Juicy chicken in spiced curry with steamed rice and fresh chives. With toasted coconut flakes, juicy raisins, fresh pineapple and crunchy peanuts. (4+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:62c765f5202c44f5-20260618</guid>
-      <pubDate>Thu, 18 Jun 2026 09:19:42 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:62c765f5202c44f5-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 09:49:58 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
@@ -46,38 +46,38 @@ Juicy chicken in spiced curry with steamed rice and fresh chives. With toasted c
       <description>🍽 HUB1 - Sprout Lunch Menu:
 Moroccan lamb tagine braised with seasonal vegetables and dried apricot, served with coarse couscous tossed with herbs and topped with drained yoghurt sprinkled with sweet chilli. With green salad tossed with sumac and lemon. (1+6+13+15)
 Moroccan mushroom tagine braised with seasonal vegetables and dried apricot, served with coarse couscous tossed with herbs and topped with drained yoghurt sprinkled with sweet chilli. With green salad tossed with sumac and lemon. (1+6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:be63d4d05794a310-20260618</guid>
-      <pubDate>Thu, 18 Jun 2026 09:19:42 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:be63d4d05794a310-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 09:49:58 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Crispy fried turkey with creamy scalloped potatoes and fresh cucumber salad. (6+15)
+Classic lasagne with slow-cooked bolognese, sweet tomato sauce and velvety béchamel, just as we all know and love it. (1+6+15)
 GREEN DISH: dish
-Crispy fried mushroom steak with creamy scalloped potatoes and fresh cucumber salad. (6+15)</description>
-      <guid isPermaLink="false">urn:canteen:fbe3028165770d7b-20260618</guid>
-      <pubDate>Thu, 18 Jun 2026 09:19:42 +0000</pubDate>
+Lasagne with juicy aubergines, sweet tomato sauce and velvety béchamel. Mama Mia! (1+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:bed14d550702395e-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 09:49:58 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Slow-braised pork neck in white wine and fragrant herbs, served on silky mashed potato mounted with herb butter and a rich jus. (6+13+15)
+Korean meatballs with depth and umami, served with kimchi and chewy noodles tossed in sesame and fresh herbs. (1+7+8+15)
 GREEN DISH: dish
-Creamy chickpea stew with plenty of greens, served on silky mashed potato mounted with herb butter. (6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:44a7d645cae4d2aa-20260618</guid>
-      <pubDate>Thu, 18 Jun 2026 09:19:42 +0000</pubDate>
+Crispy vegetable balls with depth and umami, served with kimchi and chewy noodles tossed in sesame and fresh herbs. (1+7+8+15)</description>
+      <guid isPermaLink="false">urn:canteen:d253efba0b9c5ec4-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 09:49:58 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Juicy pork neck cutlet with velvety mushroom sauce, golden roasted potatoes and herb-scented courgette. With hay-baked celeriac tossed in red wine vinaigrette and sprinkled with toasted seeds. (6+10+13)
+Tender pulled turkey stir-fried with rice and crisp vegetables, tossed in sweet orange-hoisin sauce and topped with crunchy bean sprouts and fresh spring onions. With steamed bok choy with a nutty sesame dressing. (7+8+13+15)
 GREEN DISH: dish
-Crispy fried tofu with velvety mushroom sauce, golden roasted potatoes and herb-scented courgette. With hay-baked celeriac tossed in red wine vinaigrette and sprinkled with toasted seeds. (6+7+10+13)</description>
-      <guid isPermaLink="false">urn:canteen:35d9cead8db30f39-20260618</guid>
-      <pubDate>Thu, 18 Jun 2026 09:19:42 +0000</pubDate>
+Crispy eggs stir-fried with rice and seasonal vegetables, tossed in sweet orange-hoisin sauce and topped with crunchy bean sprouts and fresh spring onions. With steamed bok choy with a nutty sesame dressing. (2+7+8+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:5f4fb2efe83061ae-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 09:49:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
