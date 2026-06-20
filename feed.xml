@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Friday, 19 June 2026</title>
+    <title>Canteen Menu - Saturday, 20 June 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 19 Jun 2026 09:49:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 08:52:46 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,55 +29,8 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260619</guid>
-      <pubDate>Fri, 19 Jun 2026 09:49:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Homebound Lunch Menu:
-Juicy chicken in spiced curry with steamed rice and fresh chives. With toasted coconut flakes, juicy raisins, fresh pineapple and crunchy peanuts. (4+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:62c765f5202c44f5-20260619</guid>
-      <pubDate>Fri, 19 Jun 2026 09:49:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Sprout Lunch Menu:
-Moroccan lamb tagine braised with seasonal vegetables and dried apricot, served with coarse couscous tossed with herbs and topped with drained yoghurt sprinkled with sweet chilli. With green salad tossed with sumac and lemon. (1+6+13+15)
-Moroccan mushroom tagine braised with seasonal vegetables and dried apricot, served with coarse couscous tossed with herbs and topped with drained yoghurt sprinkled with sweet chilli. With green salad tossed with sumac and lemon. (1+6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:be63d4d05794a310-20260619</guid>
-      <pubDate>Fri, 19 Jun 2026 09:49:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB3 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB3 - Lunch Menu:
-Classic lasagne with slow-cooked bolognese, sweet tomato sauce and velvety béchamel, just as we all know and love it. (1+6+15)
-GREEN DISH: dish
-Lasagne with juicy aubergines, sweet tomato sauce and velvety béchamel. Mama Mia! (1+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:bed14d550702395e-20260619</guid>
-      <pubDate>Fri, 19 Jun 2026 09:49:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB2 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB2 - Lunch Menu:
-Korean meatballs with depth and umami, served with kimchi and chewy noodles tossed in sesame and fresh herbs. (1+7+8+15)
-GREEN DISH: dish
-Crispy vegetable balls with depth and umami, served with kimchi and chewy noodles tossed in sesame and fresh herbs. (1+7+8+15)</description>
-      <guid isPermaLink="false">urn:canteen:d253efba0b9c5ec4-20260619</guid>
-      <pubDate>Fri, 19 Jun 2026 09:49:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 – Kays - Lunch Menu:
-Tender pulled turkey stir-fried with rice and crisp vegetables, tossed in sweet orange-hoisin sauce and topped with crunchy bean sprouts and fresh spring onions. With steamed bok choy with a nutty sesame dressing. (7+8+13+15)
-GREEN DISH: dish
-Crispy eggs stir-fried with rice and seasonal vegetables, tossed in sweet orange-hoisin sauce and topped with crunchy bean sprouts and fresh spring onions. With steamed bok choy with a nutty sesame dressing. (2+7+8+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:5f4fb2efe83061ae-20260619</guid>
-      <pubDate>Fri, 19 Jun 2026 09:49:58 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 08:52:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
