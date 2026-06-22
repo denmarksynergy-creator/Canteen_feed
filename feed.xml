@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Sunday, 21 June 2026</title>
+    <title>Canteen Menu - Monday, 22 June 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Sun, 21 Jun 2026 09:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 12:46:32 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,8 +29,64 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260621</guid>
-      <pubDate>Sun, 21 Jun 2026 09:50:02 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 12:46:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Sprout Lunch Menu:
+A selection of fresh seasonal vegetables that you can combine with a protein of your choice and create your own meal salad.</description>
+      <guid isPermaLink="false">urn:canteen:223a5b98d7819ad9-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 12:46:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Homebound Lunch Menu:
+Crispy fried marinated chicken with classic Caesar salad and roasted potatoes. Homemade Caesar dressing (1+2+6+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:9f18f96225599d1e-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 12:46:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Globetrotter Lunch Menu:
+Beef giligang – slow-cooked spiced beef in Filipino braising sauce with vegetables, steamed rice and fresh spring onions. Served with Filipino tomato salad and tangy citrus dressing (6+7+15)
+GREEN DISH: dish
+Pea protein giligang – slow-cooked spiced pea protein in Filipino braising sauce with vegetables, steamed rice and fresh spring onions. Served with Filipino tomato salad and tangy citrus dressing (6+7+15)</description>
+      <guid isPermaLink="false">urn:canteen:961f34821474ea37-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 12:46:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB3 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB3 - Lunch Menu:
+Pasta penne al coniglio – light pasta with silky smooth rabbit ragout, courgettes, thyme, crispy parmesan and golden breadcrumbs (1+6+10+15)
+GREEN DISH: dish
+Pasta penne with creamy lentil ragout, courgettes, thyme, crispy parmesan and golden breadcrumbs (1+6+10+15)</description>
+      <guid isPermaLink="false">urn:canteen:7972d3d7e53ca005-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 12:46:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB2 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB2 - Lunch Menu:
+Aji Amarillo chicken – juicy Peruvian chicken poached in golden chilli sauce, served with steamed rice and aromatic herbs (13+15)
+GREEN DISH: dish
+Aji Amarillo "no chicken" – creamy golden chilli sauce with steamed rice and aromatic herbs (13+15)</description>
+      <guid isPermaLink="false">urn:canteen:ccb287fd0a154a48-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 12:46:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 – Kays - Lunch Menu:
+Silky smooth paprika stew with slow-cooked pork, mushrooms and pearl onions, served with steamed rice and topped with crispy green beans tossed in cold-pressed rapeseed oil and parsley. With green salad and ramson dressing (1+2+6+11+15)
+GREEN DISH: dish
+Silky smooth paprika stew with pea protein, mushrooms and pearl onions, served with steamed rice and topped with crispy green beans tossed in cold-pressed rapeseed oil and parsley. With green salad and ramson dressing (1+2+6+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:5d6f8e11ba966e33-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 12:46:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
