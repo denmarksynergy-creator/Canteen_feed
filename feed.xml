@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 24 June 2026</title>
+    <title>Canteen Menu - Thursday, 25 June 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 24 Jun 2026 08:24:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:28:13 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,56 +29,64 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260624</guid>
-      <pubDate>Wed, 24 Jun 2026 08:24:01 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 08:28:13 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice and create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:223a5b98d7819ad9-20260624</guid>
-      <pubDate>Wed, 24 Jun 2026 08:24:01 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:223a5b98d7819ad9-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 08:28:13 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Creamy mushrooms on crispy homemade sourdough bread with slow-roasted tomatoes and gremolata. White bean salad and ricotta (1+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:2cd762245995efa9-20260624</guid>
-      <pubDate>Wed, 24 Jun 2026 08:24:01 +0000</pubDate>
+Slow-roasted turkey cuvette with sauce espagnole, soft onions and butter-baked new potatoes. Served with a selection of pickles (11+15)</description>
+      <guid isPermaLink="false">urn:canteen:631ee41c540c1f27-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 08:28:13 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Open wrap with creamy refried beans, mushrooms, white quinoa, coleslaw, lime dressing, coriander, jalapeños and tomato salsa (1+2+11+15)</description>
-      <guid isPermaLink="false">urn:canteen:4e8bcec074287d49-20260624</guid>
-      <pubDate>Wed, 24 Jun 2026 08:24:01 +0000</pubDate>
+Baked Canadian salmon with silky smooth herb sauce and spinach. Lemon and mustard vinaigrette (1+6+15)
+GREEN DISH: dish
+Baked lightly smoked tofu with silky smooth herb sauce and spinach. Lemon and mustard vinaigrette (1+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:c33a911b91788d12-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 08:28:13 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Crunchy vegetable patty of courgettes and chickpeas, packed with spices and served with tomato, cucumber, cabbage and creamy aioli (1+2+8+15)</description>
-      <guid isPermaLink="false">urn:canteen:3b81ec6f0f2c237e-20260624</guid>
-      <pubDate>Wed, 24 Jun 2026 08:24:01 +0000</pubDate>
+Oven-roasted pork shank with golden crispy crackling, new potatoes, fresh herbs and lemon zest (15)
+GREEN DISH: dish
+Glazed and oven-roasted sweet potato with new potatoes, fresh herbs and lemon zest (15)</description>
+      <guid isPermaLink="false">urn:canteen:baa6b625b3111a45-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 08:28:13 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Creamy risotto inspired by the season's finest greens, with fresh ricotta cream and aromatic herb oil (1+6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:58aa6e51fad4dfba-20260624</guid>
-      <pubDate>Wed, 24 Jun 2026 08:24:01 +0000</pubDate>
+Citrus-fresh fish soup with crispy potato dumplings and fresh herbs (1+2+3+6+15)
+GREEN DISH: dish
+Spiced bean soup with potato dumplings and fresh greens (1+2+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:31fea0ff4ff05ce4-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 08:28:13 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Matar paneer – rich green pea curry with soft Indian cheese, served with fluffy jeera rice and topped with crispy namkeen. With achar (lime pickle), creamy raita, Indian salad and fresh coriander (1+6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:83326f398249a5fa-20260624</guid>
-      <pubDate>Wed, 24 Jun 2026 08:24:01 +0000</pubDate>
+Jamaican jerk chicken with Caribbean lentil curry, silky smooth sweet potato mash and fresh parsley. With fruity mango salsa and smoked chilli sauce (6+7+15)
+GREEN DISH: dish
+Jamaican jerk portobello with Caribbean lentil curry, silky smooth sweet potato mash and fresh parsley. With fruity mango salsa and smoked chilli sauce (6+7+15)</description>
+      <guid isPermaLink="false">urn:canteen:4b4b2ededcf54cab-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 08:28:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
