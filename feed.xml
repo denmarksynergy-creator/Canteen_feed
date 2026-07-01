@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Tuesday, 30 June 2026</title>
+    <title>Canteen Menu - Wednesday, 01 July 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 30 Jun 2026 08:32:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 08:51:42 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,64 +29,56 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260630</guid>
-      <pubDate>Tue, 30 Jun 2026 08:32:36 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 08:51:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260630</guid>
-      <pubDate>Tue, 30 Jun 2026 08:32:36 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 08:51:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Bacon-wrapped pork tenderloin with mustard sauce and rice, topped with parsley. With sautéed apples and onion. (6+11)</description>
-      <guid isPermaLink="false">urn:canteen:2fcedfec40c2d13a-20260630</guid>
-      <pubDate>Tue, 30 Jun 2026 08:32:36 +0000</pubDate>
+Vegetable burrito — spiced, roasted vegetables, rice and beans in a tomato tortilla. With pico de gallo, crème fraîche and jalapeños. (1+6)</description>
+      <guid isPermaLink="false">urn:canteen:061e30a94641cda2-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 08:51:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Beef phở — rice noodles with flash-fried beef in an umami-rich, spiced broth, topped with a fresh vegetable salad. With coriander, Thai basil, lime and hoisin sauce. (1+7+8+15)
-GREEN DISH: dish
-Tofu phở — rice noodles with crispy-fried tofu in an umami-rich, spiced broth, topped with a fresh vegetable salad. With coriander, Thai basil, lime and hoisin sauce. (1+7+8+15)</description>
-      <guid isPermaLink="false">urn:canteen:3a7a8492744e449b-20260630</guid>
-      <pubDate>Tue, 30 Jun 2026 08:32:36 +0000</pubDate>
+Rice stir-fry with plenty of fine vegetables, edamame and egg, topped with spring onion and sesame. With Asian cucumber salad and coriander. (2+7+8+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:10b85dc929a3fd0f-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 08:51:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Roast pork ribeye with a summer salad of fennel and courgette, parsley, lemon zest and fresh oregano. (11+15)
-GREEN DISH: dish
-Hasselback tofu roasted with rosemary, thyme and garlic, with a summer salad of fennel and courgette, parsley, lemon zest and fresh oregano. (11+15)</description>
-      <guid isPermaLink="false">urn:canteen:fa4cf8d636b6a067-20260630</guid>
-      <pubDate>Tue, 30 Jun 2026 08:32:36 +0000</pubDate>
+The famous red-lentil dal with intense depth, served with rice, mint raita and mango chutney. (15)</description>
+      <guid isPermaLink="false">urn:canteen:6b046186512d8b27-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 08:51:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Danish meatballs with cold potato salad and tangy, fresh julienned beetroot with dill. (1+2+6+11)
-GREEN DISH: dish
-Beetroot and mushroom patty with cold potato salad and tangy, fresh julienned beetroot with dill. (1+2+6+11)</description>
-      <guid isPermaLink="false">urn:canteen:c2a26014182d6c22-20260630</guid>
-      <pubDate>Tue, 30 Jun 2026 08:32:36 +0000</pubDate>
+Creamy orzo “otto” with courgette, spinach and basil. Topped with baked feta, chickpeas and tomato. (1+6)</description>
+      <guid isPermaLink="false">urn:canteen:9161e9f9a671ff43-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 08:51:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Thai red curry salmon cakes with fluffy jasmine rice, topped with a crisp bean-sprout salad with carrot and toasted sesame. Served with sweet chilli sauce, nam jim jeaw and Thai cucumber &amp; peanut salad. (1+2+3+4+7+8+13+15)
-GREEN DISH: dish
-Thai red curry edamame cakes with fluffy jasmine rice, topped with a crisp bean-sprout salad with carrot and toasted sesame. Served with sweet chilli sauce, nam jim jeaw and Thai cucumber &amp; peanut salad. (1+2+4+7+8+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:f9a4c8a925f7bb2d-20260630</guid>
-      <pubDate>Tue, 30 Jun 2026 08:32:36 +0000</pubDate>
+Crispy falafel with herbed couscous, topped with a fresh Mediterranean tomato salad with mint. Served with baba ghanoush, hummus, tzatziki and pita chips. (1+8+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:18a151bb6922bc93-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 08:51:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
