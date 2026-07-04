@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Friday, 03 July 2026</title>
+    <title>Canteen Menu - Saturday, 04 July 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 03 Jul 2026 08:16:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 08:35:04 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,64 +29,8 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260703</guid>
-      <pubDate>Fri, 03 Jul 2026 08:16:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Sprout Lunch Menu:
-A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260703</guid>
-      <pubDate>Fri, 03 Jul 2026 08:16:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Homebound Lunch Menu:
-Fish cakes with dill potatoes tossed in butter, topped with flash-fried pointed cabbage. With remoulade and lemon. (1+2+3+6+11)</description>
-      <guid isPermaLink="false">urn:canteen:74479275e8515ada-20260703</guid>
-      <pubDate>Fri, 03 Jul 2026 08:16:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Pork neck Marbella with mashed potato and red wine sauce, topped with a light, fresh salad. With green olives and prune compote. (6+11+13+15)
-GREEN DISH: dish
-Celeriac Marbella with mashed potato and red wine sauce, topped with a light, fresh salad. With green olives and prune compote. (6+10+11+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:1522de6b60a3d394-20260703</guid>
-      <pubDate>Fri, 03 Jul 2026 08:16:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB3 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB3 - Lunch Menu:
-Breaded fish fillet with crispy roasted potatoes, served with classic sauce tartare and fresh lemon. (1+2+3+6+15)
-GREEN DISH: dish
-Finely sliced vegetables, breaded and fried, served with crispy roasted potatoes and sauce tartare. (1+2+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:bed88feb5ffa8e67-20260703</guid>
-      <pubDate>Fri, 03 Jul 2026 08:16:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB2 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB2 - Lunch Menu:
-Asian-inspired pork roast with crisp crackling, marinated in hoisin. Served with jasmine rice and a salad of pickled carrot, daikon and fresh pointed cabbage. (1+7+8)
-GREEN DISH: dish
-Tofu marinated in hoisin, served with jasmine rice and a salad of pickled carrot, daikon and fresh pointed cabbage. (1+7+8)</description>
-      <guid isPermaLink="false">urn:canteen:1031783cf5e5ab99-20260703</guid>
-      <pubDate>Fri, 03 Jul 2026 08:16:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 – Kays - Lunch Menu:
-Beef kebab tossed with mushrooms and onion, served with pita and sesame-roasted potatoes. Served with garlic dressing, smoked chilli sauce, hummus, red onion in sumac and a cabbage salad with tomato and cucumber. (1+8+11+13+15)
-GREEN DISH: dish
-Kebab-spiced roasted cauliflower, served with pita and sesame-roasted potatoes. Served with garlic dressing, smoked chilli sauce, hummus, red onion in sumac and a cabbage salad with tomato and cucumber. (1+8+11+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:051be7f060b03b1f-20260703</guid>
-      <pubDate>Fri, 03 Jul 2026 08:16:07 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 08:35:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
