@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Tuesday, 14 July 2026</title>
+    <title>Canteen Menu - Wednesday, 15 July 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 14 Jul 2026 07:13:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:16:53 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,18 +29,16 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260714</guid>
-      <pubDate>Tue, 14 Jul 2026 07:13:42 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 07:16:53 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Pad krapow, a Bangkok classic we all know and love: stir-fried pork served with rice and a fried egg. (4+7+8+15)
-GREEN DISH: Dish
-Pad krapow with tofu, served with rice and a fried egg. (4+7+8+15)</description>
-      <guid isPermaLink="false">urn:canteen:f7469dacefc6a7d1-20260714</guid>
-      <pubDate>Tue, 14 Jul 2026 07:13:42 +0000</pubDate>
+Pasta alla Norma: Sicilian pasta with fried aubergines in an intense, aromatic tomato sauce, served with parmesan and crispy breadcrumbs. (1+6+10+15)</description>
+      <guid isPermaLink="false">urn:canteen:7fd11882b7469b45-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 07:16:53 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
@@ -50,18 +48,16 @@ Summer closure
 Grab&amp;Go
 Grab&amp;Go is still available in the fridge as usual.
 Take-away</description>
-      <guid isPermaLink="false">urn:canteen:aa0bf1adb601f862-20260714</guid>
-      <pubDate>Tue, 14 Jul 2026 07:13:42 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:aa0bf1adb601f862-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 07:16:53 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Chili fries: beef chili con carne on chipotle-spiced fries, topped with melted cheese and parsley. Served with avocado crème, crème fraîche, chilli sauce and pico de gallo. (6+11+15)
-GREEN DISH: Dish
-Vegetarian chili fries: chili sin carne made with pea protein on chipotle-spiced fries, topped with melted cheese and parsley. Served with avocado crème, crème fraîche, chilli sauce and pico de gallo. (6+11+15)</description>
-      <guid isPermaLink="false">urn:canteen:0bfb684a1e22c533-20260714</guid>
-      <pubDate>Tue, 14 Jul 2026 07:13:42 +0000</pubDate>
+Okonomiyaki: Japanese cabbage pancake with noodles and vegetables, topped with nori and wasabi-spiced sesame seeds. Served with okonomiyaki sauce, Japanese mayonnaise and umami-spiced chickpea fritters. Also available gluten-free. (1+2+6+7+8+15)</description>
+      <guid isPermaLink="false">urn:canteen:055ff3e2c419efe5-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 07:16:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
