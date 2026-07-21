@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Monday, 20 July 2026</title>
+    <title>Canteen Menu - Tuesday, 21 July 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Mon, 20 Jul 2026 09:53:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 07:35:35 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,48 +29,39 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260720</guid>
-      <pubDate>Mon, 20 Jul 2026 09:53:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Sprout Lunch Menu:
-We are back on 27 July.</description>
-      <guid isPermaLink="false">urn:canteen:911d74e04c8057a1-20260720</guid>
-      <pubDate>Mon, 20 Jul 2026 09:53:17 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 07:35:35 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Classic pasta Bolognese with parmesan, crispy breadcrumbs and finely chopped parsley. (1+6+10+15)
+Crispy fried pork with noodles in an intense broth and freshly cut vegetables. (2+7+8+15)
 GREEN DISH: Dish
-Pasta pomodoro with butter beans, parmesan, crispy breadcrumbs and finely chopped parsley. (1+6+10+15)</description>
-      <guid isPermaLink="false">urn:canteen:42d73c985b247455-20260720</guid>
-      <pubDate>Mon, 20 Jul 2026 09:53:17 +0000</pubDate>
+Aromatic marinated tofu with noodles in an intense broth and freshly cut vegetables. (2+7+8+15)</description>
+      <guid isPermaLink="false">urn:canteen:a54c3084cae76823-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 07:35:35 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-We look forward to welcoming you back on 27 July.
 Summer closure
 Grab&amp;Go
 Grab&amp;Go is still available in the fridge as usual.
 Take-away</description>
-      <guid isPermaLink="false">urn:canteen:2f0bd4acb73d6dff-20260720</guid>
-      <pubDate>Mon, 20 Jul 2026 09:53:17 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:aa0bf1adb601f862-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 07:35:35 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Moroccan lamb tagine with vegetables and chickpeas, served with spiced couscous tossed with fresh herbs, topped with apricots and roasted almonds. Served with cucumber and mint salad, harissa chilli sauce and preserved lemon cream. Also available gluten-free. (1+6+9+15)
+North Indian chicken tikka masala with garlic naan, topped with namkeen. Served with Indian rice salad, raita and pickled red onions. Also available gluten-free. (1+6+15)
 GREEN DISH: Dish
-Moroccan portobello tagine with vegetables and chickpeas, served with spiced couscous tossed with fresh herbs, topped with apricots and roasted almonds. Served with cucumber and mint salad, harissa chilli sauce and preserved lemon cream. Also available gluten-free. (1+6+9+15)</description>
-      <guid isPermaLink="false">urn:canteen:e30539b65193c71b-20260720</guid>
-      <pubDate>Mon, 20 Jul 2026 09:53:17 +0000</pubDate>
+North Indian paneer tikka masala with garlic naan, topped with namkeen. Served with Indian rice salad, raita and pickled red onions. Also available gluten-free. (1+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:a988f57d0c8ec581-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 07:35:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
