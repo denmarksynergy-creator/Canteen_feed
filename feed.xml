@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 22 July 2026</title>
+    <title>Canteen Menu - Thursday, 23 July 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 22 Jul 2026 07:36:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 07:37:45 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,16 +29,18 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260722</guid>
-      <pubDate>Wed, 22 Jul 2026 07:36:23 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 07:37:45 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Aloo palak: potatoes and spinach in a warmly spiced curry, served with rice, raita and mango chutney. (11+15)</description>
-      <guid isPermaLink="false">urn:canteen:a70deb3a1c9ca3c1-20260722</guid>
-      <pubDate>Wed, 22 Jul 2026 07:36:23 +0000</pubDate>
+Chicken curry with jasmine rice, a classic we all know and love. Coriander on the side, don't worry. (6+11+15)
+GREEN DISH: Dish
+Tofu and tempeh in curry sauce, served with jasmine rice and coriander on the side. (6+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:ef3901228ba6335b-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 07:37:45 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
@@ -48,16 +50,18 @@ Summer closure
 Grab&amp;Go
 Grab&amp;Go is still available in the fridge as usual.
 Take-away</description>
-      <guid isPermaLink="false">urn:canteen:aa0bf1adb601f862-20260722</guid>
-      <pubDate>Wed, 22 Jul 2026 07:36:23 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:aa0bf1adb601f862-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 07:37:45 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-French lentil patty with creamy summer potatoes with peas, spinach and spring onions, topped with pea shoots. Served with roasted carrot salad with French vinaigrette and smoked chilli sauce. (6+15)</description>
-      <guid isPermaLink="false">urn:canteen:85fc0ae909e471b1-20260722</guid>
-      <pubDate>Wed, 22 Jul 2026 07:36:23 +0000</pubDate>
+Hong Kong curry fish balls on stir-fried noodles with vegetables, topped with bean sprouts and sesame seeds. Served with Cantonese chilli oil and steamed daikon salad with soy dressing. Also available gluten-free. (1+2+3+7+8+15)
+GREEN DISH: Dish
+Crispy falafel with Hong Kong curry sauce on stir-fried noodles with vegetables, topped with bean sprouts and sesame seeds. Served with Cantonese chilli oil and steamed daikon salad with soy dressing. Also available gluten-free. (1+2+3+7+8+15)</description>
+      <guid isPermaLink="false">urn:canteen:8ff7634e290c0ac4-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 07:37:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
