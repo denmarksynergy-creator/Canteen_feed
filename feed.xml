@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Sunday, 26 July 2026</title>
+    <title>Canteen Menu - Monday, 27 July 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Sun, 26 Jul 2026 08:26:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 10:36:01 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,8 +29,57 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260726</guid>
-      <pubDate>Sun, 26 Jul 2026 08:26:15 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 10:36:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Homebound Lunch Menu:
+Chicken Danoise with white potatoes, cream sauce and green peas tossed in browned butter and parsley. Served with rhubarb compote and pickled cucumber. (6)</description>
+      <guid isPermaLink="false">urn:canteen:6cc7886d32b2b041-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 10:36:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Sprout Lunch Menu:
+Fried courgette fritters with a rich Greek salad. Served with tzatziki and potatoes tossed in a lemon and pepper vinaigrette. Gluten-free option available. (1+2+6+11+15)
+Thai chicken satay: roasted chicken with peanut sauce, jasmine rice and Thai roasted broccoli. Served with Thai cucumber salad and toasted spiced bread. Gluten-free option available. (1+4+7+8+9+13+15)
+Thai tofu satay: roasted tofu with peanut sauce, jasmine rice and Thai roasted broccoli. Served with Thai cucumber salad and toasted spiced bread. Gluten-free option available. (1+4+7+8+9+13+15)
+A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
+      <guid isPermaLink="false">urn:canteen:caecbbb986aaaf32-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 10:36:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB3 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB3 - Lunch Menu:
+Crispy Cajun fried chicken, served with corn and fresh coleslaw. (1+6+15)
+GREEN DISH: Dish
+Crispy Cajun fried tofu, served with corn and fresh coleslaw. (1+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:b7063295bcc2e0f4-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 10:36:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB2 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB2 - Lunch Menu:
+Chicken roasted in lemon and buttermilk, served with soft, creamy polenta and fresh herbs. (6+15)
+GREEN DISH: Dish
+Roasted vegetables and chickpeas in lemon and buttermilk, served with soft, creamy polenta and fresh herbs. (6+15)</description>
+      <guid isPermaLink="false">urn:canteen:d19384400dad9e68-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 10:36:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 – Kays - Lunch Menu:
+Chili con carne with a crispy baked potato, topped with grated cheese and parsley. Served with fresh coriander, crème fraîche, pico de gallo and creamy avocado. (2+6+11+15)
+GREEN DISH: Dish
+Chili sin carne with a crispy baked potato, topped with grated cheese and parsley. Served with fresh coriander, crème fraîche, pico de gallo and creamy avocado. (2+6+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:b8ae98577bfa377b-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 10:36:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
