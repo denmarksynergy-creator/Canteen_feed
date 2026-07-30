@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 29 July 2026</title>
+    <title>Canteen Menu - Thursday, 30 July 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 29 Jul 2026 07:44:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 07:38:40 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,16 +29,16 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260729</guid>
-      <pubDate>Wed, 29 Jul 2026 07:44:20 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 07:38:40 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-GREEN DISH: chickpea patties, served with summer rice salad with vegetables, topped with pea shoots. Served with remoulade and dill dressing. (6+15)</description>
-      <guid isPermaLink="false">urn:canteen:c671517df3212efd-20260729</guid>
-      <pubDate>Wed, 29 Jul 2026 07:44:20 +0000</pubDate>
+Roast pork with brown gravy, new potatoes and fresh red cabbage salad tossed with herbs. Served with pickled cucumber. (6+11)</description>
+      <guid isPermaLink="false">urn:canteen:e64aedbe633e2029-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 07:38:40 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
@@ -48,32 +48,38 @@ Fried courgette fritters with a rich Greek salad. Served with tzatziki and potat
 Thai chicken satay: roasted chicken with peanut sauce, jasmine rice and Thai roasted broccoli. Served with Thai cucumber salad and toasted spiced bread. Gluten-free option available. (1+4+7+8+9+13+15)
 Thai tofu satay: roasted tofu with peanut sauce, jasmine rice and Thai roasted broccoli. Served with Thai cucumber salad and toasted spiced bread. Gluten-free option available. (1+4+7+8+9+13+15)
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:caecbbb986aaaf32-20260729</guid>
-      <pubDate>Wed, 29 Jul 2026 07:44:20 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:caecbbb986aaaf32-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 07:38:40 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Potato frittata with grilled peppers and a herb salad with marjoram, parsley, frisée and Parmesan. (2+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:41e4f586a453990e-20260729</guid>
-      <pubDate>Wed, 29 Jul 2026 07:44:20 +0000</pubDate>
+Baked fish with classic sauce tartare, grilled summer pointed cabbage and potatoes. (2+3+6+15)
+GREEN DISH: Dish
+Baked tofu with nori, served with sauce tartare, grilled summer pointed cabbage and potatoes. (2+6+7+15)</description>
+      <guid isPermaLink="false">urn:canteen:718e5bac42791706-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 07:38:40 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Burritos with sweet potato, black beans, cheese and chipotle dressing. Served with cabbage salad and crème fraîche dressing. (1+6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:035d28d602aaa394-20260729</guid>
-      <pubDate>Wed, 29 Jul 2026 07:44:20 +0000</pubDate>
+Swedish meatballs with mashed potatoes, lingonberries and cream sauce. (1+6+13+15)
+GREEN DISH: Dish
+GREEN DISH: meatballs with mashed potatoes, lingonberries and cream sauce. (1+6+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:1fd943c07ce572a3-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 07:38:40 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-GREEN DISH: vegetarian hash with edamame and mushrooms, topped with a fried egg and chopped chives. Served with HP sauce, béarnaise cream and a haricots verts salad with red onion and slow-baked tomatoes. (1+2+7+11)</description>
-      <guid isPermaLink="false">urn:canteen:94f039fd2b2db2c1-20260729</guid>
-      <pubDate>Wed, 29 Jul 2026 07:44:20 +0000</pubDate>
+Vietnamese grilled lemongrass pork chop with jasmine rice, topped with roasted peanuts. Served with a fresh salad of bean sprouts, cucumber and tomato, pickled vegetables and fish sauce dip. (3+4+7+8+15)
+GREEN DISH: Dish
+Vietnamese grilled lemongrass aubergine with jasmine rice, topped with roasted peanuts. Served with a fresh salad of bean sprouts, cucumber and tomato, pickled vegetables and fish sauce dip. (3+4+7+8+15)</description>
+      <guid isPermaLink="false">urn:canteen:55431a8877f12257-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 07:38:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
