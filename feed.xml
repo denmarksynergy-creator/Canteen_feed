@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Friday, 31 July 2026</title>
+    <title>Canteen Menu - Saturday, 01 August 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 31 Jul 2026 07:56:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 08:17:14 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,57 +29,8 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260731</guid>
-      <pubDate>Fri, 31 Jul 2026 07:56:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Homebound Lunch Menu:
-Roast pork with brown gravy, new potatoes and fresh red cabbage salad tossed with herbs. Served with pickled cucumber. (6+11)</description>
-      <guid isPermaLink="false">urn:canteen:e64aedbe633e2029-20260731</guid>
-      <pubDate>Fri, 31 Jul 2026 07:56:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Sprout Lunch Menu:
-Fried courgette fritters with a rich Greek salad. Served with tzatziki and potatoes tossed in a lemon and pepper vinaigrette. Gluten-free option available. (1+2+6+11+15)
-Thai chicken satay: roasted chicken with peanut sauce, jasmine rice and Thai roasted broccoli. Served with Thai cucumber salad and toasted spiced bread. Gluten-free option available. (1+4+7+8+9+13+15)
-Thai tofu satay: roasted tofu with peanut sauce, jasmine rice and Thai roasted broccoli. Served with Thai cucumber salad and toasted spiced bread. Gluten-free option available. (1+4+7+8+9+13+15)
-A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:caecbbb986aaaf32-20260731</guid>
-      <pubDate>Fri, 31 Jul 2026 07:56:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB3 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB3 - Lunch Menu:
-Spring rolls with beef and vegetables, served with rice and sweet and sour sauce. (1+7+15)
-GREEN DISH: Dish
-Spring rolls packed with vegetables, served with rice and sweet and sour sauce. (1+7+15)</description>
-      <guid isPermaLink="false">urn:canteen:922d3a99fa7ad00b-20260731</guid>
-      <pubDate>Fri, 31 Jul 2026 07:56:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB2 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB2 - Lunch Menu:
-Steak sandwich with soft onions, pickled cucumber and crispy fried onions. And of course: gravy. (1+6+13+15)
-GREEN DISH: Dish
-GREEN DISH: steak sandwich with soft onions, pickled cucumber and crispy fried onions. (1+6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:ad25852532af58bb-20260731</guid>
-      <pubDate>Fri, 31 Jul 2026 07:56:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 – Kays - Lunch Menu:
-Build your own hot dog with creamy summer potato salad and all the classic toppings. Halal beef sausages are also available. (1+2+6+11)
-GREEN DISH: Dish
-GREEN DISH: your own hot dog with vegetarian sausage and creamy summer potato salad. All the classic toppings on the side. (1+2+6+7+11)</description>
-      <guid isPermaLink="false">urn:canteen:8b1a712d89cf6ec1-20260731</guid>
-      <pubDate>Fri, 31 Jul 2026 07:56:16 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 08:17:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
