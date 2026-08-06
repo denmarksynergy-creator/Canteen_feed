@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 05 August 2026</title>
+    <title>Canteen Menu - Thursday, 06 August 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 05 Aug 2026 07:39:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 07:45:18 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,56 +29,64 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260805</guid>
-      <pubDate>Wed, 05 Aug 2026 07:39:59 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260806</guid>
+      <pubDate>Thu, 06 Aug 2026 07:45:18 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260805</guid>
-      <pubDate>Wed, 05 Aug 2026 07:39:59 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260806</guid>
+      <pubDate>Thu, 06 Aug 2026 07:45:18 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Cauliflower and chickpea curry with jasmine rice and flatbread, topped with chopped parsley. Served with roasted almonds, fresh coriander and diced apple. (1+9+15)</description>
-      <guid isPermaLink="false">urn:canteen:0b2894e913a5d26d-20260805</guid>
-      <pubDate>Wed, 05 Aug 2026 07:39:59 +0000</pubDate>
+Porchetta with baked potatoes and fennel salad. Served with salsa verde and salt-marinated mild green chilli. (13+15)</description>
+      <guid isPermaLink="false">urn:canteen:6d5f1aa1c7e80f10-20260806</guid>
+      <pubDate>Thu, 06 Aug 2026 07:45:18 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-French ratatouille with herbes de Provence rice and a poached egg. Served with garlic bread. (1+2+10+15)</description>
-      <guid isPermaLink="false">urn:canteen:29b86726ba7babd1-20260805</guid>
-      <pubDate>Wed, 05 Aug 2026 07:39:59 +0000</pubDate>
+Nasi goreng, a Malaysian wok dish, with a Southeast Asian spiced fish skewer. Served with fresh tomato and cucumber salad, fried shallots, yoghurt dressing and chilli sauce on the side. (3+5+6+7+8+15)
+GREEN DISH: Dish
+Nasi goreng, a Malaysian wok dish, with a Southeast Asian spiced tofu skewer. Served with fresh tomato and cucumber salad, fried shallots, yoghurt dressing and chilli sauce. (6+7+8+15)</description>
+      <guid isPermaLink="false">urn:canteen:3bbc4d48e353bb41-20260806</guid>
+      <pubDate>Thu, 06 Aug 2026 07:45:18 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Crispy pakoras with rice, spiced lentil sauce and chutney. Served with chilli and fresh coriander on the side. (1+15)</description>
-      <guid isPermaLink="false">urn:canteen:8ec22f6cf27120e0-20260805</guid>
-      <pubDate>Wed, 05 Aug 2026 07:39:59 +0000</pubDate>
+Danish roast pork with potatoes, summer cabbage, cucumber salad and gravy. (1+6+13)
+GREEN DISH: Dish
+Lentil patty with potatoes, summer cabbage, cucumber salad and yoghurt dressing. (1+2+6+13)</description>
+      <guid isPermaLink="false">urn:canteen:064831333e8cc5f3-20260806</guid>
+      <pubDate>Thu, 06 Aug 2026 07:45:18 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Baked cauliflower with warm spices, coconut curry sauce, roasted cashews, fresh coriander and naan bread. (1+9+15)</description>
-      <guid isPermaLink="false">urn:canteen:4c88ff24691892d3-20260805</guid>
-      <pubDate>Wed, 05 Aug 2026 07:39:59 +0000</pubDate>
+Crispy Spanish pork belly with smoked paprika and creamy mash. Served with citrus and fennel salad. (6+13+15)
+GREEN DISH: Dish
+Baked aubergine with smoked paprika and creamy mash. Served with citrus and fennel salad. (6+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:d82103380cac2cbe-20260806</guid>
+      <pubDate>Thu, 06 Aug 2026 07:45:18 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Golden falafel with creamy hummus, warm pita bread (gluten-free option available) and a rich herb tabbouleh. Served with tzatziki, Greek salad, pickled mild Turkish chilli, feta garlic cream and chilli sauce. (1+2+6+11+15)</description>
-      <guid isPermaLink="false">urn:canteen:ddb8e114e68dcbc6-20260805</guid>
-      <pubDate>Wed, 05 Aug 2026 07:39:59 +0000</pubDate>
+Chicken pad krapow with jasmine rice, topped with a crispy fried egg and spring onions. Served with chilli oil, prik nam pla, fresh lettuce and cucumber. Also available gluten-free. (1+2+7+8+15)
+GREEN DISH: Dish
+Tofu pad krapow with minced firm tofu and jasmine rice, topped with a crispy fried egg and spring onions. Served with chilli oil, prik nam pla, fresh lettuce and cucumber. Also available gluten-free. (1+2+7+8+15)</description>
+      <guid isPermaLink="false">urn:canteen:bc7f76197cc883f9-20260806</guid>
+      <pubDate>Thu, 06 Aug 2026 07:45:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
