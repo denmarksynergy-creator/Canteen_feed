@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Thursday, 13 August 2026</title>
+    <title>Canteen Menu - Friday, 14 August 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 13 Aug 2026 06:21:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 06:20:21 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,24 +29,24 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260813</guid>
-      <pubDate>Thu, 13 Aug 2026 06:21:47 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 06:20:21 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260813</guid>
-      <pubDate>Thu, 13 Aug 2026 06:21:47 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 06:20:21 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
 Classic chicken and potato salad. Served with fresh green beans topped with crispy bacon and herbs.</description>
-      <guid isPermaLink="false">urn:canteen:521f16e517f0b133-20260813</guid>
-      <pubDate>Thu, 13 Aug 2026 06:21:47 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:521f16e517f0b133-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 06:20:21 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -55,38 +55,38 @@ Classic chicken and potato salad. Served with fresh green beans topped with cris
 Lechon Kawali, crispy Filipino pork belly, with jasmine rice. Served with ensaladang talong, an aubergine and tomato salad, and liver pâté.
 GREEN DISH: Dish
 GREEN DISH: sautéed vegetables, with jasmine rice. Served with ensaladang talong, an aubergine and tomato salad, and vegetarian pâté.</description>
-      <guid isPermaLink="false">urn:canteen:14b3e3a3c62ed15b-20260813</guid>
-      <pubDate>Thu, 13 Aug 2026 06:21:47 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:14b3e3a3c62ed15b-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 06:20:21 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Danish fish cakes with potatoes, fried cauliflower and tartar sauce. (2+3+6+11)
+Baked potato filled with slow-roasted smoked beef, corn and cheese. Served with fresh coleslaw. (6)
 GREEN DISH: Dish
-Mushroom cakes with potatoes, fried cauliflower and tartar sauce. (2+6+11)</description>
-      <guid isPermaLink="false">urn:canteen:3b1e3306684cbce7-20260813</guid>
-      <pubDate>Thu, 13 Aug 2026 06:21:47 +0000</pubDate>
+Baked potato filled with smoked, spiced tempeh, corn and cheese. Served with fresh coleslaw. (6+7)</description>
+      <guid isPermaLink="false">urn:canteen:8fbc63408ee7850c-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 06:20:21 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Chili con carne, the good old Mexican protein classic. Served with rice and guacamole.
+Fried chicken burger with a little kick from harissa mayo, salty tang from pickles and crisp crunch from iceberg lettuce.
 GREEN DISH: Dish
-Chili sin carne, served with rice and guacamole.</description>
-      <guid isPermaLink="false">urn:canteen:afd303ea8f55c2e6-20260813</guid>
-      <pubDate>Thu, 13 Aug 2026 06:21:47 +0000</pubDate>
+Veggie burger with a little kick from harissa mayo, salty tang from pickles and crisp crunch from iceberg lettuce.</description>
+      <guid isPermaLink="false">urn:canteen:6fbff00fe66a2999-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 06:20:21 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Keema spaghetti, Nepalese-style pork bolognese served on spaghetti and topped with braised pak choy. Served with Szechuan chilli sauce, lime and coriander. Also available gluten-free. (1+2+4+7+8+15)
+Grilled chicken thigh in a crispy tortilla crust with chipotle fries, topped with creamy coleslaw. Served with avocado cream, roasted tomato salsa and lime mayonnaise. (2+6+11+15)
 GREEN DISH: Dish
-GREEN DISH: keema spaghetti, Nepalese-style bolognese with pea protein, served on spaghetti and topped with braised pak choy. Served with Szechuan chilli sauce, lime and coriander. Also available gluten-free and vegan. (1+2+4+7+8+15)</description>
-      <guid isPermaLink="false">urn:canteen:e2001b23158767ba-20260813</guid>
-      <pubDate>Thu, 13 Aug 2026 06:21:47 +0000</pubDate>
+Grilled cauliflower in a crispy tortilla crust with chipotle fries, topped with creamy coleslaw. Served with avocado cream, roasted tomato salsa and lime mayonnaise. Also available vegan. (2+6+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:fd5f56d4cb07b233-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 06:20:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
