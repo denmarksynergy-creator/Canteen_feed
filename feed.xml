@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Monday, 17 August 2026</title>
+    <title>Canteen Menu - Tuesday, 18 August 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Mon, 17 Aug 2026 07:46:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 05:30:20 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,24 +29,24 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260817</guid>
-      <pubDate>Mon, 17 Aug 2026 07:46:52 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 05:30:20 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260817</guid>
-      <pubDate>Mon, 17 Aug 2026 07:46:52 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 05:30:20 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
 Danish medister sausage with brown gravy, potatoes and cabbage salad. Served with pickled cucumber and lingonberries on the side.</description>
-      <guid isPermaLink="false">urn:canteen:d59f1727e45562b4-20260817</guid>
-      <pubDate>Mon, 17 Aug 2026 07:46:52 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:d59f1727e45562b4-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 05:30:20 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -55,38 +55,38 @@ Danish medister sausage with brown gravy, potatoes and cabbage salad. Served wit
 Taiwanese San Bei Ji, three cup chicken, with jasmine rice and sautéed bok choy. Served with chilli sauce and a crisp Asian cucumber salad.
 GREEN DISH: Dish
 Taiwanese San Bei Ji with tofu, jasmine rice and sautéed bok choy. Served with chilli sauce and a crisp Asian cucumber salad.</description>
-      <guid isPermaLink="false">urn:canteen:c405542974922c26-20260817</guid>
-      <pubDate>Mon, 17 Aug 2026 07:46:52 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c405542974922c26-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 05:30:20 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Salsiccia and spiced chorizo in a light summer ragout with soft, creamy polenta and baked cherry tomatoes tossed in herb pesto. (1+10+15)
+Paella with shellfish, squid, blue mussels, parsley and lemon. (3+5+10+14+15)
 GREEN DISH: Dish
-Spiced beluga lentils with Mediterranean flavours as a ragout, with soft, creamy polenta and baked cherry tomatoes in herb pesto. (10+15)</description>
-      <guid isPermaLink="false">urn:canteen:1b086dbb786e0948-20260817</guid>
-      <pubDate>Mon, 17 Aug 2026 07:46:52 +0000</pubDate>
+Paella with chickpeas, courgette, red bell pepper, parsley and lemon. (10+15)</description>
+      <guid isPermaLink="false">urn:canteen:52bc5b87a7dec0ca-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 05:30:20 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Linguine with lobster and blue mussel bisque, steamed vegetables and butter-toasted sourdough bread. Topped with a fennel and parsley salad. (1+3+5+6+13+14+15)
+Ramen with pork neck in an intense chicken, pork, miso and soy broth, with finely shredded cabbage, spring onion, chilli and sesame. (1+7+8+13+15)
 GREEN DISH: Dish
-Linguine in a deep, rich tomato sauce with steamed vegetables and butter-toasted sourdough bread. Topped with a fennel and parsley salad. (1+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:10057affac55a463-20260817</guid>
-      <pubDate>Mon, 17 Aug 2026 07:46:52 +0000</pubDate>
+Ramen in an intense vegetable broth with miso and soy, with soy-marinated egg, shredded cabbage, spring onion, chilli and sesame. (1+2+7+8+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:148aa03489b7283d-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 05:30:20 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Chicken Danoise with lightly roasted new potatoes and silky cream sauce, topped with fresh pea shoots. Served with a salad of radishes and peas in classic Danish dressing, rhubarb compote and cucumber salad. (6+11)
+Pasta alla Norcina, creamy pasta with Italian sausage-spiced turkey, white wine and garlic, topped with grated parmesan and chopped parsley. Served with chilli sauce and grilled courgette salad. Also available gluten-free. (1+6+13+15)
 GREEN DISH: Dish
-Hay-baked celeriac with new potatoes and silky cream sauce, topped with fresh pea shoots. Served with a salad of radishes and peas in classic Danish dressing, rhubarb compote and cucumber salad. The dish is vegan. (6+11)</description>
-      <guid isPermaLink="false">urn:canteen:2008b458f2c24b42-20260817</guid>
-      <pubDate>Mon, 17 Aug 2026 07:46:52 +0000</pubDate>
+GREEN DISH: pasta alla Norcina, creamy pasta with Italian sausage-spiced pea protein, white wine and garlic, topped with grated parmesan and chopped parsley. Served with chilli sauce and grilled courgette salad. Also available gluten-free and vegan. (1+6+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:d1832c1e7d5febd1-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 05:30:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
