@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Thursday, 20 August 2026</title>
+    <title>Canteen Menu - Friday, 21 August 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 20 Aug 2026 05:36:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 05:39:16 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,24 +29,24 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260820</guid>
-      <pubDate>Thu, 20 Aug 2026 05:36:37 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 05:39:16 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260820</guid>
-      <pubDate>Thu, 20 Aug 2026 05:36:37 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 05:39:16 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
 Oven-baked dab with lemon and rosemary. Served with creamy herb sauce, garlic-fried green beans, roasted potatoes and cucumber salad with dill on the side.</description>
-      <guid isPermaLink="false">urn:canteen:981d57e394393f00-20260820</guid>
-      <pubDate>Thu, 20 Aug 2026 05:36:37 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:981d57e394393f00-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 05:39:16 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -55,38 +55,38 @@ Oven-baked dab with lemon and rosemary. Served with creamy herb sauce, garlic-fr
 Pork Guisantes, Filipino pork stew, with Sinangag, garlic fried rice. Served with Saging na Saba, fried plantain, and a fresh green salad on the side.
 GREEN DISH: Dish
 Tofu Guisantes, Filipino tofu stew, with Sinangag, garlic fried rice. Served with Saging na Saba, fried plantain, and a fresh green salad on the side.</description>
-      <guid isPermaLink="false">urn:canteen:7fee20b928fdf042-20260820</guid>
-      <pubDate>Thu, 20 Aug 2026 05:36:37 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:7fee20b928fdf042-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 05:39:16 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-The American-Italian classic, pasta chicken alfredo. (1+6+15)
+Vietnamese bánh mì with pork, fresh and pickled vegetables and full-fat mayonnaise. (1+2+15)
 GREEN DISH: Dish
-Pasta alfredo with butter beans. (1+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:fe9aff5b2390ffcd-20260820</guid>
-      <pubDate>Thu, 20 Aug 2026 05:36:37 +0000</pubDate>
+Bánh mì with spice-fried tofu, fresh and pickled vegetables and full-fat mayonnaise. (1+2+7+15)</description>
+      <guid isPermaLink="false">urn:canteen:07dd6672bae9c3b4-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 05:39:16 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Chicken tikka masala, a flavourful and intense Indian classic. (6+15)
+Cheeseburger. It is , and that calls for a celebration. (1+2+6+11+13+15)
 GREEN DISH: Dish
-No chicken tikka masala, a flavourful and intense Indian classic. (6+15)</description>
-      <guid isPermaLink="false">urn:canteen:41e08f1d79473fdc-20260820</guid>
-      <pubDate>Thu, 20 Aug 2026 05:36:37 +0000</pubDate>
+GREEN DISH: cheeseburger. (1+2+6+11+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:574c444568bf0a97-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 05:39:16 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Spanish spiced pork neck with Canarian wrinkled potatoes, topped with garlic-fried green beans. Served with mojo verde, mojo rojo and tomato salad with red onion and olive oil. The dish is gluten-free. (13+15)
+Honey and hot sauce glazed Korean fried chicken with thick spring onion pancakes, topped with toasted sesame seeds and peanuts. Served with Oi Muchim, Asian cucumber salad, pickled daikon and chilli sauce. Also available gluten-free. (1+2+4+6+7+8+15)
 GREEN DISH: Dish
-Spanish spiced portobello mushroom with Canarian wrinkled potatoes, topped with garlic-fried green beans. Served with mojo verde, mojo rojo and tomato salad with red onion and olive oil. The dish is gluten-free and vegan. (13+15)</description>
-      <guid isPermaLink="false">urn:canteen:0a0cebdd5a8a9d67-20260820</guid>
-      <pubDate>Thu, 20 Aug 2026 05:36:37 +0000</pubDate>
+Honey and hot sauce glazed Korean fried tofu with thick spring onion pancakes, topped with toasted sesame seeds and peanuts. Served with Oi Muchim, Asian cucumber salad, pickled daikon and chilli sauce. Also available gluten-free and vegan. (1+2+4+6+7+8+15)</description>
+      <guid isPermaLink="false">urn:canteen:56c2b19e4b88c88e-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 05:39:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
