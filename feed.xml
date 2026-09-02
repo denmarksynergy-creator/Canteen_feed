@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Tuesday, 01 September 2026</title>
+    <title>Canteen Menu - Wednesday, 02 September 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 01 Sep 2026 09:49:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 09:21:02 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,64 +29,56 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260901</guid>
-      <pubDate>Tue, 01 Sep 2026 09:49:07 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260902</guid>
+      <pubDate>Wed, 02 Sep 2026 09:21:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260901</guid>
-      <pubDate>Tue, 01 Sep 2026 09:49:07 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260902</guid>
+      <pubDate>Wed, 02 Sep 2026 09:21:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Danish fish cakes with roasted potatoes, topped with steamed broccoli. Served with remoulade, cucumber salad and lemon on the side. (1+2+3+10+11)</description>
-      <guid isPermaLink="false">urn:canteen:12cc363e52ea00ad-20260901</guid>
-      <pubDate>Tue, 01 Sep 2026 09:49:07 +0000</pubDate>
+Roasted aubergine in a rich, umami-packed aubergine pasta with penne, tomato and vegetables. Served with cheese and a fresh salad on the side. Also available gluten free. (1+2+6+10+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:41e6c81ac7956153-20260902</guid>
+      <pubDate>Wed, 02 Sep 2026 09:21:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Turkish tantuni with chicken, vegetables and rice. Served with lime, red onion salad with sumac and parsley, lemon yoghurt and pickled mild peppers on the side. Also available gluten free. (1+6+11+15)
-GREEN DISH: Dish
-Turkish tantuni with tofu, vegetables and rice. Served with lime, red onion salad with sumac and parsley, lemon yoghurt and pickled mild peppers on the side. Also available gluten free. (1+6+7+11+15)</description>
-      <guid isPermaLink="false">urn:canteen:aacd5d181a7e0edb-20260901</guid>
-      <pubDate>Tue, 01 Sep 2026 09:49:07 +0000</pubDate>
+South African bobotie, baked lentils with pea protein, almonds and vegetables, served with rice and topped with a coconut egg custard, sprinkled with spring onion. Served with fruit chutney and South African sambal, a fresh salad much like pico de gallo, on the side. (2+6+9+15)</description>
+      <guid isPermaLink="false">urn:canteen:14c49fc8bd7ab25d-20260902</guid>
+      <pubDate>Wed, 02 Sep 2026 09:21:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Chicken curry the way we know and love it, served with fluffy rice, mango chutney and peanuts. (4+6+9+15)
-GREEN DISH: Dish
-Tofu curry, served with fluffy rice, mango chutney and peanuts. (4+6+7+9+15)</description>
-      <guid isPermaLink="false">urn:canteen:4d115664866a4949-20260901</guid>
-      <pubDate>Tue, 01 Sep 2026 09:49:07 +0000</pubDate>
+Okonomiyaki, Japanese pancake with pointed cabbage, miso and seaweed, served with kewpie mayonnaise and nori. (1+2+3+7+8+15)</description>
+      <guid isPermaLink="false">urn:canteen:8919597c2b33585e-20260902</guid>
+      <pubDate>Wed, 02 Sep 2026 09:21:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Chicken breast marinated in thyme and rosemary, served with roasted potatoes and Caesar salad. (2+3+6+11+13+15)
-GREEN DISH: Dish
-Halloumi marinated in thyme and rosemary, served with roasted potatoes and Caesar salad. (2+3+6+11+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:e9e29bbb08cbe277-20260901</guid>
-      <pubDate>Tue, 01 Sep 2026 09:49:07 +0000</pubDate>
+Cannelloni filled with ricotta cream, spinach, palm kale, nutmeg and citrus, covered in a rich, full-bodied tomato sauce. (1+6)</description>
+      <guid isPermaLink="false">urn:canteen:caaaf8901fa6c4ae-20260902</guid>
+      <pubDate>Wed, 02 Sep 2026 09:21:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Crispy fried chicken with roasted new potatoes and a spiced brown sauce, topped with green beans tossed in parsley and browned butter. Served with an apple, onion and thyme compote and a fresh green salad with sherry vinaigrette on the side. (1+6+11+13+15)
-GREEN DISH: Dish
-Roasted portobello mushrooms with roasted new potatoes and a spiced brown sauce, topped with green beans tossed in parsley and browned butter. Served with an apple, onion and thyme compote and a fresh green salad with sherry vinaigrette on the side. (1+6+11+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:7229021794ab0025-20260901</guid>
-      <pubDate>Tue, 01 Sep 2026 09:49:07 +0000</pubDate>
+Homemade falafel with tabbouleh salad and za'atar-spiced pita wedges. Served with a mezze of olives, hummus, tzatziki, pickled vegetables, chilli sauce, cabbage and red onion tossed in sumac, plus garlic dressing. Also available gluten free. (1+2+6+8+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:cedbcb277beaa17b-20260902</guid>
+      <pubDate>Wed, 02 Sep 2026 09:21:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
