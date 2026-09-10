@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 09 September 2026</title>
+    <title>Canteen Menu - Thursday, 10 September 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 09 Sep 2026 09:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:29:42 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,56 +29,62 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260909</guid>
-      <pubDate>Wed, 09 Sep 2026 09:27:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260910</guid>
+      <pubDate>Thu, 10 Sep 2026 09:29:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260909</guid>
-      <pubDate>Wed, 09 Sep 2026 09:27:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260910</guid>
+      <pubDate>Thu, 10 Sep 2026 09:29:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-A big, filling burger with a lentil and beetroot patty, plenty of fresh vegetables, ketchup and coarse dijonnaise. Served with baked root vegetables and chilli mayonnaise. Also available gluten free. (1+2+6+11)</description>
-      <guid isPermaLink="false">urn:canteen:bc63b8ccd557ceb6-20260909</guid>
-      <pubDate>Wed, 09 Sep 2026 09:27:00 +0000</pubDate>
+Danish beef hash (biksemad) topped with a fried egg and chives. Served with pickled beetroot, rye bread crunch and béarnaise cream. Gluten free without the rye bread crunch. (1+2+6+11)</description>
+      <guid isPermaLink="false">urn:canteen:982442810063a09c-20260910</guid>
+      <pubDate>Thu, 10 Sep 2026 09:29:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Butter-toasted fregola with chickpeas, sweetcorn and courgette, topped with parmesan and basil. Served with herb-baked onions and whipped ricotta with olive oil and basil glaze. Also available gluten free. (1+6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:22440d31fc5d53d9-20260909</guid>
-      <pubDate>Wed, 09 Sep 2026 09:27:00 +0000</pubDate>
+GREEN DISH: Dish</description>
+      <guid isPermaLink="false">urn:canteen:863e64c278f0275d-20260910</guid>
+      <pubDate>Thu, 10 Sep 2026 09:29:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Sunny-side-up eggs on a nest of crushed, crispy-fried potato with creamed spinach and sorrel, topped with spiced breadcrumbs. (1+2+6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:6452d957ab37950f-20260909</guid>
-      <pubDate>Wed, 09 Sep 2026 09:27:00 +0000</pubDate>
+Chili con carne, the classic with beef, tomato and beans, seasoned with a touch of chocolate. Served with rice and extra chilli for those who want more heat. (10+13+15)
+GREEN DISH: Dish
+GREEN DISH: sin carne, the vegetarian version seasoned exactly the same way. Served with rice and chilli on the side. (10+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:43fdb0fd26099425-20260910</guid>
+      <pubDate>Thu, 10 Sep 2026 09:29:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Creamy mushroom pasta with parmesan, sage and parsley. (1+6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:e9a082f3a070d66a-20260909</guid>
-      <pubDate>Wed, 09 Sep 2026 09:27:00 +0000</pubDate>
+Meatloaf with roasted potatoes, lingonberries and gravy, topped with a herb salad. (1+2+6+11+13+15)
+GREEN DISH: Dish
+Chickpea loaf with roasted potatoes, sugared redcurrants and gravy, topped with a herb salad. (6+11+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:dab41712ac8b51e7-20260910</guid>
+      <pubDate>Thu, 10 Sep 2026 09:29:42 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-GREEN DISH: Indian pot pie, a rich tikka stew of lentils and vegetables topped with creamy curried mash, gratinated in the oven and served with mint and toasted almonds. Served with lime, coriander, raita and kachumber salad. (6+9+15)</description>
-      <guid isPermaLink="false">urn:canteen:435652ac24d66ffd-20260909</guid>
-      <pubDate>Wed, 09 Sep 2026 09:27:00 +0000</pubDate>
+Crispy chicken gyoza with jasmine rice tossed with edamame and carrot, topped with spring onion. Served with a warm miso soup, sunomono (Japanese cucumber salad) and gyoza dipping sauce. Also available gluten free. (1+7+8+13+15)
+GREEN DISH: Dish
+Crispy vegetable gyoza with jasmine rice tossed with edamame and carrot, topped with spring onion. Served with a warm miso soup, sunomono (Japanese cucumber salad) and gyoza dipping sauce. Also available gluten free, and vegan. (1+7+8+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:9788890cf5f37138-20260910</guid>
+      <pubDate>Thu, 10 Sep 2026 09:29:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
