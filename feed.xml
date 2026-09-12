@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Friday, 11 September 2026</title>
+    <title>Canteen Menu - Saturday, 12 September 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 11 Sep 2026 09:29:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:03:14 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,62 +29,8 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260911</guid>
-      <pubDate>Fri, 11 Sep 2026 09:29:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Sprout Lunch Menu:
-A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260911</guid>
-      <pubDate>Fri, 11 Sep 2026 09:29:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Homebound Lunch Menu:
-Danish beef hash (biksemad) topped with a fried egg and chives. Served with pickled beetroot, rye bread crunch and béarnaise cream. Gluten free without the rye bread crunch. (1+2+6+11)</description>
-      <guid isPermaLink="false">urn:canteen:982442810063a09c-20260911</guid>
-      <pubDate>Fri, 11 Sep 2026 09:29:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Globetrotter Lunch Menu:
-GREEN DISH: Dish</description>
-      <guid isPermaLink="false">urn:canteen:863e64c278f0275d-20260911</guid>
-      <pubDate>Fri, 11 Sep 2026 09:29:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB3 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB3 - Lunch Menu:
-Soft polenta with a slice of porchetta, slow-baked tomatoes and salsa verde. (13+15)
-GREEN DISH: Dish
-Soft polenta with Ingrid pea falafel, slow-baked tomatoes and salsa verde. (13+15)</description>
-      <guid isPermaLink="false">urn:canteen:ec643961a5791651-20260911</guid>
-      <pubDate>Fri, 11 Sep 2026 09:29:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB2 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB2 - Lunch Menu:
-Korean fried chicken burger with kimchi mayo and crisp salad. (1+2+6+7+8+13+15)
-GREEN DISH: Dish
-Korean fried mushroom burger with kimchi mayo and crisp salad. (1+2+6+7+8+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:fcf7cc458010e6c9-20260911</guid>
-      <pubDate>Fri, 11 Sep 2026 09:29:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 – Kays - Lunch Menu:
-Ham jägerschnitzel with sautéed potatoes and mushroom sauce, topped with peas tossed in parsley and cold-pressed butter-flavoured rapeseed oil. Served with lemon and a crisp red cabbage salad. Also available gluten free. (1+2+6+15)
-GREEN DISH: Dish
-Celeriac schnitzel with sautéed potatoes and mushroom sauce, topped with peas tossed in parsley and cold-pressed butter-flavoured rapeseed oil. Served with lemon and a crisp red cabbage salad. Also available gluten free and vegan. (1+2+6+10+15)</description>
-      <guid isPermaLink="false">urn:canteen:bf5c0d5dc3f9c47b-20260911</guid>
-      <pubDate>Fri, 11 Sep 2026 09:29:16 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260912</guid>
+      <pubDate>Sat, 12 Sep 2026 10:03:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
