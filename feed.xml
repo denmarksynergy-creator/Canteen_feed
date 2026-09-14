@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Sunday, 13 September 2026</title>
+    <title>Canteen Menu - Monday, 14 September 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Sun, 13 Sep 2026 11:07:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:32:58 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,8 +29,64 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260913</guid>
-      <pubDate>Sun, 13 Sep 2026 11:07:52 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260914</guid>
+      <pubDate>Mon, 14 Sep 2026 13:32:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Sprout Lunch Menu:
+A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260914</guid>
+      <pubDate>Mon, 14 Sep 2026 13:32:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Homebound Lunch Menu:
+Coarsely ground gourmet pork sausages with wild garlic, served with red wine and onion sauce and creamy mashed potato. Served with an apple and fennel salad with mustard vinaigrette. The dish is gluten free. (6+11+13)</description>
+      <guid isPermaLink="false">urn:canteen:48e87cc338b209da-20260914</guid>
+      <pubDate>Mon, 14 Sep 2026 13:32:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Globetrotter Lunch Menu:
+Spicy chilli con chicken, served on rice and topped with crushed tortilla chips tossed with chopped parsley. Served with creamy coleslaw, lime and coriander. The dish is gluten free. (2+6+11+15)
+GREEN DISH: Dish
+Spicy chilli con pea protein, served on rice and topped with crushed tortilla chips tossed with chopped parsley. Served with creamy coleslaw, lime and coriander. The dish is gluten free. (2+6+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:cb4c0c7df6259c35-20260914</guid>
+      <pubDate>Mon, 14 Sep 2026 13:32:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB3 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB3 - Lunch Menu:
+Roast turkey with coarsely crushed potatoes, gravy, pickled cucumber and lingonberries. (6+11+15)
+GREEN DISH: Dish
+Dill patties with coarsely crushed potatoes, gravy, pickled cucumber and lingonberries. (6+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:f12e4ad7b9bd3061-20260914</guid>
+      <pubDate>Mon, 14 Sep 2026 13:32:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB2 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB2 - Lunch Menu:
+Hoisin-marinated chicken with stir-fried vegetables. Served with rice and fresh aromatic herbs. (1+7+8+15)
+GREEN DISH: Dish
+Hoisin-marinated tofu with stir-fried vegetables. Served with rice and fresh aromatic herbs. (1+7+8+15)</description>
+      <guid isPermaLink="false">urn:canteen:a18ff0f03089fbdb-20260914</guid>
+      <pubDate>Mon, 14 Sep 2026 13:32:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 – Kays - Lunch Menu:
+Hong Kong sweet and sour pork, sweet and tangy pork made the Hong Kong way, served with jasmine rice and topped with spring onion. Served with chilli oil and Asian slaw. The dish is gluten free. (7+15)
+GREEN DISH: Dish
+Hong Kong sweet and sour oyster mushrooms, sweet and tangy oyster mushrooms made the Hong Kong way, served with jasmine rice and topped with spring onion. Served with chilli oil and Asian slaw. The dish is gluten free. (7+15)</description>
+      <guid isPermaLink="false">urn:canteen:1538f60b33268dfd-20260914</guid>
+      <pubDate>Mon, 14 Sep 2026 13:32:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
