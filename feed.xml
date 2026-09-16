@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Tuesday, 15 September 2026</title>
+    <title>Canteen Menu - Wednesday, 16 September 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 15 Sep 2026 09:50:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 09:44:03 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,64 +29,56 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260915</guid>
-      <pubDate>Tue, 15 Sep 2026 09:50:29 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260916</guid>
+      <pubDate>Wed, 16 Sep 2026 09:44:03 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260915</guid>
-      <pubDate>Tue, 15 Sep 2026 09:50:29 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260916</guid>
+      <pubDate>Wed, 16 Sep 2026 09:44:03 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Coarsely ground gourmet pork sausages with wild garlic, served with red wine and onion sauce and creamy mashed potato. Served with an apple and fennel salad with mustard vinaigrette. The dish is gluten free. (6+11+13)</description>
-      <guid isPermaLink="false">urn:canteen:48e87cc338b209da-20260915</guid>
-      <pubDate>Tue, 15 Sep 2026 09:50:29 +0000</pubDate>
+Baked Danish omelette with vegetables, topped with a fresh tomato salad tossed with chives and parsley. Served with rye bread, mustard and pickled beetroot. Also available gluten free. (1+2+6+8+11)</description>
+      <guid isPermaLink="false">urn:canteen:3d1d39679d116cd5-20260916</guid>
+      <pubDate>Wed, 16 Sep 2026 09:44:03 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Spicy chilli con chicken, served on rice and topped with crushed tortilla chips tossed with chopped parsley. Served with creamy coleslaw, lime and coriander. The dish is gluten free. (2+6+11+15)
-GREEN DISH: Dish
-Spicy chilli con pea protein, served on rice and topped with crushed tortilla chips tossed with chopped parsley. Served with creamy coleslaw, lime and coriander. The dish is gluten free. (2+6+11+15)</description>
-      <guid isPermaLink="false">urn:canteen:cb4c0c7df6259c35-20260915</guid>
-      <pubDate>Tue, 15 Sep 2026 09:50:29 +0000</pubDate>
+Tofu lo mein, a noodle stir fry with plenty of vegetables and tofu tossed in lo mein sauce, topped with toasted sesame seeds and spring onion. Served with flash-fried green beans and edamame with crispy chilli and ginger. Also available gluten free. (1+7+8+9+11+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:7874a70b07157309-20260916</guid>
+      <pubDate>Wed, 16 Sep 2026 09:44:03 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Nepali-style chicken korma, served with rice, finely sliced spring onion and salted peanuts. (4+6+8+9+15)
-GREEN DISH: Dish
-Nepali-style tofu korma, served with rice, finely sliced spring onion and salted peanuts. (4+6+7+8+9+15)</description>
-      <guid isPermaLink="false">urn:canteen:a50d4ca9d352a3f2-20260915</guid>
-      <pubDate>Tue, 15 Sep 2026 09:50:29 +0000</pubDate>
+Classic red lentil dal in a spiced tomato sauce, served with rice, raita and mango chutney. (6+15)</description>
+      <guid isPermaLink="false">urn:canteen:32d68c8a55a3382e-20260916</guid>
+      <pubDate>Wed, 16 Sep 2026 09:44:03 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Beef stroganoff with bacon. Served with buttery mashed potato. (6+13+15)
-GREEN DISH: Dish
-Lentil and mushroom stroganoff. Served with buttery mashed potato. (6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:3c067608527810fd-20260915</guid>
-      <pubDate>Tue, 15 Sep 2026 09:50:29 +0000</pubDate>
+Potato and leek soup, topped with kale, toasted nuts, baked onion and parsley oil. (6+9+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:7e364691298bb797-20260916</guid>
+      <pubDate>Wed, 16 Sep 2026 09:44:03 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Tuscan chicken, pan-fried chicken breast on mashed potato, topped with a creamy sauce of sun-dried tomatoes, spinach and a sprinkle of parmesan. Served with chilli sauce and blanched green beans tossed in cold-pressed butter-flavoured rapeseed oil and roasted garlic. Gluten free, and also available dairy free. (6+15)
-GREEN DISH: Dish
-Tuscan chickpeas, Italian-spiced chickpeas on mashed potato, topped with a creamy sauce of sun-dried tomatoes, spinach and a sprinkle of parmesan. Served with chilli sauce and blanched green beans tossed in cold-pressed butter-flavoured rapeseed oil and roasted garlic. Gluten free, and also available dairy free, which makes it vegan. (6+15)</description>
-      <guid isPermaLink="false">urn:canteen:c7aa96c643a90902-20260915</guid>
-      <pubDate>Tue, 15 Sep 2026 09:50:29 +0000</pubDate>
+Palak paneer, Indian spinach curry with paneer (cheese), served with jeera rice and topped with crunchy namkeen. Served with boondi raita, kachumber salad, lime, chilli sauce and coriander. Gluten free, and also available vegan with tofu. (4+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:7ea12c9eca3826df-20260916</guid>
+      <pubDate>Wed, 16 Sep 2026 09:44:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
