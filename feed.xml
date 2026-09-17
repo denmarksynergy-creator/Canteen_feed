@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 16 September 2026</title>
+    <title>Canteen Menu - Thursday, 17 September 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 16 Sep 2026 09:44:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:56:16 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,56 +29,64 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260916</guid>
-      <pubDate>Wed, 16 Sep 2026 09:44:03 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260917</guid>
+      <pubDate>Thu, 17 Sep 2026 09:56:16 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260916</guid>
-      <pubDate>Wed, 16 Sep 2026 09:44:03 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260917</guid>
+      <pubDate>Thu, 17 Sep 2026 09:56:16 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Baked Danish omelette with vegetables, topped with a fresh tomato salad tossed with chives and parsley. Served with rye bread, mustard and pickled beetroot. Also available gluten free. (1+2+6+8+11)</description>
-      <guid isPermaLink="false">urn:canteen:3d1d39679d116cd5-20260916</guid>
-      <pubDate>Wed, 16 Sep 2026 09:44:03 +0000</pubDate>
+Chicken in tartlets, tender chicken with asparagus served in warm tartlets and topped with tomato and parsley. Served with a pointed cabbage salad with hazelnuts and pear tossed in lemon and cold-pressed rapeseed oil. Also available gluten free in a crispy tortilla bowl. (1+2+6+9)</description>
+      <guid isPermaLink="false">urn:canteen:97576bc5d02ba870-20260917</guid>
+      <pubDate>Thu, 17 Sep 2026 09:56:16 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Tofu lo mein, a noodle stir fry with plenty of vegetables and tofu tossed in lo mein sauce, topped with toasted sesame seeds and spring onion. Served with flash-fried green beans and edamame with crispy chilli and ginger. Also available gluten free. (1+7+8+9+11+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:7874a70b07157309-20260916</guid>
-      <pubDate>Wed, 16 Sep 2026 09:44:03 +0000</pubDate>
+Gyros pork neck bowl, Greek gyros-marinated roasted pork neck tossed with vegetables, served on roasted oregano potatoes and topped with parsley. Served with tzatziki, Greek salad and lemon. The dish is gluten free. (6+15)
+GREEN DISH: Dish
+Gyros soy protein bowl, Greek gyros-marinated roasted soy protein tossed with vegetables, served on roasted oregano potatoes and topped with parsley. Served with tzatziki, Greek salad and lemon. The dish is gluten free. (6+7+15)</description>
+      <guid isPermaLink="false">urn:canteen:5bf47d01bf06d630-20260917</guid>
+      <pubDate>Thu, 17 Sep 2026 09:56:16 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Classic red lentil dal in a spiced tomato sauce, served with rice, raita and mango chutney. (6+15)</description>
-      <guid isPermaLink="false">urn:canteen:32d68c8a55a3382e-20260916</guid>
-      <pubDate>Wed, 16 Sep 2026 09:44:03 +0000</pubDate>
+Braised lamb shoulder with potato gratin, sugared berries and the braising jus. (6+10+15)
+GREEN DISH: Dish
+Stuffed portobello mushrooms with potato gratin, sugared berries and a creamy mushroom sauce. (6+10+15)</description>
+      <guid isPermaLink="false">urn:canteen:f1bac91ebad1307e-20260917</guid>
+      <pubDate>Thu, 17 Sep 2026 09:56:16 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Potato and leek soup, topped with kale, toasted nuts, baked onion and parsley oil. (6+9+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:7e364691298bb797-20260916</guid>
-      <pubDate>Wed, 16 Sep 2026 09:44:03 +0000</pubDate>
+Pad krapow, the Thai classic with flavourful, spicy pork. Served with rice and a fried egg. (2+3+4+7+8+13+15)
+GREEN DISH: Dish
+GREEN DISH: pad krapow. Served with rice and a fried egg. (2+3+4+7+8+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:a587695a47fae768-20260917</guid>
+      <pubDate>Thu, 17 Sep 2026 09:56:16 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Palak paneer, Indian spinach curry with paneer (cheese), served with jeera rice and topped with crunchy namkeen. Served with boondi raita, kachumber salad, lime, chilli sauce and coriander. Gluten free, and also available vegan with tofu. (4+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:7ea12c9eca3826df-20260916</guid>
-      <pubDate>Wed, 16 Sep 2026 09:44:03 +0000</pubDate>
+Italian beef lasagne, topped with warm, creamy vodka sauce, parmesan and parsley. Served with chilli sauce and an Italian chopped salad with red wine vinaigrette. Also available gluten free and dairy free. (1+2+6+10+13+15)
+GREEN DISH: Dish
+Italian pea protein lasagne, topped with warm, creamy vodka sauce, parmesan and parsley. Served with chilli sauce and an Italian chopped salad with red wine vinaigrette. Also available gluten free and dairy free (vegan). (1+2+6+10+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:ae60d8053ed5815b-20260917</guid>
+      <pubDate>Thu, 17 Sep 2026 09:56:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
