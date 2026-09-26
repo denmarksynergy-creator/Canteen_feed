@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Friday, 25 September 2026</title>
+    <title>Canteen Menu - Saturday, 26 September 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 25 Sep 2026 10:07:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 10:48:10 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,64 +29,8 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260925</guid>
-      <pubDate>Fri, 25 Sep 2026 10:07:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Sprout Lunch Menu:
-A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260925</guid>
-      <pubDate>Fri, 25 Sep 2026 10:07:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Homebound Lunch Menu:
-Skipperlabskovs, slow-cooked beef chuck simmered with onion, potatoes and spices, served with baked beetroot with bite and topped with plenty of chopped chives. Served with pickled beetroot, whipped butter, coarse mustard and rye bread. Also available gluten free. (1+6+11)</description>
-      <guid isPermaLink="false">urn:canteen:65dd52e8a6d159c5-20260925</guid>
-      <pubDate>Fri, 25 Sep 2026 10:07:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Hoisin duck stir fry, pulled duck leg cooked in hoisin and Chinese rice wine, tossed with vegetables and served on jasmine rice, topped with toasted sesame seeds and spring onion. Also available gluten free. (1+7+8+11+15)
-GREEN DISH: Dish
-Hoisin soy protein stir fry, soy protein cooked in hoisin and Chinese rice wine, tossed with vegetables and served on jasmine rice, topped with toasted sesame seeds and spring onion. Also available gluten free. (1+7+8+11+15)</description>
-      <guid isPermaLink="false">urn:canteen:566bc8717bdf7d32-20260925</guid>
-      <pubDate>Fri, 25 Sep 2026 10:07:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB3 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB3 - Lunch Menu:
-Classic fish burger with tartar sauce and fries. (1+2+3+6+8+15)
-GREEN DISH: Dish
-Breaded parsley root served as a burger with tartar sauce and fries. (1+2+3+6+8+15)</description>
-      <guid isPermaLink="false">urn:canteen:e5c4050abd5ae7c7-20260925</guid>
-      <pubDate>Fri, 25 Sep 2026 10:07:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB2 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB2 - Lunch Menu:
-Pasta bolognese with plenty of parmigiano and parsley. (1+6+10+13+15)
-GREEN DISH: Dish
-GREEN DISH: bolognese with plenty of parmigiano and parsley. (1+6+10+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:67c25ce67b31e7ee-20260925</guid>
-      <pubDate>Fri, 25 Sep 2026 10:07:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 – Kays - Lunch Menu:
-Mexican chicken fajita in a baked potato with plenty of vegetables, chipotle-lime crema and grated mozzarella, topped with parsley. Served with roasted tomato salsa, chilli sauce, extra chipotle-lime crema, coriander and avocado salsa. Gluten free, and also available dairy free. (6+15)
-GREEN DISH: Dish
-Mexican soy protein fajita in a baked potato with plenty of vegetables, chipotle-lime crema and grated mozzarella, topped with parsley. Served with roasted tomato salsa, chilli sauce, extra chipotle-lime crema, coriander and avocado salsa. Gluten free, and also available dairy free and vegan with vegan cheese and crema. (6+15)</description>
-      <guid isPermaLink="false">urn:canteen:009a7a4b99f284a1-20260925</guid>
-      <pubDate>Fri, 25 Sep 2026 10:07:44 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260926</guid>
+      <pubDate>Sat, 26 Sep 2026 10:48:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
