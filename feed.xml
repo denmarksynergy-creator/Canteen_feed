@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 30 September 2026</title>
+    <title>Canteen Menu - Thursday, 01 October 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 30 Sep 2026 10:57:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 11:29:47 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,56 +29,64 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20260930</guid>
-      <pubDate>Wed, 30 Sep 2026 10:57:12 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261001</guid>
+      <pubDate>Thu, 01 Oct 2026 11:29:47 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20260930</guid>
-      <pubDate>Wed, 30 Sep 2026 10:57:12 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261001</guid>
+      <pubDate>Thu, 01 Oct 2026 11:29:47 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-GREEN DISH: brændende kærlighed ("burning love"), a mountain of fluffy mashed potato topped with plenty of butter, leeks, crispy fried smoked tofu and chives. Served with pickled beetroot. The dish is gluten free. (6+7+15)</description>
-      <guid isPermaLink="false">urn:canteen:2cb26e85ae7dd686-20260930</guid>
-      <pubDate>Wed, 30 Sep 2026 10:57:12 +0000</pubDate>
+Forloren hare (Danish mock hare), a flavourful meatloaf of pork and beef wrapped in crispy bacon, baked until juicy and served with boiled potatoes and a cream-thickened brown gravy, topped with parsley. Served with tangy-sweet redcurrant jelly and a pointed cabbage salad with apple and dill in vinaigrette. Also available gluten free. (1+2+6)</description>
+      <guid isPermaLink="false">urn:canteen:607c61d371e8389e-20261001</guid>
+      <pubDate>Thu, 01 Oct 2026 11:29:47 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Hearty Greek salad with potatoes and grilled peppers, served with crispy falafel and topped with herbs. Served with tzatziki, pickled red onion and toasted pumpkin seeds. The dish is gluten free. (6+15)</description>
-      <guid isPermaLink="false">urn:canteen:5bc52db5ef06e752-20260930</guid>
-      <pubDate>Wed, 30 Sep 2026 10:57:12 +0000</pubDate>
+Bicol express, a Filipino dish of pork in a creamy, umami-rich coconut sauce with vegetables, served with jasmine rice and topped with crushed jalapeño pork crackling and spring onion. Served with chilli sauce, Filipino vegetable chop suey and fresh chilli. The dish is gluten free. (15)
+GREEN DISH: Dish
+GREEN DISH: bicol express, a Filipino dish of tofu in a creamy, umami-rich coconut sauce with vegetables, served with jasmine rice and topped with crushed jalapeño and spring onion. Served with chilli sauce, Filipino vegetable chop suey and fresh chilli. The dish is gluten free. (7+15)</description>
+      <guid isPermaLink="false">urn:canteen:9206565f702d5d19-20261001</guid>
+      <pubDate>Thu, 01 Oct 2026 11:29:47 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Ottolenghi delight: spiced potato dip, white beans in aromatic vegetables, kale, chopped egg and crispy breadcrumbs. (1+2+15)</description>
-      <guid isPermaLink="false">urn:canteen:bf68ecace1dc5362-20260930</guid>
-      <pubDate>Wed, 30 Sep 2026 10:57:12 +0000</pubDate>
+Nepalese takeover: chicken rogan josh, served with rice and warm naan bread. (1+8+15)
+GREEN DISH: Dish
+Chana rogan josh with chickpeas, served with rice and warm naan bread. (1+8+15)</description>
+      <guid isPermaLink="false">urn:canteen:f570c0d11e3974de-20261001</guid>
+      <pubDate>Thu, 01 Oct 2026 11:29:47 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Slow-cooked ratatouille with chickpeas, served with crispy garlic bread. (1+6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:64c1ff4a216198d5-20260930</guid>
-      <pubDate>Wed, 30 Sep 2026 10:57:12 +0000</pubDate>
+Nepalese chicken curry, mild but packed with spice and warmth. Served with rice and mula ko achaar (Nepalese radish pickle). (11+13+15)
+GREEN DISH: Dish
+Nepalese vegetable curry, mild but packed with spice and warmth. Served with rice and mula ko achaar (Nepalese radish pickle). (11+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:38af41210d5f6254-20261001</guid>
+      <pubDate>Thu, 01 Oct 2026 11:29:47 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Palak rajma masala, a wonderfully flavourful chickpea curry with spinach, served with jeera rice and topped with crispy papad. Served with cucumber and mint raita, red onion, coriander, fresh lime and mango pickle. Gluten free, and also available vegan. (6+7+15)</description>
-      <guid isPermaLink="false">urn:canteen:68c894f16b51ce56-20260930</guid>
-      <pubDate>Wed, 30 Sep 2026 10:57:12 +0000</pubDate>
+Oktoberfest burger: pretzel bun with beer-marinated pork neck, topped with soft onions braised in beer and thyme. Served with white wine sauerkraut, gurkensalat (German cucumber salad), old-fashioned coarse mustard and curry ketchup. Also available gluten free. (1+2+6+8+11+13)
+GREEN DISH: Dish
+Oktoberfest burger: pretzel bun with beer-marinated Beyond Meat, topped with soft onions braised in beer and thyme. Served with white wine sauerkraut, gurkensalat (German cucumber salad), old-fashioned coarse mustard and curry ketchup. Also available gluten free. (1+2+6+8+11+13)</description>
+      <guid isPermaLink="false">urn:canteen:ac1d518e9fea6de7-20261001</guid>
+      <pubDate>Thu, 01 Oct 2026 11:29:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
