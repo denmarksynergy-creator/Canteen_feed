@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Friday, 02 October 2026</title>
+    <title>Canteen Menu - Saturday, 03 October 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Fri, 02 Oct 2026 11:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 11:05:20 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,64 +29,8 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261002</guid>
-      <pubDate>Fri, 02 Oct 2026 11:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Sprout Lunch Menu:
-A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261002</guid>
-      <pubDate>Fri, 02 Oct 2026 11:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Homebound Lunch Menu:
-Forloren hare (Danish mock hare), a flavourful meatloaf of pork and beef wrapped in crispy bacon, baked until juicy and served with boiled potatoes and a cream-thickened brown gravy, topped with parsley. Served with tangy-sweet redcurrant jelly and a pointed cabbage salad with apple and dill in vinaigrette. Also available gluten free. (1+2+6)</description>
-      <guid isPermaLink="false">urn:canteen:607c61d371e8389e-20261002</guid>
-      <pubDate>Fri, 02 Oct 2026 11:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Bicol express, a Filipino dish of pork in a creamy, umami-rich coconut sauce with vegetables, served with jasmine rice and topped with crushed jalapeño pork crackling and spring onion. Served with chilli sauce, Filipino vegetable chop suey and fresh chilli. The dish is gluten free. (15)
-GREEN DISH: Dish
-GREEN DISH: bicol express, a Filipino dish of tofu in a creamy, umami-rich coconut sauce with vegetables, served with jasmine rice and topped with crushed jalapeño and spring onion. Served with chilli sauce, Filipino vegetable chop suey and fresh chilli. The dish is gluten free. (7+15)</description>
-      <guid isPermaLink="false">urn:canteen:9206565f702d5d19-20261002</guid>
-      <pubDate>Fri, 02 Oct 2026 11:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB3 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB3 - Lunch Menu:
-Pita bread with kebab, red cabbage, red onion and sumac. Served with classic crème fraîche dressing and a properly hot chilli sauce. (1+6+8+15)
-GREEN DISH: Dish
-Pita bread with crispy fried falafel, red cabbage, red onion and sumac. Served with classic crème fraîche dressing and a properly hot chilli sauce. (1+6+8+15)</description>
-      <guid isPermaLink="false">urn:canteen:8b4de9178634ba65-20261002</guid>
-      <pubDate>Fri, 02 Oct 2026 11:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB2 - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB2 - Lunch Menu:
-Creamy pasta carbonara. (1+2+6+13+15)
-GREEN DISH: Dish
-GREEN DISH: vegetarian pasta carbonara. (1+2+6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:bd036a8ac491e476-20261002</guid>
-      <pubDate>Fri, 02 Oct 2026 11:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
-      <link>https://hubnordic.madkastel.dk/en/menu</link>
-      <description>🍽 HUB1 – Kays - Lunch Menu:
-Hearty, well-spiced beef chili con carne, served with crispy sweet potato fries and topped with cheese and spring onion. Served with chilli sauce, crème fraîche, guacamole, coriander and lime. Gluten free, and also available dairy free. (6+15)
-GREEN DISH: Dish
-Hearty, well-spiced pea protein chili sin carne, served with crispy sweet potato fries and topped with cheese and spring onion. Served with chilli sauce, crème fraîche, guacamole, coriander and lime. Gluten free, and also available dairy free. (6+15)</description>
-      <guid isPermaLink="false">urn:canteen:8c7913411dbccdb5-20261002</guid>
-      <pubDate>Fri, 02 Oct 2026 11:00:59 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261003</guid>
+      <pubDate>Sat, 03 Oct 2026 11:05:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
