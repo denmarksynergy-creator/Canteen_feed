@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Tuesday, 06 October 2026</title>
+    <title>Canteen Menu - Wednesday, 07 October 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 06 Oct 2026 11:51:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 11:34:23 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,62 +29,56 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261006</guid>
-      <pubDate>Tue, 06 Oct 2026 11:51:36 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261007</guid>
+      <pubDate>Wed, 07 Oct 2026 11:34:23 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261006</guid>
-      <pubDate>Tue, 06 Oct 2026 11:51:36 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261007</guid>
+      <pubDate>Wed, 07 Oct 2026 11:34:23 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Chicken soup, a deep, clear soup with chicken and tender diced potatoes, topped with a generous spoonful of leeks, carrots and celeriac with butter and herbs. Served with pickled pearl onions and crispy cheese and garlic croutons. Also available gluten free. (1+2+6+10+15)</description>
-      <guid isPermaLink="false">urn:canteen:61b6090308415ad2-20261006</guid>
-      <pubDate>Tue, 06 Oct 2026 11:51:36 +0000</pubDate>
+Vegetable tart, a rustic egg tart with autumn leeks, broccoli and carrots in a crisp, buttery pastry, topped with fresh chervil. Served with a fresh, crunchy carrot slaw with lemon juice and raisins. Also available gluten free. (1+2+6)</description>
+      <guid isPermaLink="false">urn:canteen:cb57a72dd61f2db8-20261007</guid>
+      <pubDate>Wed, 07 Oct 2026 11:34:23 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Char siu pork chops, juicy chops marinated in an intense, sticky Cantonese BBQ marinade of hoisin, Chinese five-spice, honey and red rice wine, served with stir-fried wheat noodles with sesame and topped with garlic-fried Chinese cabbage and green beans. Served with Chinese smashed cucumber salad. Also available gluten free with rice noodles. (1+7+8+15)
-GREEN DISH: Dish
-Char siu tofu medallions, firm, meaty tofu medallions marinated in an intense, sticky Cantonese BBQ marinade of hoisin, Chinese five-spice, honey and red rice wine, served with stir-fried wheat noodles with sesame and topped with garlic-fried Chinese cabbage and green beans. Served with Chinese smashed cucumber salad. Also available gluten free with rice noodles. (1+7+8+15)</description>
-      <guid isPermaLink="false">urn:canteen:a48e615018a775f4-20261006</guid>
-      <pubDate>Tue, 06 Oct 2026 11:51:36 +0000</pubDate>
+Moroccan lentil and pea protein tagine, an aromatic stew with brown lentils, sweet potatoes and pea protein, spiced with cumin, cinnamon and ginger, served with jasmine rice and topped with toasted almonds. Served with sweet prunes and olives. The dish is gluten free. (9+15)</description>
+      <guid isPermaLink="false">urn:canteen:ffa1ebef3d508331-20261007</guid>
+      <pubDate>Wed, 07 Oct 2026 11:34:23 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Slow-braised pork with root vegetables, fresh herbs and potatoes, seasoned with apples and mustard. (11+15)</description>
-      <guid isPermaLink="false">urn:canteen:513825087d77312a-20261006</guid>
-      <pubDate>Tue, 06 Oct 2026 11:51:36 +0000</pubDate>
+BBQ-marinated roasted cauliflower, served with a hearty beluga lentil stew and a baked potato with coleslaw. (6+10+15)</description>
+      <guid isPermaLink="false">urn:canteen:7c4807a2f177fded-20261007</guid>
+      <pubDate>Wed, 07 Oct 2026 11:34:23 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Thai fishcakes with the flavours of Thailand, served with a noodle salad with spinach, bean sprouts, carrot and pak choi. Served with sweet chilli. (1+2+3+15)
-GREEN DISH: Dish
-Marinated tofu served with a noodle salad with spinach, bean sprouts, carrot and pak choi. Served with sweet chilli. (1+2+3+7+15)</description>
-      <guid isPermaLink="false">urn:canteen:5f185cb26e405fa3-20261006</guid>
-      <pubDate>Tue, 06 Oct 2026 11:51:36 +0000</pubDate>
+Pasta in a soft, creamy pumpkin sauce with hard-roasted mushrooms and a sage and walnut topping. (1+9)</description>
+      <guid isPermaLink="false">urn:canteen:6965333488cd2c3d-20261007</guid>
+      <pubDate>Wed, 07 Oct 2026 11:34:23 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Roasted chicken yakitori, juicy chicken marinated in a rich, sweet and spicy Japanese soy-mirin glaze and roasted until caramelised, served with jasmine rice and topped with spring onion and sesame seeds. Served with chilli sauce and stir-fried broccoli and white cabbage tossed in dark sesame oil. Gluten free, and also available with wholegrain rice. (7+8+13+15)
-GREEN DISH: Dish
-Roasted Oumph! yakitori, protein-rich plant-based soy pieces marinated in a rich, sweet and spicy Japanese soy-mirin glaze and roasted until caramelised, served with jasmine rice and topped with spring onion and sesame seeds. Served with chilli sauce and stir-fried broccoli and white cabbage tossed in dark sesame oil. Gluten free, and also available with wholegrain rice. (7+8+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:8cc41011ecdd8a97-20261006</guid>
-      <pubDate>Tue, 06 Oct 2026 11:51:36 +0000</pubDate>
+GREEN DISH: three-bean chili, a rich, slow-simmered chili with kidney beans, black beans, pinto beans and plant protein in a spiced cumin and tomato sauce, served with fluffy long-grain rice and topped with feta-style cheese and parsley. Served with crème fraîche, coriander and lime wedges. Gluten free, and also available with wholegrain rice. (6+15)</description>
+      <guid isPermaLink="false">urn:canteen:9c3df743afd41757-20261007</guid>
+      <pubDate>Wed, 07 Oct 2026 11:34:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
