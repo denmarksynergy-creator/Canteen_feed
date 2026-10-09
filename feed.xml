@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Thursday, 08 October 2026</title>
+    <title>Canteen Menu - Friday, 09 October 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 08 Oct 2026 11:54:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 11:47:22 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,24 +29,24 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261008</guid>
-      <pubDate>Thu, 08 Oct 2026 11:54:24 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261009</guid>
+      <pubDate>Fri, 09 Oct 2026 11:47:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261008</guid>
-      <pubDate>Thu, 08 Oct 2026 11:54:24 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261009</guid>
+      <pubDate>Fri, 09 Oct 2026 11:47:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
 Traditional Danish roast pork (flæskesteg) made from pork loin with crispy, crackling rind, served with boiled potatoes and a thick brown gravy, topped with parsley. Served with crisp red cabbage salad and pickled gherkins. The dish is gluten free. (6)</description>
-      <guid isPermaLink="false">urn:canteen:12d73771b5b5ad63-20261008</guid>
-      <pubDate>Thu, 08 Oct 2026 11:54:24 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:12d73771b5b5ad63-20261009</guid>
+      <pubDate>Fri, 09 Oct 2026 11:47:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -55,38 +55,38 @@ Traditional Danish roast pork (flæskesteg) made from pork loin with crispy, cra
 Persian kofteh rizeh, spiced minced beef mixed with grated vegetables, turmeric, sumac and chopped parsley, lightly fried and finished in a rich stock, served with saffron basmati rice and topped with parsley. Served with oven-roasted tomato and a cool garlic yoghurt with mint. The dish is gluten free. (6+9+15)
 GREEN DISH: Dish
 Persian plant-based kofteh rizeh, spiced minced pea protein mixed with grated vegetables, turmeric, sumac and chopped parsley, lightly fried and finished in a rich stock, served with saffron basmati rice and topped with parsley. Served with oven-roasted tomato and a cool garlic yoghurt with mint. The dish is gluten free. (6+9+15)</description>
-      <guid isPermaLink="false">urn:canteen:a0e37720d029e29c-20261008</guid>
-      <pubDate>Thu, 08 Oct 2026 11:54:24 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:a0e37720d029e29c-20261009</guid>
+      <pubDate>Fri, 09 Oct 2026 11:47:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Nepalese takeover: chicken chettinad, a South Indian dish with chicken and plenty of vibrant spices, served with Nigerian rice. (6+8+11+15)
+Bøf Lindstrøm (Danish beef patty with capers and beetroot) with pan gravy, soft onions and roast potatoes. (1+6+10+15)
 GREEN DISH: Dish
-Potatoes, spinach and cauliflower in the same vibrantly spiced sauce, served with Nigerian rice. (6+8+11+15)</description>
-      <guid isPermaLink="false">urn:canteen:3ba8f6ab43eb7d66-20261008</guid>
-      <pubDate>Thu, 08 Oct 2026 11:54:24 +0000</pubDate>
+Mushroom patty with soft onions and roast potatoes. (1+6+10+15)</description>
+      <guid isPermaLink="false">urn:canteen:d8ba3049b3f16c97-20261009</guid>
+      <pubDate>Fri, 09 Oct 2026 11:47:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Hunter's stew with slow-simmered pork and sausages, served with sauerkraut and potatoes. (6+13+15)
+Pulled beef burrito with rice, cheese, avocado cream and chipotle. (1+6+15)
 GREEN DISH: Dish
-GREEN DISH: vegetarian hunter has bagged a load of vegetables, and into a heavenly stew with beans they go. Served with sauerkraut and potatoes. (6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:9999060344dae70e-20261008</guid>
-      <pubDate>Thu, 08 Oct 2026 11:54:24 +0000</pubDate>
+Burrito with beans and pulled jackfruit, cheese, avocado cream and chipotle. (1+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:f150afa93e41f95a-20261009</guid>
+      <pubDate>Fri, 09 Oct 2026 11:47:22 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Korean smoked BBQ chicken, lightly smoked, crispy fried chicken tossed in a deep, umami-rich Korean BBQ sauce, crispy and sticky, served with sesame-roasted potatoes and topped with spring onion. Served with chilli sauce, lemon mayonnaise and fresh Asian coleslaw. Also available gluten free. (1+2+7+8+11+15)
+Loaded beef potato petal poutine, a basket of golden, crispy potato petals smothered in a rich, velvety slow-simmered beef sauce with vegetables and minced beef, topped with diced cheese and parsley. Served with chilli sauce and a fresh, crisp green apple and celery salad in a light cider vinaigrette. The dish is gluten free. (6+10+15)
 GREEN DISH: Dish
-Smoked BBQ tofu steak, lightly smoked, crispy fried tofu tossed in a deep, umami-rich Korean BBQ sauce, crispy and sticky, served with sesame-roasted potatoes and topped with spring onion. Served with chilli sauce, lemon mayonnaise and fresh Asian coleslaw. Also available gluten free. (1+2+7+8+11+15)</description>
-      <guid isPermaLink="false">urn:canteen:3f03b8ecf8e67e2d-20261008</guid>
-      <pubDate>Thu, 08 Oct 2026 11:54:24 +0000</pubDate>
+GREEN DISH: potato petal poutine, a basket of golden, crispy potato petals smothered in a rich, velvety slow-simmered vegetarian sauce with vegetables and mushrooms, topped with diced cheese and parsley. Served with chilli sauce and a fresh, crisp green apple and celery salad in a light cider vinaigrette. The dish is gluten free. (6+10+15)</description>
+      <guid isPermaLink="false">urn:canteen:3329630e5b0d0bda-20261009</guid>
+      <pubDate>Fri, 09 Oct 2026 11:47:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
