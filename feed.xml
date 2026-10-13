@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Monday, 12 October 2026</title>
+    <title>Canteen Menu - Tuesday, 13 October 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Mon, 12 Oct 2026 16:21:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:31:34 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,24 +29,24 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261012</guid>
-      <pubDate>Mon, 12 Oct 2026 16:21:38 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261013</guid>
+      <pubDate>Tue, 13 Oct 2026 12:31:34 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261012</guid>
-      <pubDate>Mon, 12 Oct 2026 16:21:38 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261013</guid>
+      <pubDate>Tue, 13 Oct 2026 12:31:34 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
 “60s-70s” Danish package-holiday pig feast: cochinillo asado, crispy roast suckling pig with patatas panaderas (oven-baked potatoes with olive oil, vegetables, white wine and stock) and beer sauce, topped with parsley. Served with ensalada verde of chicory, iceberg, tomatoes and spring onion tossed in olive oil, lemon juice and salt. (6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:9fd36af60ec5a428-20261012</guid>
-      <pubDate>Mon, 12 Oct 2026 16:21:38 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:9fd36af60ec5a428-20261013</guid>
+      <pubDate>Tue, 13 Oct 2026 12:31:34 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -55,38 +55,38 @@ A selection of fresh seasonal vegetables that you can combine with a protein of 
 Paella de marisco, classic Spanish paella with mussels, prawns and squid cooked with Spanish bomba rice and saffron fish stock, topped with parsley. Served with lemon, aioli and a fennel and orange salad with manzanilla olives tossed in olive oil and sherry vinegar. The dish is gluten free. (2+3+5+13+14+15)
 GREEN DISH: Dish
 Paella de verduras, classic Spanish paella with seasonal vegetables cooked with Spanish bomba rice and saffron vegetable stock, topped with parsley. Served with lemon, aioli and a fennel and orange salad with manzanilla olives tossed in olive oil and sherry vinegar. The dish is gluten free. (2+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:59cfc5f0f56b7b15-20261012</guid>
-      <pubDate>Mon, 12 Oct 2026 16:21:38 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:59cfc5f0f56b7b15-20261013</guid>
+      <pubDate>Tue, 13 Oct 2026 12:31:34 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Spanish theme: pollo al chilindrón, a Rioja-style chicken stew in an intense tomato sauce with peppers and serrano ham, served with fried potatoes. (15)
+Slow-roasted pork in red coconut curry with plenty of fresh vegetables, medium hot, served with rice. (7+8+15)
 GREEN DISH: Dish
-White beans and portobello mushrooms in the same spiced tomato sauce with peppers. (15)</description>
-      <guid isPermaLink="false">urn:canteen:0655d135720b385a-20261012</guid>
-      <pubDate>Mon, 12 Oct 2026 16:21:38 +0000</pubDate>
+Red curry, medium hot, with chickpeas and plenty of fresh vegetables, served with rice. (7+8+15)</description>
+      <guid isPermaLink="false">urn:canteen:713b358dd66a33f4-20261013</guid>
+      <pubDate>Tue, 13 Oct 2026 12:31:34 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Spanish tortilla with chorizo, red pepper and potato, served with a fresh, tangy salad of fennel, rocket and parsley in a sherry vinaigrette. (2+11+13+15)
+Chicken in autumn curry, a curry sauce of warm spices with pumpkin, apple and plenty of other delicious vegetables, served with rice. (13+15)
 GREEN DISH: Dish
-Spanish tortilla with mushrooms, red pepper and potato, served with a fresh, tangy salad of fennel and rocket in a sherry vinaigrette. (2+11+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:2af69fef7f5dce3c-20261012</guid>
-      <pubDate>Mon, 12 Oct 2026 16:21:38 +0000</pubDate>
+Tofu in autumn curry, a curry sauce of warm spices with pumpkin and plenty of other delicious vegetables, served with rice. (7+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:1273b367f9c91e16-20261013</guid>
+      <pubDate>Tue, 13 Oct 2026 12:31:34 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Albóndigas, Spanish beef meatballs in an umami-rich tomato sauce, served with patatas bravas and topped with herb-roasted vegetables (peppers, courgette and carrot). Served with bravas sauce, aioli, chilli sauce and a green bean salad with roasted tomatoes, manchego and almonds in a red wine vinaigrette. Also available gluten free and dairy free. (1+2+6+9+11+13+15)
+Danish pork tenderloin casserole, tender pieces of pork tenderloin baked in a traditional, rich cream sauce with mushrooms, vegetables and bacon, served on pasta and topped with parsley. Served with steamed Brussels sprouts and peas tossed in butter-flavoured oil. (1+6+15)
 GREEN DISH: Dish
-GREEN DISH: meatballs made from legume and rice protein in an umami-rich tomato sauce, served with patatas bravas and topped with herb-roasted vegetables (peppers, courgette and carrot). Served with bravas sauce, aioli, chilli sauce and a green bean salad with roasted tomatoes, manchego and almonds in a red wine vinaigrette. Gluten free, and also available vegan. (6+9+11+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:a808128d48c0265a-20261012</guid>
-      <pubDate>Mon, 12 Oct 2026 16:21:38 +0000</pubDate>
+Danish soy protein casserole, pieces of soy protein baked in a traditional, rich cream sauce with mushrooms, vegetables and smoked tofu, served on pasta and topped with parsley. Served with steamed Brussels sprouts and peas tossed in butter-flavoured oil. (1+6+7+15)</description>
+      <guid isPermaLink="false">urn:canteen:ed148618676f1de0-20261013</guid>
+      <pubDate>Tue, 13 Oct 2026 12:31:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
