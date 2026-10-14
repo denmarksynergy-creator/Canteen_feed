@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Tuesday, 13 October 2026</title>
+    <title>Canteen Menu - Wednesday, 14 October 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 13 Oct 2026 12:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 09:58:30 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,64 +29,56 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261013</guid>
-      <pubDate>Tue, 13 Oct 2026 12:31:34 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261014</guid>
+      <pubDate>Wed, 14 Oct 2026 09:58:30 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261013</guid>
-      <pubDate>Tue, 13 Oct 2026 12:31:34 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261014</guid>
+      <pubDate>Wed, 14 Oct 2026 09:58:30 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-“60s-70s” Danish package-holiday pig feast: cochinillo asado, crispy roast suckling pig with patatas panaderas (oven-baked potatoes with olive oil, vegetables, white wine and stock) and beer sauce, topped with parsley. Served with ensalada verde of chicory, iceberg, tomatoes and spring onion tossed in olive oil, lemon juice and salt. (6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:9fd36af60ec5a428-20261013</guid>
-      <pubDate>Tue, 13 Oct 2026 12:31:34 +0000</pubDate>
+GREEN DISH: patties, pan-fried yellow pea patties, served with fluffy mashed potatoes and topped with butter-roasted pumpkin. Served with pickled beetroot and wholegrain mustard. The dish is gluten free. (6+11)</description>
+      <guid isPermaLink="false">urn:canteen:61dfc4a0593595c8-20261014</guid>
+      <pubDate>Wed, 14 Oct 2026 09:58:30 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Paella de marisco, classic Spanish paella with mussels, prawns and squid cooked with Spanish bomba rice and saffron fish stock, topped with parsley. Served with lemon, aioli and a fennel and orange salad with manzanilla olives tossed in olive oil and sherry vinegar. The dish is gluten free. (2+3+5+13+14+15)
-GREEN DISH: Dish
-Paella de verduras, classic Spanish paella with seasonal vegetables cooked with Spanish bomba rice and saffron vegetable stock, topped with parsley. Served with lemon, aioli and a fennel and orange salad with manzanilla olives tossed in olive oil and sherry vinegar. The dish is gluten free. (2+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:59cfc5f0f56b7b15-20261013</guid>
-      <pubDate>Tue, 13 Oct 2026 12:31:34 +0000</pubDate>
+Italian pearl barley risotto, a rustic, hearty take on the classic risotto, with pearl barley simmered in vegetable stock with dried porcini and fresh field mushrooms, butter and parmesan, topped with gremolata. Served with a bitter radicchio and endive salad in a light balsamic dressing. Also available gluten free. (1+6+11+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:7e6d3cb60aa897a0-20261014</guid>
+      <pubDate>Wed, 14 Oct 2026 09:58:30 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Slow-roasted pork in red coconut curry with plenty of fresh vegetables, medium hot, served with rice. (7+8+15)
-GREEN DISH: Dish
-Red curry, medium hot, with chickpeas and plenty of fresh vegetables, served with rice. (7+8+15)</description>
-      <guid isPermaLink="false">urn:canteen:713b358dd66a33f4-20261013</guid>
-      <pubDate>Tue, 13 Oct 2026 12:31:34 +0000</pubDate>
+Red lentil and coconut milk dal, served with jasmine rice and raita. (6+7+8+15)</description>
+      <guid isPermaLink="false">urn:canteen:01f6d7b85382515a-20261014</guid>
+      <pubDate>Wed, 14 Oct 2026 09:58:30 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Chicken in autumn curry, a curry sauce of warm spices with pumpkin, apple and plenty of other delicious vegetables, served with rice. (13+15)
-GREEN DISH: Dish
-Tofu in autumn curry, a curry sauce of warm spices with pumpkin and plenty of other delicious vegetables, served with rice. (7+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:1273b367f9c91e16-20261013</guid>
-      <pubDate>Tue, 13 Oct 2026 12:31:34 +0000</pubDate>
+Oven-roasted aubergine with muhammara, baked onions and roasted chickpeas, topped with lime yoghurt and mint. (1+6+9+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:db7262eb675c3da4-20261014</guid>
+      <pubDate>Wed, 14 Oct 2026 09:58:30 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Danish pork tenderloin casserole, tender pieces of pork tenderloin baked in a traditional, rich cream sauce with mushrooms, vegetables and bacon, served on pasta and topped with parsley. Served with steamed Brussels sprouts and peas tossed in butter-flavoured oil. (1+6+15)
-GREEN DISH: Dish
-Danish soy protein casserole, pieces of soy protein baked in a traditional, rich cream sauce with mushrooms, vegetables and smoked tofu, served on pasta and topped with parsley. Served with steamed Brussels sprouts and peas tossed in butter-flavoured oil. (1+6+7+15)</description>
-      <guid isPermaLink="false">urn:canteen:ed148618676f1de0-20261013</guid>
-      <pubDate>Tue, 13 Oct 2026 12:31:34 +0000</pubDate>
+Mediterranean bowl, crispy spiced chickpeas on a couscous salad with herbs and vegetables (tomato, cucumber and radish), topped with a red onion and red cabbage salad with sumac and served with pita bread. Served with hummus, tzatziki and chilli sauce. Also available gluten free and dairy free. (1+2+6+8+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:dc3f03e373a1b035-20261014</guid>
+      <pubDate>Wed, 14 Oct 2026 09:58:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
