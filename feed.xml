@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 14 October 2026</title>
+    <title>Canteen Menu - Thursday, 15 October 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 14 Oct 2026 09:58:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:43:26 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,56 +29,64 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261014</guid>
-      <pubDate>Wed, 14 Oct 2026 09:58:30 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261015</guid>
+      <pubDate>Thu, 15 Oct 2026 09:43:26 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261014</guid>
-      <pubDate>Wed, 14 Oct 2026 09:58:30 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261015</guid>
+      <pubDate>Thu, 15 Oct 2026 09:43:26 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-GREEN DISH: patties, pan-fried yellow pea patties, served with fluffy mashed potatoes and topped with butter-roasted pumpkin. Served with pickled beetroot and wholegrain mustard. The dish is gluten free. (6+11)</description>
-      <guid isPermaLink="false">urn:canteen:61dfc4a0593595c8-20261014</guid>
-      <pubDate>Wed, 14 Oct 2026 09:58:30 +0000</pubDate>
+Paprika stew with chicken and potatoes, whole bone-in chicken thighs seasoned with sweet and smoked paprika, served in the paprika stew with vegetables and potatoes and topped with herbs. Served with a refreshing “grandma's salad” of little gem, radishes, peas and dill with grandma's dressing on the side. The dish is gluten free. (6)</description>
+      <guid isPermaLink="false">urn:canteen:3780414b00f9ad95-20261015</guid>
+      <pubDate>Thu, 15 Oct 2026 09:43:26 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Italian pearl barley risotto, a rustic, hearty take on the classic risotto, with pearl barley simmered in vegetable stock with dried porcini and fresh field mushrooms, butter and parmesan, topped with gremolata. Served with a bitter radicchio and endive salad in a light balsamic dressing. Also available gluten free. (1+6+11+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:7e6d3cb60aa897a0-20261014</guid>
-      <pubDate>Wed, 14 Oct 2026 09:58:30 +0000</pubDate>
+Mexican chicken, crispy spiced chicken and vegetables, served with Mexican red rice and topped with a spoonful of pico de gallo. Served with jalapeños, coriander, refried beans, chilli sauce and crème fraîche. The dish is gluten free. (6+11+13+15)
+GREEN DISH: Dish
+Mexican cauliflower and portobello, crispy spiced cauliflower, portobello and vegetables, served with Mexican red rice and topped with a spoonful of pico de gallo. Served with jalapeños, coriander, refried beans, chilli sauce and crème fraîche. The dish is gluten free. (6+11+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:bfeb0a36610685e0-20261015</guid>
+      <pubDate>Thu, 15 Oct 2026 09:43:26 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Red lentil and coconut milk dal, served with jasmine rice and raita. (6+7+8+15)</description>
-      <guid isPermaLink="false">urn:canteen:01f6d7b85382515a-20261014</guid>
-      <pubDate>Wed, 14 Oct 2026 09:58:30 +0000</pubDate>
+Greek-inspired shepherd's pie with lamb from Vibygård, topped with black olives, red onion and fresh oregano. (6+15)
+GREEN DISH: Dish
+GREEN DISH: moussaka, the one we all know and love, topped with olives, red onion and fresh oregano. (6+15)</description>
+      <guid isPermaLink="false">urn:canteen:4d85620d11ba5dc0-20261015</guid>
+      <pubDate>Thu, 15 Oct 2026 09:43:26 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Oven-roasted aubergine with muhammara, baked onions and roasted chickpeas, topped with lime yoghurt and mint. (1+6+9+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:db7262eb675c3da4-20261014</guid>
-      <pubDate>Wed, 14 Oct 2026 09:58:30 +0000</pubDate>
+Lasagne, Italy's anti-depressant weapon no. 1. (1+6+13+15)
+GREEN DISH: Dish
+GREEN DISH: lasagne, Italy's anti-depressant weapon no. 2. (1+6+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:b61b6fb2a3fc3908-20261015</guid>
+      <pubDate>Thu, 15 Oct 2026 09:43:26 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Mediterranean bowl, crispy spiced chickpeas on a couscous salad with herbs and vegetables (tomato, cucumber and radish), topped with a red onion and red cabbage salad with sumac and served with pita bread. Served with hummus, tzatziki and chilli sauce. Also available gluten free and dairy free. (1+2+6+8+11+15)</description>
-      <guid isPermaLink="false">urn:canteen:dc3f03e373a1b035-20261014</guid>
-      <pubDate>Wed, 14 Oct 2026 09:58:30 +0000</pubDate>
+Sfincione with garlic chicken and spinach, Sicilian pizza with sun-dried tomatoes, topped with parmesan and oregano after baking, served with a rocket salad tossed in lemon vinaigrette. Served with roasted Italian-spiced vegetables, jalapeños, aioli and chilli sauce. Also available gluten free and dairy free. (1+2+6+11+13+15)
+GREEN DISH: Dish
+Sfincione with garlic mushrooms and spinach, Sicilian pizza with sun-dried tomatoes, topped with parmesan and oregano after baking, served with a rocket salad tossed in lemon vinaigrette. Served with roasted Italian-spiced vegetables, jalapeños, aioli and chilli sauce. Also available gluten free and vegan. (1+2+6+11+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:5a7205ee4e423d48-20261015</guid>
+      <pubDate>Thu, 15 Oct 2026 09:43:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
