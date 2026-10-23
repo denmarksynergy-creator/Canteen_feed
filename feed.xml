@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Thursday, 22 October 2026</title>
+    <title>Canteen Menu - Friday, 23 October 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 22 Oct 2026 09:56:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:51:36 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,62 +29,62 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261022</guid>
-      <pubDate>Thu, 22 Oct 2026 09:56:49 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261023</guid>
+      <pubDate>Fri, 23 Oct 2026 09:51:36 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261022</guid>
-      <pubDate>Thu, 22 Oct 2026 09:56:49 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261023</guid>
+      <pubDate>Fri, 23 Oct 2026 09:51:36 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
 “Burning love”, crisp-fried bacon and caramelised onions on silky mashed potatoes and topped with chopped herbs. Served with pickled gherkins and pickled beetroot. (6)</description>
-      <guid isPermaLink="false">urn:canteen:3bb15e6cb782df4f-20261022</guid>
-      <pubDate>Thu, 22 Oct 2026 09:56:49 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:3bb15e6cb782df4f-20261023</guid>
+      <pubDate>Fri, 23 Oct 2026 09:51:36 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
 GREEN DISH: Dish</description>
-      <guid isPermaLink="false">urn:canteen:863e64c278f0275d-20261022</guid>
-      <pubDate>Thu, 22 Oct 2026 09:56:49 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:863e64c278f0275d-20261023</guid>
+      <pubDate>Fri, 23 Oct 2026 09:51:36 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Quzi, Iraq’s national dish, whole lamb slow-roasted overnight in warm spices, served out in the restaurant with spiced rice and soured yoghurt. (6+8+15)
+Steamed saithe with creamed white potatoes with a hint of nutmeg, crisp bacon and cress, with pickled beetroot on the side. (1+3+6+11+15)
 GREEN DISH: Dish
-Roasted tofu in the same warm spices, served with spiced rice and a soured yoghurt. (6+7+8+15)</description>
-      <guid isPermaLink="false">urn:canteen:be50952b10240cdf-20261022</guid>
-      <pubDate>Thu, 22 Oct 2026 09:56:49 +0000</pubDate>
+Poached silken tofu with creamed white potatoes with a hint of nutmeg and cress, with pickled beetroot on the side. (1+6+7+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:7bdd184f27216695-20261023</guid>
+      <pubDate>Fri, 23 Oct 2026 09:51:36 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Porchetta arrosto, crisp and juicy porchetta served on oven-roasted potatoes and root vegetables, finished with a green mojo sauce of roasted green peppers and plenty of herbs. (15)
+Hot dogs with all the trimmings. (1+2+11)
 GREEN DISH: Dish
-Halloumi served on oven-roasted potatoes and root vegetables, finished with a green mojo sauce of roasted green peppers and plenty of herbs. (6+15)</description>
-      <guid isPermaLink="false">urn:canteen:cdf44c2dafce6177-20261022</guid>
-      <pubDate>Thu, 22 Oct 2026 09:56:49 +0000</pubDate>
+GREEN DISH: hot dogs with all the trimmings. (1+2+11)</description>
+      <guid isPermaLink="false">urn:canteen:e4ce985fe4be353b-20261023</guid>
+      <pubDate>Fri, 23 Oct 2026 09:51:36 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-French-inspired roasted chicken with pommes anna and a creamy mushroom sauce flavoured with tarragon and topped with pea shoots. Served with haricots verts with lemon. The dish is gluten free. (6+15)
+Open chicken burrito with Mexican pilaf with plenty of vegetables and beans. Served with guacamole, pico de gallo, crème fraîche, coriander and jalapeños. Also available gluten free. (1+6+15)
 GREEN DISH: Dish
-French-inspired roasted tofu with pommes anna and a creamy mushroom sauce flavoured with tarragon and topped with pea shoots. Served with haricots verts with lemon. The dish is gluten free. (6+7+15)</description>
-      <guid isPermaLink="false">urn:canteen:6b42b31cdf638158-20261022</guid>
-      <pubDate>Thu, 22 Oct 2026 09:56:49 +0000</pubDate>
+Open oyster mushroom burrito with Mexican pilaf with plenty of vegetables and beans. Served with guacamole, pico de gallo, crème fraîche, coriander and jalapeños. Also available gluten free. (1+6+15)</description>
+      <guid isPermaLink="false">urn:canteen:9272884e0487a0a4-20261023</guid>
+      <pubDate>Fri, 23 Oct 2026 09:51:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
