@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Sunday, 25 October 2026</title>
+    <title>Canteen Menu - Monday, 26 October 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Sun, 25 Oct 2026 10:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:47:17 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,8 +29,63 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261025</guid>
-      <pubDate>Sun, 25 Oct 2026 10:45:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261026</guid>
+      <pubDate>Mon, 26 Oct 2026 13:47:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Sprout Lunch Menu:
+A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261026</guid>
+      <pubDate>Mon, 26 Oct 2026 13:47:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Homebound Lunch Menu:
+Swedish sausage stew – a warm and creamy everyday favourite with tender potato cubes and slices of juicy sausage tossed in a mild, tasty paprika and cream sauce with soft onions. (1+6)</description>
+      <guid isPermaLink="false">urn:canteen:ee68c49602d8b32e-20261026</guid>
+      <pubDate>Mon, 26 Oct 2026 13:47:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Globetrotter Lunch Menu:
+Chicken afritada, a classic Filipino chicken stew braised in a flavourful tomato sauce with potatoes, carrots and peppers. Served with steamed rice. (3+7)
+GREEN DISH: Dish
+Tofu afritada braised in a flavourful tomato sauce with potatoes, carrots and peppers. Served with steamed rice. (3+7)</description>
+      <guid isPermaLink="false">urn:canteen:098a3aca999c9e17-20261026</guid>
+      <pubDate>Mon, 26 Oct 2026 13:47:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB3 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB3 - Lunch Menu:
+GREEN DISH: Dish
+Pad krapow with tofu, fresh chilli, soy, sesame, Thai basil and a fried egg, served with rice. (2+7+8+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:c169c57b244ec4f7-20261026</guid>
+      <pubDate>Mon, 26 Oct 2026 13:47:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB2 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB2 - Lunch Menu:
+Turkey cuvette marinated in warm spices, served with mashed potatoes and baked sweet potatoes. Served with a jus flavoured with orange. (6+15)
+GREEN DISH: Dish
+Tempeh (pea-based) marinated in warm spices, served with mashed potatoes and baked sweet potatoes. Served with a jus flavoured with orange. (6+15)</description>
+      <guid isPermaLink="false">urn:canteen:f7935041cc061f73-20261026</guid>
+      <pubDate>Mon, 26 Oct 2026 13:47:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 – Kays - Lunch Menu:
+Red Thai curry with chicken, coconut and vegetables served with jasmine rice and topped with peanuts and bean sprouts. Served with chilli sauce, coriander, lime and Thai cucumber salad. (3+4+5+7)
+GREEN DISH: Dish
+Red Thai curry with tofu, coconut and vegetables served with jasmine rice and topped with peanuts and bean sprouts. Served with chilli sauce, coriander, lime and Thai cucumber salad. (3+4+5+7)</description>
+      <guid isPermaLink="false">urn:canteen:5ba13d3481c99dff-20261026</guid>
+      <pubDate>Mon, 26 Oct 2026 13:47:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
