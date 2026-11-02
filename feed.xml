@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Sunday, 01 November 2026</title>
+    <title>Canteen Menu - Monday, 02 November 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Sun, 01 Nov 2026 12:43:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 16:44:44 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,8 +29,66 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261101</guid>
-      <pubDate>Sun, 01 Nov 2026 12:43:39 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261102</guid>
+      <pubDate>Mon, 02 Nov 2026 16:44:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Sprout Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Sprout Lunch Menu:
+A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261102</guid>
+      <pubDate>Mon, 02 Nov 2026 16:44:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Homebound Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Homebound Lunch Menu:
+Honey-mustard glazed smoked pork loin accompanied by classic creamed potatoes and a crisp slaw of seasonal apples and mustard. (1+2+6+11+13)
+GREEN DISH: Dish
+Honey-mustard glazed celeriac accompanied by classic creamed potatoes and a crisp slaw of seasonal apples and mustard. (1+2+6+10+11+13)</description>
+      <guid isPermaLink="false">urn:canteen:9e8bace1615be16d-20261102</guid>
+      <pubDate>Mon, 02 Nov 2026 16:44:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 - Globetrotter Lunch Menu:
+Coq au vin, a classic French dish with chicken braised in a rich red wine sauce with vegetables, served with creamy mashed potatoes and topped with fresh parsley. Served with a green salad and mustard vinaigrette on the side. (6+11+13+15)
+GREEN DISH: Dish
+Coq au vin with cauliflower braised in a rich red wine sauce with vegetables, served with creamy mashed potatoes and topped with fresh parsley. Served with a green salad and mustard vinaigrette on the side. (6+11+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:2582c8005327be80-20261102</guid>
+      <pubDate>Mon, 02 Nov 2026 16:44:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB3 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB3 - Lunch Menu:
+Chicken fried in Moroccan spices with a spicy tomato sauce and a bulgur salad on the side. (1+8+13+15)
+GREEN DISH: Dish
+Tofu fried in Moroccan spices with a spicy tomato sauce and a bulgur salad on the side. (1+7+8+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:c4f47dd1765672d3-20261102</guid>
+      <pubDate>Mon, 02 Nov 2026 16:44:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB2 - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB2 - Lunch Menu:
+Swedish meatballs with mashed potatoes, lingonberries and cream gravy. (1+2+6+13)
+GREEN DISH: Dish
+Vegetable balls with mashed potatoes, lingonberries and cream gravy. (1+2+6+13)</description>
+      <guid isPermaLink="false">urn:canteen:6881c400d15f3743-20261102</guid>
+      <pubDate>Mon, 02 Nov 2026 16:44:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍽 HUB1 – Kays - Lunch Menu:</title>
+      <link>https://hubnordic.madkastel.dk/en/menu</link>
+      <description>🍽 HUB1 – Kays - Lunch Menu:
+Chicken danoise with small white potatoes, cream sauce and peas tossed in parsley and butter-flavoured rapeseed oil. Served with rhubarb compote and pickled cucumber. (6+13)
+GREEN DISH: Dish
+Celeriac danoise with small white potatoes, cream sauce and peas tossed in parsley and butter-flavoured rapeseed oil. Served with rhubarb compote and pickled cucumber. (6+10+13)</description>
+      <guid isPermaLink="false">urn:canteen:a915d1d8b1bbbd3d-20261102</guid>
+      <pubDate>Mon, 02 Nov 2026 16:44:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
