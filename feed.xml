@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Tuesday, 03 November 2026</title>
+    <title>Canteen Menu - Wednesday, 04 November 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 03 Nov 2026 12:40:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 12:49:46 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,66 +29,56 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261103</guid>
-      <pubDate>Tue, 03 Nov 2026 12:40:42 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261104</guid>
+      <pubDate>Wed, 04 Nov 2026 12:49:46 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261103</guid>
-      <pubDate>Tue, 03 Nov 2026 12:40:42 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261104</guid>
+      <pubDate>Wed, 04 Nov 2026 12:49:46 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Honey-mustard glazed smoked pork loin accompanied by classic creamed potatoes and a crisp slaw of seasonal apples and mustard. (1+2+6+11+13)
-GREEN DISH: Dish
-Honey-mustard glazed celeriac accompanied by classic creamed potatoes and a crisp slaw of seasonal apples and mustard. (1+2+6+10+11+13)</description>
-      <guid isPermaLink="false">urn:canteen:9e8bace1615be16d-20261103</guid>
-      <pubDate>Tue, 03 Nov 2026 12:40:42 +0000</pubDate>
+Soft potato gnocchi tossed in a rich cream sauce with sun-dried tomatoes, spinach and garlic. Gratinated with golden, melted mozzarella and parmesan. (1+2+6+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:58771c8396ebe196-20261104</guid>
+      <pubDate>Wed, 04 Nov 2026 12:49:46 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Coq au vin, a classic French dish with chicken braised in a rich red wine sauce with vegetables, served with creamy mashed potatoes and topped with fresh parsley. Served with a green salad and mustard vinaigrette on the side. (6+11+13+15)
-GREEN DISH: Dish
-Coq au vin with cauliflower braised in a rich red wine sauce with vegetables, served with creamy mashed potatoes and topped with fresh parsley. Served with a green salad and mustard vinaigrette on the side. (6+11+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:2582c8005327be80-20261103</guid>
-      <pubDate>Tue, 03 Nov 2026 12:40:42 +0000</pubDate>
+Sri Lankan coconut dal palak, a creamy lentil and spinach curry cooked in coconut milk, seasoned with Sri Lankan spices, mustard seeds and fresh herbs. Served with steamed basmati rice, traditional Sri Lankan flatbread (pol roti) and a range of fresh, spiced sides. (1+11)</description>
+      <guid isPermaLink="false">urn:canteen:e207621c5fd8aea4-20261104</guid>
+      <pubDate>Wed, 04 Nov 2026 12:49:46 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Glazed ham with creamed kale and browned potatoes. (6+11+13+15)
-GREEN DISH: Dish
-Glazed celeriac with creamed kale and browned potatoes. (6+10+11+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:302ec1d659803e38-20261103</guid>
-      <pubDate>Tue, 03 Nov 2026 12:40:42 +0000</pubDate>
+Pasta penne alla Norma, a Sicilian pasta dish with fried aubergine in spicy tomato sauce, topped with parmesan and breadcrumbs. (1+6+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:a794240222cc76d9-20261104</guid>
+      <pubDate>Wed, 04 Nov 2026 12:49:46 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Chili con carne, spicy and warming for early November. (6+13+15)
-GREEN DISH: Dish
-GREEN DISH: sin carne, the vegetarian version, just as spicy and warming. (6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:afcd78892467d4f5-20261103</guid>
-      <pubDate>Tue, 03 Nov 2026 12:40:42 +0000</pubDate>
+GREEN DISH: gobi, a lovely and mild Indian vegetarian dish with cauliflower and potatoes, served with rice. (13+15)</description>
+      <guid isPermaLink="false">urn:canteen:c777d16c88fc0840-20261104</guid>
+      <pubDate>Wed, 04 Nov 2026 12:49:46 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Lamb chana with naan topped with namkeen. Served with Indian rice salad, yoghurt, chilli sauce, coriander and lime pickle. (1+6+15)
-GREEN DISH: Dish
-Tofu chana with naan topped with namkeen. Served with Indian rice salad, yoghurt, chilli sauce, coriander and lime pickle. (1+6+7+15)</description>
-      <guid isPermaLink="false">urn:canteen:4536ffcda2987645-20261103</guid>
-      <pubDate>Tue, 03 Nov 2026 12:40:42 +0000</pubDate>
+Vegetable chow mein topped with a fried egg and spring onion. Served with Chinese smashed cucumber salad and spicy ketchup. (1+2+7+15)</description>
+      <guid isPermaLink="false">urn:canteen:c51d7cc6b44a19c6-20261104</guid>
+      <pubDate>Wed, 04 Nov 2026 12:49:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
