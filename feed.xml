@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Thursday, 05 November 2026</title>
+    <title>Canteen Menu - Friday, 06 November 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 05 Nov 2026 13:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:50:02 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,16 +29,16 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261105</guid>
-      <pubDate>Thu, 05 Nov 2026 13:02:17 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261106</guid>
+      <pubDate>Fri, 06 Nov 2026 12:50:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261105</guid>
-      <pubDate>Thu, 05 Nov 2026 13:02:17 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261106</guid>
+      <pubDate>Fri, 06 Nov 2026 12:50:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
@@ -47,8 +47,8 @@ A selection of fresh seasonal vegetables that you can combine with a protein of 
 Crisp, golden chicken thighs served with a rich, creamy parsley sauce. Accompanied by tender boiled potatoes and a classic, tangy cucumber salad. (1+6+13)
 GREEN DISH: Dish
 Crisp, golden vegetables served with a rich, creamy parsley sauce. Accompanied by tender boiled potatoes and a classic, tangy cucumber salad. (1+6+13)</description>
-      <guid isPermaLink="false">urn:canteen:1f104dae61ad15f3-20261105</guid>
-      <pubDate>Thu, 05 Nov 2026 13:02:17 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:1f104dae61ad15f3-20261106</guid>
+      <pubDate>Fri, 06 Nov 2026 12:50:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -57,36 +57,40 @@ Crisp, golden vegetables served with a rich, creamy parsley sauce. Accompanied b
 Filipino pork adobo, tender slow-cooked pork in a rich, aromatic sauce of soy, vinegar, garlic and bay leaves. Served on a bed of steamed jasmine rice with crisp pak choi. (1+7+15)
 GREEN DISH: Dish
 Mushroom and tofu adobo in a rich, aromatic sauce of soy, vinegar, garlic and bay leaves. Served on a bed of steamed jasmine rice with crisp pak choi. (1+7+15)</description>
-      <guid isPermaLink="false">urn:canteen:3c3f90bca0b6cf1b-20261105</guid>
-      <pubDate>Thu, 05 Nov 2026 13:02:17 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:3c3f90bca0b6cf1b-20261106</guid>
+      <pubDate>Fri, 06 Nov 2026 12:50:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Braised beef cheeks in red wine sauce with mushrooms, served with creamy mashed potatoes. (6+10+13+15)
+Astrid rolls spring rolls with spicy pork and greens, served with sweet-and-sour sauce and fluffy rice. (1+2+7+8+15)
 GREEN DISH: Dish
-Creamy mushroom ragout served with creamy mashed potatoes. (6+10+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:05c85f300324a933-20261105</guid>
-      <pubDate>Thu, 05 Nov 2026 13:02:17 +0000</pubDate>
+The green roll filled with shiitake mushrooms and fresh greens, with a sweet-and-sour sauce and fluffy rice. (1+2+7+8+15)</description>
+      <guid isPermaLink="false">urn:canteen:a8eb625c944a45b9-20261106</guid>
+      <pubDate>Fri, 06 Nov 2026 12:50:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-GREEN DISH: Dish</description>
-      <guid isPermaLink="false">urn:canteen:35ee06eb0c3b2e10-20261105</guid>
-      <pubDate>Thu, 05 Nov 2026 13:02:17 +0000</pubDate>
+Pasta alfredo with chicken, creamy pasta with chicken and parmesan, perfect for little . (1+6+13+15)
+GREEN DISH: alfredo with halloumi and white beans, perfect for a vegetarian little . (1+6+13+15)
+GREEN DISH: Dish
+Cheeseburger with the classic trimmings. (1+2+6+11+13+15)
+GREEN DISH: cheeseburger with the classic trimmings. (1+2+6+11+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:a82dc4a65809b968-20261106</guid>
+      <pubDate>Fri, 06 Nov 2026 12:50:02 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Butter chicken with basmati rice topped with crushed papadum. Served with kachumber, lime, coriander and chilli sauce. (6+15)
+Beef burger with cheese and fries. Served with the classic vegetables, burger sauce, mayonnaise and ketchup. (1+2+6+11+15)
 GREEN DISH: Dish
-Tempeh with basmati rice topped with crushed papadum. Served with kachumber, lime, coriander and chilli sauce. (6+7+15)</description>
-      <guid isPermaLink="false">urn:canteen:855103b0b3ed4abe-20261105</guid>
-      <pubDate>Thu, 05 Nov 2026 13:02:17 +0000</pubDate>
+Veggie burger with cheese and fries. Served with the classic vegetables, burger sauce, mayonnaise and ketchup. (1+2+6+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:e35ab808f79c34df-20261106</guid>
+      <pubDate>Fri, 06 Nov 2026 12:50:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
