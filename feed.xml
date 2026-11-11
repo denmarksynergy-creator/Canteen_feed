@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Tuesday, 10 November 2026</title>
+    <title>Canteen Menu - Wednesday, 11 November 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 10 Nov 2026 13:19:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:28:43 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,64 +29,56 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261110</guid>
-      <pubDate>Tue, 10 Nov 2026 13:19:05 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261111</guid>
+      <pubDate>Wed, 11 Nov 2026 12:28:43 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261110</guid>
-      <pubDate>Tue, 10 Nov 2026 13:19:05 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261111</guid>
+      <pubDate>Wed, 11 Nov 2026 12:28:43 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Pasta Bolognese – A deep and rich Italian meat sauce of minced beef simmered slowly with root vegetables, tomatoes and garlic. Served with al dente pasta and grated parmesan on top. (1+6+10+15)</description>
-      <guid isPermaLink="false">urn:canteen:e846d6ddc4e42e3e-20261110</guid>
-      <pubDate>Tue, 10 Nov 2026 13:19:05 +0000</pubDate>
+Tuscan Ribollita – A thick, rustic and hearty Italian vegetable stew with white beans, chopped tomatoes, pointed cabbage and root vegetables, seasoned with garlic and thyme. Served piping hot with crisp garlic croutons and a sprinkle of grated hard cheese. (1+6+10+15)</description>
+      <guid isPermaLink="false">urn:canteen:832c83d2f9e2dc8d-20261111</guid>
+      <pubDate>Wed, 11 Nov 2026 12:28:43 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Pulled Pork BBQ Bowl – Slow-roasted, tender pulled pork tossed in a smoky BBQ sauce with garlic. Served with fluffy rice, a crisp cabbage and carrot salad and corn. (11+15)
-GREEN DISH: Dish
-Soy Protein BBQ Bowl – Slow-cooked, tender pulled soy protein tossed in a smoky BBQ sauce with garlic. Served with fluffy rice, a crisp cabbage and carrot salad and corn. (7+11+15)</description>
-      <guid isPermaLink="false">urn:canteen:e73be69d32b3e025-20261110</guid>
-      <pubDate>Tue, 10 Nov 2026 13:19:05 +0000</pubDate>
+Mexican Chilaquiles Verdes – Crisp tortilla chips tossed in a tangy green tomatillo sauce, topped with crumbled cheese and sour cream. Served with spiced black beans and fluffy rice. (6)</description>
+      <guid isPermaLink="false">urn:canteen:f36edf2e56adbfda-20261111</guid>
+      <pubDate>Wed, 11 Nov 2026 12:28:43 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Orzo pasta in a creamy pumpkin sauce, topped with pulled turkey, parmesan and breadcrumbs. (1+6+15)
-GREEN DISH: Dish
-Orzo pasta in a creamy pumpkin sauce, topped with crisp-fried tofu, parmesan and breadcrumbs. (1+6+7+15)</description>
-      <guid isPermaLink="false">urn:canteen:ba5c0e83f2d3b967-20261110</guid>
-      <pubDate>Tue, 10 Nov 2026 13:19:05 +0000</pubDate>
+GREEN DISH: Nepalese noodle soup (Thukpa) with potatoes and chickpeas – full of warmth, a Nepalese hug. (1+2+4+7+8+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:0892f32603c133d1-20261111</guid>
+      <pubDate>Wed, 11 Nov 2026 12:28:43 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Pork adobo – a classic Filipino favourite with depth and lovely tanginess. Served with rice. (7+13+15)
-GREEN DISH: Dish
-Tofu adobo – with depth and lovely tanginess. Served with rice. (7+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:4214311afffbd6ea-20261110</guid>
-      <pubDate>Tue, 10 Nov 2026 13:19:05 +0000</pubDate>
+Pasta with lentil bolognese. (1+10+15)</description>
+      <guid isPermaLink="false">urn:canteen:345c32aa3a736bec-20261111</guid>
+      <pubDate>Wed, 11 Nov 2026 12:28:43 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-St Martin's duck (breast) scored and slow-roasted with rosemary and garlic. Served with small potatoes, duck jus and crisp red cabbage tossed with juicy orange fillets, fresh pomegranate seeds and roasted walnuts, dressed in a mustard-honey vinaigrette. (9+11+15)
-GREEN DISH: Dish
-Celeriac with rosemary and garlic. Served with small potatoes, a brown sauce and crisp red cabbage tossed with juicy orange fillets, fresh pomegranate seeds and roasted walnuts, dressed in a mustard-honey vinaigrette. (9+10+11+15)</description>
-      <guid isPermaLink="false">urn:canteen:7cd996e09304095f-20261110</guid>
-      <pubDate>Tue, 10 Nov 2026 13:19:05 +0000</pubDate>
+Warm, fluffy and crisp-fried Indian flatbreads (puris) served with a mild, aromatic potato curry (bhaji) seasoned with turmeric, mustard seeds and fresh coriander. Served with mint raita, mango chutney and Indian pickles. (1+6+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:b0ee7313b52ef127-20261111</guid>
+      <pubDate>Wed, 11 Nov 2026 12:28:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
