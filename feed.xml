@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Monday, 16 November 2026</title>
+    <title>Canteen Menu - Tuesday, 17 November 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Mon, 16 Nov 2026 16:40:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:09:48 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,24 +29,24 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261116</guid>
-      <pubDate>Mon, 16 Nov 2026 16:40:29 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261117</guid>
+      <pubDate>Tue, 17 Nov 2026 14:09:48 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261116</guid>
-      <pubDate>Mon, 16 Nov 2026 16:40:29 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261117</guid>
+      <pubDate>Tue, 17 Nov 2026 14:09:48 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
 Curry-marinated and roasted chicken with rice and a lovely Danish coconut curry sauce with carrot, onion and apple, topped with parsley. Served with accompaniments.</description>
-      <guid isPermaLink="false">urn:canteen:621b3423c6932c4c-20261116</guid>
-      <pubDate>Mon, 16 Nov 2026 16:40:29 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:621b3423c6932c4c-20261117</guid>
+      <pubDate>Tue, 17 Nov 2026 14:09:48 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
@@ -55,44 +55,38 @@ Curry-marinated and roasted chicken with rice and a lovely Danish coconut curry 
 Moroccan turkey tagine with plenty of vegetables, served with couscous tossed with herbs and topped with dried fruit. With lemon yoghurt, harissa chilli, coriander and a cucumber-tomato salad. Gluten free with rice. (1+6+15)
 GREEN DISH: Dish
 Moroccan cauliflower tagine with plenty of vegetables, served with couscous tossed with herbs and topped with dried fruit. With lemon yoghurt, harissa sauce, coriander and a cucumber-tomato salad. Gluten free with rice. (1+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:e9f20187775cb615-20261116</guid>
-      <pubDate>Mon, 16 Nov 2026 16:40:29 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:e9f20187775cb615-20261117</guid>
+      <pubDate>Tue, 17 Nov 2026 14:09:48 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Piri piri chicken served with rice and lime-marinated pointed cabbage. (13+15)
+Albondigas with beef served with crisp patatas bravas, a spiced tomato sauce and aioli. (2+13+15)
 GREEN DISH: Dish
-Piri piri-marinated tofu served with rice and lime-marinated pointed cabbage. (7+13+15)
-Kays
-— 7:30 a.m. to 5 p.m.</description>
-      <guid isPermaLink="false">urn:canteen:9b83b09b088e703d-20261116</guid>
-      <pubDate>Mon, 16 Nov 2026 16:40:29 +0000</pubDate>
+Vegan meatballs served with patatas bravas, a spiced tomato sauce and aioli. (13+15)</description>
+      <guid isPermaLink="false">urn:canteen:12ed3c4175609d38-20261117</guid>
+      <pubDate>Tue, 17 Nov 2026 14:09:48 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Smoked cured pork loin glazed with brown sugar, mustard and dill. Served with a white potato salad. (2+6+11+13)
+Tacos carnitas – Mexican pork collar simmered with onion, garlic and chilli until completely tender. With a salsa of avocado, pickled red onion, cucumber and padron pepper, seasoned with lime and herbs. (1+13+15)
 GREEN DISH: Dish
-Butternut squash glazed with brown sugar, mustard and dill. Served with a white potato salad. (2+6+11+13)
-Kays
-— 7:30 a.m. to 5 p.m.</description>
-      <guid isPermaLink="false">urn:canteen:ac8e47bd65709a1b-20261116</guid>
-      <pubDate>Mon, 16 Nov 2026 16:40:29 +0000</pubDate>
+Jackfruit tacos – jackfruit simmered with onion, garlic and chilli until completely tender. With a salsa of avocado, pickled red onion, cucumber and padron pepper, seasoned with lime and herbs. (1+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:fb6089462334b497-20261117</guid>
+      <pubDate>Tue, 17 Nov 2026 14:09:48 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Indonesian-inspired spiced peanut stew with pork, coconut and vegetables. Served with fluffy rice and topped with spring onion. With coriander, fresh lime, crushed roasted peanuts and chilli sauce. The dish is gluten free. (4+6+7+8+13+15)
+Beef Tacos de Harina – served as an open tomato wrap filled with pulled beef, spiced potatoes and vegetables, topped with herb-spiced beans. With chipotle crema, salsa verde (tomatillo salsa) and pico de gallo. Also served gluten free. (1+6+11+13+15)
 GREEN DISH: Dish
-Indonesian-inspired spiced peanut stew with tofu, coconut and vegetables. Served with fluffy rice and topped with spring onion. With coriander, fresh lime, crushed roasted peanuts and chilli sauce. The dish is gluten free. (4+6+7+8+13+15)
-Kays
-— 7:30 a.m. to 5 p.m.</description>
-      <guid isPermaLink="false">urn:canteen:4418c7b9b7177122-20261116</guid>
-      <pubDate>Mon, 16 Nov 2026 16:40:29 +0000</pubDate>
+Oyster Mushroom Tacos de Harina – served as an open tomato wrap filled with pulled oyster mushrooms, spiced potatoes and vegetables, topped with herb-spiced beans. With chipotle crema, salsa verde (tomatillo salsa) and pico de gallo. Also served gluten free. (1+6+11+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:97ac00cd2d47dde1-20261117</guid>
+      <pubDate>Tue, 17 Nov 2026 14:09:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
