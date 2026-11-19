@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 18 November 2026</title>
+    <title>Canteen Menu - Thursday, 19 November 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 18 Nov 2026 13:43:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:14:20 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,56 +29,67 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261118</guid>
-      <pubDate>Wed, 18 Nov 2026 13:43:13 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261119</guid>
+      <pubDate>Thu, 19 Nov 2026 14:14:20 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261118</guid>
-      <pubDate>Wed, 18 Nov 2026 13:43:13 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261119</guid>
+      <pubDate>Thu, 19 Nov 2026 14:14:20 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Shakshuka – a lovely spiced tomato stew with vegetables and chickpeas, served with egg and topped with a fresh-herb salad. With salted yoghurt and pita bread. (1+2+6+15)</description>
-      <guid isPermaLink="false">urn:canteen:30dd3e5075520e2a-20261118</guid>
-      <pubDate>Wed, 18 Nov 2026 13:43:13 +0000</pubDate>
+Crisp pork crackling with white potatoes, brown gravy and warm red cabbage, topped with parsley. With coarse French potato crisps and pickled gherkins. (1+6+11)</description>
+      <guid isPermaLink="false">urn:canteen:a60de1c3562d82ba-20261119</guid>
+      <pubDate>Thu, 19 Nov 2026 14:14:20 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Pasta alla Norma – a classic Italian pasta dish with baked aubergine, tomato sauce and fresh basil, topped with salted ricotta cream. With a fresh, tangy Italian green salad and help-yourself olives. Also served gluten free. (1+6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:9767297754440679-20261118</guid>
-      <pubDate>Wed, 18 Nov 2026 13:43:13 +0000</pubDate>
+Peruvian Pollo a la Brasa – deliciously marinated, grilled chicken with roasted diced potatoes and oven-baked spiced red onion, topped with chopped parsley. With aji verde sauce, mayonesa casera and ensalada fresca. Gluten free. (2+11+15)
+GREEN DISH: Dish
+Peruvian Portobello a la Brasa – deliciously marinated, grilled portobello with roasted diced potatoes and oven-baked spiced red onion, topped with chopped parsley. With aji verde sauce, mayonesa casera and ensalada fresca. Gluten free. (2+11+15)</description>
+      <guid isPermaLink="false">urn:canteen:3e6bf148030f0f71-20261119</guid>
+      <pubDate>Thu, 19 Nov 2026 14:14:20 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Classic red lentil dal served with rice, raita and mango chutney. (6+8+15)</description>
-      <guid isPermaLink="false">urn:canteen:e469eadec7d050cd-20261118</guid>
-      <pubDate>Wed, 18 Nov 2026 13:43:13 +0000</pubDate>
+Christmas medister sausage with potatoes, red cabbage and brown gravy. (1+6+10+11+13+15)
+GREEN DISH: Dish
+Mushroom roast with potatoes, red cabbage and a herb sauce with roasted nuts. (9+13+15)
+— 7:30 a.m. to 5 p.m.</description>
+      <guid isPermaLink="false">urn:canteen:60e7af15ec01196a-20261119</guid>
+      <pubDate>Thu, 19 Nov 2026 14:14:20 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Vegetable lasagne with a creamy mornay sauce. (1+6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:d4ef094421dd3a1b-20261118</guid>
-      <pubDate>Wed, 18 Nov 2026 13:43:13 +0000</pubDate>
+Fish of the day with braised fennel, a tapenade of olives and sun-dried tomato, and a blue mussel sauce with dill oil. (3+6+13+14+15)
+GREEN DISH: Dish
+Salt-baked celeriac with white beans, braised fennel, a tapenade of olives and sun-dried tomato, and a vegetable sauce with dill oil. (6+10+13+15)
+— 7:30 a.m. to 5 p.m.</description>
+      <guid isPermaLink="false">urn:canteen:81a21ed9a24f979c-20261119</guid>
+      <pubDate>Thu, 19 Nov 2026 14:14:20 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Creamy autumn vegetable soup with plenty of autumn vegetables and cream, topped with green oil and cress. With rosemary focaccia, whipped ricotta cream and a warm beetroot salad with lentils and walnuts. Also served gluten free. (1+6+9+15)</description>
-      <guid isPermaLink="false">urn:canteen:d546a2567b435136-20261118</guid>
-      <pubDate>Wed, 18 Nov 2026 13:43:13 +0000</pubDate>
+Caribbean marinated and crisp-fried saithe served with spiced coconut rice with kidney beans, topped with a fresh coleslaw with green beans. With chilli sauce, Caribbean remoulade, lime and tangy mango salsa. Also served gluten free. (1+2+3+11+15)
+GREEN DISH: Dish
+Caribbean marinated and crisp-fried tofu served with spiced coconut rice with kidney beans, topped with a fresh coleslaw with green beans. With chilli sauce, Caribbean remoulade, lime and tangy mango salsa. Also served gluten free. (1+2+7+11+15)
+— 7:30 a.m. to 5 p.m.</description>
+      <guid isPermaLink="false">urn:canteen:3880cf2cf04b1abc-20261119</guid>
+      <pubDate>Thu, 19 Nov 2026 14:14:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
