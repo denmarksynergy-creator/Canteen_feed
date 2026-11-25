@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Tuesday, 24 November 2026</title>
+    <title>Canteen Menu - Wednesday, 25 November 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Tue, 24 Nov 2026 15:34:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:20:25 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,64 +29,56 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261124</guid>
-      <pubDate>Tue, 24 Nov 2026 15:34:58 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261125</guid>
+      <pubDate>Wed, 25 Nov 2026 15:20:25 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261124</guid>
-      <pubDate>Tue, 24 Nov 2026 15:34:58 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261125</guid>
+      <pubDate>Wed, 25 Nov 2026 15:20:25 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Old-fashioned roast chicken filled with fresh parsley, served with boiled white potatoes and a classic brown gravy, topped with peas tossed with parsley. With home-made cucumber salad and sweet rhubarb compote. The dish is gluten free. (6)</description>
-      <guid isPermaLink="false">urn:canteen:ce93722d09a4449e-20261124</guid>
-      <pubDate>Tue, 24 Nov 2026 15:34:58 +0000</pubDate>
+Danish leek and potato tart on a crisp wholegrain base with caramelised leek, thyme, potato and cheese, topped with roasted sunflower seeds. With a crisp pointed-cabbage salad with Danish apple and mustard vinaigrette and pickled gherkins. Also served gluten free and vegan. (1+2+6+11+13)</description>
+      <guid isPermaLink="false">urn:canteen:9e5409d85b666d70-20261125</guid>
+      <pubDate>Wed, 25 Nov 2026 15:20:25 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Japanese teriyaki chicken with noodles and stir-fried vegetables (broccoli, carrot and green beans), topped with roasted sesame seeds and finely sliced spring onion. With pickled ginger, lime and mild chilli mayo. Also served gluten free. (1+2+7+8+11+13+15)
-GREEN DISH: Dish
-Japanese teriyaki tofu with noodles and stir-fried vegetables (broccoli, carrot and green beans), topped with roasted sesame seeds and finely sliced spring onion. With pickled ginger, lime and mild vegan chilli mayo. Also served gluten free and vegan. (1+2+7+8+11+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:a85ed36a76a39a1b-20261124</guid>
-      <pubDate>Tue, 24 Nov 2026 15:34:58 +0000</pubDate>
+Indian dal makhani – a creamy, slow-simmered stew of black beluga lentils, kidney beans, tomato, ginger and garam masala, served with steamed basmati rice and topped with namkeen. With warm naan bread, mint raita, mango chutney and coriander. Also served gluten free and vegan. (1+6+9+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:bffb32370844f779-20261125</guid>
+      <pubDate>Wed, 25 Nov 2026 15:20:25 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Braised pork shank with creamy mashed potato with plenty of butter, gravy and lingonberries. (1+6+11+15)
-GREEN DISH: Dish
-Slow-cooked aubergine with creamy mashed potato with plenty of butter and salsa verde with sumac. (6+9+15)</description>
-      <guid isPermaLink="false">urn:canteen:f142a005bdab9588-20261124</guid>
-      <pubDate>Tue, 24 Nov 2026 15:34:58 +0000</pubDate>
+Aloo palak – potatoes and spinach in an intense sauce made with warmth and generous Nepalese love, served with rice and raita. (7+15)</description>
+      <guid isPermaLink="false">urn:canteen:a0495869d205b320-20261125</guid>
+      <pubDate>Wed, 25 Nov 2026 15:20:25 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Saithe with fennel and leek à la crème, served with potatoes and topped with plenty of dill. (3+6+13+15)
-GREEN DISH: Dish
-Vegetable patty with mushrooms and leek à la crème, served with potatoes. (6+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:0b844e47c3c995ae-20261124</guid>
-      <pubDate>Tue, 24 Nov 2026 15:34:58 +0000</pubDate>
+Chickpea tikka masala served with rice. (7+8+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:3b87df46ca013c5a-20261125</guid>
+      <pubDate>Wed, 25 Nov 2026 15:20:25 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Lightly smoked pork schnitzel fried in butter-oil with roasted potatoes, a mushroom sauce and green beans tossed with lemon and parsley. With German cucumber salad and lemon. Also served gluten free. (1+2+6+13+15)
-GREEN DISH: Dish
-Lightly smoked tofu schnitzel with roasted potatoes, a mushroom sauce and green beans tossed with lemon and parsley. With German cucumber salad and lemon. Also served gluten free and vegan. (1+2+6+7+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:a4af6404a141ca9d-20261124</guid>
-      <pubDate>Tue, 24 Nov 2026 15:34:58 +0000</pubDate>
+Lemon- and herb-roasted cauliflower and chickpeas served with a warm quinoa salad with vegetables, bulgur and baby spinach, topped with roasted seeds with za'atar. With tahini-garlic yoghurt, a fresh herb salad of dill, mint, parsley and radish, home-marinated olives and chilli sauce. Also served gluten free and vegan. (1+6+8+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:265fc8095aeb13d3-20261125</guid>
+      <pubDate>Wed, 25 Nov 2026 15:20:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
