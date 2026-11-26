@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Canteen Menu - Wednesday, 25 November 2026</title>
+    <title>Canteen Menu - Thursday, 26 November 2026</title>
     <link>https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml</link>
     <description>Daily updated canteen-menu</description>
     <atom:link href="https://denmarksynergy-creator.github.io/Canteen_feed/feed.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python feedgen</generator>
     <language>da</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:51:15 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>Allergens (full list)</title>
@@ -29,56 +29,67 @@
 13. Sulphur dioxide
 14. Molluscs
 15. Garlic</description>
-      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261125</guid>
-      <pubDate>Wed, 25 Nov 2026 15:20:25 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:c6bd89c463779d1d-20261126</guid>
+      <pubDate>Thu, 26 Nov 2026 14:51:15 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Sprout Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Sprout Lunch Menu:
 A selection of fresh seasonal vegetables that you can combine with a protein of your choice to create your own meal salad.</description>
-      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261125</guid>
-      <pubDate>Wed, 25 Nov 2026 15:20:25 +0000</pubDate>
+      <guid isPermaLink="false">urn:canteen:82d66da546d880fc-20261126</guid>
+      <pubDate>Thu, 26 Nov 2026 14:51:15 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Homebound Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Homebound Lunch Menu:
-Danish leek and potato tart on a crisp wholegrain base with caramelised leek, thyme, potato and cheese, topped with roasted sunflower seeds. With a crisp pointed-cabbage salad with Danish apple and mustard vinaigrette and pickled gherkins. Also served gluten free and vegan. (1+2+6+11+13)</description>
-      <guid isPermaLink="false">urn:canteen:9e5409d85b666d70-20261125</guid>
-      <pubDate>Wed, 25 Nov 2026 15:20:25 +0000</pubDate>
+Old-fashioned breaded pork patties with boiled white potatoes and classic creamed peas and carrots, topped with freshly chopped parsley. With pickled beetroot and shaken lingonberries. Also served gluten free. (1+2+6+11+13)</description>
+      <guid isPermaLink="false">urn:canteen:23a281351f5bad6c-20261126</guid>
+      <pubDate>Thu, 26 Nov 2026 14:51:15 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 - Globetrotter Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 - Globetrotter Lunch Menu:
-Indian dal makhani – a creamy, slow-simmered stew of black beluga lentils, kidney beans, tomato, ginger and garam masala, served with steamed basmati rice and topped with namkeen. With warm naan bread, mint raita, mango chutney and coriander. Also served gluten free and vegan. (1+6+9+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:bffb32370844f779-20261125</guid>
-      <pubDate>Wed, 25 Nov 2026 15:20:25 +0000</pubDate>
+Greek lemon- and oregano-marinated chicken served with oven-baked Greek lemon potatoes and grilled peppers, topped with fresh oregano and crumbled feta. With creamy tzatziki and olives. Gluten free. (6+13+15)
+GREEN DISH: Dish
+Greek lemon- and oregano-marinated portobello mushrooms served with oven-baked Greek lemon potatoes and grilled peppers, topped with fresh oregano and vegan feta. With creamy vegan tzatziki and olives. Gluten free. (6+13+15)</description>
+      <guid isPermaLink="false">urn:canteen:57d37e3f64d6b59b-20261126</guid>
+      <pubDate>Thu, 26 Nov 2026 14:51:15 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB3 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB3 - Lunch Menu:
-Aloo palak – potatoes and spinach in an intense sauce made with warmth and generous Nepalese love, served with rice and raita. (7+15)</description>
-      <guid isPermaLink="false">urn:canteen:a0495869d205b320-20261125</guid>
-      <pubDate>Wed, 25 Nov 2026 15:20:25 +0000</pubDate>
+Classic Danish meatballs in curry served with rice, raisins and salted peanuts – straight off the open road. (1+4+6+11+15)
+GREEN DISH: Dish
+Tofu in a mild curry sauce served with rice, raisins and salted peanuts. (4+6+7+11+15)
+— 7:30 a.m. to 5 p.m.</description>
+      <guid isPermaLink="false">urn:canteen:eba4c5d76be4e41e-20261126</guid>
+      <pubDate>Thu, 26 Nov 2026 14:51:15 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB2 - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB2 - Lunch Menu:
-Chickpea tikka masala served with rice. (7+8+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:3b87df46ca013c5a-20261125</guid>
-      <pubDate>Wed, 25 Nov 2026 15:20:25 +0000</pubDate>
+Pasta with meatballs in a deep, flavourful tomato sauce. (1+6+13+15)
+GREEN DISH: Dish
+Pasta with vegetable meatballs in a deep, flavourful tomato sauce. (1+6+13+15)
+— 7:30 a.m. to 5 p.m.</description>
+      <guid isPermaLink="false">urn:canteen:4b2e4d77ab761aff-20261126</guid>
+      <pubDate>Thu, 26 Nov 2026 14:51:15 +0000</pubDate>
     </item>
     <item>
       <title>🍽 HUB1 – Kays - Lunch Menu:</title>
       <link>https://hubnordic.madkastel.dk/en/menu</link>
       <description>🍽 HUB1 – Kays - Lunch Menu:
-Lemon- and herb-roasted cauliflower and chickpeas served with a warm quinoa salad with vegetables, bulgur and baby spinach, topped with roasted seeds with za'atar. With tahini-garlic yoghurt, a fresh herb salad of dill, mint, parsley and radish, home-marinated olives and chilli sauce. Also served gluten free and vegan. (1+6+8+13+15)</description>
-      <guid isPermaLink="false">urn:canteen:265fc8095aeb13d3-20261125</guid>
-      <pubDate>Wed, 25 Nov 2026 15:20:25 +0000</pubDate>
+American Thanksgiving – roasted turkey cuvette with oven-baked potatoes, cream sauce and roasted Brussels sprouts with parsley, topped with crushed walnuts. With cranberry-apple sauce, sage and thyme stuffing and glazed carrot. Also served gluten free. (1+2+6+9+13+15)
+GREEN DISH: Dish
+American Thanksgiving – whole-roasted celeriac with oven-baked potatoes, cream sauce and roasted Brussels sprouts with parsley, topped with crushed walnuts. With cranberry-apple sauce, sage and thyme stuffing and glazed carrot. Also served gluten free and vegan. (1+2+6+9+10+13+15)
+— 7:30 a.m. to 5 p.m.</description>
+      <guid isPermaLink="false">urn:canteen:b935d106b258d6fb-20261126</guid>
+      <pubDate>Thu, 26 Nov 2026 14:51:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
